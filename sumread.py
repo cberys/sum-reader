@@ -70,6 +70,8 @@ Each cast becomes an object like this:
         "wire": 0, # int or omit key
         "max_pressure": 0, # int or omit key
         "bottle": 36 # integer or omit key
+        "depth": 0 # integer or omit key
+        "cdepth": 0 # integer or omit key (corrected depth)
     }
   }
 }
@@ -77,6 +79,73 @@ Each cast becomes an object like this:
 An entire sum file is a collectino of these cast objects
 """
 
-def read_sum_file(f):
+from itertools import zip_longest, groupby
+import logging
+
+class InvalidSumError(Exception):
+    pass
+
+def read_sum(data):
     """
+    data is expected to be some bytes string from a sumfile
     """
+
+    # first up, decode the incoming data as ASCII
+    try:
+        data = data.decode("ascii")
+    except UnicodeDecodeError as e:
+        raise InvalidSumError("Sum files must be ASCII") from e
+
+    # split into lines
+    lines = data.splitlines()
+
+    # Attempt to locate the header and body seperating line
+    # we are going to accept the first line that starts with at least 10 ``-``
+    # chars after stripping whitespace, we don't care about the line itself,
+    # but what is before and after it
+    for i, line in enumerate(lines):
+        if line.strip().startswith("-" * 10):
+            header_index = i - 1
+            body_index = i + 1
+            break
+
+    try:
+        header = lines[header_index]
+        body = lines[body_index:]
+    except NameError as e:
+        raise InvalidSumError("No header seperation line found") from e
+
+    #TODO get order of "headers"
+
+    # Figure out where the continious colums of "space" are:
+    space_columns = [l == " " for l in body[0]]
+    for line in body:
+        sc = [l == " " for l in line]
+        zipped = zip_longest(space_columns, sc, fillvalue=True)
+        space_columns = [a and b for a,b in zipped]
+
+    # convert the list of True/False to slices
+    position = 0
+    column_slices = []
+    for value, group in groupby(space_columns):
+        length = len(list(group))
+        if value == False:
+            column_slices.append(slice(position, position+length))
+        position += length
+
+    for line in body:
+        split = [line[slice] for slice in column_slices]
+        print(split[1])
+
+
+if __name__ == "__main__":
+    import os
+    
+    for root, dirs, files in os.walk("test_data"):
+        for file in files:
+            if not file.endswith(("su.txt", ".sum")):
+                continue
+            path = os.path.join(root, file)
+            print(path)
+            with open(path, 'rb') as f:
+                read_sum(f.read())
