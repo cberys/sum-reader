@@ -1,0 +1,95 @@
+VIDAL GORMAZ      Date: 1996/11/28                                      20010821WHPOSIOAH
+SHIP/CRS      WOCE               CAST         UTC EVENT          POSITION              UNC ABOVE WIRE   MAX  NO. OF
+EXPOCODE      SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV  DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS	
+----------------------------------------------------------------------------------------------------------------------------------------
+20VDSR0196_1  SR01     01      1  XBT 113096 1321    BE 56 20.70 S 66 48.80 W  GPS   1338               750
+20VDSR0196_1  SR01     01      1  XBT 113096 1325    EN
+20VDSR0196_1  SR01     01      2  BOT 113096         BE                                                           1 1,2
+20VDSR0196_1  SR01     01      3  CTD 113096 1345    BE 56 21.90 S 66 39.90 W  GPS   1639              1501
+20VDSR0196_1  SR01     01      3  CTD 113096 1433    BO
+20VDSR0196_1  SR01     01      3  CTD 113096 1509    EN
+20VDSR0196_1  SR01     02      1  XBT 113096 1731    BE 56 44.30 S 66 25.00 W  GPS   2000               750
+20VDSR0196_1  SR01     02      1  XBT 113096 1734    EN
+20VDSR0196_1  SR01     02      2  BOT 113096         BE                                                           1 1,2
+20VDSR0196_1  SR01     02      3  CTD 113096 1744    BE 56 46.14 S 66 24.30 W  GPS   3793              3131
+20VDSR0196_1  SR01     02      3  CTD 113096 1914    BO
+20VDSR0196_1  SR01     02      3  CTD 113096 2025    EN
+20VDSR0196_1  SR01     03      1  XBT 113096 2313    BE 57 15.20 S 66 06.20 W  GPS   4000                                      LAUNCH FAILURE
+20VDSR0196_1  SR01     03      2  XBT 113096 2319    BE 56 16.20 S 66 05.70 W  GPS   4000               750
+20VDSR0196_1  SR01     03      2  XBT 113096 2321    EN
+20VDSR0196_1  SR01     03      3  BOT 113096         BE                                                           4 1,2
+20VDSR0196_1  SR01     03      4  CTD 113096 2327    BE 56 17.30 S 66 04.90 W  GPS   3898              3103
+20VDSR0196_1  SR01     03      4  CTD 120196 0050    BO
+20VDSR0196_1  SR01     03      4  CTD 120196 0200    EN
+20VDSR0196_1  SR01     04      1  XBT 120196 0946    BE 57 45.50 S 65 49.80 W  GPS   4314                                      LAUNCH FAILURE
+20VDSR0196_1  SR01     04      2  XBT 120196 0952    BE 57 46.50 S 65 49.30 W  GPS   4500               750
+20VDSR0196_1  SR01     04      2  XBT 120196 0954    EN
+20VDSR0196_1  SR01     04      3  BOT 120196         BE                                                           1 1,2
+20VDSR0196_1  SR01     04      4  CTD 120196 1031    BE 57 46.90 S 65 48.90 W  GPS   4216              3107
+20VDSR0196_1  SR01     04      4  CTD 120196 1142    BO
+20VDSR0196_1  SR01     04      4  CTD 120196 1255    EN
+20VDSR0196_1  SR01     05      1  XBT 120196 1550    BE 58 11.80 S 65 25.00 W  GPS   3334               750
+20VDSR0196_1  SR01     05      1  XBT 120196 1554
+20VDSR0196_1  SR01     05      2  BOT 120196         BE                                                           1 1,2
+20VDSR0196_1  SR01     05      3  CTD 120196 1620    BE 58 12.90 S 65 25.20 W  GPS   3294              3101
+20VDSR0196_1  SR01     05      3  CTD 120196 1710    BO
+20VDSR0196_1  SR01     05      3  CTD 120196 1808    EN
+20VDSR0196_1  SR01     06      1  XBT 120196 2110    BE 58 38.20 S 65 08.20 W  GPS   3500               750
+20VDSR0196_1  SR01     06      1  XBT 120196 2112    EN
+20VDSR0196_1  SR01     06      2  BOT 120196         BE
+20VDSR0196_1  SR01     06      3  CTD 120196 2126    BE 58 39.90 S 65 06.80 W  GPS   3156              3004
+20VDSR0196_1  SR01     06      3  CTD 120196 2314    BO
+20VDSR0196_1  SR01     06      3  CTD 120296 0030    EN
+20VDSR0196_1  SR01     07      1  XBT 120296 0317    BE 58 57.90 S 64 49.20 W  GPS   3694               750
+20VDSR0196_1  SR01     07      1  XBT 120296 0319    EN
+20VDSR0196_1  SR01     07      2  BOT 120296         BE                                                           1 1,2
+20VDSR0196_1  SR01     07      3  CTD 120296 0336    BE 59 00.00 S 64 49.00 W  GPS   3513              3103
+20VDSR0196_1  SR01     07      3  CTD 120296 0511    BO
+20VDSR0196_1  SR01     07      3  CTD 120296 0650    EN
+20VDSR0196_1  SR01     08      1  XBT 120296 1035    BE 59 28.10 S 64 30.90 W  GPS   3800               750
+20VDSR0196_1  SR01     08      1  XBT 120296 1037    EN
+20VDSR0196_1  SR01     08      2  BOT 120296         BE                                                           4 1,2
+20VDSR0196_1  SR01     08      3  CTD 120296 1123    BE 59 29.80 S 64 31.10 W  GPS   3547              3111
+20VDSR0196_1  SR01     08      3  CTD 120296 1240    BO
+20VDSR0196_1  SR01     08      3  CTD 120296 1345    EN
+20VDSR0196_1  SR01     09      1  XBT 120296 1938    BE 59 52.40 S 64 14.00 W  GPS   3630               750
+20VDSR0196_1  SR01     09      1  XBT 120296 1939    EN
+20VDSR0196_1  SR01     09      2  BOT 120296         BE                                                           1 1,2
+20VDSR0196_1  SR01     09      3  CTD 120296 2018    BE 59 54.00 S 64 12.90 W  GPS   3759              3110
+20VDSR0196_1  SR01     09      3  CTD 120296 2124    BO
+20VDSR0196_1  SR01     09      3  CTD 120296 2219    EN
+20VDSR0196_1  SR01     10      1  XBT 120396 0106    BE 60 19.60 S 63 59.70 W  GPS   3900               750
+20VDSR0196_1  SR01     10      1  XBT 120396 0108    EN
+20VDSR0196_1  SR01     10      2  BOT 120396         BE                                                           1 1,2
+20VDSR0196_1  SR01     10      3  CTD 120396 0125    BE 60 20.90 S 63 59.10 W  GPS   3600              3103
+20VDSR0196_1  SR01     10      3  CTD 120396 0240    BO
+20VDSR0196_1  SR01     10      3  CTD 120396 0350    EN
+20VDSR0196_1  SR01     11      1  XBT 120396 0619    BE 60 41.20 S 63 36.70 W  GPS   3973               750
+20VDSR0196_1  SR01     11      1  XBT 120396 0623    EN
+20VDSR0196_1  SR01     11      2  BOT 120396         BE                                                           1 1,2
+20VDSR0196_1  SR01     11      3  CTD 120396 0640    BE 60 42.90 S 63 34.90 W  GPS   3800              3102
+20VDSR0196_1  SR01     11      3  CTD 120396 0741    BO
+20VDSR0196_1  SR01     11      3  CTD 120396 0833    EN
+20VDSR0196_1  SR01     12      1  XBT 120396 1109    BE 61 08.10 S 63 14.50 W  GPS   3811               750
+20VDSR0196_1  SR01     12      1  XBT 120396 1112    EN
+20VDSR0196_1  SR01     12      2  BOT 120396         BE                                                           4 1,2
+20VDSR0196_1  SR01     12      3  CTD 120396 1124    BE 61 10.00 S 63 13.20 W  GPS   3600              3103
+20VDSR0196_1  SR01     12      3  CTD 120396 1236    BO
+20VDSR0196_1  SR01     12      3  CTD 120396 1342    EN
+20VDSR0196_1  SR01     13      1  XBT 120396 1825    BE 61 32.18 S 62 53.50 W  GPS   3530               750
+20VDSR0196_1  SR01     13      1  XBT 120396 1827    EN
+20VDSR0196_1  SR01     13      2  BOT 120396         BE                                                           1 1,2
+20VDSR0196_1  SR01     13      3  CTD 120396 1833    BE 61 34.00 S 62 51.90 W  GPS   3551              3109
+20VDSR0196_1  SR01     13      3  CTD 120396 1948    BO
+20VDSR0196_1  SR01     13      3  CTD 120396 2055    EN
+20VDSR0196_1  SR01     14      1  XBT 120396 2318    BE 61 56.30 S 62 32.40 W  GPS   3552               750
+20VDSR0196_1  SR01     14      1  XBT 120396 2321    EN
+20VDSR0196_1  SR01     14      2  BOT 120396         BE                                                          1 1,2
+20VDSR0196_1  SR01     14      3  CTD 120396 2323    BE 61 58.00 S 62 31.10 W  GPS   3690              3315
+20VDSR0196_1  SR01     14      3  CTD 120496 0045    BO
+20VDSR0196_1  SR01     15      1  XBT 120496 0412    BE 62 19.60 S 62 11.10 W  GPS   1853               750
+20VDSR0196_1  SR01     15      1  XBT 120496 0414    EN
+20VDSR0196_1  SR01     15      2  BOT 120496         BE                                                          1 1,2
+20VDSR0196_1  SR01     15      3  CTD 120496 0431    BE 62 21.80 S 62 10.00 W  GPS   1670              1504
+20VDSR0196_1  SR01     15      3  CTD 120496 0507    BO
+20VDSR0196_1  SR01     15      3  CTD 120496 0539    EN 

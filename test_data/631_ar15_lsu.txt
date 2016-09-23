@@ -1,0 +1,47 @@
+R/V POLARSTERN  CRUISE ANTII, LEG 1  WHP-ID  AR15                  20020514WHPOSIODMB
+SHIP/CRS        WOCE               CAST         UTC          POSITION                 UNC  ABOVE   MAX  NO. OF          
+EXPOCODE        SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH BOTTOM PRESS BOTTLES PARAMETERS COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------
+06AQANTXII_1    AR15 33-013      1  CTD 102394 1645   BE 41 10.70 N  20 13.60 W UNK  3322                                 ctd001
+06AQANTXII_1    AR15 33-033      1  CTD 102694 2304   BE 25 20.00 N  28 00.00 W UNK  5129                                 ctd002
+06AQANTXII_1    AR15 33-040      1  CTD 102794 1943   BE 20 50.30 N  28 00.20 W UNK  5140                                 ctd003
+06AQANTXII_1    AR15 33-051      1  CTD 102994 1013   BE 12 09.80 N  28 00.10 W UNK  5437                                 ctd004
+06AQANTXII_1    AR15 33-059      1  CTD 103094 1140   BE  6 59.90 N  28 00.10 W UNK  4336                                 ctd005
+06AQANTXII_1    AR15 33-071      1  CTD 110194 1115   BE  2 00.20 N  25 00.20 W UNK  3875                                 ctd006
+06AQANTXII_1    AR15 33-075      1  CTD 110294 0106   BE  0 00.10 S  25 00.10 W UNK  3133                                 ctd007
+06AQANTXII_I    AR15 33-079      1  CTD 110294 1445   BE  1 59.90 S  25 00.00 W UNK  4913                                 ctd008
+06AQANTXII_1    AR15 33-081      1  CTD 110394 0330   BE  3 59.90 S  25 57.30 W UNK  3801                                 ctd009
+06AQANTXII_1    AR15 33-083      1  CTD 110394 1625   BE  6 00.00 S  26 55.20 W UNK  3154                                 ctd010
+06AQANTXII_1    AR15 33-085      1  CTD 110494 0501   BE  8 00.10 S  27 53.40 W UNK  5566                                 ctd011
+06AQANTXII_1    AR15 33-089      1  CTD 110494 1632   BE  9 30.10 S  28 30.10 W UNK  5381                                 ctd012
+06AQANTXII_1    AR15 33-093      1  CTD 110594 0443   BE 11 00.10 S  29 13.50 W UNK  5407                                 ctd013
+06AQANTXII_1    AR15 33-095      1  CTD 110594 1745   BE 13 00.10 S  30 24.18 W UNK  5166                                 ctd014
+06AQANTXII_1    AR15 33-098      1  CTD 110694 0440   BE 14 15.00 S  31 00.00 W UNK  4844                                 ctd015
+06AQANTXII_1    AR15 33-102      1  CTD 110694 1856   BE 16 01.00 S  31 35.60 W UNK  4657                                 ctd016
+06AQANTXII_1    AR15 33-104      1  CTD 110794 0805   BE 18 01.00 S  32 23.92 W UNK  4470                                 ctd017
+06AQANTXII_1    AR15 33-107      1  CTD 110794 1510   BE 18 30.00 S  32 30.00 W UNK  4337                                 ctd018
+06AQANTXII_1    AR15 33-111      1  CTD 110894 0308   BE 20 00.10 S  32 53.50 W UNK  4136                                 ctd019
+06AQANTXII_1    AR15 33-112      1  CTD 110849 1009   BE 20 59.90 S  32 55.70 W UNK  4286                                 ctd020
+06AQANTXII_1    AR15 33-113      1  CTD 110894 1915   BE 22 00.00 S  32 48.50 W UNK  4462                                 ctd021
+06AQANTXII_1    AR15 33-116      1  CTD 110949 0126   BE 22 30.00 S  32 50.00 W UNK  4498                                 ctd022
+06AQANTXII_1    AR15 33-119      1  CTD 110994 0755   BE 23 00.00 S  32 56.90 W UNK  4716                                 ctd023
+06AQANTXII_1    AR15 33-120      1  CTD 110994 1512   BE 24 00.20 S  33 24.70 W UNK  3209                                 ctd024
+06AQANTXII_1    AR15 33-121      1  CTD 110994 2240   BE 25 00.00 S  33 53.00 W UNK  4842                                 ctd025
+06AQANTXII_1    AR15 33-122      1  CTD 111094 0545   BE 26 00.10 S  34 21.68 W UNK  455                                  ctd026
+06AQANTXII_1    AR15 33-123      1  CTD 111094 1345   BE 27 00.00 S  34 47.60 W UNK  4344                                 ctd027
+06AQANTXII_1    AR15 33-124      1  CTD 111094 2343   BE 28 00.10 S  35 56.80 W UNK  4418                                 ctd028
+06AQANTXII_1    AR15 33-125      1  CTD 111194 0815   BE 29 00.20 S  36 59.50 W UNK  3367                                 ctd029
+06AQANTXII_1    AR15 33-126      1  CTD 111194 1619   BE 30 00.30 S  38 02.90 W UNK  3864                                 ctd030
+06AQANTXII_1    AR15 33-128      1  CTD 111294 0315   BE 31 12.30 S  39 21.50 W UNK  4559                                 ctd031
+06AQANTXII_1    AR15 33-129      1  CTD 111294 1215   BE 31 59.80 S  40 15.90 W UNK  3953                                 ctd032
+06AQANTXII_1    AR15 33-130      1  CTD 111294 2050   BE 33 00.00 S  41 26.70 W UNK  4522                                 ctd033
+06AQANTXII_1    AR15 33-131      1  CTD 111394 0500   BE 34 00.10 S  42 38.60 W UNK  4486                                 ctd034
+06AQANTXII_1    AR15 33-132      1  CTD 111394 1415   BE 35 00.60 S  43 50.60 W UNK  4426                                 ctd035
+06AQANTXII_1    AR15 33-133      1  CTD 111394 2248   BE 36 00.20 S  45 04.80 W UNK  4903                                 ctd036
+06AQANTXII_1    AR15 33-134      1  CTD 111494 0940   BE 37 04.20 S  46 19.36 W UNK  5044                                 ctd037
+06AQANTXII_1    AR15 33-135      1  CTD 111494 1930   BE 38 00.30 S  47 34.66 W UNK  5128                                 ctd038
+06AQANTXII_1    AR15 33-136      1  CTD 111594 0526   BE 39 00.30 S  48 51.30 W UNK  5310                                 ctd039
+06AQANTXII_1    AR15 33-137      1  CTD 111594 1820   BE 40 03.40 S  50 12.90 W UNK  5473                                 ctd040
+06AQANTXII_1    AR15 33-138      1  CTD 111694 0338   BE 41 00.20 S  51 28.10 W UNK  5578                                 ctd041
+06AQANTXII_1    AR15 33-141      1  CTD 111794 1528   BE 44 27.70 S  55 59.20 W UNK  5277                                 ctd042
+06AQANTXII_1    AR15 33-144      1  CTD 111894 0905   BE 45 45.00 S  57 55.00 W UNK  3305                                 ctd043

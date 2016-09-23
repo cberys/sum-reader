@@ -1,0 +1,22 @@
+R/V Thompson LEG 1 WHP-ID PRS2 20141031SIOCCHAMB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+325020130404   PRS2      1      1  ROS 040413 2312   BE 21 20.59 N 158 16.40 W GPS  1533       520          1022      24 1,2             Dual T, C sensors   
+325020130404   PRS2      2      1  ROS 040513 1146   BE 22 45.01 N 158 01.07 W GPS  4726       3713         1022      23 1               Dual T, C sensors   
+325020130404   PRS2      2      2  ROS 040513 1601   BE 22 45.02 N 157 59.95 W GPS  4725       -2           4810      24 1,2,3,4,5,6     Dual T, C sensors   
+325020130404   PRS2      2      3  ROS 040513 2155   BE 22 44.99 N 157 59.99 W GPS  4725       3714         1020      24 1,2,3,4,5,6     Dual T, C sensors   
+325020130404   PRS2      2      4  ROS 040613 0030   BE 22 44.61 N 157 59.38 W GPS  4724       3875          856       0 Dual            T, C sensors        
+325020130404   PRS2      2      5  ROS 040613 0255   BE 22 40.67 N 157 57.92 W GPS  4728       3713         1024      22 1               Dual T, C sensors   
+325020130404   PRS2      2      6  ROS 040613 0602   BE 22 40.85 N 157 57.17 W GPS  4740       3727         1022      23 1,2             Dual T, C sensors   
+325020130404   PRS2      2      7  ROS 040613 0913   BE 22 41.30 N 157 55.35 W GPS  4724       3711         1022      12 1               Dual T, C sensors   
+325020130404   PRS2      2      8  ROS 040613 1158   BE 22 41.58 N 157 56.34 W GPS  4731       3718         1022      24 1               Dual T, C sensors   
+325020130404   PRS2      2      9  ROS 040613 1459   BE 22 43.99 N 157 58.90 W GPS  4722       3707         1024      14 1               Dual T, C sensors   
+325020130404   PRS2      2     10  ROS 040613 1755   BE 22 43.98 N 157 58.96 W GPS  4722       3709         1022      18 1               Dual T, C sensors   
+325020130404   PRS2      2     11  ROS 040613 2055   BE 22 44.44 N 157 59.37 W GPS  4724       3711         1022      24 1               Dual T, C sensors   
+325020130404   PRS2      2     12  ROS 040613 2355   BE 22 45.04 N 157 59.92 W GPS  4725       3712         1022      23 1               Dual T, C sensors   
+325020130404   PRS2      2     13  ROS 040713 0259   BE 22 45.10 N 158 00.01 W GPS  4724       3711         1022      24 1               Dual T, C sensors   
+325020130404   PRS2      2     14  ROS 040713 0557   BE 22 45.02 N 157 55.12 W GPS  4703       3690         1022      22 1               Dual T, C sensors   
+325020130404   PRS2      2     15  ROS 040713 0900   BE 22 44.98 N 158 00.01 W GPS  4725       2            4806      15 1,2             Dual T, C sensors   
+325020130404   PRS2      6      1  ROS 040813 0611   BE 21 50.79 N 158 21.85 W GPS  2471       41           2460      17 1               Dual T, C sensors   
+325020130404   PRS2     50      1  ROS 040713 2325   BE 22 43.92 N 157 53.59 W GPS  4699       4486          214      24 Dual            T, C sensors        

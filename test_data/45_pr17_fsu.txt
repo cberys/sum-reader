@@ -1,0 +1,55 @@
+PR17  R/V SHAMPU MARU                                                  20010522SIOWHPODMB                                         
+SHIP/CRS    WOCE                 CAST         UTC EVENT        POSITION               UNC HT ABOVE  METER    MAX   NO. OF                     
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV  DEPTH   BOTTOM  WHEEL  PRESS  BOTTLES  PARAMETERS  COMMENTS
+-----------------------------------------------------------------------------------------------------------------------------------------------
+49SU9204_1  PR17  SU4649       1  ROS 042792 1042    BE 29 29.39 N 133 30.17 E GPS                                                             
+49SU9204_1  PR17  SU4649       1  ROS 042792 1132    BO                              2740                   2687       11  2,4-6,26           
+49SU9204_1  PR17  SU4649       1  ROS                EN                                                                                         
+49SU9204_1  PR17  SU4649       2  ROS                BE                                                                                         
+49SU9204_1  PR17  SU4649       2  ROS 042792 1238    BO                                                                 5  2,4-6,26            
+49SU9204_1  PR17  SU4649       2  ROS                EN                                                                                         
+49SU9204_1  PR17  SU4649       3  ROS                BE                                                                                        
+49SU9204_1  PR17  SU4649       3  ROS 042792 1306    BO                                                                10  2,4-6,26           
+49SU9204_1  PR17  SU4649       3  ROS 042792 1315    EN 29 29.76 N 133 29.93 E GPS                                                             
+49SU9204_1  PR17  TH044        1  XBT 042792 1530    DE 29 42.83 N 133 13.32 E GPS   2930                                                      
+49SU9204_1  PR17  SU4650       1  ROS 042792 1721    BE 29 57.07 N 132 57.57 E GPS                                                             
+49SU9204_1  PR17  SU4650       1  ROS 042792 1829    BO                              3760                   3732       11  1,2,4-6             
+49SU9204_1  PR17  SU4650       1  ROS                EN                                                                                        
+49SU9204_1  PR17  SU4650       2  ROS                BE                                                                                        
+49SU9204_1  PR17  SU4650       2  ROS 042792 2017    BO                                                                10  1,2,4-6             
+49SU9204_1  PR17  SU4650       2  ROS                EN                                                                                        
+49SU9204_1  PR17  SU4650       3  ROS                BE                                                                                        
+49SU9204_1  PR17  SU4650       3  ROS 042792 2109    BO                                                                10  1,2,4-6             
+49SU9204_1  PR17  SU4650       3  ROS 042792 2117    EN 29 58.41 N 132 57.91 E GPS                                                             
+49SU9204_1  PR17  TH045        1  XBT 042792 2255    DE 30 07.61 N 132 45.99 E GPS   3740                                                            
+49SU9204_1  PR17  SU4651       1  ROS 042892 0009    BE 30 16.76 N 132 34.66 E GPS                                                                   
+49SU9204_1  PR17  SU4651       1  ROS 042892 0119    BO                              4010                   3977       11  2,4-6                 
+49SU9204_1  PR17  SU4651       1  ROS                EN                                                                                              
+49SU9204_1  PR17  SU4651       2  ROS                BE                                                                                              
+49SU9204_1  PR17  SU4651       2  ROS 042892 0307    BO                                                                11  2,4-6                 
+49SU9204_1  PR17  SU4651       2  ROS                EN                                                                                              
+49SU9204_1  PR17  SU4651       3  ROS                BE                                                                                              
+49SU9204_1  PR17  SU4651       3  ROS 042892 0402    BO                                                                10  2,4-6                 
+49SU9204_1  PR17  SU4651       3  ROS 042892 0413    EN 30 19.07 N 132 35.30 E GPS                                                                    
+49SU9204_1  PR17  TH046        1  XBT 042892 0555    DE 30 27.02 N 132 21.91 E GPS   3640                                                            
+49SU9204_1  PR17  TH047        1  XBT 042892 0635    DE 30 32.02 N 132 15.75 E GPS   2620                                                            
+49SU9204_1  PR17  SU4652       1  ROS 042892 0718    BE 30 37.75 N 132 10.52 E GPS                                                                   
+49SU9204_1  PR17  SU4652       1  ROS 042892 0801    BO                              2460                   2422       10  2,4-6,26              
+49SU9204_1  PR17  SU4652       1  ROS                EN                                                                                              
+49SU9204_1  PR17  SU4652       2  ROS                BE                                                                                              
+49SU9204_1  PR17  SU4652       2  ROS 042892 0910    BO                                                                 4  2,4-6,26              
+49SU9204_1  PR17  SU4652       2  ROS                EN                                                                                              
+49SU9204_1  PR17  SU4652       3  ROS                BE                                                                                              
+49SU9204_1  PR17  SU4652       3  ROS 042892 0936    BO                                                                10  2,4-6,26              
+49SU9204_1  PR17  SU4652       3  ROS 042892 0946    EN 30 41.92 N 132 15.96 E GPS                                                                   
+49SU9204_1  PR17  TH048        1  XBT 042892 1125    DE 30 43.08 N 132 02.77 E GPS   2170                                                            
+49SU9204_1  PR17  TH049        1  XBT 042892 1210    DE 30 48.26 N 131 57.14 E GPS   1710                                                            
+49SU9204_1  PR17  SU4653       1  ROS 042892 1359    BE 30 59.25 N 131 42.17 E GPS                                                                   
+49SU9204_1  PR17  SU4653       1  ROS 042892 1420    BO                              1440                   1363        9  1,2,4-6               
+49SU9204_1  PR17  SU4653       1  ROS                EN                                                                                              
+49SU9204_1  PR17  SU4653       2  ROS                BE                                                                                              
+49SU9204_1  PR17  SU4653       2  ROS 042892 1502    BO                                                                10  2,4-6                 
+49SU9204_1  PR17  SU4653       2  ROS 042892 1513    EN 30 58.79 N 131 43.56 E GPS                                                                   
+49SU9204_1  PR17  SU4654       1  ROS 042892 1710    BE 31 09.41 N 131 29.49 E GPS                                                                   
+49SU9204_1  PR17  SU4654       1  ROS 042892 1716    BO                               250                    203        8  2,4-6,26              
+49SU9204_1  PR17  SU4654       1  ROS 042892 1725    EN 31 08.54 N 131 29.69 E GPS                                                                   

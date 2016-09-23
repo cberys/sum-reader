@@ -1,0 +1,11 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-24
+SHIP/CRS   WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------------------------
+31HX024_1  PRS2       2       1   ROS 030691 1814    BE 22 45.00 N 157 55.30 W GPS  4750        3705  1054      23  1,2,3,4,5,6    
+31HX024_1  PRS2       2       2   ROS 030791 0150    BE 22 44.70 N 157 55.70 W GPS  4750        3697  1062      23  1,2,3,4,5,6    
+31HX024_1  PRS2       2       3   ROS 030791 1731    BE 22 47.90 N 157 58.80 W GPS  4750        3741  1018      23  1    
+31HX024_1  PRS2       2       4   ROS 030791 2136    BE 22 48.10 N 158 02.40 W GPS  4750        3699  1060      23  1    
+31HX024_1  PRS2       2       5   ROS 030891 0108    BE 22 48.70 N 157 57.70 W GPS  4700        3719   990      0      
+31HX024_1  PRS2       2       6   ROS 030891 0432    BE 22 44.90 N 158 00.00 W GPS  4700        3685  1024      15  1    
+31HX024_1  PRS2       2       7   ROS 030891 1809    BE 22 44.90 N 158 04.40 W GPS  4811         337  4550      23  1,2,3,4,5,6     

@@ -1,0 +1,75 @@
+VIDAL GORMAZ     Date: Nov 08 - Dec 08, 1994                    20010822WHPOSIOAH
+SHIP/CRS       WOCE                CAST         UTC           POSITION                UNC ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO  TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+20VDSR0194_1   SR01     01      1   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     01      2   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     01      3   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     01      4   BUC 111994
+20VDSR0194_1   SR01     01      5   CTD 111994        BE 56 14.90 S 66 46.10 W  GPS   285               204
+20VDSR0194_1   SR01     01      6   ROS 111994        BE 56 14.90 S 66 46.10 W  GPS   285               204       9 1,2   
+20VDSR0194_1   SR01     02      1   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     02      2   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     02      3   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     02      4   XBT 111994        BE 56 31.50 S 66 26.60 W  GPS
+20VDSR0194_1   SR01     02      5   BUC 111994
+20VDSR0194_1   SR01     02      6   CTD 111994        BE 56 33.10 S 66 24.70 W  GPS  2666              2000
+20VDSR0194_1   SR01     02      7   ROS 111994        BE 56 33.10 S 66 24.70 W  GPS  2666              2000      18 1,2
+20VDSR0194_1   SR01     03      1   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     03      2   XBT 111994                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     03      3   XBT 111994        BE 56 50.40 S 66 05.10 W  GPS
+20VDSR0194_1   SR01     03      4   BUC 111994
+20VDSR0194_1   SR01     03      5   CTD 111994        BE 56 51.00 S 66 01.50 W  GPS  3953              3810
+20VDSR0194_1   SR01     03      6   ROS 111994        BE 56 51.00 S 66 01.50 W  GPS  3953              3810      23 1,2        CABLE CUT, ROSETTE AND CTD LOST
+20VDSR0194_1   SR01     04      1   XBT 112094        BE 57 07.70 S 65 45.40 W  GPS                                            LAUNCH FAILURE
+20VDSR0194_1   SR01     04      2   XBT 112094        BE 57 07.70 S 65 45.40 W  GPS  4160
+20VDSR0194_1   SR01     04      3   BUC 112094
+20VDSR0194_1   SR01     04      4   CTD 112094        BE 57 09.00 S 65 43.90 W  GPS  4116              4002
+20VDSR0194_1   SR01     05      1   XBT 112094        BE 57 24.30 S 65 25.80 W  GPS
+20VDSR0194_1   SR01     05      2   BUC 112094
+20VDSR0194_1   SR01     05      3   CTD 112094        BE 57 25.90 S 65 24.30 W  GPS  4286              4106
+20VDSR0194_1   SR01     06      1   XBT 112094        BE 57 42.10 S 65 03.20 W  GPS  3746
+20VDSR0194_1   SR01     06      2   BUC 112094
+20VDSR0194_1   SR01     06      3   CTD 112094        BE 57 44.00 S 65 02.90 W  GPS  3389              3102
+20VDSR0194_1   SR01     07      1   XBT 112094        BE 57 59.40 S 64 44.70 W  GPS  3512
+20VDSR0194_1   SR01     07      2   BUC 112094
+20VDSR0194_1   SR01     07      3   CTD 112094        BE 58 01.10 S 64 43.00 W  GPS  3890              3627
+20VDSR0194_1   SR01     08      1   XBT 112094        BE 58 16.50 S 64 24.40 W  GPS  3569
+20VDSR0194_1   SR01     08      2   BUC 112094
+20VDSR0194_1   SR01     08      3   CTD 112094        BE 58 18.00 S 64 23.10 W  GPS  3799              3582
+20VDSR0194_1   SR01     09      1   XBT 112094        BE 58 50.70 S 63 42.30 W  GPS  3026
+20VDSR0194_1   SR01     09      2   BUC 112094
+20VDSR0194_1   SR01     09      3   CTD 112094        BE 58 51.90 S 63 40.80 W  GPS  3866              3600
+20VDSR0194_1   SR01     10      1   XBT 112194 0715   BE 59 07.40 S 63 22.50 W  GPS  3944
+20VDSR0194_1   SR01     10      2   BUC 112194
+20VDSR0194_1   SR01     10      3   CTD 112194        BE 59 09.10 S 63 21.00 W  GPS  4049              3806
+20VDSR0194_1   SR01     11      1   XBT 112194 0805   BE 59 23.50 S 63 01.90 W  GPS  3995
+20VDSR0194_1   SR01     11      2   BUC 112194
+20VDSR0194_1   SR01     11      3   CTD 112194        BE 59 25.00 S 62 59.60 W  GPS  3960              3800
+20VDSR0194_1   SR01     12      1   XBT 112194        BE 59 40.20 S 62 42.20 W  GPS  4000
+20VDSR0194_1   SR01     12      2   BUC 112194
+20VDSR0194_1   SR01     12      3   CTD 112194        BE 59 41.90 S 62 39.90 W  GPS  3950              3804
+20VDSR0194_1   SR01     13      1   XBT 112194 1820   BE 59 56.20 S 62 21.50 W  GPS  3573
+20VDSR0194_1   SR01     13      1   XBT 112194 1830   EN
+20VDSR0194_1   SR01     13      2   BUC 112194
+20VDSR0194_1   SR01     13      3   CTD 112194        BE 59 57.90 S 62 18.70 W  GPS  2930              2860
+20VDSR0194_1   SR01     14      1   XBT 112194        BE                                                                       LAUNCH FAILURE
+20VDSR0194_1   SR01     14      2   XBT 112194        BE                                                                       LAUNCH FAILURE
+20VDSR0194_1   SR01     14      3   XBT 112194        BE 60 12.80 S 61 59.40 W  GPS  4106
+20VDSR0194_1   SR01     14      2   BUC 112194
+20VDSR0194_1   SR01     14      3   CTD 112194        BE 60 13.90 S 61 57.60 W  GPS  4192              4008
+20VDSR0194_1   SR01     15      1   XBT 112194 0146   BE 60 29.25 S 61 39.00 W  GPS  3830                                      LAUNCH FAILURE
+20VDSR0194_1   SR01     15      2   XBT 112194                                                                                 LAUNCH FAILURE
+20VDSR0194_1   SR01     15      3   XBT 112194
+20VDSR0194_1   SR01     15      2   BUC 112194
+20VDSR0194_1   SR01     15      3   CTD 112194        BE 60 29.90 S 61 37.90 W  GPS  3810              3608
+20VDSR0194_1   SR01     16      1   XBT 112294        BE 60 44.70 S 61 19.00 W  GPS  3814
+20VDSR0194_1   SR01     16      2   BUC 112294
+20VDSR0194_1   SR01     16      3   CTD 112294        BE 60 46.00 S 61 16.90 W  GPS  3814              3700
+20VDSR0194_1   SR01     17      1   XBT 112294        BE 61 00.80 S 60 58.80 W  GPS  4136
+20VDSR0194_1   SR01     17      2   BUC 112294
+20VDSR0194_1   SR01     17      3   CTD 112294        BE 61 02.10 S 60 56.50 W  GPS  4050              3900
+20VDSR0194_1   SR01     18      1   XBT 112294 1239   BE 61 16.40 S 60 38.00 W  GPS  4601
+20VDSR0194_1   SR01     18      1   XBT 112294 1247   EN
+20VDSR0194_1   SR01     18      2   BUC 112294
+20VDSR0194_1   SR01     18      3   CTD 112294        BE 61 17.80 S 60 35.60 W  GPS  4697              4205

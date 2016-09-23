@@ -1,0 +1,90 @@
+                     Project, Ship, Cruise, woce line, start and  end dates
+SHIP/CRS   WOCE                 CAST         UTC          POSITION                     UNC   MAX NO. OF 
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE  LATITUDE    LONGITUDE    NAV  DEPTH PRESS BOTTLES  PARAM  COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------
+18DD9401_1         JF01       1  USW 020894 0537   UN  48 16.46 N  123 30.23 W  GPS                    1  1,3-6  Sampling under way
+18DD9401_1         JF02       1  USW 020894 0731   UN  48 17.94 N  123 59.48 W  GPS                    1  1,3-6  Sampling under way
+18DD9401_1         JF03       1  USW 020894 1000   UN  48 27.12 N  124 30.46 W  GPS                    1  1,3-6  Sampling under way
+18DD9401_1         JF04       1  USW 020894 1202   UN  48 32.28 N  124 59.87 W  GPS                    1  1,3-6  Sampling under way
+18DD9401_1 PR06     P01       1  USW 020894 1356   UN  48 34.49 N  125 30.04 W  GPS                    1  1,3-6                   
+18DD9401_1 PR06     P02       1  USW 020894 1551   UN  48 36.00 N  126 00.00 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P03       1  USW 020894 1707   UN  48 37.51 N  126 19.84 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P04       1  ROS 020894 1857   BE  48 39.09 N  126 39.51 W  GPS   1300  1300      12  1-6    Transmissometer
+18DD9401_1 PR06     P04       1  ROS 020894 1928   BO  48 39.15 N  126 39.82 W  GPS                              cast
+18DD9401_1 PR06     P04       1  ROS 020894 2019   EN  48 39.10 N  126 39.54 W  GPS
+18DD9401_1 PR06     P04       2  USW 020894 2102   UN  48 39.19 N  126 39.51 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P05       1  USW 020994 0311   UN  48 41.49 N  127 09.74 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P06       1  USW 020994 0544   UN  48 44.55 N  127 39.61 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P07       1  USW 020994 0823   UN  48 46.56 N  128 10.96 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P08       1  USW 020994 1110   UN  48 48.95 N  128 39.71 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P09       1  USW 020994 1453   UN  48 51.39 N  129 09.79 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P10       1  USW 020994 1817   UN  48 53.58 N  129 40.30 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P11       1  USW 020994 2115   UN  48 56.06 N  130 09.72 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P12       1  CTD 021094 0034   BE  48 57.99 N  130 40.10 W  GPS   3300  3000                 
+18DD9401_1 PR06     P12       1  CTD 021094 0132   BO  48 57.71 N  130 40.37 W  GPS
+18DD9401_1 PR06     P12       1  CTD 021094 0201   EN  48 57.83 N  130 40.74 W  GPS
+18DD9401_1 PR06     P12       2  USW 021094 0034   UN  48 57.99 N  130 40.10 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P13       1  USW 021094 0756   UN  49 02.56 N  131 39.80 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P14       1  USW 021094 1205   UN  49 07.36 N  132 40.00 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P15       1  USW 021094 1802   UN  49 12.00 N  133 40.00 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P16       1  CTD 021094 2351   BE  49 16.97 N  134 39.42 W  GPS   3550  3700          1,3-6      
+18DD9401_1 PR06     P16       1  CTD 021194 0056   BO  49 16.80 N  134 39.90 W  GPS
+18DD9401_1 PR06     P16       1  CTD 021194 0149   EN  49 16.66 N  134 39.89 W  GPS
+18DD9401_1 PR06     P16       2  USW 021094 2351   UN  49 16.97 N  134 39.42 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P17       1  USW 021194 0730   UN  49 20.90 N  135 39.12 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P18       1  USW 021194 1343   UN  49 25.98 N  136 40.00 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P19       1  USW 021194 2033   UN  49 30.07 N  137 39.88 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P20       1  USW 021294 0503   UN  49 33.97 N  138 39.75 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P21       1  USW 021294 1246   UN  49 38.02 N  139 40.02 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P22       1  USW 021294 2032   UN  49 41.99 N  140 40.00 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P23       1  USW 021394 0709   UN  49 45.80 N  141 39.22 W  GPS                    1  1,3-6      
+18DD9401_1 PR06    p23A       1  CTD 021494 0008   BE  49 48.53 N  142 26.55 W  GPS   4034  3507
+18DD9401_1 PR06    P23A       1  CTD 021494 0106   BO  49 48.65 N  142 26.79 W  GPS
+18DD9401_1 PR06    P23A       1  CTD 021494 0203   EN  49 48.84 N  142 26.81 W  GPS
+18DD9401_1 PR06    P23A       2  USW 021494 0008   UN  49 48.83 N  142 26.55 W  GPS                    1  1,3-6      
+18DD9401_1 PR06     P20       2  CTD 021494 1839   BE  49 34.04 N  138 40.36 W  GPS   3986  1919                 TRANSMISSOMETER 
+18DD9401_1 PR06     P20       2  CTD 021494 1921   BO  49 34.26 N  142 40.63 W  GPS                              connector chipped
+18DD9401_1 PR06     P20       2  CTD 021494 2011   EN  49 34.30 N  142 41.87 W  GPS
+18DD9401_1 PR06     P19       2  CTD 021594 0040   BE  49 30.05 N  137 40.61 W  GPS   3850  3346                 SALINITY errors - 
+18DD9401_1 PR06     P19       2  CTD 021594 0145   BO  49 30.38 N  137 41.65 W  GPS                              cast aborted 3000m
+18DD9401_1 PR06     P19       2  CTD 021594 0255   EN  49 31.00 N  137 39.10 W  GPS
+18DD9401_1 PR06     P18       2  CTD 021594 0657   BE  49 26.11 N  136 39.91 W  GPS   3860  3510                 Rebuilt COND. CELL,
+18DD9401_1 PR06     P18       2  CTD 021594 0800   BO  49 26.32 N  136 39.81 W  GPS                              only one thermistor
+18DD9401_1 PR06     P18       2  CTD 021594 0920   EN  49 26.13 N  136 41.64 W  GPS
+18DD9401_1 PR06     P16       2  BIO 021594 1824   BE  49 16.78 N  134 40.13 W  GPS                              vertical net tow
+18DD9401_1 PR06     P16       2  BIO 021594 1940   EN  49 16.30 N  134 41.00 W  GPS
+18DD9401_1 PR06     P14       2  ROS 021694 0358   BE  49 07.31 N  132 40.80 W  GPS   3280  3353       22        Both THERMISTORS
+18DD9401_1 PR06     P14       2  ROS 021694 0534   BO  49 06.00 N  132 41.70 W  GPS                              gone
+18DD9401_1 PR06     P14       2  ROS 021694 0744   EN  49 06.34 N  132 44.04 W  GPS
+18DD9401_1 PR06     P12       2  BOT 021694 1756   BE  48 58.20 N  130 39.90 W  GPS
+18DD9401_1 PR06     P12       2  BOT 021694 1850   EN  48 58.30 N  130 39.40 W  GPS
+18DD9401_1 PR06     P10       2  CTD 021694 2317   BE  48 53.44 N  129 39.30 W  GPS   2683  2602
+18DD9401_1 PR06     P10       2  CTD 021694 2358   BO  48 52.77 N  129 38.68 W  GPS
+18DD9401_1 PR06     P10       2  CTD 021794 0034   EN  48 52.17 N  129 38.18 W  GPS
+18DD9401_1 PR06     P09       2  CTD 021794 0240   BE  48 51.31 N  129 09.76 W  GPS   2340  2303                 PINGER damaged and
+18DD9401_1 PR06     P09       2  CTD 021794 0314   BO  48 50.76 N  129 09.30 W  GPS                              repaired
+18DD9401_1 PR06     P09       2  CTD 021794 0350   EN  48 50.09 N  129 08.98 W  GPS
+18DD9401_1 PR06     P08       2  CTD 021794 0613   BE  48 49.13 N  128 40.16 W  GPS   2544  2505
+18DD9401_1 PR06     P08       2  CTD 021794 0700   BO  48 49.37 N  128 40.36 W  GPS
+18DD9401_1 PR06     P08       2  CTD 021794 0740   EN  48 49.68 N  128 40.18 W  GPS
+18DD9401_1 PR06     P07       2  CTD 021794 0955   BE  48 46.96 N  128 15.02 W  GPS   2527  2533
+18DD9401_1 PR06     P07       2  CTD 021794 1036   BO  48 46.62 N  128 09.04 W  GPS
+18DD9401_1 PR06     P07       2  CTD 021794 1111   EN  48 46.44 N  128 08.32 W  GPS
+18DD9401_1 PR06     P06       2  CTD 021794 1309   BE  48 44.60 N  127 40.00 W  GPS   2570  2501
+18DD9401_1 PR06     P06       2  CTD 021794 1359   BO  48 43.68 N  127 38.33 W  GPS
+18DD9401_1 PR06     P06       2  CTD 021794 1457   EN  48 43.52 N  127 36.12 W  GPS
+18DD9401_1 PR06     P05       2  CTD 021794 1645   BE  48 41.52 N  127 09.98 W  GPS   2120  2100
+18DD9401_1 PR06     P05       2  CTD 021794 1719   BO  48 41.56 N  127 10.03 W  GPS
+18DD9401_1 PR06     P05       2  CTD 021794 1748   EN  48 41.60 N  127 10.18 W  GPS
+18DD9401_1 PR06     P04       2  CTD 021794 1959   BE  48 40.24 N  126 55.12 W  GPS   1342  1327
+18DD9401_1 PR06     P04       2  CTD 021794 2027   BO  48 39.20 N  126 41.17 W  GPS
+18DD9401_1 PR06     P04       2  CTD 021794 2044   EN  48 39.47 N  126 41.83 W  GPS
+18DD9401_1 PR06     P03       2  CTD 021894 0222   BE  48 37.50 N  126 19.96 W  GPS    730   751                 TRANSMISSOMETER 
+18DD9401_1 PR06     P03       2  CTD 021894 0238   BO  48 37.64 N  126 20.39 W  GPS                              record looks bad
+18DD9401_1 PR06     P03       2  CTD 021894 0252   EN  48 37.85 N  126 20.97 W  GPS
+18DD9401_1 PR06     P02       2  CTD 021894 0424   BE  48 36.06 N  126 00.05 W  GPS    114   108
+18DD9401_1 PR06     P02       2  CTD 021894 0427   BO  48 36.14 N  126 00.00 W  GPS
+18DD9401_1 PR06     P02       2  CTD 021894 0431   EN  48 36.21 N  125 59.96 W  GPS
+18DD9401_1 PR06     P01       2  CTD 021894 0647   BE  48 34.41 N  125 30.07 W  GPS    120   125
+18DD9401_1 PR06     P01       2  CTD 021894 0650   BO  48 34.41 N  125 30.05 W  GPS
+18DD9401_1 PR06     P01       2  CTD 021894 0654   EN  48 34.38 N  125 30.10 W  GPS

@@ -1,0 +1,55 @@
+                                         GEOSECS EXPEDITION  INDIAN OCEAN                                               
+SHIP/CRS  WOCE                              UTC              POSITION               COR    MAX NO. OF
+EXPOCODE  SECT  STNNBR  CASTNO TYPE  DATE  TIME CODE  LATITUDE    LONGITUDE  NAV  DEPTH  PRESS BOTTLES PARAMETER  COMMENTS
+--------------------------------------------------------------------------------------------------------------------------
+318MGSECI HIST     403       1  ROS  120777       BE  37 41.5 N    8  5.5 E  UNK   2757   2016      32 1-6
+318MGSECI HIST     404       1  ROS  120977       BE  35 35.8 N   17 15.1 E  UNK   4030   4087      23 1-6
+318MGSECI HIST     405       1  ROS  121977       BE  27 16.0 N   34 31.0 E  UNK   1171   1047      24 1-6
+318MGSECI HIST     407       1  ROS  122277       BE  19 55.5 N   38 29.8 E  UNK   1719   1682      24 1-6
+318MGSECI HIST     408       1  ROS  122477       BE  14 42.6 N   42 10.2 E  UNK    590    591      13 1-6
+318MGSECI HIST     409       1  ROS  122577       BE  12 10.1 N   43 57.0 E  UNK    516    504      13 1-6
+318MGSECI HIST     410       1  ROS  122677       BE  12 18.3 N   46 58.7 E  UNK   2358   2368      32 1-6
+318MGSECI HIST     411       1  ROS  122677       BE  12 45.2 N   50  3.1 E  UNK   2452   2419      12 1-6
+318MGSECI HIST     412       1  ROS  122777       BE  13 12.6 N   51  7.5 E  UNK   3276   3247      41 1-6
+318MGSECI HIST     413       1  ROS  122777       BE  13 21.8 N   53 16.0 E  UNK   2815   2828      31 1-6
+318MGSECI HIST     414       1  ROS  122977       BE  15 45.0 N   58  4.8 E  UNK   3744   2505      23 1-6
+318MGSECI HIST     415       1  ROS  123077       BE  17 14.5 N   60 41.1 E  UNK   3948   3993      42 1-6
+318MGSECI HIST     416       1  ROS  123177       BE  19 45.5 N   64 37.0 E  UNK   3208   3199      24 1-6
+318MGSECI HIST     417       1  ROS  010278       BE  12 58.2 N   64 28.7 E  UNK   4117   4166      48 1-6
+318MGSECI HIST     418       1  ROS  010578       BE   6 11.1 N   64 25.2 E  UNK   4695   4717      48 1-6
+318MGSECI HIST     419       1  ROS  010878       BE   3 57.0 N   56 48.1 E  UNK   4645   4702      48 1-6
+318MGSECI HIST     420       1  ROS  011078       BE   0  3.0 S   50 55.7 E  UNK      0   5159      48 1-6
+318MGSECI HIST     421       1  ROS  011378       BE   6  9.1 S   50 54.6 E  UNK   4875   4919      48 1-6
+318MGSECI HIST     422       1  ROS  011578       BE   8 49.8 S   52 14.3 E  UNK   4165   4208      30 1-6
+318MGSECI HIST     423       1  ROS  011578       BE   9  1.5 S   53 15.1 E  UNK   5159   5228      35 1-6
+318MGSECI HIST     424       1  ROS  011678       BE  12 18.3 S   53 41.3 E  UNK   4676   4737      48 1-6
+318MGSECI HIST     425       1  ROS  011878       BE  17 18.0 S   55 51.0 E  UNK   4535   4533      30 1-6
+318MGSECI HIST     426       1  ROS  012078       BE  18 54.3 S   54 47.5 E  UNK   4760   4775      31 1-6
+318MGSECI HIST     427       1  ROS  013078       BE  27  4.1 S   56 58.0 E  UNK   5101   5137      47 1-6
+318MGSECI HIST     428       1  ROS  020278       BE  37 45.5 S   57 37.6 E  UNK      0   5431      47 1-6
+318MGSECI HIST     429       1  ROS  020678       BE  47 40.0 S   57 51.6 E  UNK   4586   4651      48 1-6
+318MGSECI HIST     430       1  ROS  021078       BE  59 59.0 S   60 58.5 E  UNK   4737   4807      48 1-6
+318MGSECI HIST     431       1  ROS  021378       BE  64 11.3 S   83 58.7 E  UNK   3624   3672      24 1-6
+318MGSECI HIST     432       1  ROS  021578       BE  59 19.2 S   92 38.3 E  UNK   4468   4542      48 1-6
+318MGSECI HIST     433       1  ROS  021878       BE  53  0.8 S  103  1.5 E  UNK   3808   3838      48 1-6
+318MGSECI HIST     434       1  ROS  022078       BE  45 38.2 S  107 15.3 E  UNK   3924   3962      24 1-6
+318MGSECI HIST     435       1  ROS  022278       BE  39 57.1 S  109 58.2 E  UNK   4636   4708      48 1-6
+318MGSECI HIST     436       1  ROS  030878       BE  29 15.0 S  109 58.0 E  UNK   5572   5667      48 1-6
+318MGSECI HIST     437       1  ROS  031178       BE  24 28.5 S  104 55.7 E  UNK   5698   1603      36 1-6
+318MGSECI HIST     438       1  ROS  031278       BE  19 29.2 S  101 17.5 E  UNK   5842   5941      46 1-6
+318MGSECI HIST     439       1  ROS  031578       BE  13  2.1 S   97  8.8 E  UNK   4699   1501      25 1-6
+318MGSECI HIST     440       1  ROS  031778       BE   9 21.7 S   95  1.6 E  UNK   5255   5333      59 1-6
+318MGSECI HIST     441       1  ROS  032078       BE   5  1.6 S   91 46.7 E  UNK   4942   5012      47 1-6
+318MGSECI HIST     442       1  ROS  032278       BE   1 12.0 S   90 45.2 E  UNK   4619   4682      45 1-6
+318MGSECI HIST     443       1  ROS  032378       BE   0  1.5 N   90 28.5 E  UNK   4540   4601      33 1-6
+318MGSECI HIST     444       1  ROS  032478       BE   0 36.0 N   88 36.0 E  UNK   4495   4525      44 1-6
+318MGSECI HIST     445       1  ROS  032678       BE   8 31.3 N   86  2.5 E  UNK   3659   3694      48 1-6
+318MGSECI HIST     446       1  ROS  032878       BE  12 31.5 N   84 30.6 E  UNK   3316   3353      59 1-6
+318MGSECI HIST     447       1  ROS  040578       BE   4 59.7 N   79 57.1 E  UNK   4198   4252      48 1-6
+318MGSECI HIST     448       1  ROS  040678       BE   0  1.0 N   80  3.2 E  UNK   4651   4717      58 1-6
+318MGSECI HIST     449       1  ROS  040878       BE   5  0.3 S   79 59.7 E  UNK   5122   5197      48 1-6
+318MGSECI HIST     450       1  ROS  041078       BE  10  0.5 S   79 59.1 E  UNK   5347   5432      48 1-6
+318MGSECI HIST     451       1  ROS  041378       BE  14 59.1 S   79 57.5 E  UNK   5016   5090      48 1-6
+318MGSECI HIST     452       1  ROS  041578       BE  20  5.6 S   79 59.0 E  UNK   4821   4875      48 1-6
+318MGSECI HIST     453       1  ROS  041878       BE  23  0.0 S   74  1.0 E  UNK   4161   4220      59 1-6
+318MGSECI HIST     454       1  ROS  042178       BE  26 59.6 S   67  5.8 E  UNK   4973   4922      47 1-6

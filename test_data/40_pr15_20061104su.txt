@@ -1,0 +1,22 @@
+PR16 R/V KA'IMIMOANA CRUISE GP205 LEG 1    20070305CCHDOSIODBK
+SHIP/CRS      WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF
+EXPOCODE      SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33KM20061104  PR15      1      1  ROS 110506 2235    BO  8  3.00 N 165  6.00 E GPS  5168                  685
+33KM20061104  PR15      2      1  ROS 110606 0720    BO  7  0.30 N 165  3.90 E GPS  5165                 1001
+33KM20061104  PR15      3      1  ROS 110606 1355    BO  5 59.90 N 165  2.20 E GPS                       1002
+33KM20061104  PR15      4      1  ROS 110706 0547    BO  5  0.50 N 165  1.00 E GPS  4775                 1003
+33KM20061104  PR15      5      1  ROS 110706 1238    BO  3 59.40 N 165  1.00 E GPS  4487                 1004
+33KM20061104  PR15      6      1  ROS 110706 1948    BO  2 52.10 N 164 59.90 E GPS  4240                 1004
+33KM20061104  PR15      7      1  ROS 110706 2259    BO  2 30.50 N 165  0.30 E GPS  4117                 1001
+33KM20061104  PR15      8      1  ROS 110806 0351    BO  2  1.00 N 164 59.40 E GPS                       1001
+33KM20061104  PR15      9      1  ROS 110806 0748    BO  1 29.90 N 165  0.40 E GPS  4256                 1001
+33KM20061104  PR15     10      1  ROS 110806 1132    BO  0 59.80 N 165  1.70 E GPS  4328                 1001
+33KM20061104  PR15     11      1  ROS 110806 1849    BO  0  1.40 N 165  2.80 E GPS  4407                 4003
+33KM20061104  PR15     12      1  ROS 110906 1459    BO  1  0.00 S 165  6.20 E GPS                       1013
+33KM20061104  PR15     13      1  ROS 111006 0615    BO  1 58.00 S 165  1.00 E GPS  4464                 1002
+33KM20061104  PR15     14      1  ROS 111006 1335    BO  2 59.90 S 165  2.90 E GPS  4192                 1002
+33KM20061104  PR15     15      1  ROS 111006 2030    BO  3 59.80 S 165  7.00 E GPS  3380                 1002
+33KM20061104  PR15     16      1  ROS 111106 0417    BO  5  0.30 S 165 12.90 E GPS  2536                 1002
+33KM20061104  PR15     17      1  ROS 111106 1621    BO  7  0.20 S 164 54.40 E GPS  3711                 1002
+33KM20061104  PR15     18      1  ROS 111206 0801    BO  8  1.30 S 164 49.40 E GPS  3892                 3443

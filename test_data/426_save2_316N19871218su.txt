@@ -1,0 +1,188 @@
+SAVE-2                   R/V KNORR                 18 Dec 87 - 23 Jan 88        20111103CCHDOSIODM
+SHIP/CRS     WOCE                 CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE   MAX  NO. OF                                                                
+EXPOCODE     SECT   STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT PRESS BOTTLES PARAMETERS                      COMMENTS                       
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+316N19871218 SAVE2      44      1  ROS 121987 2212    BO  2 39.00 N   3 37.70 W GPS  4791       -9   -9  1008      36 1-6                             CTD #1  Shakedown              
+316N19871218 SAVE2      45      1  ROS 122087 0757    BO  1 39.40 N   3 15.60 W GPS  5077       10   -9  5189      36 1-6                             CTD #1                         
+316N19871218 SAVE2      45     99  USW 122087    0    UN  1 39.42 N   3 15.6  W GPS  5107                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      46      1  ROS 122187 0005    BO  0 42.30 N   1 54.30 W GPS  5044       13   -9  5147      36 1-6                             CTD #1                         
+316N19871218 SAVE2      47      1  ROS 122187 1650    BO  0 16.90 S   0 30.40 W GPS  4917       12   -9  5018      36 1-6                             CTD #1                         
+316N19871218 SAVE2      47     99  USW 122187    0    UN  0 16.92 S   0 30.42 W GPS  4943                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      48      1  ROS 122287 0741    BO  1 11.10 S   0 39.90 E GPS  4733       11   -9  4822      36 1-6                             CTD #1                         
+316N19871218 SAVE2      48      2  LVS 122287 1111    MR  1 11.50 S   0 39.60 E GPS  4721       -9  906   940       5 1                               Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      48      3  LVS 122287 1207    MR  1 11.70 S   0 39.30 E GPS  4716       -9  478   493       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      48      4  LVS 122287 1255    MR  1 11.70 S   0 39.10 E GPS  4710       -9  278   285       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      48      5  LVS 122287 1330    MR  1 11.70 S   0 38.90 E GPS  4715       -9   67    65       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      48     99  USW 122287    0    UN  1 11.1  S   0 39.9  E GPS  4754                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      49      1  ROS 122387 0156    BO  2 14.90 S   1 42.80 E GPS  4591       10   -9  4671      36 1-6                             CTD #1                         
+316N19871218 SAVE2      50      1  ROS 122387 1651    BO  3 17.90 S   2 46.50 E GPS  4799       10   -9  4873      36 1-6                             CTD #1                         
+316N19871218 SAVE2      50      2  LVS 122387 2013    MR  3 17.70 S   2 45.80 E GPS  4719       -9  770   800       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      50      3  LVS 122387 2235    MR  3 17.60 S   2 44.70 E GPS  4499       -9  770   799       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      50      4  LVS 122487 0024    MR  3 17.40 S   2 44.20 E GPS  4416       -9  770   800       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      50      5  LVS 122487 0210    MR  3 17.30 S   2 44.20 E GPS  4422       -9  770   800       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      50     99  USW 122387    0    UN  3 17.88 S   2 46.5  E GPS  4821                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      51      1  ROS 122487 1419    BO  4 22.40 S   3 50.90 E GPS  5110       12   -9  5218      36 1-6                             CTD #1                         
+316N19871218 SAVE2      51      2  LVS 122487 1715    MR  4 22.60 S   3 51.20 E GPS  5112       -9   70    70       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      51      3  LVS 122487 1859    MR  4 22.80 S   3 51.00 E GPS  5113       -9  315   323       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      51      4  LVS 122487 2046    MR  4 22.30 S   3 50.40 E GPS  5112       -9  905   940       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      51      5  LVS 122487 2222    MR  4 21.70 S   3 50.50 E GPS  5112       -9  745   769       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      51     99  USW 122487    0    UN  4 22.38 S   3 50.88 E GPS  5141                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      52      1  ROS 122587 1002    BO  5 12.80 S   5  4.30 E GPS  4887       11   -9  4984      36 1-6                             CTD #1                         
+316N19871218 SAVE2      52     99  USW 122587    0    UN  5 12.78 S   5 04.32 E GPS  4912                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      53      1  ROS 122587 2353    BO  6  1.20 S   6 19.30 E GPS  4619        9   -9  4703      36 1-6                             CTD #1                         
+316N19871218 SAVE2      53     99  USW 122587    0    UN  6 1.2   S   6 19.32 E GPS  4637                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      54      1  ROS 122687 1407    BO  6 52.20 S   7 35.10 E GPS  4331       11   -9  4398      36 1-6                             CTD #1                         
+316N19871218 SAVE2      54      2  LVS 122687 1713    MR  6 51.40 S   7 35.80 E GPS  4339       -9  935   977       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      54      3  LVS 122687 1819    MR  6 51.30 S   7 35.60 E GPS  4344       -9  490   512       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      54      4  LVS 122687 1910    MR  6 51.30 S   7 35.60 E GPS  4343       -9  335   344       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      54      5  LVS 122687 1948    MR  6 51.50 S   7 35.30 E GPS  4341       -9  105   104       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      54     99  USW 122687    0    UN  6 52.2  S   7 35.1  E GPS  4342                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      55      1  ROS 122787 0709    BO  7 41.60 S   8 49.00 E GPS  4219       10   -9  4282      36 1-6                             CTD #1                         
+316N19871218 SAVE2      56      1  ROS 122787 1955    BO  8 30.00 S  10  5.80 E GPS  4043       11   -9  4102      36 1-6                             CTD #1                         
+316N19871218 SAVE2      57      1  ROS 122887 0842    BO  9 20.00 S  11 22.00 E GPS  2400       12   -9  2413      36 1-6                             CTD #1                         
+316N19871218 SAVE2      57     99  USW 122887    0    UN  9 19.98 S  11 22.02 E GPS  2389                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      58      1  ROS 122887 2006    BO 10 10.40 S  12 39.70 E GPS  1431       14   -9  1428      24 1-6                             CTD #1 24 bottle               
+316N19871218 SAVE2      58      2  LVS 122887 2201    MR 10 10.60 S  12 39.10 E GPS  1488       -9  945   984       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      58      3  LVS 122887 2256    MR 10 10.70 S  12 38.60 E GPS  1501       -9  513   529       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      58      4  LVS 122887 2339    MR 10 10.90 S  12 38.20 E GPS  1510       -9  303   308       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      58      5  LVS 122987 0017    MR 10 11.10 S  12 37.80 E GPS  1512       -9  118   116       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      58     99  USW 122887    0    UN 10 10.38 S  12 39.72 E GPS  1423                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      59      1  ROS 122987 0412    BO 10 17.10 S  12 10.00 E GPS  1860        9   -9  1861      24 1-6                             CTD #1 24 bottle               
+316N19871218 SAVE2      59     99  USW 122987    0    UN 10 17.1  S  12 10.02 E GPS  1850                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      60      1  ROS 122987 0931    BO 10 24.20 S  11 40.30 E GPS  2213       12   -9  2194      24 1-6                             CTD #1 24 bottle               
+316N19871218 SAVE2      61      1  ROS 122987 1804    BO 10 31.70 S  11  8.00 E GPS  3749       10   -9  3793      36 1-6                             CTD #1                         
+316N19871218 SAVE2      61      2  LVS 122987 2050    MR 10 31.50 S  11  7.90 E GPS  3749       -9  924   961       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      61      3  LVS 122987 2209    MR 10 31.50 S  11  7.60 E GPS  3760       -9  473   488       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      61      4  LVS 123087 0008    MR 10 31.50 S  11  7.10 E GPS  3772       -9  230   235       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      61      5  LVS 123087 0207    MR 10 32.30 S  11  6.60 E GPS  3787       -9   56    54       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      61     99  USW 122987    0    UN 10 31.68 S  11 07.98 E GPS  3749                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      62      1  ROS 123087 0759    BO 10 42.30 S  10 23.10 E GPS  4159       12   -9  4216      36 1-6                             CTD #1                         
+316N19871218 SAVE2      62      2  LVS 123087 1112    MR 10 41.30 S  10 23.60 E GPS  4159       -9  763   792       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      62      3  LVS 123087 1414    MR 10 44.70 S  10  6.00 E GPS  4239       -9  763   791       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      62      4  LVS 123087 1628    MR 10 46.80 S   9 56.60 E GPS  4329       -9  763   791       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      62     99  USW 123087    0    UN 10 42.3  S  10 23.1  E GPS  4166                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      63      1  ROS 123087 2241    BO 10 54.10 S   9 18.60 E GPS  4389       12   -9  4455      36 1-6                             CTD #1                         
+316N19871218 SAVE2      64      1  ROS 123187 1112    BO 11  7.40 S   7 49.60 E GPS  4867       11   -9  4963      36 1-6                             CTD #1                         
+316N19871218 SAVE2      64      2  LVS 123187 1416    MR 11  7.10 S   7 51.40 E GPS  4862       -9  993  1032       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      64      3  LVS 123187 1525    MR 11  7.20 S   7 52.00 E GPS  4860       -9  732   481       2 1-2                             Shallow 2 barrel, 1 ok         
+316N19871218 SAVE2      64      4  LVS 123187 1631    MR 11  7.50 S   7 52.30 E GPS  4860       -9  600   620       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      64      5  LVS 123187 1715    MR 11  7.50 S   7 52.50 E GPS  4857       -9  254   153       2 1-2                             Shallow 2 barrel, 1 ok         
+316N19871218 SAVE2      64      6  LVS 123187 1819    MR 11  7.70 S   7 52.80 E GPS  4856       -9  732   758       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      64      7  LVS 123187 1904    MR 11  7.70 S   7 53.00 E GPS  4855       -9  254   262       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      64      8  LVS 123187 1935    MR 11  7.70 S   7 53.10 E GPS  4853       -9   67    68       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      64      9  LVS 123187 1956    MR 11  7.70 S   7 53.20 E GPS  4855       -9   40    37       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      64     99  USW 123187    0    UN 11 7.38  S  07 49.62 E GPS  4891                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      65      1  ROS 010188 0702    BO 11 19.70 S   6 23.10 E GPS  5258       12   -9  5374      36 1-6                             CTD #1                         
+316N19871218 SAVE2      66      1  ROS 010188 2040    BO 11 33.20 S   4 55.40 E GPS  5489        9   -9  5630      36 1-6                             CTD #1                         
+316N19871218 SAVE2      67      1  ROS 010288 0937    BO 11 47.10 S   3 28.30 E GPS  5536        9   -9  5676      36 1-6                             CTD #1                         
+316N19871218 SAVE2      68      1  ROS 010288 2241    BO 12  0.30 S   2  0.30 E GPS  5539       12   -9  5677      36 1-6                             CTD #1                         
+316N19871218 SAVE2      68      2  LVS 010388 0209    MR 12  1.10 S   2  1.30 E GPS  5539       -9  952   990       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      68      3  LVS 010388 0318    MR 12  1.20 S   2  1.40 E GPS  5539       -9  503   519       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      68      4  LVS 010388 0622    MR 12  1.80 S   2  1.80 E GPS  5541       -9  213   217       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      68      5  LVS 010388 0817    MR 12  3.10 S   2  1.20 E GPS  5540       -9   76    74       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      68     99  USW 010288    0    UN 12 0.3   S  02 00.3  E GPS  5584                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      69      1  ROS 010388 1629    BO 12 12.90 S   1  0.80 E GPS  5468       11   -9  5609      36 1-6                             CTD #10                        
+316N19871218 SAVE2      70      1  ROS 010488 0530    BO 12 29.40 S   0 27.60 W GPS  5482       14   -9  5678      36 1-6                             CTD #10                        
+316N19871218 SAVE2      70     99  USW 010488    0    UN 12 29.4  S  00 27.6  W GPS  5575                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      71      1  ROS 010488 1841    BO 12 45.60 S   1 52.60 W GPS  5374       12   -9  5503      36 1-6                             CTD #10                        
+316N19871218 SAVE2      72      1  ROS 010588 0823    BO 13  2.80 S   3 23.80 W GPS  4167       13   -9  4227      36 1-6                             CTD #10                        
+316N19871218 SAVE2      73      1  ROS 010588 2011    BO 13 18.50 S   4 47.20 W GPS  4861       12   -9  4955      36 1-6                             CTD #10                        
+316N19871218 SAVE2      73      2  LVS 010588 2309    MR 13 18.80 S   4 46.90 W GPS  4850       -9  892   926       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      73      3  LVS 010688 0011    MR 13 18.70 S   4 46.40 W GPS  4851       -9  466   481       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      73      4  LVS 010688 0102    MR 13 18.70 S   4 46.30 W GPS  4851       -9  230   234       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      73      5  LVS 010688 0151    MR 13 18.70 S   4 46.20 W GPS  4851       -9  120   120       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      73     99  USW 010588    0    UN 13 18.48 S  04 47.22 W GPS  4884                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      74      1  ROS 010688 1146    BO 13 34.30 S   6 10.10 W GPS  4006        9   -9  4062      36 1-6                             CTD #10                        
+316N19871218 SAVE2      75      1  ROS 010688 2226    BO 13 46.30 S   7 20.20 W GPS  4189       10   -9  4253      36 1-6                             CTD #1                         
+316N19871218 SAVE2      75     99  USW 010688    0    UN 13 46.32 S  07 20.22 W GPS  4195                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      76      1  ROS 010788 0839    BO 13 58.90 S   8 30.90 W GPS  3603       15   -9  3718      36 1-6                             CTD #1                         
+316N19871218 SAVE2      77      1  ROS 010788 1840    BO 14 11.60 S   9 40.90 W GPS  3501        9   -9  3540      36 1-6                             CTD #1                         
+316N19871218 SAVE2      78      1  ROS 010888 0449    BO 14 24.90 S  10 51.10 W GPS  3389       12   -9  3419      36 1-6                             CTD #1                         
+316N19871218 SAVE2      78      2  LVS 010888 0727    MR 14 24.40 S  10 50.70 W GPS  3409       -9  934   721       3 1-2                             Shallow 1 good barrel,srf.pmp  
+316N19871218 SAVE2      78      3  LVS 010888 0933    MR 14 24.80 S  10 51.40 W GPS  3391       -9   83    82       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      78      4  LVS 010888 1015    MR 14 24.80 S  10 51.60 W GPS  3398       -9  165   167       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      78      5  LVS 010888 1226    MR 14 24.90 S  10 52.00 W GPS  3410       -9  967   753       2 1-2                             Shallow 2 barrel, 1 ok         
+316N19871218 SAVE2      78      6  LVS 010888 1431    MR 14 24.20 S  10 49.90 W GPS  3365       -9  464   479       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      78      7  LVS 010888 1630    MR 14 23.90 S  10 49.20 W GPS  3336       -9  934   971       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      78      8  LVS 010888 1712    MR 14 23.90 S  10 48.90 W GPS  3368       -9  201   204       2 1-2                             Shallow 1 barrel               
+316N19871218 SAVE2      78     99  USW 010888    0    UN 14 24.9  S  10 51.12 W GPS  3382                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      79      1  ROS 010988 0120    BO 14 37.70 S  12  1.00 W GPS  3174       15   -9  3170      36 1-6                             CTD #1                         
+316N19871218 SAVE2      80      1  ROS 010988 1140    BO 14 48.90 S  13 24.30 W GPS  2531       11   -9  2577      36 1-6                             CTD #1                         
+316N19871218 SAVE2      80      2  LVS 010988 1352    MR 14 48.70 S  13 22.20 W GPS  2586       -9  773   802       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      80      3  LVS 010988 1645    MR 14 52.50 S  13 37.80 W GPS  2299       -9  773   801       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      80      4  LVS 010988 1938    MR 14 56.00 S  13 54.80 W GPS  3019       -9  773   804       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      80     99  USW 010988    0    UN 14 48.9  S  13 24.3  W GPS  2548                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      81      1  ROS 011088 0035    BO 15  1.90 S  14 23.80 W GPS  3288        7   -9  3307      36 1-6                             CTD #1                         
+316N19871218 SAVE2      82      1  ROS 011088 1045    BO 15 14.30 S  15 34.40 W GPS  3489       12   -9  3553      36 1-6                             CTD #1                         
+316N19871218 SAVE2      83      1  ROS 011088 2041    BO 15 27.30 S  16 44.60 W GPS  3831       12   -9  3879      36 1-6                             CTD #1                         
+316N19871218 SAVE2      83      2  LVS 011088 2316    MR 15 26.90 S  16 44.40 W GPS  3849       -9  892   926       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      83      3  LVS 011188 0012    MR 15 27.40 S  16 44.90 W GPS  3856       -9  474   489       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      83      4  LVS 011188 0109    MR 15 27.50 S  16 44.90 W GPS  3859       -9  333   342       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      83      5  LVS 011188 0201    MR 15 27.40 S  16 44.80 W GPS  3862       -9  231   236       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      83     99  USW 011088    0    UN 15 27.3  S  16 44.58 W GPS  3831                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      84      1  ROS 011188 1010    BO 15 40.90 S  17 56.40 W GPS  4000       12   -9  4087      36 1-6                             CTD #1                         
+316N19871218 SAVE2      85      1  ROS 011188 2029    BO 15 52.50 S  19  6.70 W GPS  4615        9   -9  4695      36 1-6                             CTD #1                         
+316N19871218 SAVE2      86      1  ROS 011288 0723    BO 16  4.70 S  20 18.00 W GPS  4556       10   -9  4586      36 1-6                             CTD #1                         
+316N19871218 SAVE2      87      1  ROS 011288 1817    BO 16 17.70 S  21 28.90 W GPS  5281       16   -9  5406      36 1-6                             CTD #1                         
+316N19871218 SAVE2      87      2  LVS 011288 2118    MR 16 16.60 S  21 28.50 W GPS  5279       -9  930   968       5 1-2                             Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      87      3  LVS 011288 2342    MR 16 16.10 S  21 28.60 W GPS  5249       -9  501   516       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      87      4  LVS 011388 0203    MR 16 15.20 S  21 28.60 W GPS  4999       -9  324   333       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      87      5  LVS 011388 0354    MR 16 14.90 S  21 28.10 W GPS  4710       -9  212   216       4 1-2                             Shallow 2 barrel               
+316N19871218 SAVE2      87     99  USW 011288    0    UN 16 17.7  S  21 28.92 W GPS  5314                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      88      1  ROS 011388 1345    BO 16 31.50 S  22 50.00 W GPS  4874       10   -9  5070      36 1-6                             CTD #1                         
+316N19871218 SAVE2      89      1  ROS 011488 0017    BO 16 45.10 S  24  0.20 W GPS  5351       12   -9  5473      36 1-6                             CTD #1                         
+316N19871218 SAVE2      90      1  ROS 011488 1050    BO 16 57.40 S  25  6.50 W GPS  5214       13   -9  5320      36 1-6                             CTD #1                         
+316N19871218 SAVE2      91      1  ROS 011488 2252    BO 17  6.70 S  26 12.40 W GPS  5651       13   -9  5788      39 1-6                             CTD #1 Trip prb                
+316N19871218 SAVE2      91      2  LVS 011588 0212    MR 17  6.20 S  26 11.50 W GPS  5656       -9  923   960       4 1-6                             Shallow 2 barrel               
+316N19871218 SAVE2      91      3  LVS 011588 0328    MR 17  6.00 S  26 10.80 W GPS  5639       -9  534   552       4 1-6                             Shallow 2 barrel               
+316N19871218 SAVE2      91      4  LVS 011588 0427    MR 17  5.80 S  26 10.30 W GPS  5481       -9  383   394       4 1-6                             Shallow 2 barrel               
+316N19871218 SAVE2      91      5  LVS 011588 0520    MR 17  5.70 S  26  9.90 W GPS  5409       -9  285   292       4 1-6                             Shallow 2 barrel               
+316N19871218 SAVE2      91      6  LVS 011588 0615    MR 17  5.50 S  26  9.50 W GPS  5366       -9  160   163       4 1-6                             Shallow 2 barrel               
+316N19871218 SAVE2      91     99  USW 011488    0    UN 17 6.72  S  26 12.42 W GPS  5695                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      92      1  ROS 011588 1546    BO 17 20.00 S  27 28.00 W GPS  5339       11   -9  5466      36 1-6                             CTD #1                         
+316N19871218 SAVE2      93      1  ROS 011688 0256    BO 17 33.60 S  28 41.50 W GPS  5079       12   -9  5196      36 1-6                             CTD #1                         
+316N19871218 SAVE2      94      1  ROS 011688 1357    BO 17 45.70 S  29 53.60 W GPS  4851       12   -9  4928      36 1-6                             CTD #1                         
+316N19871218 SAVE2      95      1  LVS 011788 0030    MR 18  0.10 S  30 59.80 W GPS  4691       15 4565  4795       4 1                               Deep    2 barrel               
+316N19871218 SAVE2      95      2  ROS 011788 0402    BO 17 59.80 S  30 59.00 W GPS  4705       11   -9  4785      36 1-6                             CTD #1                         
+316N19871218 SAVE2      95      3  LVS 011788 0813    MR 18  0.00 S  30 59.90 W GPS  4698      296 4570  4508       4 1                               Deep    2 barrel               
+316N19871218 SAVE2      95      4  ROS 011788 1033    BO 18  0.20 S  31  0.10 W GPS  4686       -9   -9   601      24 1-6                             CTD #1 24 bottles              
+316N19871218 SAVE2      95      5  LVS 011788 1202    MR 18  0.00 S  31  0.00 W GPS  4690       -9  923   958       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      95      6  LVS 011788 1416    MR 17 59.60 S  30 59.60 W GPS  4699       -9  557   576       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      95      7  LVS 011788 1614    MR 17 59.70 S  30 58.70 W GPS  4699       -9  382   315       2 1                               Shallow 1 good barrel          
+316N19871218 SAVE2      95      8  LVS 011788 1643    MR 17 59.70 S  30 58.50 W GPS  4702       -9  382   393       2 1                               Shallow 1 barrel               
+316N19871218 SAVE2      95      9  LVS 011788 1818    MR 18  0.10 S  30 58.50 W GPS  4701       -9  237   242       5 1                               Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2      95     99  USW 011788    0    UN 17 59.82 S  30 58.98 W GPS  4723                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      96      1  ROS 011888 0313    BO 18  8.10 S  32 14.80 W GPS  4548       12   -9  4625      36 1-6                             CTD #1                         
+316N19871218 SAVE2      97      1  ROS 011888 1309    BO 18 16.60 S  33 24.20 W GPS  4356       10   -9  4435      36 1-6                             CTD #1                         
+316N19871218 SAVE2      98      1  ROS 011888 2308    BO 18 26.20 S  34 33.60 W GPS  4241       10   -9  4312      36 1-6                             CTD #1                         
+316N19871218 SAVE2      98      2  LVS 011988 0212    MR 18 25.20 S  34 31.60 W GPS  4246       -9  755   783       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      98      3  LVS 011988 0425    MR 18 27.00 S  34 42.60 W GPS  4205       -9  755   784       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      98      4  LVS 011988 0635    MR 18 26.90 S  34 51.10 W GPS  4164       -9  755   781       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      98     99  USW 011888    0    UN 18 26.22 S  34 33.6  W GPS  4252                                                             Surface Radium Pump Sample
+316N19871218 SAVE2      99      1  ROS 011988 1319    BO 18 33.60 S  35 43.20 W GPS  3969        6   -9  4035      36 1-6                             CTD #1                         
+316N19871218 SAVE2      99      2  LVS 011988 1621    MR 18 33.20 S  35 44.00 W GPS  3974       -9 2327  2421       5 1-2                             Deep    2 barrel,srf.pmp       
+316N19871218 SAVE2      99      3  LVS 011988 1912    MR 18 32.80 S  35 45.30 W GPS  3965       -9 1602  1669       4 1                               Deep    2 barrel               
+316N19871218 SAVE2      99      4  LVS 011988 2138    MR 18 32.90 S  35 46.10 W GPS  3961       -9  948   985       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      99      5  LVS 011988 2343    MR 18 32.40 S  35 46.70 W GPS  3961       -9  575   597       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      99      6  LVS 012088 0137    MR 18 32.80 S  35 46.30 W GPS  3969       -9  382   394       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      99      7  LVS 012088 0331    MR 18 33.40 S  35 47.30 W GPS  3969       -9  245   250       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2      99     99  USW 011988    0    UN 18 33.6  S  35 43.2  W GPS  3976                                                             Surface Radium Pump Sample
+316N19871218 SAVE2     100      1  ROS 012088 0732    BO 18 37.30 S  36 13.10 W GPS  3863        8   -9  3923      36 1-6                             CTD #1                         
+316N19871218 SAVE2     101      1  ROS 012088 1341    BO 18 41.50 S  36 44.60 W GPS  3752        8   -9  3809      36 1-6                             CTD #1                         
+316N19871218 SAVE2     101      2  LVS 011988 1616    MR 18 42.20 S  36 43.90 W GPS  3756       -9  913   948       4 1                               Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2     101      3  LVS 011988 1724    MR 18 42.40 S  36 43.40 W GPS  3757       -9  643   666       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2     101      4  LVS 012088 1819    MR 18 42.50 S  36 42.90 W GPS  3759       -9  435   448       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2     101      5  LVS 012088 1910    MR 18 42.40 S  36 42.60 W GPS  3760       -9  269   276       5 1                               Shallow 2 barrel               
+316N19871218 SAVE2     101     99  USW 012088    0    UN 18 41.52 S  36 44.58 W GPS  3756                                                             Surface Radium Pump Sample
+316N19871218 SAVE2     102      1  ROS 012188 0038    BO 18 44.70 S  37 15.80 W GPS  3488       11   -9  3526      36 1-6                             CTD #1                         
+316N19871218 SAVE2     103      1  ROS 012188 0738    BO 18 51.20 S  37 42.50 W GPS  3223        9   -9  3254      36 1-6                             CTD #1                         
+316N19871218 SAVE2     104      1  ROS 012188 1213    BO 18 51.50 S  37 47.60 W GPS  1689       10   -9  1773      24 1-6                             CTD #1 24 bottle               
+316N19871218 SAVE2     104      2  LVS 012188 1410    MR 18 51.60 S  37 47.60 W GPS  1725       -9 1010  1050       5 1                               Shallow 2 barrel,srf.pmp       
+316N19871218 SAVE2     104      3  LVS 012188 1515    MR 18 51.70 S  37 47.60 W GPS  1717       -9  673   695       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2     104      4  LVS 012188 1609    MR 18 51.80 S  37 47.40 W GPS  1765       -9  423   436       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2     104      5  LVS 012188 1655    MR 18 51.90 S  37 47.50 W GPS  1766       -9  193   196       4 1                               Shallow 2 barrel               
+316N19871218 SAVE2     104     99  USW 012188    0    UN 18 51.48 S  37 47.58 W GPS  1756                                                             Surface Radium Pump Sample
+316N19871218 SAVE2     105      1  ROS 012188 1805    BO 18 53.40 S  37 52.70 W GPS    65        9   -9    63      13 1-6                             CTD #1 13 bottle               
+316N19871218 SAVE2     105      2  LVS 012188 1902    MR 18 53.40 S  37 52.80 W GPS    62       -9   63    30       2 1                               Shallow 2 barrel, 1 ok         
+316N19871218 SAVE2     105      3  LVS 012188 1915    MR 18 53.80 S  37 52.80 W GPS    66       -9   63    59       2 1                               Shallow 1 barrel (re-cast)     
+316N19871218 SAVE2     105     99  USW 012188    0    UN 18 53.4  S  37 52.68 W GPS    65                                                             Surface Radium Pump Sample

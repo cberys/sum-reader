@@ -1,0 +1,469 @@
+R/V Thomas Washington   CRUISE TUNES/3   P16C  Sept 1 1991 - sept 30 1991                  20010326WHPOSIOKJU                                                       
+SHIP/CRUISE WOCE                 CAST         UTC            POSITION                   UNC    COR HT ABOVE WIRE   MAX  NO.  OF               
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE  LATITUDE   LONGITUDE     NAV  DEPTH CDEPTH BOTTOM    OUT PRESS  BOTTLES PARAMETERS  COMMENTS
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+31WTTUNES_3 P16C     221       1  ROS 090191 0817   BE  17 30.32 S 150 29.56 W   GPS                                                                  
+31WTTUNES_3 P16C     221       1  ROS 090191 0937   BO  17 30.61 S 150 28.87 W   GPS   3600   3596      5   3579  3639       36 1-8         CTD10     
+31WTTUNES_3 P16C     221       1  ROS 090191 1058   EN  17 30.51 S 150 27.89 W   GPS                                                                  
+31WTTUNES_3 P16C     222       1  ROS 090191 1413   BE  17  0.27 S 150 29.89 W   GPS                                                                  
+31WTTUNES_3 P16C     222       1  ROS 090191 1535   BO  16 59.65 S 150 29.66 W   GPS   3770   3768      5   3735  3805       36 1-11,23-24  CTD10     
+31WTTUNES_3 P16C     222       1  ROS 090191 1717   EN  16 58.52 S 150 29.69 W   GPS                                                                  
+31WTTUNES_3 P16C     223       1  ROS 090191 2031   BE  16 30.02 S 150 29.73 W   GPS                                                                  
+31WTTUNES_3 P16C     223       1  ROS 090191 2148   BO  16 30.02 S 150 30.10 W   GPS   4090   4093      2   4204  4117       36 1-8         CTD10     
+31WTTUNES_3 P16C     223       1  ROS 090191 2313   EN  16 29.91 S 150 30.74 W   GPS                                                                  
+31WTTUNES_3 P16C     224       1  ROS 090291 0219   BE  15 59.72 S 150 29.89 W   GPS                                                                  
+31WTTUNES_3 P16C     224       1  ROS 090291 0333   BO  15 59.31 S 150 30.14 W   GPS   3375   3369     10   3380  3421       36 1-8         CTD10     
+31WTTUNES_3 P16C     224       1  ROS 090291 0502   EN  15 59.34 S 150 30.50 W   GPS                                                                  
+31WTTUNES_3 P16C     224       2  FLT 090291 0514   DE  15 59.02 S 150 30.63 W   GPS                                                        85        
+31WTTUNES_3 P16C     225       1  LVS 090291 0837   BE  15 30.03 S 150 40.14 W   GPS                                                                  
+31WTTUNES_3 P16C     225       1  LVS 090291 1059   MR  15 30.67 S 150 39.89 W   GPS   4242   4247     55   4260              5 1,3,12      deep, 5 barrels          
+31WTTUNES_3 P16C     225       1  LVS 090291 1300   EN  15 31.15 S 150 39.40 W   GPS                                                                  
+31WTTUNES_3 P16C     225       2  ROS 090291 1331   BE  15 31.50 S 150 39.25 W   GPS                                                                  
+31WTTUNES_3 P16C     225       2  ROS 090291 1454   BO  15 31.56 S 150 39.17 W   GPS   4243   4248      3   4243  4381       36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     225       2  ROS 090291 1629   EN  15 31.39 S 150 39.39 W   GPS                                                                  
+31WTTUNES_3 P16C     225       3  LVS 090291 1649   BE  15 31.20 S 150 39.52 W   GPS   4250                                                 5 brls, msgr hangup
+31WTTUNES_3 P16C     225       3  LVS 090291 1910   MR  15 31.12 S 150 40.46 W   GPS                        3010              5 1,3,12      msgr hangup  
+31WTTUNES_3 P16C     225       4  LVS 090291 2110   MR  15 31.12 S 150 41.17 W   GPS   4250                 2000              4 1,3,12      3 brls,btm btl no trip  
+31WTTUNES_3 P16C     225       4  LVS 090291 2300   EN  15 31.42 S 150 41.73 W   GPS                                                                  
+31WTTUNES_3 P16C     225       5  ROS 090291 2329   BE  15 31.66 S 150 42.08 W   GPS                                                                  
+31WTTUNES_3 P16C     225       5  ROS 090391 0013   BO  15 31.66 S 150 42.23 W   GPS   4243   4248      3   4243             36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     225       5  ROS 090391 0104   EN  15 31.56 S 150 42.31 W   GPS                                                                  
+31WTTUNES_3 P16C     226       1  ROS 090391 0422   BE  15  0.00 S 150 50.14 W   GPS                                                                  
+31WTTUNES_3 P16C     226       1  ROS 090391 0547   BO  14 59.94 S 150 50.10 W   GPS   4528   4539      7   4460  4591       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     226       1  ROS 090391 0725   EN  15  0.27 S 150 50.16 W   GPS                                                                  
+31WTTUNES_3 P16C     226       2  DRF 090391 0739   DE  15  0.08 S 150 49.89 W   GPS                                                        15490     
+31WTTUNES_3 P16C     227       1  ROS 090391 1051   BE  14 29.72 S 151  0.01 W   GPS                                                                  
+31WTTUNES_3 P16C     227       1  ROS 090391 1217   BO  14 30.55 S 150 59.44 W   GPS   4432   4441      5   4375  4487       36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     227       1  ROS 090391 1359   EN  14 30.70 S 151  0.22 W   GPS                                                                  
+31WTTUNES_3 P16C     228       1  ROS 090391 1712   BE  14  0.06 S 150 59.85 W   GPS                                                                  
+31WTTUNES_3 P16C     228       1  ROS 090391 1843   BO  14  0.40 S 150 59.87 W   GPS   4308   4314      3   4260  4371       36 1-8,12      CTD10     
+31WTTUNES_3 P16C     228       1  ROS 090391 2012   EN  14  0.62 S 151  0.19 W   GPS                                                                  
+31WTTUNES_3 P16C     229       1  ROS 090391 2329   BE  13 29.77 S 150 59.93 W   GPS                                                                  
+31WTTUNES_3 P16C     229       1  ROS 090491 0055   BO  13 30.14 S 151  0.81 W   GPS   4620   4632      4   4625  4691       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     229       1  ROS 090491 0239   EN  13 30.70 S 151  1.62 W   GPS                                                                  
+31WTTUNES_3 P16C     230       1  ROS 090491 0548   BE  12 59.68 S 151  0.06 W   GPS                                                                  
+31WTTUNES_3 P16C     230       1  ROS 090491 0718   BO  12 59.60 S 151  0.18 W   GPS   4595   4607      8   4529  4661       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     230       1  ROS 090491 0852   EN  12 59.88 S 151  0.73 W   GPS                                                                  
+31WTTUNES_3 P16C     231       1  ROS 090491 1200   BE  12 29.56 S 151  0.08 W   GPS                                                                  
+31WTTUNES_3 P16C     231       1  ROS 090491 1326   BO  12 30.01 S 151  0.50 W   GPS   4783   4799      7   4730  4857       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     231       1  ROS 090491 1520   EN  12 30.05 S 151  0.60 W   GPS                                                                  
+31WTTUNES_3 P16C     232       1  ROS 090491 1832   BE  12  1.50 S 151  3.29 W   GPS                                                                  
+31WTTUNES_3 P16C     232       1  ROS 090491 2004   BO  12  0.22 S 150 59.93 W   GPS   4870   4888      8   4845  4945       36 1-8         CTD10     
+31WTTUNES_3 P16C     232       1  ROS 090491 2151   EN  12  0.77 S 151  0.88 W   GPS                                                                  
+31WTTUNES_3 P16C     232       2  BIO 090491 2201   BE  12  0.80 S 151  0.95 W   GPS                                                                  
+31WTTUNES_3 P16C     232       2  BIO 090491 2221   BO  12  0.78 S 151  1.28 W   GPS                    8    200              2                       
+31WTTUNES_3 P16C     232       2  BIO 090491 2242   EN  12  0.70 S 151  1.59 W   GPS                                                                  
+31WTTUNES_3 P16C     233       1  ROS 090591 0200   BE  11 29.99 S 150 59.78 W   GPS                                                                  
+31WTTUNES_3 P16C     233       1  ROS 090591 0329   BO  11 30.22 S 150 59.82 W   GPS   4990   5012      3   4925  5075       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     233       1  ROS 090591 0525   EN  11 30.29 S 150 59.56 W   GPS                                                                  
+31WTTUNES_3 P16C     234       1  ROS 090591 0836   BE  10 59.94 S 150 59.87 W   GPS                                                                  
+31WTTUNES_3 P16C     234       1  ROS 090591 1018   BO  11  0.74 S 151  0.13 W   GPS   5033   5056      8   5000  5127       36 1-11        CTD10     
+31WTTUNES_3 P16C     234       1  ROS 090591 1200   EN  11  1.55 S 151  0.34 W   GPS                                                                  
+31WTTUNES_3 P16C     235       1  LVS 090591 1619   BE  10 30.36 S 150 59.37 W   GPS   4970                                                 9 barrels
+31WTTUNES_3 P16C     235       1  LVS 090591 1951   MR  10 30.68 S 150 58.21 W   GPS                        5050                1,3,12                
+31WTTUNES_3 P16C     235       1  LVS 090591 2230   EN  10 30.85 S 150 57.58 W   GPS                                                                  
+31WTTUNES_3 P16C     235       2  BIO 090591 2250   BE  10 30.88 S 150 57.52 W   GPS                                                                  
+31WTTUNES_3 P16C     235       2  BIO 090591 2307   BO  10 31.06 S 150 57.59 W   GPS                         200              2                       
+31WTTUNES_3 P16C     235       2  BIO 090691 0020   EN  10 32.09 S 150 57.73 W   GPS                                                                  
+31WTTUNES_3 P16C     235       3  LVS 090691 0400   BE  10 30.76 S 150 59.71 W   GPS   4970                                                 4 brls, msgr hangup
+31WTTUNES_3 P16C     235       3  LVS 090691 0619   MR  10 31.10 S 150 58.68 W   GPS                        3010              9 1,3,12      msgr hangup  
+31WTTUNES_3 P16C     235       3  LVS 090691 1020   EN  10 30.64 S 150 57.12 W   GPS                                                                  
+31WTTUNES_3 P16C     235       4  ROS 090691 1119   BE  10 29.90 S 150 59.98 W   GPS                                                                  
+31WTTUNES_3 P16C     235       4  ROS 090691 1247   BO  10 30.47 S 150 59.29 W   GPS   4910   4929     50   4855  4941       36 1-8,10-12,  CTD10     
+31WTTUNES_3 P16C     235       4  ROS 090691 1435   EN  10 30.77 S 150 59.00 W   GPS                                            23-24                 
+31WTTUNES_3 P16C     236       1  ROS 090691 1758   BE   9 59.93 S 150 59.69 W   GPS                                                                  
+31WTTUNES_3 P16C     236       1  ROS 090691 1925   BO  10  0.19 S 150 59.35 W   GPS   4690   4704     50   4600  4723       36 1-8         CTD10     
+31WTTUNES_3 P16C     236       1  ROS 090691 2104   EN  10  0.76 S 150 59.04 W   GPS                                                                  
+31WTTUNES_3 P16C     236       2  BIO 090691 2108   BE  10  0.77 S 150 59.04 W   GPS                                                                  
+31WTTUNES_3 P16C     236       2  BIO 090691 2122   BO  10  0.72 S 150 59.01 W   GPS                         200              2                       
+31WTTUNES_3 P16C     236       2  BIO 090691 2139   EN  10  0.65 S 150 59.01 W   GPS                                                                  
+31WTTUNES_3 P16C     236       3  DRF 090691 2146   DE  10  0.57 S 150 59.05 W   GPS                                                        15115     
+31WTTUNES_3 P16C     237       1  ROS 090791 0056   BE   9 29.81 S 150 59.83 W   GPS                                                                  
+31WTTUNES_3 P16C     237       1  ROS 090791 0224   BO   9 29.80 S 150 59.66 W   GPS   4910   4929      7   4852  4989       36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     237       1  ROS 090791 0420   EN   9 29.76 S 150 59.70 W   GPS                                                                  
+31WTTUNES_3 P16C     238       1  ROS 090791 0724   BE   8 59.91 S 150 59.86 W   GPS                                                                  
+31WTTUNES_3 P16C     238       1  ROS 090791 0836   BO   9  0.03 S 150 59.78 W   GPS   3840   3837          3780  3883       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     238       1  ROS 090791 1009   EN   9  0.18 S 150 59.58 W   GPS                                                                  
+31WTTUNES_3 P16C     239       1  ROS 090791 1310   BE   8 29.84 S 150 59.88 W   GPS                                                                  
+31WTTUNES_3 P16C     239       1  ROS 090791 1426   BO   8 30.08 S 150 59.66 W   GPS   4050   4051      5   4102  4215       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     239       1  ROS 090791 1613   EN   8 30.42 S 150 59.70 W   GPS                                                                  
+31WTTUNES_3 P16C     240       1  ROS 090791 1920   BE   7 59.83 S 150 59.89 W   GPS                                                                  
+31WTTUNES_3 P16C     240       1  ROS 090791 2057   BO   8  0.40 S 150 59.72 W   GPS   4975   4996     27   5040  5167       36 1-8         CTD10     
+31WTTUNES_3 P16C     240       1  ROS 090791 2244   EN   8  0.96 S 150 59.76 W   GPS                                                                  
+31WTTUNES_3 P16C     240       2  BIO 090791 2247   BE   8  0.98 S 150 59.73 W   GPS                                                                  
+31WTTUNES_3 P16C     240       2  BIO 090791 2303   BO   8  0.65 S 151  0.11 W   GPS                         200              2                       
+31WTTUNES_3 P16C     240       2  BIO 090791 2318   EN   8  0.40 S 151  0.07 W   GPS                                                                  
+31WTTUNES_3 P16C     240       3  FLT 090791 2323   DE   8  0.31 S 151  0.06 W   GPS                                                        34        
+31WTTUNES_3 P16C     241       1  ROS 090891 0232   BE   7 30.04 S 150 59.97 W   GPS                                                                  
+31WTTUNES_3 P16C     241       1  ROS 090891 0410   BO   7 30.48 S 151  0.04 W   GPS   5210   5238     11   5196  5345       36 1-6         CTD10     
+31WTTUNES_3 P16C     241       1  ROS 090891 0616   EN   7 31.34 S 151  0.30 W   GPS                                                                  
+31WTTUNES_3 P16C     242       1  ROS 090891 0936   BE   6 59.91 S 150 59.94 W   GPS                                                                  
+31WTTUNES_3 P16C     242       1  ROS 090891 1114   BO   7  1.09 S 151  0.16 W   GPS   5182   5209      4   5210  5241       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     242       1  ROS 090891 1300   EN   7  1.75 S 151  0.22 W   GPS                                                                  
+31WTTUNES_3 P16C     243       1  ROS 090891 1617   BE   6 29.79 S 150 59.82 W   GPS                                                                  
+31WTTUNES_3 P16C     243       1  ROS 090891 1750   BO   6 29.89 S 151  0.02 W   GPS   4900   4916     30   4920  5067       36 1-6         CTD10     
+31WTTUNES_3 P16C     243       1  ROS 090891 1937   EN   6 30.46 S 151  0.02 W   GPS                                                                  
+31WTTUNES_3 P16C     244       1  BIO 090891 2248   BE   6  0.06 S 151  0.04 W   GPS                                                                  
+31WTTUNES_3 P16C     244       1  BIO 090891 2303   BO   6  0.09 S 151  0.19 W   GPS                         200              2                       
+31WTTUNES_3 P16C     244       1  BIO 090891 2319   EN   6  0.16 S 151  0.31 W   GPS                                                                  
+31WTTUNES_3 P16C     244       2  LVS 090891 2342   BE   6  0.26 S 151  0.42 W   GPS   5160                                                 deep, 9 brls
+31WTTUNES_3 P16C     244       2  LVS 090991 0234   MR   6  0.59 S 151  0.26 W   GPS   5160   5183     45   5100              9 1,3,12                
+31WTTUNES_3 P16C     244       2  LVS 090991 0521   EN   6  1.41 S 151  0.22 W   GPS                                                                  
+31WTTUNES_3 P16C     244       3  ROS 090991 0539   BE   6  1.16 S 151  0.15 W   GPS                                                                  
+31WTTUNES_3 P16C     244       3  ROS 090991 0719   BO   6  1.86 S 151  0.48 W   GPS   5117   5139      6   5160  5231       36 1-8         CTD10     
+31WTTUNES_3 P16C     244       3  ROS 090991 0914   EN   6  2.28 S 151  0.61 W   GPS                                                                  
+31WTTUNES_3 P16C     244       4  LVS 090991 0943   BE   5 59.83 S 150 59.87 W   GPS   5160                                                 intrmed, 8 barls
+31WTTUNES_3 P16C     244       4  LVS 090991 1148   MR   5 59.11 S 150 58.79 W   GPS                        2914              9 1,3,12                
+31WTTUNES_3 P16C     244       4  LVS 090991 1333   EN   5 58.47 S 150 57.83 W   GPS                                                                  
+31WTTUNES_3 P16C     245       1  ROS 090991 1641   BE   5 29.81 S 150 59.77 W   GPS                                                                  
+31WTTUNES_3 P16C     245       1  ROS 090991 1818   BO   5 29.77 S 151  0.36 W   GPS   4960   4978      5   4980  5111       36 1-6         CTD10     
+31WTTUNES_3 P16C     245       1  ROS 090991 1959   EN   5 30.57 S 151  0.92 W   GPS                                                                  
+31WTTUNES_3 P16C     246       1  BIO 090991 2308   BE   4 59.91 S 151  0.11 W   GPS                                                                  
+31WTTUNES_3 P16C     246       1  BIO 090991 2323   BO   5  0.18 S 151  0.27 W   GPS                         200              2                       
+31WTTUNES_3 P16C     246       1  BIO 090991 2342   EN   5  0.33 S 151  0.37 W   GPS                                                                  
+31WTTUNES_3 P16C     246       2  ROS 090991 2350   BE   5  0.44 S 151  0.42 W   GPS                                                                  
+31WTTUNES_3 P16C     246       2  ROS 091091 0121   BO   5  0.78 S 151  0.27 W   GPS   4985   5004     13   4820  4951       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     246       2  ROS 091091 0311   EN   5  1.64 S 151  0.33 W   GPS                                                                  
+31WTTUNES_3 P16C     247       3  DRF 091091 0311   DE   5  1.64 S 151  0.33 W   GPS                                                        15106     
+31WTTUNES_3 P16C     247       1  ROS 091091 0638   BE   4 30.12 S 150 59.94 W   GPS                                                                  
+31WTTUNES_3 P16C     247       1  ROS 091091 0809   BO   4 31.17 S 151  0.43 W   GPS   4655   4664     12   4682  4703       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     247       1  ROS 091091 0952   EN   4 31.80 S 151  0.23 W   GPS                                                                  
+31WTTUNES_3 P16C     247       2  FLT 091091 0956   DE   4 31.79 S 151  0.22 W   GPS                                                        65        
+31WTTUNES_3 P16C     248       1  ROS 091091 1308   BE   3 59.69 S 150 59.98 W   GPS                                                                  
+31WTTUNES_3 P16C     248       1  ROS 091091 1438   BO   4  0.52 S 151  0.84 W   GPS   4560   4567     13   4690  4693       36 1-11        CTD10     
+31WTTUNES_3 P16C     248       1  ROS 091091 1619   EN   4  1.08 S 151  1.62 W   GPS                                                                  
+31WTTUNES_3 P16C     249       1  BIO 091091 1942   BE   3 29.81 S 151  0.06 W   GPS                                                                  
+31WTTUNES_3 P16C     249       1  BIO 091091 1959   BO   3 29.64 S 151  0.28 W   GPS                         200              2                       
+31WTTUNES_3 P16C     249       1  BIO 091091 2021   EN   3 29.45 S 151  0.50 W   GPS                                                                  
+31WTTUNES_3 P16C     249       2  ROS 091091 2025   BE   3 29.42 S 151  0.54 W   GPS                                                                  
+31WTTUNES_3 P16C     249       2  ROS 091091 2152   BO   3 29.50 S 151  1.06 W   GPS   4715   4725     12   4675  4779       36 1-6         CTD10     
+31WTTUNES_3 P16C     249       2  ROS 091091 2332   EN   3 30.49 S 151  1.65 W   GPS                                                                  
+31WTTUNES_3 P16C     250       1  ROS 091191 0234   BE   2 59.94 S 150 59.99 W   GPS                                                                  
+31WTTUNES_3 P16C     250       1  ROS 091191 0408   BO   3  0.43 S 151  0.76 W   GPS   4765   4777      4   4725  4843       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     250       1  ROS 091191 0553   EN   3  0.58 S 151  1.77 W   GPS                                                                  
+31WTTUNES_3 P16C     251       1  ROS 091191 0820   BE   2 50.03 S 150 59.69 W   GPS                                                                  
+31WTTUNES_3 P16C     251       1  ROS 091191 0952   BO   2 50.52 S 151  0.23 W   GPS   4705   4715      9   4685  4796       10 1-2         CTD9      
+31WTTUNES_3 P16C     251       1  ROS 091191 1113   EN   2 51.20 S 151  0.46 W   GPS                                                                  
+31WTTUNES_3 P16C     252       1  ROS 091191 1300   BE   2 40.12 S 150 59.97 W   GPS                                                                  
+31WTTUNES_3 P16C     252       1  ROS 091191 1429   BO   2 40.99 S 151  0.75 W   GPS   4796   4809      6   4810  4865       36 1-8         CTD10     
+31WTTUNES_3 P16C     252       1  ROS 091191 1613   EN   2 40.94 S 151  1.53 W   GPS                                                                  
+31WTTUNES_3 P16C     253       1  ROS 091191 1738   BE   2 29.90 S 150 59.91 W   GPS                                                                  
+31WTTUNES_3 P16C     253       1  ROS 091191 1907   BO   2 30.31 S 151  0.51 W   GPS   4806   4819     12   4750  4877       11 1-2         CTD9      
+31WTTUNES_3 P16C     253       1  ROS 091191 2031   EN   2 30.44 S 151  0.96 W   GPS                                                                  
+31WTTUNES_3 P16C     254       1  BIO 091191 2155   BE   2 19.63 S 150 59.45 W   GPS                                                                  
+31WTTUNES_3 P16C     254       1  BIO 091191 2211   BO   2 19.82 S 150 59.88 W   GPS                         200              2                       
+31WTTUNES_3 P16C     254       1  BIO 091191 2227   EN   2 19.87 S 151  0.15 W   GPS                                                                  
+31WTTUNES_3 P16C     254       2  ROS 091191 2235   BE   2 19.82 S 151  0.28 W   GPS                                                                  
+31WTTUNES_3 P16C     254       2  ROS 091291 0006   BO   2 20.04 S 151  0.83 W   GPS   4910   4926      5   4895  5039       36 1-8         CTD10     
+31WTTUNES_3 P16C     254       2  ROS 091291 0156   EN   2 20.86 S 151  1.57 W   GPS                                                                  
+31WTTUNES_3 P16C     254       3  DRF 091291 0159   DE   2 20.86 S 151  1.60 W   GPS                                                        15015     
+31WTTUNES_3 P16C     255       1  ROS 091291 0326   BE   2  9.85 S 150 59.84 W   GPS                                                                  
+31WTTUNES_3 P16C     255       1  ROS 091291 0508   BO   2  9.80 S 150 59.80 W   INT   4835   4849      9   4818  4893       10 1-2         CTD9      
+31WTTUNES_3 P16C     255       1  ROS 091291 0649   EN   2 10.23 S 151  1.01 W   GPS                                                                  
+31WTTUNES_3 P16C     255       2  FLT 091291 0653   DE   2 10.20 S 151  1.05 W   GPS                                                        64        
+31WTTUNES_3 P16C     256       1  ROS 091291 0817   BE   1 59.85 S 150 59.43 W   GPS                                                                  
+31WTTUNES_3 P16C     256       1  ROS 091291 0944   BO   1 59.86 S 150 59.47 W   GPS   4749   4760      9   4682  4821       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     256       1  ROS 091291 1124   EN   2  0.34 S 150 59.41 W   GPS                                                                  
+31WTTUNES_3 P16C     257       1  ROS 091291 1243   BE   1 50.14 S 150 59.86 W   GPS                                                                  
+31WTTUNES_3 P16C     257       1  ROS 091291 1412   BO   1 49.96 S 150 59.60 W   GPS   4825   4839     12   4765  4899       11 1-2         CTD9      
+31WTTUNES_3 P16C     257       1  ROS 091291 1534   EN   1 49.97 S 150 59.51 W   GPS                                                                  
+31WTTUNES_3 P16C     258       1  ROS 091291 1650   BE   1 39.88 S 150 59.86 W   GPS                                                                  
+31WTTUNES_3 P16C     258       1  ROS 091291 1819   BO   1 40.17 S 150 59.76 W   GPS   4874   4889      6   4820  4957       36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     258       1  ROS 091291 2001   EN   1 40.53 S 150 59.69 W   GPS                                                                  
+31WTTUNES_3 P16C     259       1  BIO 091291 2127   BE   1 29.74 S 151  0.04 W   GPS                                                                  
+31WTTUNES_3 P16C     259       1  BIO 091291 2144   BO   1 29.81 S 151  0.24 W   GPS                         200              2                       
+31WTTUNES_3 P16C     259       1  BIO 091291 2233   EN   1 30.04 S 151  0.57 W   GPS                                                                  
+31WTTUNES_3 P16C     259       2  LVS 091291 2233   BE   1 30.04 S 151  0.57 W   GPS   4875                                                 deep, 9 brls
+31WTTUNES_3 P16C     259       2  LVS 091391 0106   MR   1 30.46 S 151  0.47 W   GPS   4835   4849     45   4879                                      
+31WTTUNES_3 P16C     259       2  LVS 091391 0334   EN   1 30.99 S 150 59.35 W   GPS                                                                  
+31WTTUNES_3 P16C     259       3  LVS 091391 0522   BE   1 29.73 S 150 59.96 W   GPS   4900                                                 intermed, 9 brls
+31WTTUNES_3 P16C     259       3  LVS 091391 0711   MR   1 30.32 S 150 59.27 W   GPS   4900   4916          2614              6 1,3,12                
+31WTTUNES_3 P16C     259       4  LVS 091391 0907   MR   1 31.13 S 150 58.47 W   GPS   4900   4916          2614              3 1,3,12                
+31WTTUNES_3 P16C     259       4  LVS 091391 1016   EN   1 31.56 S 150 58.00 W   GPS                                                                  
+31WTTUNES_3 P16C     259       5  ROS 091391 1141   BE   1 31.00 S 150 59.59 W   GPS                                                                  
+31WTTUNES_3 P16C     259       5  ROS 091391 1310   BO   1 31.49 S 150 59.54 W   GPS   4858   4873      6   4810  4931       11 1-2         CTD9      
+31WTTUNES_3 P16C     259       5  ROS 091391 1431   EN   1 31.71 S 150 59.45 W   GPS                                                                  
+31WTTUNES_3 P16C     260       1  ROS 091391 1847   BE   1 19.74 S 150 59.61 W   GPS                                                                  
+31WTTUNES_3 P16C     260       1  ROS 091391 2016   BO   1 19.81 S 150 59.70 W   GPS   4839   4853      8   4782  4907       36 1-8         CTD10     
+31WTTUNES_3 P16C     260       1  ROS 091391 2200   EN   1 20.25 S 150 59.84 W   GPS                                                                  
+31WTTUNES_3 P16C     260       2  BIO 091391 2210   BE   1 20.32 S 150 59.72 W   GPS                                                                  
+31WTTUNES_3 P16C     260       2  BIO 091391 2225   BO   1 20.28 S 150 59.73 W   GPS                         200              2                       
+31WTTUNES_3 P16C     260       2  BIO 091391 2249   EN   1 20.31 S 150 59.53 W   GPS                                                                  
+31WTTUNES_3 P16C     261       1  ROS 091491 0009   BE   1  9.84 S 150 59.81 W   GPS                                                                  
+31WTTUNES_3 P16C     261       1  ROS 091491 0137   BO   1 10.08 S 151  0.12 W   GPS   4840   4854     10   4832  4869        9 1-2         CTD9      
+31WTTUNES_3 P16C     261       1  ROS 091491 0302   EN   1 10.65 S 151  0.33 W   GPS                                                                  
+31WTTUNES_3 P16C     262       1  ROS 091491 0446   BE   0 59.96 S 151  0.07 W   GPS                                                                  
+31WTTUNES_3 P16C     262       1  ROS 091491 0615   BO   1  0.40 S 150 59.84 W   GPS   4720   4731      8   4667  4781       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     262       1  ROS 091491 0801   EN   1  0.85 S 150 59.58 W   GPS                                                                  
+31WTTUNES_3 P16C     263       1  ROS 091491 0924   BE   0 49.74 S 150 59.83 W   GPS                                                                  
+31WTTUNES_3 P16C     263       1  ROS 091491 1049   BO   0 49.84 S 150 59.46 W   GPS   4250   4250      9   4260  4363       10 1-2         CTD9      
+31WTTUNES_3 P16C     263       1  ROS 091491 1201   EN   0 50.16 S 150 59.16 W   GPS                                                                  
+31WTTUNES_3 P16C     264       1  ROS 091491 1316   BE   0 39.83 S 150 59.90 W   GPS                                                                  
+31WTTUNES_3 P16C     264       1  ROS 091491 1439   BO   0 40.27 S 150 59.34 W   GPS   4454   4459      7   4415  4531       36 1-8         CTD10     
+31WTTUNES_3 P16C     264       1  ROS 091491 1619   EN   0 40.19 S 150 58.97 W   GPS                                                                  
+31WTTUNES_3 P16C     265       1  ROS 091491 1732   BE   0 29.93 S 150 59.72 W   GPS                                                                  
+31WTTUNES_3 P16C     265       1  ROS 091491 1850   BO   0 29.83 S 150 59.43 W   GPS   4342   4344      9   4274  4383       11 1-2         CTD9      
+31WTTUNES_3 P16C     265       1  ROS 091491 2003   EN   0 29.94 S 150 59.16 W   GPS                                                                  
+31WTTUNES_3 P16C     266       1  BIO 091491 2120   BE   0 19.77 S 151  0.16 W   GPS                                                                  
+31WTTUNES_3 P16C     266       1  BIO 091491 2137   BO   0 19.90 S 151  0.12 W   GPS                         200              2                       
+31WTTUNES_3 P16C     266       1  BIO 091491 2158   EN   0 19.89 S 150 59.98 W   GPS                                                                  
+31WTTUNES_3 P16C     266       2  ROS 091491 2204   BE   0 19.89 S 151  0.05 W   GPS                                                                  
+31WTTUNES_3 P16C     266       2  ROS 091491 2327   BO   0 20.56 S 150 59.94 W   GPS   4385   4388      9   4330  4431       36 1-8         CTD10     
+31WTTUNES_3 P16C     266       2  ROS 091591 0103   EN   0 21.10 S 150 59.71 W   GPS                                                                  
+31WTTUNES_3 P16C     267       1  ROS 091591 0233   BE   0  9.99 S 151  0.26 W   GPS                                                                  
+31WTTUNES_3 P16C     267       1  ROS 091591 0349   BO   0 10.44 S 151  0.08 W   GPS   4110   4108      9   4045  4141        8 1-2         CTD9      
+31WTTUNES_3 P16C     267       1  ROS 091591 0503   EN   0 10.80 S 150 59.89 W   GPS                                                                  
+31WTTUNES_3 P16C     268       1  ROS 091591 0630   BE   0  0.23 N 150 59.96 W   GPS                                                                  
+31WTTUNES_3 P16C     268       1  ROS 091591 0802   BO   0  0.28 S 150 59.91 W   GPS   4340   4342      5   4270  4389       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     268       1  ROS 091591 0943   EN   0  0.63 S 150 59.72 W   GPS                                                                  
+31WTTUNES_3 P16C     268       2  FLT 091591 0948   DE   0  0.61 S 150 59.75 W   GPS                                                        63        
+31WTTUNES_3 P16C     268       3  DRF 091591 0950   DE   0  0.55 S 150 59.75 W   GPS                                                        15100     
+31WTTUNES_3 P16C     269       1  ROS 091591 1114   BE   0  9.81 N 150 59.81 W   GPS                                                                  
+31WTTUNES_3 P16C     269       1  ROS 091591 1225   BO   0  9.18 N 150 59.83 W   GPS   3780   3773     14   3750  3817       11 1-2         CTD9      
+31WTTUNES_3 P16C     269       1  ROS 091591 1330   EN   0  8.54 N 150 59.64 W   GPS                                                                  
+31WTTUNES_3 P16C     270       1  ROS 091591 1500   BE   0 20.13 N 150 59.91 W   GPS                                                                  
+31WTTUNES_3 P16C     270       1  ROS 091591 1622   BO   0 19.75 N 150 59.80 W   GPS   4731   4742      7   4305  4421       36 1-8         CTD10     
+31WTTUNES_3 P16C     270       1  ROS 091591 1759   EN   0 19.33 N 150 59.51 W   GPS                                                                  
+31WTTUNES_3 P16C     271       1  ROS 091591 1935   BE   0 30.16 N 151  0.14 W   GPS                                                                  
+31WTTUNES_3 P16C     271       1  ROS 091591 2038   BO   0 30.29 N 151  0.04 W   GPS   3250   3238     10   3255  3327       11 1-2         CTD9      
+31WTTUNES_3 P16C     271       1  ROS 091591 2138   EN   0 30.56 N 150 59.88 W   GPS                                                                  
+31WTTUNES_3 P16C     271       2  BIO 091591 2144   BE   0 30.58 N 150 59.87 W   GPS                                                                  
+31WTTUNES_3 P16C     271       2  BIO 091591 2159   BO   0 30.62 N 150 59.78 W   GPS                         200              2                       
+31WTTUNES_3 P16C     271       2  BIO 091591 2213   EN   0 30.63 N 150 59.57 W   GPS                                                                  
+31WTTUNES_3 P16C     272       1  ROS 091591 2330   BE   0 40.12 N 150 59.98 W   GPS                                                                  
+31WTTUNES_3 P16C     272       1  ROS 091691 0040   BO   0 40.00 N 150 59.80 W   GPS   4200   4199      6   4130  4243       36 1-8         CTD10     
+31WTTUNES_3 P16C     272       1  ROS 091691 0222   EN   0 39.39 N 150 59.92 W   GPS                                                                  
+31WTTUNES_3 P16C     273       1  ROS 091691 0343   BE   0 49.98 N 151  0.05 W   GPS                                                                  
+31WTTUNES_3 P16C     273       1  ROS 091691 0503   BO   0 49.71 N 151  0.12 W   GPS   4235   4235      6   4165  4273       10 1-2         CTD9      
+31WTTUNES_3 P16C     273       1  ROS 091691 0620   EN   0 49.41 N 151  0.21 W   GPS                                                                  
+31WTTUNES_3 P16C     274       1  ROS 091691 0745   BE   1  0.03 N 150 59.82 W   GPS                                                                  
+31WTTUNES_3 P16C     274       1  ROS 091691 0855   BO   0 59.61 N 150 59.89 W   GPS   3770   3763      4   3758  3849       35 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     274       1  ROS 091691 1028   EN   0 58.68 N 150 59.90 W   GPS                                                                  
+31WTTUNES_3 P16C     275       1  ROS 091691 1200   BE   1  9.82 N 151  0.01 W   GPS                                                                  
+31WTTUNES_3 P16C     275       1  ROS 091691 1318   BO   1  9.07 N 151  0.37 W   GPS   4276   4277      3   4240  4325       11 1-2         CTD9      
+31WTTUNES_3 P16C     275       1  ROS 091691 1432   EN   1  9.20 N 151  0.42 W   GPS                                                                  
+31WTTUNES_3 P16C     276       1  ROS 091691 1558   BE   1 20.10 N 150 59.87 W   GPS                                                                  
+31WTTUNES_3 P16C     276       1  ROS 091691 1700   BO   1 19.98 N 151  0.09 W   GPS   3130   3117     11   3155  3231       36 1-8         CTD10     
+31WTTUNES_3 P16C     276       1  ROS 091691 1824   EN   1 20.08 N 151  0.23 W   GPS                                                                  
+31WTTUNES_3 P16C     277       1  ROS 091691 1945   BE   1 30.11 N 150 59.87 W   GPS                                                                  
+31WTTUNES_3 P16C     277       1  ROS 091691 2100   BO   1 29.57 N 150 59.98 W   GPS   4120   4118      6   4060  4157       11 1-2         CTD9      
+31WTTUNES_3 P16C     277       1  ROS 091691 2215   EN   1 29.37 N 150 59.96 W   GPS                                                                  
+31WTTUNES_3 P16C     277       2  BIO 091691 2218   BE   1 29.37 N 150 59.96 W   GPS                                                                  
+31WTTUNES_3 P16C     277       2  BIO 091691 2233   BO   1 29.34 N 151  0.05 W   GPS                         200              2                       
+31WTTUNES_3 P16C     277       2  BIO 091691 2252   EN   1 29.42 N 151  0.18 W   GPS                                                                  
+31WTTUNES_3 P16C     278       1  ROS 091791 0019   BE   1 39.99 N 150 59.98 W   GPS                                                                  
+31WTTUNES_3 P16C     278       1  ROS 091791 0133   BO   1 39.18 N 150 59.95 W   GPS   4215   4214      4   4170  4263       36 1-8         CTD10     
+31WTTUNES_3 P16C     278       1  ROS 091791 0309   EN   1 38.73 N 151  0.34 W   GPS                                                                  
+31WTTUNES_3 P16C     279       1  ROS 091791 0450   BE   1 49.94 N 151  0.05 W   GPS                                                                  
+31WTTUNES_3 P16C     279       1  ROS 091791 0606   BO   1 49.77 N 151  0.45 W   GPS   4120   4118      7   4088  4183       11 1-2         CTD9      
+31WTTUNES_3 P16C     279       1  ROS 091791 0724   EN   1 49.59 N 151  0.75 W   GPS                                                                  
+31WTTUNES_3 P16C     280       1  ROS 091791 0852   BE   2  0.18 N 150 59.82 W   GPS                                                                  
+31WTTUNES_3 P16C     280       1  ROS 091791 1022   BO   1 59.75 N 151  0.11 W   GPS   4409   4412     10   4330  4453       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     280       1  ROS 091791 1157   EN   1 59.60 N 151  0.35 W   GPS                                                                  
+31WTTUNES_3 P16C     280       2  DRF 091791 1159   DE   1 59.59 N 151  0.39 W   GPS                                                        15107     
+31WTTUNES_3 P16C     281       1  ROS 091791 1330   BE   2  9.89 N 150 59.95 W   GPS                                                                  
+31WTTUNES_3 P16C     281       1  ROS 091791 1455   BO   2  8.81 N 151  0.08 W   GPS   4502   4508     15   4500  4543       11 1-2         CTD9      
+31WTTUNES_3 P16C     281       1  ROS 091791 1615   EN   2  8.31 N 151  0.24 W   GPS                                                                  
+31WTTUNES_3 P16C     281       2  FLT 091791 1618   DE   2  8.40 N 151  0.26 W   GPS                                                        80        
+31WTTUNES_3 P16C     282       1  ROS 091791 1753   BE   2 20.11 N 151  0.00 W   GPS                                                                  
+31WTTUNES_3 P16C     282       1  ROS 091791 1920   BO   2 19.68 N 151  0.19 W   GPS   4725   4736      5   4658  4793       36 1-6         CTD10     
+31WTTUNES_3 P16C     282       1  ROS 091791 2106   EN   2 19.36 N 151  0.31 W   GPS                                                                  
+31WTTUNES_3 P16C     282       2  BIO 091791 2111   BE   2 19.32 N 151  0.35 W   GPS                                                                  
+31WTTUNES_3 P16C     282       2  BIO 091791 2129   BO   2 19.16 N 151  0.52 W   GPS                         200              2                       
+31WTTUNES_3 P16C     282       2  BIO 091791 2149   EN   2 19.00 N 151  0.70 W   GPS                                                                  
+31WTTUNES_3 P16C     283       1  ROS 091791 2329   BE   2 29.86 N 151  0.04 W   GPS                                                                  
+31WTTUNES_3 P16C     283       1  ROS 091891 0054   BO   2 29.04 N 151  0.09 W   GPS   4715   4725      4   4680  4779        9 1-6         CTD9      
+31WTTUNES_3 P16C     283       1  ROS 091891 0217   EN   2 28.56 N 151  0.06 W   GPS                                                                  
+31WTTUNES_3 P16C     284       1  ROS 091891 0404   BE   2 39.72 N 151  0.14 W   GPS                                                                  
+31WTTUNES_3 P16C     284       1  ROS 091891 0528   BO   2 39.39 N 151  0.59 W   GPS   4615   4623      7   4545  4675       36 1-8         CTD10     
+31WTTUNES_3 P16C     284       1  ROS 091891 0710   EN   2 39.02 N 151  1.13 W   GPS                                                                  
+31WTTUNES_3 P16C     285       1  ROS 091891 0853   BE   2 50.35 N 150 59.86 W   GPS                                                                  
+31WTTUNES_3 P16C     285       1  ROS 091891 1025   BO   2 49.49 N 151  0.29 W   GPS   4780   4792      8   4790  4805       11 1-6         CTD9      
+31WTTUNES_3 P16C     285       1  ROS 091891 1148   EN   2 49.22 N 151  0.36 W   GPS                                                                  
+31WTTUNES_3 P16C     285       2  FLT 091891 1156   DE   2 49.31 N 151  0.47 W   GPS                                                        74        
+31WTTUNES_3 P16C     286       1  ROS 091891 1328   BE   2 59.77 N 150 59.92 W   GPS                                                                  
+31WTTUNES_3 P16C     286       1  ROS 091891 1500   BO   2 58.71 N 151  0.19 W   GPS   5070   5090      5   5065  5165       35 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     286       1  ROS 091891 1650   EN   2 58.53 N 151  0.76 W   GPS                                                                  
+31WTTUNES_3 P16C     287       1  BIO 091891 2014   BE   3 30.31 N 150 59.86 W   GPS                                                                  
+31WTTUNES_3 P16C     287       1  BIO 091891 2026   BO   3 30.15 N 150 59.89 W   GPS                         200              2                       
+31WTTUNES_3 P16C     287       1  BIO 091891 2044   EN   3 30.06 N 151  0.03 W   GPS                                                                  
+31WTTUNES_3 P16C     287       2  ROS 091891 2053   BE   3 29.98 N 151  0.15 W   GPS                                                                  
+31WTTUNES_3 P16C     287       2  ROS 091891 2220   BO   3 30.02 N 151  0.19 W   GPS   4845   4859     10   4788  4927       24 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     287       2  ROS 091991 0008   EN   3 29.57 N 151  0.45 W   GPS                                                                  
+31WTTUNES_3 P16C     288       1  LVS 091991 0344   BE   4  0.07 N 151  0.07 W   GPS   5160                                                 deep, 9 brls
+31WTTUNES_3 P16C     288       1  LVS 091991 0615   MR   3 59.61 N 151  0.78 W   GPS   5045   5065     40   5090              9 1,3,12                
+31WTTUNES_3 P16C     288       1  LVS 091991 0847   EN   4  0.59 N 151  0.06 W   GPS                                                                  
+31WTTUNES_3 P16C     288       2  ROS 091991 0900   BE   4  0.65 N 150 59.95 W   GPS                                                                  
+31WTTUNES_3 P16C     288       2  ROS 091991 1039   BO   4  0.53 N 151  0.98 W   GPS   5041   5061      0   5085  5141       36 1-11        CTD10     
+31WTTUNES_3 P16C     288       2  ROS 091991 1222   EN   4  0.06 N 151  1.97 W   GPS                                                                  
+31WTTUNES_3 P16C     288       3  LVS 091991 1253   BE   3 59.72 N 150 59.89 W   GPS   5040                                                 intermed, 9 brls
+31WTTUNES_3 P16C     288       3  LVS 091991 1445   MR   3 58.77 N 151  0.49 W   GPS                                          9 1,3,12                
+31WTTUNES_3 P16C     288       3  LVS 091991 1624   EN   3 58.90 N 151  1.68 W   GPS                                                                  
+31WTTUNES_3 P16C     289       1  ROS 091991 1939   BE   4 30.02 N 150 59.78 W   GPS                                                                  
+31WTTUNES_3 P16C     289       1  ROS 091991 2117   BO   4 30.01 N 150 59.83 W   GPS   5150   5173     18   5085  5233       36 1-8         CTD10     
+31WTTUNES_3 P16C     289       1  ROS 091991 2304   EN   4 29.76 N 151  0.43 W   GPS                                                                  
+31WTTUNES_3 P16C     289       2  BIO 091991 2307   BE   4 29.77 N 151  0.44 W   GPS                                                                  
+31WTTUNES_3 P16C     289       2  BIO 091991 2321   BO   4 29.73 N 151  0.50 W   GPS                         200              2                       
+31WTTUNES_3 P16C     289       2  BIO 091991 2340   EN   4 29.71 N 151  0.45 W   GPS                                                                  
+31WTTUNES_3 P16C     289       3  DRF 091991 2345   DE   4 29.75 N 151  0.38 W   GPS                                                        15027     
+31WTTUNES_3 P16C     289       4  FLT 091991 2349   DE   4 30.00 N 151  0.43 W   GPS                                                        61        
+31WTTUNES_3 P16C     290       1  ROS 092091 0250   BE   5  0.10 N 151  0.03 W   GPS                                                                  
+31WTTUNES_3 P16C     290       1  ROS 092091 0422   BO   4 59.76 N 151  0.21 W   GPS   5060   5080      9   4992  5141       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     290       1  ROS 092091 0610   EN   4 59.52 N 151  0.41 W   GPS                                                                  
+31WTTUNES_3 P16C     291       1  ROS 092091 0911   BE   5 29.26 N 151  5.90 W   GPS                                                                  
+31WTTUNES_3 P16C     291       1  ROS 092091 1052   BO   5 28.94 N 151  5.72 W   GPS   5215   5240      6   5158  5309       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     291       1  ROS 092091 1236   EN   5 28.66 N 151  5.46 W   GPS                                                                  
+31WTTUNES_3 P16C     292       1  ROS 092091 1540   BE   5 59.09 N 151 11.06 W   GPS                                                                  
+31WTTUNES_3 P16C     292       1  ROS 092091 1716   BO   5 59.86 N 151 10.79 W   GPS   5110   5131     10   5120  5203       36 1-8         CTD10     
+31WTTUNES_3 P16C     292       1  ROS 092091 1903   EN   5 59.83 N 151 10.76 W   GPS                                                                  
+31WTTUNES_3 P16C     293       1  BIO 092091 2202   BE   6 27.99 N 151 16.91 W   GPS                                                                  
+31WTTUNES_3 P16C     293       1  BIO 092091 2219   BO   6 28.01 N 151 16.48 W   GPS                         200              2                       
+31WTTUNES_3 P16C     293       1  BIO 092091 2236   EN   6 28.02 N 151 16.13 W   GPS                                                                  
+31WTTUNES_3 P16C     293       2  ROS 092091 2244   BE   6 28.00 N 151 15.96 W   GPS                                                                  
+31WTTUNES_3 P16C     293       2  ROS 092191   19   BO   6 27.67 N 151 15.44 W   GPS   5255   5281      6   5192  5347       36 1-6         CTD10     
+31WTTUNES_3 P16C     293       2  ROS 092191  209   EN   6 27.57 N 151 15.30 W   GPS                                                                  
+31WTTUNES_3 P16C     294       1  ROS 092191  525   BE   6 57.93 N 151 21.79 W   GPS                                                                  
+31WTTUNES_3 P16C     294       1  ROS 092191  704   BO   6 57.57 N 151 20.90 W   GPS   5370   5400     11   5350  5471       36 1-6         CTD10     
+31WTTUNES_3 P16C     294       1  ROS 092191  857   EN   6 58.26 N 151 20.74 W   GPS                                                                  
+31WTTUNES_3 P16C     295       1  ROS 092191 1212   BE   7 27.03 N 151 28.03 W   GPS                                                                  
+31WTTUNES_3 P16C     295       1  ROS 092191 1352   BO   7 26.86 N 151 27.84 W   GPS   5275   5302      7   5240  5401       36 1-6         CTD10     
+31WTTUNES_3 P16C     295       1  ROS 092191 1540   EN   7 27.83 N 151 27.65 W   GPS                                                                  
+31WTTUNES_3 P16C     296       1  ROS 092191 1847   BE   7 57.26 N 151 34.10 W   GPS                                                                  
+31WTTUNES_3 P16C     296       1  ROS 092191 2022   BO   7 58.00 N 151 34.24 W   GPS   5106   5127     12   5153  5231       36 1-6         CTD10     
+31WTTUNES_3 P16C     296       1  ROS 092191 2210   EN   7 59.14 N 151 34.37 W   GPS                                                                  
+31WTTUNES_3 P16C     296       2  BIO 092191 2213   BE   7 59.16 N 151 34.33 W   GPS                                                                  
+31WTTUNES_3 P16C     296       2  BIO 092191 2228   BO   7 59.23 N 151 34.11 W   GPS                         200              2                       
+31WTTUNES_3 P16C     296       2  BIO 092191 2245   EN   7 59.47 N 151 33.90 W   GPS                                                                  
+31WTTUNES_3 P16C     296       3  FLT 092191 2258   DE   7 59.90 N 151 33.96 W   GPS                                                        69        
+31WTTUNES_3 P16C     297       1  ROS 092291 0140   BE   8 26.02 N 151 39.18 W   GPS                                                                  
+31WTTUNES_3 P16C     297       1  ROS 092291 0316   BO   8 26.05 N 151 38.86 W   GPS   5125   5147      7   5063  5215       36 1-6         CTD10     
+31WTTUNES_3 P16C     297       1  ROS 092291 0508   EN   8 25.95 N 151 38.46 W   GPS                                                                  
+31WTTUNES_3 P16C     298       1  ROS 092291 0810   BE   8 56.28 N 151 45.09 W   GPS                                                                  
+31WTTUNES_3 P16C     298       1  ROS 092291 0944   BO   8 56.56 N 151 45.32 W   GPS   5040   5060      9   5004  5133       36 1-6         CTD10     
+31WTTUNES_3 P16C     298       1  ROS 092291 1129   EN   8 56.91 N 151 45.19 W   GPS                                                                  
+31WTTUNES_3 P16C     299       1  ROS 092291 1422   BE   9 25.13 N 151 49.77 W   GPS                                                                  
+31WTTUNES_3 P16C     299       1  ROS 092291 1600   BO   9 25.15 N 151 49.32 W   GPS   5190   5214     11   5135  5281       36 1-6         CTD10     
+31WTTUNES_3 P16C     299       1  ROS 092291 1747   EN   9 25.42 N 151 49.09 W   GPS                                                                  
+31WTTUNES_3 P16C     300       1  BIO 092291 2053   BE   9 54.91 N 151 56.43 W   GPS                                                                  
+31WTTUNES_3 P16C     300       1  BIO 092291 2108   BO   9 54.90 N 151 56.54 W   GPS                         200              2                       
+31WTTUNES_3 P16C     300       1  BIO 092291 2129   EN   9 55.13 N 151 56.64 W   GPS                                                                  
+31WTTUNES_3 P16C     300       2  LVS 092291 2138   BE   9 55.24 N 151 56.68 W   GPS   5280                                                 deep, 9 brls
+31WTTUNES_3 P16C     300       2  LVS 092391 0006   MR   9 56.23 N 151 56.15 W   GPS   5255   5281     35   5320              9 1,3,12                
+31WTTUNES_3 P16C     300       2  LVS 092391 0247   EN   9 57.21 N 151 55.44 W   GPS                                                                  
+31WTTUNES_3 P16C     300       3  ROS 092391 0309   BE   9 55.80 N 151 55.78 W   GPS                                                                  
+31WTTUNES_3 P16C     300       3  ROS 092391 0445   BO   9 55.64 N 151 56.12 W   GPS   5240   5266      5   5195  5349       36 1-6         CTD10     
+31WTTUNES_3 P16C     300       3  ROS 092391 0633   EN   9 55.35 N 151 56.27 W   GPS                                                                  
+31WTTUNES_3 P16C     300       4  LVS 092391 0658   BE   9 55.22 N 151 56.29 W   GPS   5280                                                 interm, 9 brls
+31WTTUNES_3 P16C     300       4  LVS 092391 0852   MR   9 55.09 N 151 56.46 W   GPS   5235   5260          3030              9 1,3,12                
+31WTTUNES_3 P16C     300       4  LVS 092391 1030   EN   9 54.40 N 151 56.41 W   GPS                                                                  
+31WTTUNES_3 P16C     301       1  ROS 092391 1340   BE  10 24.06 N 152  2.05 W   GPS                                                                  
+31WTTUNES_3 P16C     301       1  ROS 092391 1509   BO  10 24.15 N 152  1.43 W   GPS   4690   4700     10   4745  4865       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     301       1  ROS 092391 1653   EN  10 24.14 N 152  0.73 W   GPS                                                                  
+31WTTUNES_3 P16C     302       1  ROS 092391 1959   BE  10 54.30 N 152  7.10 W   GPS                                                                  
+31WTTUNES_3 P16C     302       1  ROS 092391 2136   BO  10 54.40 N 152  6.74 W   GPS   5312   5340      8   5264  5431       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     302       1  ROS 092391 2326   EN  10 54.57 N 152  6.68 W   GPS                                                                  
+31WTTUNES_3 P16C     302       2  BIO 092391 2329   BE  10 54.56 N 152  6.67 W   GPS                                                                  
+31WTTUNES_3 P16C     302       2  BIO 092391 2347   BO  10 54.47 N 152  6.54 W   GPS                         200              2                       
+31WTTUNES_3 P16C     302       2  BIO 092491 0005   EN  10 54.46 N 152  6.45 W   GPS                                                                  
+31WTTUNES_3 P16C     303       1  ROS 092491 0518   BE  11 23.01 N 152 12.82 W   GPS                                                                  
+31WTTUNES_3 P16C     303       1  ROS 092491 0654   BO  11 23.08 N 152 12.72 W   GPS   5350   5380     10   5297  5445       36 1-6         CTD10     
+31WTTUNES_3 P16C     303       1  ROS 092491 0844   EN  11 22.80 N 152 12.56 W   GPS                                                                  
+31WTTUNES_3 P16C     303       2  FLT 092491 0851   DE  11 22.91 N 152 12.62 W   GPS                                                        66        
+31WTTUNES_3 P16C     304       1  ROS 092491 1206   BE  11 53.08 N 152 18.79 W   GPS                                                                  
+31WTTUNES_3 P16C     304       1  ROS 092491 1340   BO  11 52.51 N 152 18.85 W   GPS   5186   5210      9   5110  5269       36 1-8         CTD10     
+31WTTUNES_3 P16C     304       1  ROS 092491 1526   EN  11 52.70 N 152 19.57 W   GPS                                                                  
+31WTTUNES_3 P16C     305       1  ROS 092491 1833   BE  12 22.16 N 152 23.70 W   GPS                                                                  
+31WTTUNES_3 P16C     305       1  ROS 092491 2019   BO  12 21.28 N 152 24.43 W   GPS   5397   5428     12   5470  5491       36 1-8,12-13   CTD10     
+31WTTUNES_3 P16C     305       1  ROS 092491 2232   EN  12 20.77 N 152 24.83 W   GPS                                                                  
+31WTTUNES_3 P16C     305       2  BIO 092491 2235   BE  12 20.76 N 152 24.86 W   GPS                                                                  
+31WTTUNES_3 P16C     305       2  BIO 092491 2252   BO  12 20.82 N 152 25.07 W   GPS                         200              2                       
+31WTTUNES_3 P16C     305       2  BIO 092491 2309   EN  12 20.91 N 152 25.11 W   GPS                                                                  
+31WTTUNES_3 P16C     306       1  ROS 092591 0227   BE  12 52.13 N 152 30.16 W   GPS                                                                  
+31WTTUNES_3 P16C     306       1  ROS 092591 0411   BO  12 51.90 N 152 30.21 W   GPS   5545   5581     10   5479  5655       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     306       1  ROS 092591 0608   EN  12 51.66 N 152 30.34 W   GPS                                                                  
+31WTTUNES_3 P16C     307       1  ROS 092591 0916   BE  13 21.17 N 152 35.82 W   GPS                                                                  
+31WTTUNES_3 P16C     307       1  ROS 092591 1102   BO  13 20.81 N 152 35.47 W   GPS   5660   5700     12   5537  5707       36 1-6         CTD10     
+31WTTUNES_3 P16C     307       1  ROS 092591 1313   EN  13 20.50 N 152 34.93 W   GPS                                                                  
+31WTTUNES_3 P16C     308       1  LVS 092591 1642   BE  13 51.00 N 152 41.00 W   GPS   6015            33                                   deep, 9 brls
+31WTTUNES_3 P16C     308       1  LVS 092591 1940   MR  13 51.96 N 152 40.57 W   GPS   6040   6095     50   6115              9 1,3,12                
+31WTTUNES_3 P16C     308       1  LVS 092591 2234   EN  13 52.47 N 152 39.42 W   GPS                                                                  
+31WTTUNES_3 P16C     308       2  BIO 092591 2241   BE  13 52.48 N 152 39.36 W   GPS                                                                  
+31WTTUNES_3 P16C     308       2  BIO 092591 2256   BO  13 52.52 N 152 39.33 W   GPS                         200              2                       
+31WTTUNES_3 P16C     308       2  BIO 092591 2314   EN  13 52.51 N 152 39.37 W   GPS                                                                  
+31WTTUNES_3 P16C     308       3  ROS 092591 2338   BE  13 50.76 N 152 40.91 W   GPS                                                                  
+31WTTUNES_3 P16C     308       3  ROS 092691 0135   BO  13 50.55 N 152 40.41 W   GPS   6010   6063      8   5960  6157       36 1-8         CTD10     
+31WTTUNES_3 P16C     308       3  ROS 092691 0340   EN  13 50.63 N 152 40.25 W   GPS                                                                  
+31WTTUNES_3 P16C     308       4  LVS 092691 0354   BE  13 50.70 N 152 40.17 W   GPS   6015                                                 interm, 9 barrels
+31WTTUNES_3 P16C     308       4  LVS 092691 0602   MR  13 51.04 N 152 39.57 W   GPS   5940   5991          3414              9 1,3,12                
+31WTTUNES_3 P16C     308       4  LVS 092691 0800   EN  13 50.81 N 152 38.47 W   GPS                                                                  
+31WTTUNES_3 P16C     309       1  ROS 092691 1230   BE  14 20.17 N 152 46.92 W   GPS                                                                  
+31WTTUNES_3 P16C     309       1  ROS 092691 1419   BO  14 19.52 N 152 46.84 W   GPS   5950   6001     10   5910  6091       36 1-8         CTD10     
+31WTTUNES_3 P16C     309       1  ROS 092691 1619   EN  14 19.24 N 152 46.82 W   GPS                                                                  
+31WTTUNES_3 P16C     310       1  ROS 092691 1933   BE  14 50.14 N 152 52.96 W   GPS                                                                  
+31WTTUNES_3 P16C     310       1  ROS 092691 2120   BO  14 50.31 N 152 53.49 W   GPS   5791   5836     10   5747  5917       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     310       1  ROS 092691 2316   EN  14 49.50 N 152 53.56 W   GPS                                                                  
+31WTTUNES_3 P16C     310       2  BIO 092691 2318   BE  14 49.49 N 152 53.61 W   GPS                                                                  
+31WTTUNES_3 P16C     310       2  BIO 092691 2335   BO  14 49.56 N 152 53.94 W   GPS                         200              2                       
+31WTTUNES_3 P16C     310       2  BIO 092691 2353   EN  14 49.64 N 152 54.11 W   GPS                                                                  
+31WTTUNES_3 P16C     311       3  FLT 092791 0002   DE  14 49.89 N 152 54.28 W   GPS                                                        83        
+31WTTUNES_3 P16C     311       1  ROS 092791 0305   BE  15 19.26 N 152 59.04 W   GPS                                                                  
+31WTTUNES_3 P16C     311       1  ROS 092791 0449   BO  15 19.29 N 152 59.20 W   GPS   5650   5690      9   5604  5777       36 1-6         CTD10     
+31WTTUNES_3 P16C     311       1  ROS 092791 0644   EN  15 19.74 N 152 59.36 W   GPS                                                                  
+31WTTUNES_3 P16C     312       1  ROS 092791 0953   BE  15 49.09 N 153  3.84 W   GPS                                                                  
+31WTTUNES_3 P16C     312       1  ROS 092791 1132   BO  15 49.32 N 153  3.79 W   GPS   5414   5445      9   5360  5523       36 1-8,10-11   CTD10     
+31WTTUNES_3 P16C     312       1  ROS 092791 1318   EN  15 49.39 N 153  3.79 W   GPS                                                                  
+31WTTUNES_3 P16C     313       1  ROS 092791 1625   BE  16 18.22 N 153  9.91 W   GPS                                                                  
+31WTTUNES_3 P16C     313       1  ROS 092791 1758   BO  16 17.85 N 153 10.11 W   GPS   4947   4964     10   4905  5051       36 1-8         CTD10     
+31WTTUNES_3 P16C     313       1  ROS 092791 1940   EN  16 17.86 N 153  9.91 W   GPS                                                                  
+31WTTUNES_3 P16C     314       1  BIO 092791 2256   BE  16 48.08 N 153 15.90 W   GPS                                                                  
+31WTTUNES_3 P16C     314       1  BIO 092791 2311   BO  16 48.16 N 153 16.06 W   GPS                         200              2                       
+31WTTUNES_3 P16C     314       1  BIO 092791 2327   EN  16 48.23 N 153 16.15 W   GPS                                                                  
+31WTTUNES_3 P16C     314       2  ROS 092791 2335   BE  16 48.27 N 153 16.15 W   GPS                                                                  
+31WTTUNES_3 P16C     314       2  ROS 092891 0111   BO  16 48.09 N 153 16.01 W   GPS   5185   5209     10   5114  5273       36 1-12,23-24  CTD10     
+31WTTUNES_3 P16C     314       2  ROS 092891 0301   EN  16 47.81 N 153 16.12 W   GPS                                                                  
+31WTTUNES_3 P16C     315       1  ROS 092891 0603   BE  17 17.09 N 153 21.97 W   GPS                                                                  
+31WTTUNES_3 P16C     315       1  ROS 092891 0744   BO  17 16.88 N 153 21.78 W   GPS   5075   5096     10   5007  5159       36 1-6,10-11   CTD10     
+31WTTUNES_3 P16C     315       1  ROS 092891 0927   EN  17 16.89 N 153 21.64 W   GPS                                                                  
+31WTTUNES_3 P16C     315       2  FLT 092891 0935   DE  17 16.93 N 153 21.68 W   GPS                                                        85        
+31WTTUNES_3 P16C     316       1  ROS 092891 1200   BE  17 39.15 N 153 25.84 W   GPS                                                                  
+31WTTUNES_3 P16C     316       1  ROS 092891 1334   BO  17 38.40 N 153 25.85 W   GPS   4914   4930      7   4930  5007       36 1-8         CTD10     
+31WTTUNES_3 P16C     316       1  ROS 092891 1521   EN  17 38.07 N 153 25.84 W   GPS                                                                  
+31WTTUNES_3 P16C     317       1  LVS 092891 1755   BE  18  0.20 N 153 29.77 W   GPS   4955                                                 9 brls, GB84 PT
+31WTTUNES_3 P16C     317       1  LVS 092891 2006   MR  18  0.76 N 153 29.30 W   GPS   4955   4973     45   5000              9 1,3,12      GB84      
+31WTTUNES_3 P16C     317       1  LVS 092891 2227   EN  18  2.91 N 153 30.71 W   GPS                                                                  
+31WTTUNES_3 P16C     317       2  BIO 092891 2239   BE  18  1.60 N 153 30.72 W   GPS                                                                  
+31WTTUNES_3 P16C     317       2  BIO 092891 2255   BO  18  1.75 N 153 29.90 W   GPS                         200              2                       
+31WTTUNES_3 P16C     317       2  BIO 092891 2313   EN  18  1.66 N 153 28.51 W   GPS                                                                  
+31WTTUNES_3 P16C     317       3  ROS 092891 2343   BE  18  0.00 N 153 30.01 W   GPS                                                                  
+31WTTUNES_3 P16C     317       3  ROS 092991 0114   BO  18  0.13 N 153 29.84 W   GPS   4950   4968      8   4880  5023       36 1-8         CTD10     
+31WTTUNES_3 P16C     317       3  ROS 092991 0256   EN  18  0.41 N 153 29.87 W   GPS                                                                  
+31WTTUNES_3 P16C     317       4  LVS 092991 0309   BE  18  0.53 N 153 29.83 W   GPS   4955                                                 interm, 9 brls
+31WTTUNES_3 P16C     317       4  LVS 092991 0527   MR  18  1.08 N 153 29.32 W   GPS   4950   4968          3480              9 1,3,12                
+31WTTUNES_3 P16C     317       4  LVS 092991 0710   EN  18  1.24 N 153 28.96 W   GPS                                                                  
+31WTTUNES_3 P16C     318       1  ROS 092991 1032   BE  18 12.32 N 153 58.91 W   GPS                                                                  
+31WTTUNES_3 P16C     318       1  ROS 092991 1206   BO  18 12.56 N 153 58.65 W   GPS   5152   5175     10   5084  5241       36 1-8         CTD10     
+31WTTUNES_3 P16C     318       1  ROS 092991 1350   EN  18 12.46 N 153 58.87 W   GPS                                                                  
+31WTTUNES_3 P16C     319       1  ROS 092991 1656   BE  18 24.24 N 154 28.03 W   GPS                                                                  
+31WTTUNES_3 P16C     319       1  ROS 092991 1829   BO  18 23.99 N 154 28.42 W   GPS   5162   5185      8   5109  5255       36 1-8,10-11,  CTD10     
+31WTTUNES_3 P16C     319       1  ROS 092991 2014   EN  18 23.84 N 154 29.04 W   GPS                                            23-24                 
+31WTTUNES_3 P16C     320       1  ROS 092991 2318   BE  18 37.01 N 154 57.06 W   GPS                                                                  
+31WTTUNES_3 P16C     320       1  ROS 093091 0057   BO  18 35.84 N 154 57.11 W   GPS   5220   5245     12   5335  5303       36 1-8         CTD10     
+31WTTUNES_3 P16C     320       1  ROS 093091 0250   EN  18 35.90 N 154 57.18 W   GPS                                                                  
+31WTTUNES_3 P16C     321       1  ROS 093091 0552   BE  18 49.38 N 155 25.04 W   GPS                                                                  
+31WTTUNES_3 P16C     321       1  ROS 093091 0712   BO  18 49.23 N 155 25.47 W   GPS   4450   4455      9   4265  4373       36 1-6         CTD10     
+31WTTUNES_3 P16C     321       1  ROS 093091 0846   EN  18 48.75 N 155 25.98 W   GPS                                                                  
+31WTTUNES_3 P16C     322       1  ROS 093091 1011   BE  18 51.76 N 155 33.67 W   GPS                                                                  
+31WTTUNES_3 P16C     322       1  ROS 093091 1114   BO  18 51.32 N 155 34.05 W   GPS   3100   3087     14   3170  3223       28 1-6         CTD10     
+31WTTUNES_3 P16C     322       1  ROS 093091 1225   EN  18 50.81 N 155 34.35 W   GPS                                                                  
+31WTTUNES_3 P16C     323       1  ROS 093091 1330   BE  18 51.06 N 155 35.29 W   GPS                                                                  
+31WTTUNES_3 P16C     323       1  ROS 093091 1422   BO  18 50.95 N 155 35.94 W   GPS   2400   2386    135   2535  2557       24 1-6         CTD10     
+31WTTUNES_3 P16C     323       1  ROS 093091 1523   EN  18 50.41 N 155 36.81 W   GPS                                                                  
+31WTTUNES_3 P16C     324       1  ROS 093091 1614   BE  18 52.17 N 155 36.40 W   GPS                                                                  
+31WTTUNES_3 P16C     324       1  ROS 093091 1655   BO  18 52.27 N 155 36.57 W   GPS   1720   1710     15   1800  1839       20 1-6         CTD10     
+31WTTUNES_3 P16C     324       1  ROS 093091 1744   EN  18 52.27 N 155 36.74 W   GPS                                                                  
+31WTTUNES_3 P16C     325       1  ROS 093091 1831   BE  18 52.67 N 155 38.30 W   GPS                                                                  
+31WTTUNES_3 P16C     325       1  ROS 093091 1853   BO  18 52.77 N 155 38.35 W   GPS    900    899      6    920   933       15 1-6         CTD10     
+31WTTUNES_3 P16C     325       1  ROS 093091 1922   EN  18 52.74 N 155 38.30 W   GPS                                                                  
+31WTTUNES_3 P16C     326       1  ROS 093091 1956   BE  18 52.82 N 155 39.42 W   GPS                                                                  
+31WTTUNES_3 P16C     326       1  ROS 093091 2007   BO  18 52.83 N 155 39.37 W   GPS    240    244     15    280   281        7 1-6         CTD10     
+31WTTUNES_3 P16C     326       1  ROS 093091 2020   EN  18 52.91 N 155 39.49 W   GPS                                                                  

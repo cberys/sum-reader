@@ -1,0 +1,17 @@
+                Project, Ship, Cruise, woce line, start and end dates  20000222WHPOSIOLMH
+SHIP/CRS   WOCE                 CAST         UTC          POSITION                  UNC   MAX NO. OF 
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV  DEPTH PRESS BOTTLES PARAMETER COMMENTS
+-------------------------------------------------------------------------------------------------------------------------
+49SU9309_3 PR17  SU4883       2  ROS 100293 1153   BE 31 10.20 N 131 30.37 E GPS    270           
+49SU9309_3 PR17  SU4883       2  ROS 100293 1158   BO 31 10.14 N 131 30.25 E GPS    265             8 2,4-6                 
+49SU9309_3 PR17  SU4883       2  ROS 100293 1213   EN 31 09.96 N 131 29.98 E GPS    255                                    
+49SU9309_3 PR17  SU4884       2  ROS 100293 1417   BE 31 00.30 N 131 42.66 E GPS   1470                              
+49SU9309_3 PR17  SU4884       2  ROS 100293 1438   BO 31 00.18 N 131 42.49 E GPS   1460             9 2,4-6                 
+49SU9309_3 PR17  SU4884       2  ROS 100293 1459   EN 30 59.99 N 131 42.31 E GPS   1440                          
+49SU9309_3 PR17  SU4884       3  ROS 100293        BE                              1430                         
+49SU9309_3 PR17  SU4884       3  ROS 100293 1524   BO 30 59.76 N 131 42.11 E GPS   1430            10 2,4-6                 
+49SU9309_3 PR17  SU4884       3  ROS 100293 1532   EN 30 59.71 N 131 42.06 E GPS   1430                      
+49SU9309_3 PR17   TH101       1  XBT 100293 1730   DE 30 47.75 N 131 56.66 E GPS   1880                                     
+49SU9309_3 PR17  SU4885       2  ROS 100293 1907   BE 30 36.99 N 132 09.62 E GPS   2470                       
+49SU9309_3 PR17  SU4885       2  ROS 100293 1930   BO 30 37.29 N 132 09.42 E GPS   2480            11 2,4-6                 
+49SU9309_3 PR17  SU4885       2  ROS 100293 2009   EN 30 37.64 N 132 09.21 E GPS   2480        

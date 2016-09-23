@@ -1,0 +1,295 @@
+                   R/V AURORA AUSTRALIS  SAZ SURVEY         022898-040198    20120124CCHDOSIOCBG                                                               
+SHIP/CRS       WOCE                 CAST         UTC          POSITION                     UNC HT ABOVE  WIRE     MAX NO. OF                                     
+EXPOCODE       SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE    NAV   DEPTH   BOTTOM   OUT   PRESS BOTTLES PARAMETER COMMENTS                 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+09AR19980228   SR03       1       1  ROS 030198 0622   BE 42 06.26 S  141 53.02 E  GPS    5001                                          bottom depth approx. only
+09AR19980228   SR03       1       1  ROS 030198 0715   BO 42 05.73 S  141 52.95 E  GPS      -        -           2008      24 1-4,6                              
+09AR19980228   SR03       1       1  ROS 030198 0806   EN 42 05.91 S  141 52.96 E  GPS      -                                                                    
+09AR19980228   SR03       2       1  ROS 030198 0912   BE 42 05.82 S  141 52.76 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       2       1  ROS 030198 1104   BO 42 04.94 S  141 52.50 E  GPS      -        -           4538      24 1-4,6                              
+09AR19980228   SR03       2       1  ROS 030198 1500   EN 42 03.95 S  141 52.06 E  GPS      -                                                                    
+09AR19980228   SR03       3       1  ROS 030198 2000   BE 42 05.62 S  141 52.91 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       3       1  ROS 030198 2001   BO 42 05.63 S  141 52.92 E  GPS      -        -             18      24 1-4,6                              
+09AR19980228   SR03       3       1  ROS 030198 2014   EN 42 05.53 S  141 53.06 E  GPS      -                                                                    
+09AR19980228   SR03       4       1  ROS 030198 2105   BE 42 05.36 S  141 53.33 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       4       1  ROS 030198 2120   BO 42 05.29 S  141 53.43 E  GPS      -        -            250      24 1-4,6                              
+09AR19980228   SR03       4       1  ROS 030198 2154   EN 42 05.11 S  141 53.29 E  GPS      -                                                                    
+09AR19980228   SR03       5       1  ROS 030298 0117   BE 42 04.23 S  141 54.08 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       5       1  ROS 030298 0129   BO 42 04.11 S  141 53.89 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03       5       1  ROS 030298 0215   EN 42 03.72 S  141 53.63 E  GPS      -                                                                    
+09AR19980228   SR03       6       1  ROS 030298 0517   BE 42 01.80 S  141 53.04 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       6       1  ROS 030298 0526   BO 42 01.71 S  141 53.01 E  GPS      -        -            604      24 1-4,6                              
+09AR19980228   SR03       6       1  ROS 030298 0611   EN 42 01.38 S  141 52.80 E  GPS      -                                                                    
+09AR19980228   SR03       7       1  ROS 030298 0719   BE 42 00.58 S  141 52.38 E  GPS    5000                                          bottom depth approx. only
+09AR19980228   SR03       7       1  ROS 030298 0850   BO 42 00.18 S  141 51.85 E  GPS      -        -           4016      24 1-4,6                              
+09AR19980228   SR03       7       1  ROS 030298 1415   EN 41 58.89 S  141 51.45 E  GPS      -                                                                    
+09AR19980228   SR03       8       1  ROS 030298 1929   BE 41 56.78 S  141 53.19 E  GPS    4998                                          bottom depth approx. only
+09AR19980228   SR03       8       1  ROS 030298 1939   BO 41 56.73 S  141 53.19 E  GPS      -        -            104      24 1-4,6                              
+09AR19980228   SR03       8       1  ROS 030298 2002   EN 41 56.71 S  141 53.21 E  GPS      -                                                                    
+09AR19980228   SR03       9       1  ROS 030398 0136   BE 42 02.70 S  141 53.41 E  GPS    5016                                          bottom depth approx. only
+09AR19980228   SR03       9       1  ROS 030398 0150   BO 42 02.74 S  141 53.41 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03       9       1  ROS 030398 0222   EN 42 02.87 S  141 53.64 E  GPS      -                                                                    
+09AR19980228   SR03      10       1  ROS 030398 0447   BE 42 03.51 S  141 54.67 E  GPS    5016                                          bottom depth approx. only
+09AR19980228   SR03      10       1  ROS 030398 0455   BO 42 03.56 S  141 54.76 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      10       1  ROS 030398 0531   EN 42 03.55 S  141 54.82 E  GPS      -                                                                    
+09AR19980228   SR03      11       1  ROS 030398 0844   BE 42 04.32 S  141 55.84 E  GPS    5016                                          bottom depth approx. only
+09AR19980228   SR03      11       1  ROS 030398 0850   BO 42 04.29 S  141 55.89 E  GPS      -        -            142      24 1-4,6                              
+09AR19980228   SR03      11       1  ROS 030398 0911   EN 42 04.21 S  141 56.00 E  GPS      -                                                                    
+09AR19980228   SR03      12       1  ROS 030398 1954   BE 41 59.77 S  141 37.00 E  GPS    5025                                          bottom depth approx. only
+09AR19980228   SR03      12       1  ROS 030398 2003   BO 41 59.71 S  141 37.09 E  GPS      -        -            154      24 1-4,6                              
+09AR19980228   SR03      12       1  ROS 030398 2021   EN 41 59.51 S  141 37.13 E  GPS      -                                                                    
+09AR19980228   SR03      13       1  ROS 030498 0536   BE 42 17.82 S  141 30.51 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      13       1  ROS 030498 0553   BO 42 17.84 S  141 30.60 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      13       1  ROS 030498 0621   EN 42 17.81 S  141 30.69 E  GPS      -                                                                    
+09AR19980228   SR03      14       1  ROS 030498 0713   BE 42 17.89 S  141 36.36 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      14       1  ROS 030498 0726   BO 42 17.78 S  141 36.55 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      14       1  ROS 030498 0801   EN 42 17.52 S  141 36.63 E  GPS      -                                                                    
+09AR19980228   SR03      15       1  ROS 030498 1025   BE 42 17.44 S  141 51.34 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      15       1  ROS 030498 1242   BO 42 16.84 S  141 51.88 E  GPS      -        -           3514      24 1-4,6                              
+09AR19980228   SR03      15       1  ROS 030498 1659   EN 42 16.17 S  141 52.98 E  GPS      -                                                                    
+09AR19980228   SR03      16       1  ROS 030498 2018   BE 42 05.52 S  142 00.55 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      16       1  ROS 030498 2033   BO 42 05.54 S  142 00.57 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      16       1  ROS 030498 2108   EN 42 05.47 S  142 00.61 E  GPS      -                                                                    
+09AR19980228   SR03      17       1  ROS 030598 0708   BE 42 07.48 S  141 45.54 E  GPS    5040                                          bottom depth approx. only
+09AR19980228   SR03      17       1  ROS 030598 0837   BO 42 07.21 S  141 45.88 E  GPS      -        -           2010      24 1-4,6                              
+09AR19980228   SR03      17       1  ROS 030598 0848   EN 42 07.16 S  141 45.90 E  GPS      -                                                                    
+09AR19980228   SR03      18       1  ROS 030598 2016   BE 43 00.66 S  141 25.78 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      18       1  ROS 030598 2107   BO 43 00.65 S  141 25.06 E  GPS      -        -           2006      24 1-4,6                              
+09AR19980228   SR03      18       1  ROS 030598 2219   EN 43 00.54 S  141 24.64 E  GPS      -                                                                    
+09AR19980228   SR03      19       1  ROS 030698 0557   BE 43 59.88 S  141 29.94 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      19       1  ROS 030698 0649   BO 43 59.40 S  141 29.85 E  GPS      -        -           2006      24 1-4,6                              
+09AR19980228   SR03      19       1  ROS 030698 0759   EN 43 58.95 S  141 29.83 E  GPS      -                                                                    
+09AR19980228   SR03      20       1  ROS 030698 1833   BE 44 59.96 S  141 31.44 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      20       1  ROS 030698 1855   BO 44 59.94 S  141 31.55 E  GPS      -        -            702      24 1-4,6                              
+09AR19980228   SR03      20       1  ROS 030698 1932   EN 44 59.91 S  141 31.71 E  GPS      -                                                                    
+09AR19980228   SR03      21       1  ROS 030698 2031   BE 44 59.61 S  141 32.38 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      21       1  ROS 030698 2218   BO 44 59.50 S  141 32.27 E  GPS      -        -           4498      24 1-4,6                              
+09AR19980228   SR03      21       1  ROS 030798 0103   EN 44 59.40 S  141 31.50 E  GPS      -                                                                    
+09AR19980228   SR03      22       1  ROS 030798 0313   BE 44 59.44 S  141 30.76 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      22       1  ROS 030798 0326   BO 44 59.44 S  141 30.61 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      22       1  ROS 030798 0408   EN 44 59.53 S  141 29.99 E  GPS      -                                                                    
+09AR19980228   SR03      23       1  ROS 030798 1111   BE 45 59.99 S  141 30.21 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      23       1  ROS 030798 1233   BO 45 59.82 S  141 30.97 E  GPS      -        -           2008      24 1-4,6                              
+09AR19980228   SR03      23       1  ROS 030798 1358   EN 45 59.40 S  141 31.41 E  GPS      -                                                                    
+09AR19980228   SR03      24       1  ROS 030798 2016   BE 46 45.94 S  142 04.39 E  GPS    4556                                          bottom depth approx. only
+09AR19980228   SR03      24       1  ROS 030798 2026   BO 46 45.87 S  142 04.29 E  GPS      -        -            256      24 1-4,6                              
+09AR19980228   SR03      24       1  ROS 030798 2047   EN 46 45.69 S  142 04.34 E  GPS      -                                                                    
+09AR19980228   SR03      25       1  ROS 030898 1705   BE 46 45.61 S  142 03.05 E  GPS    4570                                          bottom depth approx. only
+09AR19980228   SR03      25       1  ROS 030898 1707   BO 46 45.61 S  142 03.04 E  GPS      -        -            102      24 1-4,6                              
+09AR19980228   SR03      25       1  ROS 030898 1724   EN 46 45.69 S  142 03.24 E  GPS      -                                                                    
+09AR19980228   SR03      26       1  ROS 030998 0803   BE 46 45.47 S  142 01.46 E  GPS    4600                                          bottom depth approx. only
+09AR19980228   SR03      26       1  ROS 030998 0809   BO 46 45.49 S  142 01.42 E  GPS      -        -            250      24 1-4,6                              
+09AR19980228   SR03      26       1  ROS 030998 0849   EN 46 45.73 S  142 01.61 E  GPS      -                                                                    
+09AR19980228   SR03      27       1  ROS 030998 1159   BE 46 46.63 S  142 01.03 E  GPS    4600                                          bottom depth approx. only
+09AR19980228   SR03      27       1  ROS 030998 1235   BO 46 46.83 S  142 01.34 E  GPS      -        -            702      24 1-4,6                              
+09AR19980228   SR03      27       1  ROS 030998 1337   EN 46 46.92 S  142 01.63 E  GPS      -                                                                    
+09AR19980228   SR03      28       1  ROS 030998 2254   BE 46 45.12 S  142 01.76 E  GPS    4600                                          bottom depth approx. only
+09AR19980228   SR03      28       1  ROS 030998 2316   BO 46 45.12 S  142 01.52 E  GPS      -        -            250      24 1-4,6                              
+09AR19980228   SR03      28       1  ROS 030998 2351   EN 46 45.00 S  142 01.21 E  GPS      -                                                                    
+09AR19980228   SR03      29       1  ROS 031098 0101   BE 46 45.88 S  141 59.92 E  GPS    4618                                          bottom depth approx. only
+09AR19980228   SR03      29       1  ROS 031098 0110   BO 46 45.98 S  141 59.87 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      29       1  ROS 031098 0153   EN 46 46.11 S  141 59.96 E  GPS      -                                                                    
+09AR19980228   SR03      30       1  ROS 031098 0536   BE 46 45.43 S  142 00.58 E  GPS    4620                                          bottom depth approx. only
+09AR19980228   SR03      30       1  ROS 031098 0608   BO 46 45.34 S  142 01.09 E  GPS      -        -            152      24 1-4,6                              
+09AR19980228   SR03      30       1  ROS 031098 0647   EN 46 45.33 S  142 01.89 E  GPS      -                                                                    
+09AR19980228   SR03      31       1  ROS 031098 0810   BE 46 45.83 S  142 03.08 E  GPS    4570                                          bottom depth approx. only
+09AR19980228   SR03      31       1  ROS 031098 0814   BO 46 45.82 S  142 03.10 E  GPS      -        -            102      24 1-4,6                              
+09AR19980228   SR03      31       1  ROS 031098 0833   EN 46 45.82 S  142 03.34 E  GPS      -                                                                    
+09AR19980228   SR03      32       1  ROS 031098 1735   BE 46 46.33 S  142 02.67 E  GPS    4570                                          bottom depth approx. only
+09AR19980228   SR03      32       1  ROS 031098 1740   BO 46 46.35 S  142 02.69 E  GPS      -        -            102      24 1-4,6                              
+09AR19980228   SR03      32       1  ROS 031098 1751   EN 46 46.42 S  142 02.83 E  GPS      -                                                                    
+09AR19980228   SR03      33       1  ROS 031098 1833   BE 46 46.65 S  142 03.29 E  GPS    4570                                          bottom depth approx. only
+09AR19980228   SR03      33       1  ROS 031098 1847   BO 46 46.73 S  142 03.42 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      33       1  ROS 031098 1922   EN 46 46.86 S  142 03.66 E  GPS      -                                                                    
+09AR19980228   SR03      34       1  ROS 031198 0303   BE 46 43.32 S  141 59.64 E  GPS    4660                                          bottom depth approx. only
+09AR19980228   SR03      34       1  ROS 031198 0535   BO 46 42.40 S  141 59.75 E  GPS      -        -           4316      24 1-4,6                              
+09AR19980228   SR03      34       1  ROS 031198 0748   EN 46 42.48 S  141 59.80 E  GPS      -                                                                    
+09AR19980228   SR03      35       1  ROS 031198 0936   BE 46 42.73 S  141 59.67 E  GPS    4730                                          bottom depth approx. only
+09AR19980228   SR03      35       1  ROS 031198 1220   BO 46 43.38 S  141 59.95 E  GPS      -        -           4516      24 1-4,6                              
+09AR19980228   SR03      35       1  ROS 031198 1532   EN 46 43.42 S  142 00.48 E  GPS      -                                                                    
+09AR19980228   SR03      36       1  ROS 031198 1734   BE 46 41.70 S  142 01.44 E  GPS    4700                                          bottom depth approx. only
+09AR19980228   SR03      36       1  ROS 031198 1926   BO 46 41.87 S  142 01.93 E  GPS      -        -           3014      24 1-4,6                              
+09AR19980228   SR03      36       1  ROS 031198 2201   EN 46 41.83 S  142 02.08 E  GPS      -                                                                    
+09AR19980228   SR03      37       1  ROS 031198 2303   BE 46 42.03 S  142 01.27 E  GPS    4700                                          bottom depth approx. only
+09AR19980228   SR03      37       1  ROS 031198 2312   BO 46 42.06 S  142 01.14 E  GPS      -        -            104      24 1-4,6                              
+09AR19980228   SR03      37       1  ROS 031198 2327   EN 46 42.04 S  142 01.10 E  GPS      -                                                                    
+09AR19980228   SR03      38       1  ROS 031298 0005   BE 46 42.34 S  142 00.93 E  GPS    4700                                          bottom depth approx. only
+09AR19980228   SR03      38       1  ROS 031298 0024   BO 46 42.35 S  142 00.79 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      38       1  ROS 031298 0055   EN 46 42.38 S  142 00.52 E  GPS      -                                                                    
+09AR19980228   SR03      39       1  ROS 031298 0243   BE 46 42.78 S  141 58.86 E  GPS    4680                                          bottom depth approx. only
+09AR19980228   SR03      39       1  ROS 031298 0316   BO 46 42.90 S  141 58.83 E  GPS      -        -            124      24 1-4,6                              
+09AR19980228   SR03      39       1  ROS 031298 0341   EN 46 42.97 S  141 58.82 E  GPS      -                                                                    
+09AR19980228   SR03      40       1  ROS 031298 0526   BE 46 42.84 S  141 58.90 E  GPS    4680                                          bottom depth approx. only
+09AR19980228   SR03      40       1  ROS 031298 0658   BO 46 42.64 S  141 58.84 E  GPS      -        -           4014      24 1-4,6                              
+09AR19980228   SR03      40       1  ROS 031298 0959   EN 46 41.88 S  141 59.08 E  GPS      -                                                                    
+09AR19980228   SR03      41       1  ROS 031498 0509   BE 48 13.89 S  141 24.29 E  GPS    4308                                          bottom depth approx. only
+09AR19980228   SR03      41       1  ROS 031498 0559   BO 48 13.62 S  141 24.38 E  GPS      -        -           2006      24 1-4,6                              
+09AR19980228   SR03      41       1  ROS 031498 0653   EN 48 13.46 S  141 24.10 E  GPS      -                                                                    
+09AR19980228   SR03      42       1  ROS 031498 1605   BE 49 29.98 S  141 45.10 E  GPS    4257                                          bottom depth approx. only
+09AR19980228   SR03      42       1  ROS 031498 1635   BO 49 30.09 S  141 45.67 E  GPS      -        -            704      24 1-4,6                              
+09AR19980228   SR03      42       1  ROS 031498 1705   EN 49 30.26 S  141 45.84 E  GPS      -                                                                    
+09AR19980228   SR03      43       1  ROS 031498 1750   BE 49 30.40 S  141 46.75 E  GPS    4154                                          bottom depth approx. only
+09AR19980228   SR03      43       1  ROS 031498 1802   BO 49 30.49 S  141 46.97 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      43       1  ROS 031498 1830   EN 49 30.82 S  141 47.34 E  GPS      -                                                                    
+09AR19980228   SR03      44       1  ROS 031498 2015   BE 49 32.46 S  141 48.24 E  GPS    4154                                          bottom depth approx. only
+09AR19980228   SR03      44       1  ROS 031498 2134   BO 49 32.93 S  141 48.91 E  GPS      -      21.0          3982      24 1-4,6                              
+09AR19980228   SR03      44       1  ROS 031498 2358   EN 49 33.73 S  141 50.28 E  GPS      -                                                                    
+09AR19980228   SR03      45       1  ROS 031598 0203   BE 49 35.41 S  141 52.42 E  GPS    4030                                          bottom depth approx. only
+09AR19980228   SR03      45       1  ROS 031598 0238   BO 49 35.75 S  141 53.00 E  GPS      -        -            154      24 1-4,6                              
+09AR19980228   SR03      45       1  ROS 031598 0313   EN 49 36.03 S  141 53.77 E  GPS      -                                                                    
+09AR19980228   SR03      46       1  ROS 031598 0953   BE 50 30.52 S  141 45.19 E  GPS    4000                                          bottom depth approx. only
+09AR19980228   SR03      46       1  ROS 031598 1048   BO 50 31.30 S  141 46.11 E  GPS      -        -           2012      24 1-4,6                              
+09AR19980228   SR03      46       1  ROS 031598 1157   EN 50 31.91 S  141 47.15 E  GPS      -                                                                    
+09AR19980228   SR03      47       1  ROS 031598 1625   BE 51 00.45 S  141 48.10 E  GPS    4000                                          bottom depth approx. only
+09AR19980228   SR03      47       1  ROS 031598 1709   BO 51 00.76 S  141 48.81 E  GPS      -        -            706      24 1-4,6                              
+09AR19980228   SR03      47       1  ROS 031598 1740   EN 51 00.96 S  141 49.50 E  GPS      -                                                                    
+09AR19980228   SR03      48       1  ROS 031598 1836   BE 51 01.45 S  141 50.77 E  GPS    4000                                          bottom depth approx. only
+09AR19980228   SR03      48       1  ROS 031598 1850   BO 51 01.54 S  141 51.06 E  GPS      -        -            182      24 1-4,6                              
+09AR19980228   SR03      48       1  ROS 031598 1901   EN 51 01.75 S  141 51.53 E  GPS      -                                                                    
+09AR19980228   SR03      49       1  ROS 031598 2205   BE 51 01.87 S  141 45.26 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      49       1  ROS 031598 2212   BO 51 01.95 S  141 45.37 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      49       1  ROS 031598 2242   EN 51 02.03 S  141 45.58 E  GPS      -                                                                    
+09AR19980228   SR03      50       1  ROS 031698 1728   BE 53 45.04 S  141 44.89 E  GPS    2417                                          bottom depth approx. only
+09AR19980228   SR03      50       1  ROS 031698 1745   BO 53 45.21 S  141 44.79 E  GPS      -        -            150      24 1-4,6                              
+09AR19980228   SR03      50       1  ROS 031698 1809   EN 53 45.33 S  141 44.95 E  GPS      -                                                                    
+09AR19980228   SR03      51       1  ROS 031798 0347   BE 53 42.44 S  141 40.70 E  GPS    2967                                          bottom depth approx. only
+09AR19980228   SR03      51       1  ROS 031798 0601   BO 53 42.19 S  141 40.56 E  GPS      -      33.7          3072      24 1-4,6                              
+09AR19980228   SR03      51       1  ROS 031798 0754   EN 53 42.31 S  141 40.30 E  GPS      -                                                                    
+09AR19980228   SR03      52       1  ROS 031798 0927   BE 53 43.27 S  141 39.63 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      52       1  ROS 031798 0936   BO 53 43.41 S  141 39.70 E  GPS      -        -            256      24 1-4,6                              
+09AR19980228   SR03      52       1  ROS 031798 1014   EN 53 43.71 S  141 40.34 E  GPS      -                                                                    
+09AR19980228   SR03      53       1  ROS 031798 1200   BE 53 44.37 S  141 42.36 E  GPS    2900                                          bottom depth approx. only
+09AR19980228   SR03      53       1  ROS 031798 1306   BO 53 44.47 S  141 43.01 E  GPS      -      33.0          2830      24 1-4,6                              
+09AR19980228   SR03      53       1  ROS 031798 1446   EN 53 44.48 S  141 43.95 E  GPS      -                                                                    
+09AR19980228   SR03      54       1  ROS 031798 2006   BE 53 44.23 S  141 43.51 E  GPS    2500                                          bottom depth approx. only
+09AR19980228   SR03      54       1  ROS 031798 2022   BO 53 44.21 S  141 43.55 E  GPS      -        -            254      24 1-4,6                              
+09AR19980228   SR03      54       1  ROS 031798 2044   EN 53 44.21 S  141 43.58 E  GPS      -                                                                    
+09AR19980228   SR03      55       1  ROS 031798 2234   BE 53 44.22 S  141 47.02 E  GPS    2140                                          bottom depth approx. only
+09AR19980228   SR03      55       1  ROS 031798 2249   BO 53 44.32 S  141 47.04 E  GPS      -        -            702      24 1-4,6                              
+09AR19980228   SR03      55       1  ROS 031798 2325   EN 53 44.42 S  141 47.20 E  GPS      -                                                                    
+09AR19980228   SR03      56       1  ROS 031898 0024   BE 53 45.54 S  141 47.47 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      56       1  ROS 031898 0031   BO 53 45.63 S  141 47.50 E  GPS      -        -            254      24 1-4,6                              
+09AR19980228   SR03      56       1  ROS 031898 0048   EN 53 45.72 S  141 47.66 E  GPS      -                                                                    
+09AR19980228   SR03      57       1  ROS 031898 1843   BE 53 43.89 S  141 45.95 E  GPS    2137                                          bottom depth approx. only
+09AR19980228   SR03      57       1  ROS 031898 1854   BO 53 43.89 S  141 46.23 E  GPS      -        -            154      24 1-4,6                              
+09AR19980228   SR03      57       1  ROS 031898 1908   EN 53 43.88 S  141 46.49 E  GPS      -                                                                    
+09AR19980228   SR03      58       1  ROS 031898 1959   BE 53 44.00 S  141 47.38 E  GPS    2137                                          bottom depth approx. only
+09AR19980228   SR03      58       1  ROS 031898 2018   BO 53 43.92 S  141 47.65 E  GPS      -        -            258      24 1-4,6                              
+09AR19980228   SR03      58       1  ROS 031898 2046   EN 53 43.87 S  141 48.15 E  GPS      -                                                                    
+09AR19980228   SR03      59       1  ROS 031998 0243   BE 53 43.61 S  141 50.85 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      59       1  ROS 031998 0256   BO 53 43.72 S  141 50.62 E  GPS      -        -            154      24 1-4,6                              
+09AR19980228   SR03      59       1  ROS 031998 0333   EN 53 43.92 S  141 50.72 E  GPS      -                                                                    
+09AR19980228   SR03      60       1  ROS 031998 0606   BE 53 45.90 S  141 50.02 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      60       1  ROS 031998 0616   BO 53 45.92 S  141 50.12 E  GPS      -        -            118      24 1-4,6                              
+09AR19980228   SR03      60       1  ROS 031998 0631   EN 53 45.98 S  141 50.32 E  GPS      -                                                                    
+09AR19980228   SR03      61       1  ROS 031998 0733   BE 53 46.23 S  141 51.92 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      61       1  ROS 031998 0749   BO 53 46.26 S  141 52.20 E  GPS      -        -            152      24 1-4,6                              
+09AR19980228   SR03      61       1  ROS 031998 0806   EN 53 46.23 S  141 52.45 E  GPS      -                                                                    
+09AR19980228   SR03      62       1  ROS 031998 0925   BE 53 45.81 S  141 55.22 E  GPS    2956                                          bottom depth approx. only
+09AR19980228   SR03      62       1  ROS 031998 1145   BO 53 45.31 S  141 57.46 E  GPS      -      39.3          3124      24 1-4,6                              
+09AR19980228   SR03      62       1  ROS 031998 1315   EN 53 45.06 S  141 58.36 E  GPS      -                                                                    
+09AR19980228   SR03      63       1  ROS 031998 1550   BE 53 45.73 S  141 53.49 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      63       1  ROS 031998 1727   BO 53 46.77 S  141 52.98 E  GPS      -        -            300      24 1-4,6                              
+09AR19980228   SR03      63       1  ROS 031998 1841   EN 53 47.22 S  141 52.95 E  GPS      -                                                                    
+09AR19980228   SR03      64       1  ROS 031998 1938   BE 53 47.51 S  141 52.99 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      64       1  ROS 031998 1952   BO 53 47.59 S  141 52.99 E  GPS      -        -            156      24 1-4,6                              
+09AR19980228   SR03      64       1  ROS 031998 2011   EN 53 47.70 S  141 53.13 E  GPS      -                                                                    
+09AR19980228   SR03      65       1  ROS 032098 0233   BE 52 59.88 S  141 44.88 E  GPS    2995                                          bottom depth approx. only
+09AR19980228   SR03      65       1  ROS 032098 0337   BO 52 59.58 S  141 45.49 E  GPS      -        -           2010      24 1-4,6                              
+09AR19980228   SR03      65       1  ROS 032098 0454   EN 52 59.47 S  141 46.26 E  GPS      -                                                                    
+09AR19980228   SR03      66       1  ROS 032098 0945   BE 51 59.76 S  141 45.11 E  GPS    3640                                          bottom depth approx. only
+09AR19980228   SR03      66       1  ROS 032098 1044   BO 51 59.32 S  141 45.78 E  GPS      -        -           2008      24 1-4,6                              
+09AR19980228   SR03      66       1  ROS 032098 1155   EN 51 58.87 S  141 46.99 E  GPS      -                                                                    
+09AR19980228   SR03      67       1  ROS 032098 1702   BE 51 00.12 S  141 45.17 E  GPS    3796                                          bottom depth approx. only
+09AR19980228   SR03      67       1  ROS 032098 1823   BO 51 00.75 S  141 46.17 E  GPS      -        -           2030      24 1-4,6                              
+09AR19980228   SR03      67       1  ROS 032098 1917   EN 51 01.28 S  141 46.61 E  GPS      -                                                                    
+09AR19980228   SR03      68       1  ROS 032198 0541   BE 51 59.38 S  141 45.97 E  GPS    3630                                          bottom depth approx. only
+09AR19980228   SR03      68       1  ROS 032198 0548   BO 51 59.32 S  141 46.12 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      68       1  ROS 032198 0624   EN 51 58.94 S  141 46.85 E  GPS      -                                                                    
+09AR19980228   SR03      69       1  ROS 032198 1210   BE 53 00.40 S  141 44.65 E  GPS    2865                                          bottom depth approx. only
+09AR19980228   SR03      69       1  ROS 032198 1230   BO 53 00.46 S  141 44.85 E  GPS      -        -            704      24 1-4,6                              
+09AR19980228   SR03      69       1  ROS 032198 1317   EN 53 00.52 S  141 45.45 E  GPS      -                                                                    
+09AR19980228   SR03      70       1  ROS 032198 1415   BE 53 00.71 S  141 46.44 E  GPS    2600                                          bottom depth approx. only
+09AR19980228   SR03      70       1  ROS 032198 1429   BO 53 00.72 S  141 46.75 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      70       1  ROS 032198 1502   EN 53 00.85 S  141 47.14 E  GPS      -                                                                    
+09AR19980228   SR03      71       1  ROS 032298 0733   BE 53 46.35 S  141 44.12 E  GPS    2300                                          bottom depth approx. only
+09AR19980228   SR03      71       1  ROS 032298 0740   BO 53 46.42 S  141 44.17 E  GPS      -        -            134      24 1-4,6                              
+09AR19980228   SR03      71       1  ROS 032298 0750   EN 53 46.53 S  141 44.35 E  GPS      -                                                                    
+09AR19980228   SR03      72       1  ROS 032298 0825   BE 53 44.53 S  141 44.35 E  GPS    2230                                          bottom depth approx. only
+09AR19980228   SR03      72       1  ROS 032298 0842   BO 53 47.13 S  141 44.94 E  GPS      -        -            250      24 1-4,6                              
+09AR19980228   SR03      72       1  ROS 032298 0919   EN 53 47.23 S  141 45.21 E  GPS      -                                                                    
+09AR19980228   SR03      73       1  ROS 032298 1742   BE 54 59.44 S  141 44.70 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      73       1  ROS 032298 1838   BO 54 59.34 S  141 44.33 E  GPS      -        -           2002      24 1-4,6                              
+09AR19980228   SR03      73       1  ROS 032298 1959   EN 54 59.43 S  141 43.56 E  GPS      -                                                                    
+09AR19980228   SR03      74       1  ROS 032398 0248   BE 54 59.86 S  143 30.25 E  GPS    2977                                          bottom depth approx. only
+09AR19980228   SR03      74       1  ROS 032398 0357   BO 54 59.50 S  143 30.08 E  GPS      -        -           2004      24 1-4,6                              
+09AR19980228   SR03      74       1  ROS 032398 0507   EN 54 59.26 S  143 30.03 E  GPS      -                                                                    
+09AR19980228   SR03      75       1  ROS 032498 1737   BE 51 24.00 S  142 45.15 E  GPS    3720                                          bottom depth approx. only
+09AR19980228   SR03      75       1  ROS 032498 1751   BO 51 24.10 S  142 45.63 E  GPS      -        -            150      24 1-4,6                              
+09AR19980228   SR03      75       1  ROS 032498 1800   EN 51 24.16 S  142 45.88 E  GPS      -                                                                    
+09AR19980228   SR03      76       1  ROS 032498 1817   BE 51 24.13 S  142 46.44 E  GPS    3800                                          bottom depth approx. only
+09AR19980228   SR03      76       1  ROS 032498 1911   BO 51 24.41 S  142 47.65 E  GPS      -        -           1500      24 1-4,6                              
+09AR19980228   SR03      76       1  ROS 032498 2022   EN 51 24.72 S  142 49.14 E  GPS      -                                                                    
+09AR19980228   SR03      77       1  ROS 032498 2250   BE 51 06.17 S  142 45.43 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      77       1  ROS 032498 2342   BO 51 06.55 S  142 46.26 E  GPS      -        -           1502      24 1-4,6                              
+09AR19980228   SR03      77       1  ROS 032598 0048   EN 51 06.88 S  142 47.22 E  GPS      -                                                                    
+09AR19980228   SR03      78       1  ROS 032598 0248   BE 50 54.22 S  142 45.57 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      78       1  ROS 032598 0349   BO 50 54.76 S  142 46.92 E  GPS      -        -           1502      24 1-4,6                              
+09AR19980228   SR03      78       1  ROS 032598 0450   EN 50 55.25 S  142 48.04 E  GPS      -                                                                    
+09AR19980228   SR03      79       1  ROS 032598 0657   BE 50 48.68 S  142 44.71 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      79       1  ROS 032598 0714   BO 50 48.81 S  142 44.97 E  GPS      -        -            152      24 1-4,6                              
+09AR19980228   SR03      79       1  ROS 032598 0725   EN 50 48.94 S  142 45.17 E  GPS      -                                                                    
+09AR19980228   SR03      80       1  ROS 032598 0824   BE 50 49.39 S  142 46.08 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      80       1  ROS 032598 0842   BO 50 49.53 S  142 46.36 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      80       1  ROS 032598 0916   EN 50 49.80 S  142 46.90 E  GPS      -                                                                    
+09AR19980228   SR03      81       1  ROS 032598 1012   BE 50 50.60 S  142 48.13 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      81       1  ROS 032598 1035   BO 50 50.83 S  142 48.43 E  GPS      -        -            702      24 1-4,6                              
+09AR19980228   SR03      81       1  ROS 032598 1119   EN 50 51.01 S  142 49.23 E  GPS      -                                                                    
+09AR19980228   SR03      82       1  ROS 032598 1837   BE 50 54.09 S  142 59.92 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      82       1  ROS 032598 1851   BO 50 54.21 S  143 00.25 E  GPS      -        -            154      24 1-4,6                              
+09AR19980228   SR03      82       1  ROS 032598 1904   EN 50 54.32 S  143 00.70 E  GPS      -                                                                    
+09AR19980228   SR03      83       1  ROS 032598 1944   BE 50 54.68 S  143 01.75 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      83       1  ROS 032598 2004   BO 50 54.87 S  143 02.30 E  GPS      -        -            250      24 1-4,6                              
+09AR19980228   SR03      83       1  ROS 032598 2044   EN 50 55.23 S  143 03.14 E  GPS      -                                                                    
+09AR19980228   SR03      84       1  ROS 032598 2258   BE 50 57.16 S  143 05.59 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      84       1  ROS 032598 2306   BO 50 57.22 S  143 05.74 E  GPS      -        -            254      24 1-4,6                              
+09AR19980228   SR03      84       1  ROS 032598 2333   EN 50 57.44 S  143 06.58 E  GPS      -                                                                    
+09AR19980228   SR03      85       1  ROS 032698 0109   BE 50 58.29 S  143 08.22 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      85       1  ROS 032698 0124   BO 50 58.30 S  143 08.45 E  GPS      -        -            252      24 1-4,6                              
+09AR19980228   SR03      85       1  ROS 032698 0200   EN 50 58.37 S  143 09.68 E  GPS      -                                                                    
+09AR19980228   SR03      86       1  ROS 032698 0711   BE 51 00.62 S  143 14.83 E  GPS    3750                                          bottom depth approx. only
+09AR19980228   SR03      86       1  ROS 032698 0726   BO 51 00.80 S  143 15.20 E  GPS      -        -            150      24 1-4,6                              
+09AR19980228   SR03      86       1  ROS 032698 0806   EN 51 01.12 S  143 16.08 E  GPS      -                                                                    
+09AR19980228   SR03      87       1  ROS 032698 1122   BE 51 01.95 S  143 20.37 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      87       1  ROS 032698 1339   BO 51 02.40 S  143 22.98 E  GPS      -      45.8          3822      24 1-4,6                              
+09AR19980228   SR03      87       1  ROS 032698 1550   EN 51 02.85 S  143 24.09 E  GPS      -                                                                    
+09AR19980228   SR03      88       1  ROS 032698 1701   BE 51 03.78 S  143 27.55 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      88       1  ROS 032698 1813   BO 51 04.07 S  143 29.12 E  GPS      -        -            398      24 1-4,6                              
+09AR19980228   SR03      88       1  ROS 032698 1934   EN 51 03.88 S  143 30.61 E  GPS      -                                                                    
+09AR19980228   SR03      89       1  ROS 032698 2004   BE 51 03.90 S  143 31.10 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      89       1  ROS 032698 2020   BO 51 03.84 S  143 31.35 E  GPS      -        -            150      24 1-4,6                              
+09AR19980228   SR03      89       1  ROS 032698 2029   EN 51 03.87 S  143 31.47 E  GPS      -                                                                    
+09AR19980228   SR03      90       1  ROS 032698 2231   BE 51 04.44 S  143 35.79 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      90       1  ROS 032798 0044   BO 51 04.69 S  143 37.81 E  GPS      -      37.6          3960      24 1-4,6                              
+09AR19980228   SR03      90       1  ROS 032798 0330   EN 51 04.27 S  143 39.66 E  GPS      -                                                                    
+09AR19980228   SR03      91       1  ROS 032798 1143   BE 50 23.56 S  143 57.96 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      91       1  ROS 032798 1149   BO 50 23.48 S  143 57.96 E  GPS      -        -            152      24 1-4,6                              
+09AR19980228   SR03      91       1  ROS 032798 1211   EN 50 23.23 S  143 58.08 E  GPS      -                                                                    
+09AR19980228   SR03      92       1  ROS 032798 1235   BE 50 23.01 S  143 58.22 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      92       1  ROS 032798 1310   BO 50 22.65 S  143 58.39 E  GPS      -        -           1502      24 1-4,6                              
+09AR19980228   SR03      92       1  ROS 032798 1415   EN 50 22.17 S  143 58.57 E  GPS      -                                                                    
+09AR19980228   SR03      93       1  ROS 032798 1948   BE 50 51.09 S  144 03.69 E  GPS    3694                                          bottom depth approx. only
+09AR19980228   SR03      93       1  ROS 032798 2001   BO 50 51.02 S  144 03.91 E  GPS      -        -            150      24 1-4,6                              
+09AR19980228   SR03      93       1  ROS 032798 2014   EN 50 50.87 S  144 04.26 E  GPS      -                                                                    
+09AR19980228   SR03      94       1  ROS 032898 0110   BE 50 58.30 S  144 09.47 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      94       1  ROS 032898 0126   BO 50 58.21 S  144 09.37 E  GPS      -        -            146      24 1-4,6                              
+09AR19980228   SR03      94       1  ROS 032898 0134   EN 50 58.09 S  144 09.43 E  GPS      -                                                                    
+09AR19980228   SR03      95       1  ROS 032898 0208   BE 50 57.54 S  144 09.97 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      95       1  ROS 032898 0225   BO 50 57.45 S  144 10.10 E  GPS      -        -            254      24 1-4,6                              
+09AR19980228   SR03      95       1  ROS 032898 0256   EN 50 57.35 S  144 10.72 E  GPS      -                                                                    
+09AR19980228   SR03      96       1  ROS 032898 1254   BE 51 29.91 S  145 00.38 E  GPS      -                                           bottom depth approx. only
+09AR19980228   SR03      96       1  ROS 032898 1312   BO 51 29.64 S  145 00.66 E  GPS      -        -            798      24 1-4,6                              
+09AR19980228   SR03      96       1  ROS 032898 1330   EN 51 29.41 S  145 01.44 E  GPS      -                                                                    
+09AR19980228   SR03      97       1  ROS 033198 1235   BE 43 24.39 S  147 24.10 E  GPS      64                                          bottom depth approx. only
+09AR19980228   SR03      97       1  ROS 033198 1251   BO 43 24.11 S  147 24.31 E  GPS      -        -             60      24 1-4,6                              
+09AR19980228   SR03      97       1  ROS 033198 1256   EN 43 24.06 S  147 24.37 E  GPS      -                                                                    

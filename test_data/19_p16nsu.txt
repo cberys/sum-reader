@@ -1,0 +1,235 @@
+R/V DISCOVERER  CRUISE CGC91, LEGS 1 AND 2    WHP-ID  P16N             20021108SIOWHPODM                                                                          
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX  NO. OF                          
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS      
+--------------------------------------------------------------------------------------------------------------------------------------------------
+31DSCGC91_1    P16N     13      1  ROS 022891 2000   BE 21 20.01 N 152 49.87 W GPS                                                                
+31DSCGC91_1    P16N     13      1  ROS 022891 2011   BO 21 20.00 N 152 50.00 W GPS  5255                     386      15 1-8,10,11, CTD Cast 21   
+31DSCGC91_1    P16N     13      1  ROS 022891 2052   EN 21 20.24 N 152 50.00 W GPS                                       23,24                    
+31DSCGC91_1    P16N     13      2  ROS 022891 2201   BE 21 20.27 N 152 49.79 W GPS                                                                
+31DSCGC91_1    P16N     13      2  ROS 022891 2333   BO 21 20.11 N 152 50.55 W GPS  5249           24       5362      24 1-8,10,11, CTD Cast 22   
+31DSCGC91_1    P16N     13      2  ROS 022991 0138   EN 21 19.55 N 152 50.55 W GPS                                       23,24                    
+31DSCGC91_2    P16N     15      1  ROS 030891 0329   BE 19 53.29 N 154 54.97 W GPS                                                                
+31DSCGC91_2    P16N     15      1  ROS 030891 0402   BO 19 53.27 N 154 55.27 W GPS   962           30        955      24 1-8        CTD Cast 24   
+31DSCGC91_2    P16N     15      1  ROS 030891 0507   EN 19 53.66 N 154 55.51 W GPS                                                                
+31DSCGC91_2    P16N     16      1  ROS 030891 0747   BE 20  3.76 N 154 40.14 W GPS                                                                
+31DSCGC91_2    P16N     16      1  ROS 030891 0831   BO 20  3.95 N 154 40.54 W GPS  2531           30       2552      22 1-8,10,11, CTD Cast 25   
+31DSCGC91_2    P16N     16      1  ROS 030891 1027   EN 20  4.51 N 154 40.88 W GPS                                                                
+31DSCGC91_2    P16N     17      1  ROS 030891 1428   BE 20 21.90 N 154 13.93 W GPS                                                                
+31DSCGC91_2    P16N     17      1  ROS 030891 1449   BO 20 22.04 N 154 14.07 W GPS  5369                    1035      18 1-8,9-13,  CTD Cast 26   
+31DSCGC91_2    P16N     17      1  ROS 030891 1604   EN 20 23.00 N 154 13.84 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     17      2  ROS 030891 1819   BE 20 23.51 N 154 14.09 W GPS                                       32                       
+31DSCGC91_2    P16N     17      2  ROS 030891 1948   BO 20 23.85 N 154 14.18 W GPS  5455                    5243      23 1-13,23,   CTD Cast 27   
+31DSCGC91_2    P16N     17      2  ROS 030891 2218   EN 20 24.63 N 154 14.15 W GPS                                       24,26,32                 
+31DSCGC91_2    P16N     18      1  ROS 030991 0228   BE 20 41.35 N 153 45.97 W GPS                                                                
+31DSCGC91_2    P16N     18      1  ROS 030991 0411   BO 20 42.45 N 153 45.99 W GPS  5064          100       5108      19 1-8,23,    CTD Cast 28   
+31DSCGC91_2    P16N     18      1  ROS 030991 0647   EN 20 43.47 N 153 45.01 W GPS                                       24                       
+31DSCGC91_2    P16N     19      1  ROS 031091 0348   BE 21 36.52 N 152 27.21 W GPS                                                                
+31DSCGC91_2    P16N     19      1  ROS 031091 0521   BO 21 36.80 N 152 26.24 W GPS  5339           50       5405      24 1-8,10,11, CTD Cast 29   
+31DSCGC91_2    P16N     19      1  ROS 031091 0737   EN 21 37.72 N 152 26.05 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     20      1  ROS 031091 1300   BE 21 54.93 N 152  0.19 W GPS                                                                
+31DSCGC91_2    P16N     20      1  ROS 031091 1310   BO 21 54.98 N 152  0.27 W GPS  5691                     345      12 1-13,23,   CTD Cast 30   
+31DSCGC91_2    P16N     20      1  ROS 031091 1347   EN 21 55.09 N 152  0.12 W GPS                                       24,26                    
+31DSCGC91_2    P16N     20      2  ROS 031091 1509   BE 21 55.14 N 152  0.24 W GPS                                                                
+31DSCGC91_2    P16N     20      2  ROS 031091 1647   BO 21 54.95 N 151 59.98 W GPS  5691           50       5781      24 1-13,23,   CTD Cast 31   
+31DSCGC91_2    P16N     20      2  ROS 031091 1917   EN 21 54.93 N 152  0.19 W GPS                                       24,26                    
+31DSCGC91_2    P16N     21      1  ROS 031191 0840   BE 22 40.02 N 152  0.17 W GPS                                                                
+31DSCGC91_2    P16N     21      1  ROS 031191 1030   BO 22 40.65 N 151 59.51 W GPS  5576           50       5531      24 1-8,23,24  CTD Cast 32   
+31DSCGC91_2    P16N     21      1  ROS 031191 1332   EN 22 42.01 N 151 59.53 W GPS                                                                
+31DSCGC91_2    P16N     22      1  ROS 031291 0255   BE 23 59.97 N 152  0.00 W GPS                                                                
+31DSCGC91_2    P16N     22      1  ROS 031291 0452   BO 23 59.84 N 151 58.76 W GPS  5617          140       5490      24 1-8,10,11, CTD Cast 33   
+31DSCGC91_2    P16N     22      1  ROS 031291 0732   EN 24  0.88 N 151 58.36 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     22      2  ROS 031291 0934   BE 24  0.29 N 151 58.12 W GPS                                       32                       
+31DSCGC91_2    P16N     22      2  ROS 031291 1000   BO 24  0.15 N 151 57.96 W GPS  5321                     946      24 1-8,12,13, CTD Cast 34   
+31DSCGC91_2    P16N     22      2  ROS 031291 1124   EN 24  0.16 N 151 57.81 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     23      1  ROS 031291 1640   BE 24 40.06 N 152  0.58 W GPS                                       32                       
+31DSCGC91_2    P16N     23      1  ROS 031291 1824   BO 24 39.93 N 152  0.17 W GPS  5296           40       5373      24 1-8,23,24  CTD Cast 35   
+31DSCGC91_2    P16N     23      1  ROS 031291 2050   EN 24 40.17 N 151 59.89 W GPS                                                                
+31DSCGC91_2    P16N     23      2  LVS 031291 2159   BE 24 40.07 N 152  0.58 W GPS                                                                
+31DSCGC91_2    P16N     23      2  LVS 031391 0007   MR 24 40.11 N 151 59.90 W GPS  5266                                 1,12,13                  
+31DSCGC91_2    P16N     23      2  LVS 031391 0209   EN 24 40.50 N 152  0.32 W GPS                                                                
+31DSCGC91_2    P16N     24      1  ROS 031391 0720   BE 25 19.13 N 152  0.09 W GPS                                                                
+31DSCGC91_2    P16N     24      1  ROS 031391 0910   BO 25 20.20 N 151 59.69 W GPS  5498           50       5574      24 1-8,23,24  CTD Cast 36   
+31DSCGC91_2    P16N     24      1  ROS 031391 1152   EN 25 21.78 N 151 58.58 W GPS                                                                
+31DSCGC91_2    P16N     25      1  ROS 031391 1604   BE 26  0.24 N 152  0.03 W GPS                                                                
+31DSCGC91_2    P16N     25      1  ROS 031391 1625   BO 26  0.14 N 151 59.68 W GPS  5372                     639      24 1-11,23,   CTD Cast 37   
+31DSCGC91_2    P16N     25      1  ROS 031391 1729   EN 26  0.23 N 151 59.55 W GPS                                       24,26,32                 
+31DSCGC91_2    P16N     25      2  ROS 031391 2041   BE 26  0.15 N 152  0.08 W GPS                                                                
+31DSCGC91_2    P16N     25      2  ROS 031391 2220   BO 26  0.24 N 151 59.97 W GPS  5373           50       5439      24 1-8,10,11, CTD Cast 38   
+31DSCGC91_2    P16N     25      2  ROS 031491 0105   EN 26  1.08 N 152  0.03 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     26      1  ROS 031491 0541   BE 26 39.99 N 152  0.09 W GPS                                                                
+31DSCGC91_2    P16N     26      1  ROS 031491 0725   BO 26 39.95 N 152  0.04 W GPS  5428           40       5517      22 1-8,23,24, CTD Cast 39   
+31DSCGC91_2    P16N     26      1  ROS 031491 0110   EN 26 40.05 N 151 59.77 W GPS                                       26                       
+31DSCGC91_2    P16N     27      1  ROS 031491 1421   BE 27 19.91 N 152  0.07 W GPS                                                                
+31DSCGC91_2    P16N     27      1  ROS 031491 1602   BO 27 20.03 N 151 59.87 W GPS  5681           50       5770       9 1          CTD Cast 40   
+31DSCGC91_2    P16N     27      1  ROS 031491 1849   EN 27 20.31 N 152  0.02 W GPS                                                                
+31DSCGC91_2    P16N     28      1  ROS 031491 2309   BE 28  0.36 N 152  0.06 W GPS                                                                
+31DSCGC91_2    P16N     28      1  ROS 031591 0100   BO 28  1.34 N 151 59.29 W GPS  5333           80       5529      23 1-13,23,   CTD Cast 41   
+31DSCGC91_2    P16N     28      1  ROS 031591 0344   EN 28  2.70 N 151 58.55 W GPS                                       24,26                    
+31DSCGC91_2    P16N     28      2  ROS 031591 0822   BE 27 59.90 N 152  0.00 W GPS                                                                
+31DSCGC91_2    P16N     28      2  ROS 031591 0855   BO 27 59.96 N 151 59.69 W GPS  5516                    1037      18 1-8,12,13, CTD Cast 42   
+31DSCGC91_2    P16N     28      2  ROS 031591 1022   EN 28  0.79 N 151 59.60 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     29      1  ROS 031591 1458   BE 28 39.98 N 152  0.38 W GPS                                       32                       
+31DSCGC91_2    P16N     29      1  ROS 031591 1638   BO 28 39.84 N 151 59.87 W GPS  5602           40       5690       4 1-8,23,24, CTD Cast 43   
+31DSCGC91_2    P16N     29      1  ROS 031591 1933   EN 28 40.39 N 151 59.17 W GPS                                       26                       
+31DSCGC91_2    P16N     30      1  ROS 031591 2352   BE 29 19.64 N 151 59.69 W GPS                                                                
+31DSCGC91_2    P16N     30      1  ROS 031691 0137   BO 29 20.71 N 151 58.33 W GPS  5267           50       5460      24 1-8,23,24, CTD Cast 44   
+31DSCGC91_2    P16N     30      1  ROS 031691 0430   EN 29 20.06 N 151 56.96 W GPS                                       26,32                    
+31DSCGC91_2    P16N     31      1  ROS 031691 0909   BE 30  0.10 N 152  0.10 W GPS                                                                
+31DSCGC91_2    P16N     31      1  ROS 031691 0918   BO 30  0.04 N 152  0.05 W GPS  5397                     343       0            CTD Cast 45   
+31DSCGC91_2    P16N     31      1  ROS 031691 1022   EN 30  0.02 N 151 59.95 W GPS                                                                
+31DSCGC91_2    P16N     31      2  ROS 031691 1250   BE 30  0.16 N 152  0.04 W GPS                                                                
+31DSCGC91_2    P16N     31      2  ROS 031691 1425   BO 29 59.98 N 152  0.54 W GPS  5400          200       5142      23 1-8,10-13, CTD Cast 46   
+31DSCGC91_2    P16N     31      2  ROS 031691 1645   EN 30  0.41 N 152  0.17 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     31      3  LVS 031691 1908   BE 30  7.03 N 152  0.42 W GPS                                       32                       
+31DSCGC91_2    P16N     31      3  LVS 031691 2114   MR 30  7.53 N 152  1.53 W GPS  5544                                 1,12,13                  
+31DSCGC91_2    P16N     31      3  LVS 031691 2323   EN 30  8.41 N 152  1.84 W GPS                                                  3 barrels did 
+31DSCGC91_2    P16N     31      4  LVS 031791 0008   BE 30  8.86 N 152  1.83 W GPS                                                  not trip      
+31DSCGC91_2    P16N     31      4  LVS 031791 0205   MR 30  9.28 N 152  4.58 W GPS  5237                                 1,12,13                  
+31DSCGC91_2    P16N     31      4  LVS 031791 0451   EN 30 11.38 N 152  0.46 W GPS                                                                
+31DSCGC91_2    P16N     32      1  ROS 031791 0855   BE 30 39.76 N 152  0.16 W GPS                                                                
+31DSCGC91_2    P16N     32      1  ROS 031791 1030   BO 30 39.94 N 151 59.50 W GPS  5449           50       5452      22 1-8,23,23, CTD Cast 47   
+31DSCGC91_2    P16N     32      1  ROS 031791 1303   EN 30 40.82 N 151 58.45 W GPS                                       26,32                    
+31DSCGC91_2    P16N     33      1  ROS 031791 1704   BE 31 19.81 N 152  0.10 W GPS                                                                
+31DSCGC91_2    P16N     33      1  ROS 031791 1841   BO 31 20.06 N 152  0.07 W GPS  5465           45       5541       7 1-8,23,24, CTD Cast 48   
+31DSCGC91_2    P16N     33      1  ROS 031791 2109   EN 31 20.10 N 152  0.04 W GPS                                       26                       
+31DSCGC91_2    P16N     34      1  ROS 031891 0213   BE 32  9.61 N 152  0.13 W GPS                                                                
+31DSCGC91_2    P16N     34      1  ROS 031891 0339   BO 32 10.09 N 152  0.26 W GPS  5262          200       5033      24 1-8,10,11, CTD Cast 49   
+31DSCGC91_2    P16N     34      1  ROS 031891 0603   EN 32 10.65 N 152  0.38 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     34      2  ROS 031891 0739   BE 32 10.57 N 152  0.66 W GPS                                       32                       
+31DSCGC91_2    P16N     34      2  ROS 031891 0747   BO 32 10.52 N 152  0.61 W GPS  5256                     439      24 1-8,12,13, CTD Cast 50   
+31DSCGC91_2    P16N     34      2  ROS 031891 0844   EN 32 10.49 N 152  0.36 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     35      1  ROS 031891 1200   BE 32 39.95 N 152  0.04 W GPS                                       32                       
+31DSCGC91_2    P16N     35      1  ROS 031891 1336   BO 32 40.04 N 152  0.07 W GPS  5548           50       5635      24 1-8,23,24, CTD Cast 51   
+31DSCGC91_2    P16N     35      1  ROS 031891 1615   EN 32 41.20 N 152  0.23 W GPS                                       32                       
+31DSCGC91_2    P16N     36      1  ROS 031891 2002   BE 33 19.97 N 151 59.98 W GPS                                                                
+31DSCGC91_2    P16N     36      1  ROS 031891 2138   BO 33 20.00 N 152  0.00 W GPS  5563           43       5555      24 1-9,12,13, CTD Cast 52   
+31DSCGC91_2    P16N     36      1  ROS 031991 0012   EN 33 20.03 N 151 59.72 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     37      1  ROS 031991 0646   BE 33 59.96 N 152  0.14 W GPS                                                                
+31DSCGC91_2    P16N     37      1  ROS 031991 0824   BO 34  0.06 N 152  0.14 W GPS  5559           50       5662      24 1-8,10,11, CTD Cast 53   
+31DSCGC91_2    P16N     37      1  ROS 031991 1052   EN 34  0.08 N 152  0.06 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     38      1  ROS 031991 1456   BE 34 40.13 N 152  0.00 W GPS                                                                
+31DSCGC91_2    P16N     38      1  ROS 031991 1631   BO 34 40.03 N 152  0.27 W GPS  5668           50       5763       0            No bottles    
+31DSCGC91_2    P16N     38      1  ROS 031991 1911   EN 34 40.50 N 152  0.57 W GPS                                                  tripped       
+31DSCGC91_2    P16N     39      1  ROS 032091 0045   BE 35 36.09 N 152  0.29 W GPS                                                                
+31DSCGC91_2    P16N     39      1  ROS 032091 0224   BO 35 36.48 N 152  0.43 W GPS  5705           50       5790      24 1-8,12,13, CTD Cast 55   
+31DSCGC91_2    P16N     39      1  ROS 032091 0517   EN 35 37.24 N 152  2.14 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     40      1  ROS 032091 0921   BE 36 10.26 N 152  1.17 W GPS                                                                
+31DSCGC91_2    P16N     40      1  ROS 032091 1058   BO 36 17.71 N 152  2.72 W GPS  5629           50       5691       9 1-8,23,24  CTD Cast 56   
+31DSCGC91_2    P16N     40      1  ROS 032091 1351   EN 36 17.18 N 152  4.47 W GPS                                                                
+31DSCGC91_2    P16N     41      1  LVS 032091 1841   BE 37  5.81 N 151 59.89 W GPS                                                                
+31DSCGC91_2    P16N     41      1  LVS 032091 2032   MR 37  6.10 N 151 59.13 W GPS  5518                                 1,12,13                  
+31DSCGC91_2    P16N     41      1  LVS 032091 2151   EN 37  6.18 N 151 59.65 W GPS                                                                
+31DSCGC91_2    P16N     41      2  LVS 032091 2240   BE 37  6.46 N 151 59.59 W GPS                                                                
+31DSCGC91_2    P16N     41      2  LVS 032191 0057   MR 37  7.40 N 151 58.73 W GPS  5542                                 1,12,14                  
+31DSCGC91_2    P16N     41      2  LVS 032191 0346   EN 37  8.83 N 151 58.08 W GPS                                                                
+31DSCGC91_2    P16N     41      3  ROS 032191 0533   BE 37  9.12 N 151 59.15 W GPS                                                                
+31DSCGC91_2    P16N     41      3  ROS 032191 0715   BO 37 11.00 N 151 58.02 W GPS  5572           45       5650      24 1-13,23,   CTD Cast 57   
+31DSCGC91_2    P16N     41      3  ROS 032191 0935   EN 37 11.62 N 151 56.76 W GPS                                       24,26                    
+31DSCGC91_2    P16N     41      4  ROS 032191 1120   BE 37 10.33 N 151 58.60 W GPS                                                                
+31DSCGC91_2    P16N     41      4  ROS 032191 1129   BO 37  9.92 N 151 57.61 W GPS  5511                     432      22 1-8,10-13, CTD Cast 58   
+31DSCGC91_2    P16N     41      4  ROS 032191 1230   EN 37  9.71 N 151 56.27 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     42      1  ROS 032191 1740   BE 38  0.21 N 151 59.96 W GPS                                       32                       
+31DSCGC91_2    P16N     42      1  ROS 032191 1904   BO 37 59.91 N 152  0.03 W GPS  4973           42       5051      24 1-8,23,24, CTD Cast 59   
+31DSCGC91_2    P16N     42      1  ROS 032191 2110   EN 37 59.96 N 151 59.97 W GPS                                       26                       
+31DSCGC91_2    P16N     43      1  ROS 032291 0044   BE 38 39.97 N 151 59.97 W GPS                                                                
+31DSCGC91_2    P16N     43      1  ROS 032291 0215   BO 38 40.22 N 151 59.95 W GPS  5338           50       5381      24 1-8,10,11, CTD Cast 60   
+31DSCGC91_2    P16N     43      1  ROS 032291 0428   EN 38 39.86 N 151 59.91 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     44      1  ROS 032291 0807   BE 39 20.09 N 151 59.76 W GPS                                                                
+31DSCGC91_2    P16N     44      1  ROS 032291 0933   BO 39 21.03 N 151 59.20 W GPS  5346           35       5542      23 1-8,12,13, CTD Cast 61   
+31DSCGC91_2    P16N     44      1  ROS 032291 1144   EN 39 21.62 N 151 59.45 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     45      1  ROS 032291 1540   BE 40  0.11 N 151 59.99 W GPS                                                                
+31DSCGC91_2    P16N     45      1  ROS 032291 1709   BO 40  0.90 N 151 59.62 W GPS  5253           50       5305      24 1-8,10,11, CTD Cast 62   
+31DSCGC91_2    P16N     45      1  ROS 032291 1921   EN 40  2.00 N 152  1.13 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     46      1  ROS 032291 2305   BE 40 39.77 N 152  0.11 W GPS                                       32                       
+31DSCGC91_2    P16N     46      1  ROS 032391 0038   BO 40 40.45 N 152  1.33 W GPS  5021           20       5095      24 1-9,12,13, CTD Cast 63   
+31DSCGC91_2    P16N     46      1  ROS 032391 0232   EN 40 40.89 N 152  3.37 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     47      1  ROS 032391 0629   BE 41 15.60 N 152  1.10 W GPS                                                                
+31DSCGC91_2    P16N     47      1  ROS 032391 0801   BO 41 20.99 N 152  0.30 W GPS  5218           43       5310      24 1-8,23,24  CTD Cast 64   
+31DSCGC91_2    P16N     47      1  ROS 032391 1010   EN 41 19.95 N 152  0.37 W GPS                                                                
+31DSCGC91_2    P16N     48      1  ROS 032391 1413   BE 41 59.96 N 152  0.00 W GPS                                                                
+31DSCGC91_2    P16N     48      1  ROS 032391 1556   BO 41 59.86 N 151 59.21 W GPS  5117           50       5173      19 1-8,10,11, CTD Cast 65   
+31DSCGC91_2    P16N     48      1  ROS 032391 1813   EN 42  0.38 N 151 58.93 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     48      2  LVS 032391 1905   BE 42  0.12 N 151 59.32 W GPS                                       32                       
+31DSCGC91_2    P16N     48      2  LVS 032391 2036   MR 41 59.84 N 151 59.39 W GPS  5121                                 1,12,13                  
+31DSCGC91_2    P16N     48      2  LVS 032491 0219   EN 42  0.03 N 151 59.92 W GPS                                                                
+31DSCGC91_2    P16N     48      3  LVS 032491 0315   BE 42  0.53 N 151 59.00 W GPS                                                                
+31DSCGC91_2    P16N     48      3  LVS 032491 0524   MR 41 59.57 N 151 59.38 W GPS  5129                                 1,12,13                  
+31DSCGC91_2    P16N     48      3  LVS 032491 0756   EN 41 58.60 N 151 58.71 W GPS                                                                
+31DSCGC91_2    P16N     48      4  ROS 032491 0916   BE 41 59.74 N 151 59.30 W GPS                                                                
+31DSCGC91_2    P16N     48      4  ROS 032491 0931   BO 41 59.55 N 151 59.12 W GPS  5139                     788      24 1-8,12,13, CTD Cast 66   
+31DSCGC91_2    P16N     48      4  ROS 032491 1031   EN 41 59.72 N 151 58.60 W GPS                                       23,24,26,                
+31DSCGC91_2    P16N     49      1  ROS 032491 1454   BE 42 40.09 N 151 59.51 W GPS                                       32                       
+31DSCGC91_2    P16N     49      1  ROS 032491 1628   BO 42 40.80 N 151 58.50 W GPS  5233           50       5250      24 1-8        CTD Cast 67   
+31DSCGC91_2    P16N     49      1  ROS 032491 1846   EN 42 40.65 N 151 57.27 W GPS                                                                
+31DSCGC91_2    P16N     50      1  ROS 032491 2226   BE 43 19.96 N 151 59.84 W GPS                                                                
+31DSCGC91_2    P16N     50      1  ROS 032491 2358   BO 43 20.02 N 151 59.59 W GPS  4932           50       5070      24 1-8,10,11, CTD Cast 68   
+31DSCGC91_2    P16N     50      1  ROS 032591 0222   EN 43 19.70 N 152  0.16 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     51      1  ROS 032591 0819   BE 44 25.06 N 151 59.68 W GPS                                                                
+31DSCGC91_2    P16N     51      1  ROS 032591 0950   BO 44 25.14 N 151 59.83 W GPS  5201           50       5287      24 1-8,12,13, CTD Cast 69   
+31DSCGC91_2    P16N     51      1  ROS 032591 1210   EN 44 25.18 N 151 59.78 W GPS                                       23,24                    
+31DSCGC91_2    P16N     52      1  ROS 032591 1601   BE 45  0.16 N 151 59.86 W GPS                                                                
+31DSCGC91_2    P16N     52      1  ROS 032591 1736   BO 45  0.10 N 151 59.04 W GPS  5222           50       5368      16 1-8,23,24  CTD Cast 70   
+31DSCGC91_2    P16N     52      1  ROS 032591 1957   EN 44 59.86 N 151 59.09 W GPS                                                                
+31DSCGC91_2    P16N     53      1  ROS 032591 2339   BE 45 41.08 N 152  0.07 W GPS                                                                
+31DSCGC91_2    P16N     53      1  ROS 032691 0113   BO 45 41.02 N 151 59.74 W GPS  5271           50       5366      11 1-8,23,24, CTD Cast 71   
+31DSCGC91_2    P16N     53      1  ROS 032691 0245   EN 45 40.96 N 151 59.70 W GPS                                       26,32                    
+31DSCGC91_2    P16N     53      2  ROS 032691 0352   BE 45 41.04 N 151 59.61 W GPS                                                                
+31DSCGC91_2    P16N     53      2  ROS 032691 0405   BO 45 41.07 N 151 59.56 W GPS  5250                     682      12 1-8,23,24, CTD Cast 72   
+31DSCGC91_2    P16N     53      2  ROS 032691 0438   EN 45 40.82 N 151 59.14 W GPS                                       26,32                    
+31DSCGC91_2    P16N     54      1  ROS 032691 0831   BE 46 19.91 N 151 59.85 W GPS                                                                
+31DSCGC91_2    P16N     54      1  ROS 032691 1006   BO 46 20.21 N 151 59.27 W GPS  5402           50       5484      24 1-8,23,24  CTD Cast 73   
+31DSCGC91_2    P16N     54      1  ROS 032691 1218   EN 46 19.76 N 151 59.09 W GPS                                                                
+31DSCGC91_2    P16N     55      1  ROS 032691 1610   BE 47  0.14 N 151 59.92 W GPS                                                                
+31DSCGC91_2    P16N     55      1  ROS 032691 1621   BO 47  0.31 N 151 59.95 W GPS  5167                     440      20 1-8,12,13, CTD Cast 74   
+31DSCGC91_2    P16N     55      1  ROS 032691 1702   EN 47  0.61 N 151 59.63 W GPS                                       23,24,32                 
+31DSCGC91_2    P16N     55      2  LVS 032691 1911   BE 47  0.08 N 151 59.61 W GPS                                                                
+31DSCGC91_2    P16N     55      2  LVS 032691 2158   MR 46 59.79 N 152  0.32 W GPS  5116                                 1,12,13                  
+31DSCGC91_2    P16N     55      2  LVS 032791 0103   EN 46 59.80 N 152  1.92 W GPS                                                                
+31DSCGC91_2    P16N     55      3  LVS 032791 0200   BE 46 59.75 N 152  2.32 W GPS                                                                
+31DSCGC91_2    P16N     55      3  LVS 032791 0336   MR 46 59.91 N 152  3.34 W GPS  5172                                 1,12,13                  
+31DSCGC91_2    P16N     55      3  LVS 032791 0508   EN 46 59.78 N 152  3.67 W GPS                                                                
+31DSCGC91_2    P16N     55      4  ROS 032791 0610   BE 46 59.76 N 152  2.78 W GPS                                                                
+31DSCGC91_2    P16N     55      4  ROS 032791 0739   BO 47  0.00 N 152  0.00 W GPS  5167           42       5264      24 1-8,10-13, CTD Cast 75   
+31DSCGC91_2    P16N     55      4  ROS 032791 0944   EN 47  0.27 N 152  1.01 W GPS                                       23,24                    
+31DSCGC91_2    P16N     56      1  ROS 032791 1410   BE 47 40.00 N 152  0.00 W GPS                                                                
+31DSCGC91_2    P16N     56      1  ROS 032791 1545   BO 47 39.94 N 152  0.42 W GPS  5116           50       5190      24 1-8,23,24, CTD Cast 76   
+31DSCGC91_2    P16N     56      1  ROS 032791 1801   EN 47 40.16 N 152  0.46 W GPS                                       26,32                    
+31DSCGC91_2    P16N     57      1  ROS 032791 2136   BE 48 20.02 N 152  0.05 W GPS                                                                
+31DSCGC91_2    P16N     57      1  ROS 032791 2320   BO 48 19.50 N 152  0.28 W GPS  5043           25       5147      24 1-8,10,11, CTD Cast 77   
+31DSCGC91_2    P16N     57      1  ROS 032891 0131   EN 48 19.32 N 152  0.70 W GPS                                       23,24,26                 
+31DSCGC91_2    P16N     58      1  ROS 032991 2358   BE 53 29.72 N 152  0.56 W GPS                                                                
+31DSCGC91_2    P16N     58      1  ROS 033091 0137   BO 53 29.73 N 152  0.07 W GPS  4704           40       4793      24 1-13,23,   CTD Cast 78   
+31DSCGC91_2    P16N     58      1  ROS 033091 0337   EN 53 29.44 N 152  0.78 W GPS                                       24,26,32                 
+31DSCGC91_2    P16N     59      1  ROS 033091 0950   BE 54 39.84 N 151 59.66 W GPS                                                                
+31DSCGC91_2    P16N     59      1  ROS 033091 1117   BO 54 39.64 N 151 59.78 W GPS  4291           25       4385      24 1-8,23,24, CTD Cast 79   
+31DSCGC91_2    P16N     59      1  ROS 033091 1326   EN 54 39.56 N 152  0.87 W GPS                                       26                       
+31DSCGC91_2    P16N     60      1  LVS 033091 2005   BE 55 25.97 N 152 35.26 W GPS                                                                
+31DSCGC91_2    P16N     60      1  LVS 033091 2152   MR 55 25.91 N 152 35.04 W GPS  5104                                 1,12,13                  
+31DSCGC91_2    P16N     60      1  LVS 033091 2356   EN 55 26.25 N 152 35.19 W GPS                                                                
+31DSCGC91_2    P16N     60      2  LVS 033191 0039   BE 55 26.32 N 152 35.41 W GPS                                                                
+31DSCGC91_2    P16N     60      2  LVS 033191 0244   MR 55 26.76 N 152 35.72 W GPS  5142                                 1,12,13                  
+31DSCGC91_2    P16N     60      2  LVS 033191 0519   EN 55 27.08 N 152 35.43 W GPS                                                                
+31DSCGC91_2    P16N     60      3  ROS 033191 0625   BE 55 26.90 N 152 35.40 W GPS                                                                
+31DSCGC91_2    P16N     60      3  ROS 033191 0757   BO 55 26.72 N 152 37.68 W GPS  5158           20       5274      24 1-13,23,   CTD Cast 80   
+31DSCGC91_2    P16N     60      3  ROS 033191 0958   EN 55 27.16 N 152 33.88 W GPS                                       24,26                    
+31DSCGC91_2    P16N     60      4  ROS 033191 1136   BE 55 27.33 N 152 33.62 W GPS                                                                
+31DSCGC91_2    P16N     60      4  ROS 033191 1143   BO 55 27.08 N 152 33.54 W GPS  5159                     441      22 1-13,23,   CTD Cast 81   
+31DSCGC91_2    P16N     60      4  ROS 033191 1230   EN 55 26.93 N 152 33.14 W GPS                                       24,26,32                 
+31DSCGC91_2    P16N     61      1  ROS 033191 1602   BE 55 52.02 N 152 54.15 W GPS                                                                
+31DSCGC91_2    P16N     61      1  ROS 033191 1715   BO 55 51.95 N 152 55.70 W GPS  4051           25       4114      24 1-8,10,11, CTD Cast 82   
+31DSCGC91_2    P16N     61      1  ROS 033191 1859   EN 55 51.98 N 152 53.88 W GPS                                                                
+31DSCGC91_2    P16N     62      1  ROS 033191 2046   BE 56  1.92 N 153  2.93 W GPS                                                                
+31DSCGC91_2    P16N     62      1  ROS 033191 2122   BO 56  1.63 N 153  2.66 W GPS  1977           30       1978      24 1-8,23,24, CTD Cast 83   
+31DSCGC91_2    P16N     62      1  ROS 033191 2232   EN 56  1.51 N 153  3.14 W GPS                                       26                       
+31DSCGC91_2    P16N     63      1  ROS 040191 0042   BE 56 14.44 N 153 11.24 W GPS                                                                
+31DSCGC91_2    P16N     63      1  ROS 040191 0100   BO 56 14.50 N 153 10.76 W GPS   964           30        971      14 1-8,23,24  CTD Cast 84   
+31DSCGC91_2    P16N     63      1  ROS 040191 0151   EN 56 14.46 N 153 10.54 W GPS                                                                
+31DSCGC91_2    P16N     64      1  ROS 040191 0354   BE 56 17.65 N 153 13.99 W GPS                                                                
+31DSCGC91_2    P16N     64      1  ROS 040191 0400   BO 56 17.69 N 153 13.97 W GPS   272           30        276      13 1-13,23,   CTD Cast 85   
+31DSCGC91_2    P16N     64      1  ROS 040191 0436   EN 56 17.72 N 153 13.69 W GPS                                       24,26                    
+31DSCGC91_2    P16N     65      1  ROS 040191 1858   BE 55  4.16 N 152 17.97 W GPS                                                                
+31DSCGC91_2    P16N     65      1  ROS 040191 2021   BO 55  4.16 N 152 17.92 W GPS  4157           30       4205      24 1-8,23,24, CTD Cast 86   
+31DSCGC91_2    P16N     65      1  ROS 040191 2229   EN 55  4.17 N 152 18.09 W GPS                                       26                       
+31DSCGC91_2    P16N     66      1  ROS 040291 2010   BE 52 29.99 N 152  0.17 W GPS                                                                
+31DSCGC91_2    P16N     66      1  ROS 040291 2205   BO 52 29.43 N 152  1.22 W GPS  4403           30       4538      24 1-9,12,13, CTD Cast 87   
+31DSCGC91_2    P16N     66      1  ROS 040391 0021   EN 52 28.22 N 152  1.08 W GPS                                       23,24,26                 

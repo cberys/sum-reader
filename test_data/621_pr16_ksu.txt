@@ -1,0 +1,6 @@
+PR16 R/V NOAA SHIP MALCOLM BALDRIGE CRUISE EP1-94-MB LEG 1  19991122WHPOSIOLMH
+SHIP/CRS    WOCE                 CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE    MAX NO. OF 
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+3175EP194_1 PR16      11       1  ROS 042694 2245    BO  4 59.40 S 110 01.70 W GPS
+3175EP194_1 PR16      12       1  ROS 042894 0148    BO  8 00.20 S 109 58.50 W GPS

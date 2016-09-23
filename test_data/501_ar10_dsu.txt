@@ -1,0 +1,499 @@
+R/V HUDSON  CRUISE  18HU92053_1  WHP-ID AR10                   19990208WHPOSIOSA                                                                                   
+SHIP/CRS       WOCE               CAST         UTC           POSITION                  UNC   COR  ABOVE WIRE   MAX  NO. OF                                         
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV   DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS    COMMENTS                  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------   
+18HU92053_1    AR10      1      1  ROS 040793 1250   BE 41 23.31 N  53 26.10 W GPS                                                                                 
+18HU92053_1    AR10      1      1  ROS 040793        BO                                                 1000  1004       5               BIOLOGY                   
+18HU92053_1    AR10      1      1  ROS 040793 1330   EN                                                                                                            
+18HU92053_1    AR10      2      1  ROS 040793 1412   BE 41 23.13 N  53 24.02 W GPS                                                                                 
+18HU92053_1    AR10      2      1  ROS 040793        BO                                                  300   304      17 2,4,5,23,34   BIOLOGY                   
+18HU92053_1    AR10      2      1  ROS 040793 1442   EN                                                                                                            
+18HU92053_1    AR10      3      1  ROS 040893 1032   BE 39 27.92 N  48 33.71 W GPS                                                                                 
+18HU92053_1    AR10      3      1  ROS 040893        BO                                                  300   306      17 2,4,5,34,43   BIOLOGY                   
+18HU92053_1    AR10      3      1  ROS 040893 1058   EN                                                                                                            
+18HU92053_1    AR10      4      1  ROS 040993 1030   BE 36 50.67 N  42 53.71 W GPS                                                                                 
+18HU92053_1    AR10      4      1  ROS 040993        BO                                                  200   208      17 43            BIOLOGY                   
+18HU92053_1    AR10      4      1  ROS 040993 1110   EN                                                                                                            
+18HU92053_1    AR10      5      1  ROS 040993 1148   BE 36 50.59 N  42 53.50 W GPS                                                                                 
+18HU92053_1    AR10      5      1  ROS 040993        BO                                                 1000   966       5 43            BIOLOGY                   
+18HU92053_1    AR10      5      1  ROS 040993 1227   EN                                                                                                            
+18HU92053_1    AR10      6      1  ROS 041093 1030   BE 34 37.63 N  38 16.62 W GPS                                                                                 
+18HU92053_1    AR10      6      1  ROS 041093        BO                                                 1000  1012       5 1,2,4,5,43    BIOLOGY                   
+18HU92053_1    AR10      6      1  ROS 041093 1115   EN                                                                                                            
+18HU92053_1    AR10      7      1  ROS 041093 1145   BE 34 37.80 N  38 16.44 W GPS                                                                                 
+18HU92053_1    AR10      7      1  ROS 041093        BO                                                  200   206      17 4,5,34,43     BIOLOGY                   
+18HU92053_1    AR10      7      1  ROS 041093 1220   EN                                                                                                            
+18HU92053_1    AR10      8      1  ROS 041193 1150   BE 32 16.99 N  34 08.79 W GPS                                                                                 
+18HU92053_1    AR10      8      1  ROS 041193        BO                                                  200   202      17               BIOLOGY                   
+18HU92053_1    AR10      8      1  ROS 041193 1222   EN                                                                                                            
+18HU92053_1    AR10      9      1  ROS 041293 0954   BE 29 38.55 N  33 55.63 W GPS                                                                                 
+18HU92053_1    AR10      9      1  ROS 041293        BO                                                 1000  1008       8 1,2,4,5,43    BIOLOGY                   
+18HU92053_1    AR10      9      1  ROS 041293 1045   EN                                                                                                            
+18HU92053_1    AR10     10      1  ROS 041293 1111   BE 29 38.64 N  33 56.04 W GPS                                                                                 
+18HU92053_1    AR10     10      1  ROS 041293        BO                                                  200   204      17 4,5,34,43     BIOLOGY                   
+18HU92053_1    AR10     10      1  ROS 041293 1145   EN                                                                                                            
+18HU92053_1    AR10     11      1  ROS 041393 0205   BE 27 08.36 N  33 54.83 W GPS                                                                                 
+18HU92053_1    AR10     11      1  ROS 041393        BO                                                        396       2               FAST TRACER CAST          
+18HU92053_1    AR10     11      1  ROS 041393 0223   EN                                                                                                            
+18HU92053_1    AR10     12      1  ROS 041393 0333   BE 27 00.73 N  33 54.90 W GPS                                                                                 
+18HU92053_1    AR10     12      1  ROS 041393        BO                                                  340             2               INSTRUMENT PROBS. NO DATA 
+18HU92053_1    AR10     12      1  ROS 041393 0349   EN                                                                                                            
+18HU92053_1    AR10     13      1  ROS 041393 0433   BE 26 53.80 N  33 54.91 W GPS                                                                                 
+18HU92053_1    AR10     13      1  ROS 041393        BO                                                        346       2               FAST TRACER CAST          
+18HU92053_1    AR10     13      1  ROS 041393 0452   EN                                                                                                            
+18HU92053_1    AR10     14      1  ROS 041393 0550   BE 26 46.78 N  33 55.00 W GPS                                                                                 
+18HU92053_1    AR10     14      1  ROS 041393        BO                                                        366       2               FAST TRACER CAST          
+18HU92053_1    AR10     14      1  ROS 041393 0609   EN                                                                                                            
+18HU92053_1    AR10     15      1  ROS 041393 0718   BE 26 39.75 N  33 54.95 W GPS                                                                                 
+18HU92053_1    AR10     15      1  ROS 041393        BO                                                        334       2               FAST TRACER CAST          
+18HU92053_1    AR10     15      1  ROS 041393 0733   EN                                                                                                            
+18HU92053_1    AR10     16      1  ROS 041393 0814   BE 26 32.61 N  33 54.99 W GPS                                                                                 
+18HU92053_1    AR10     16      1  ROS 041393        BO                                                        388       2               FAST TRACER CAST          
+18HU92053_1    AR10     16      1  ROS 041393 0833   EN                                                                                                            
+18HU92053_1    AR10     17      1  ROS 041393 0912   BE 26 25.99 N  33 55.30 W GPS                                                                                 
+18HU92053_1    AR10     17      1  ROS 041393        BO                                                  348   352       2               FAST TRACER CAST          
+18HU92053_1    AR10     17      1  ROS 041393 0928   EN                                                                                                            
+18HU92053_1    AR10     18      1  ROS 041393 0943   BE 26 25.59 N  33 55.35 W GPS                                                                                 
+18HU92053_1    AR10     18      1  ROS 041393        BO                                                  200   202      17 1,2,4,5,23,34 BIOLOGY                   
+18HU92053_1    AR10     18      1  ROS 041393 1012   EN                                                                                                            
+18HU92053_1    AR10     19      1  ROS 041393 1059   BE 26 18.75 N  33 55.07 W GPS                                                                                 
+18HU92053_1    AR10     19      1  ROS 041393        BO                                                  350   352       2               FAST TRACER CAST          
+18HU92053_1    AR10     19      1  ROS 041393 1113   EN                                                                                                            
+18HU92053_1    AR10     20      1  ROS 041393 1212   BE 26 11.68 N  33 54.79 W GPS                                                                                 
+18HU92053_1    AR10     20      1  ROS 041393        BO                                                        328       2               FAST TRACER CAST          
+18HU92053_1    AR10     20      1  ROS 041393 1226   EN                                                                                                            
+18HU92053_1    AR10     21      1  ROS 041393 1305   BE 26 04.99 N  33 55.13 W GPS                                                                                 
+18HU92053_1    AR10     21      1  ROS 041393        BO                                                        344       2               FAST TRACER CAST          
+18HU92053_1    AR10     21      1  ROS 041393 1321   EN                                                                                                            
+18HU92053_1    AR10     22      1  ROS 041393 1358   BE 25 57.96 N  33 55.05 W GPS                                                                                 
+18HU92053_1    AR10     22      1  ROS 041393        BO                                                  353   354       2               FAST TRACER CAST          
+18HU92053_1    AR10     22      1  ROS 041393 1415   EN                                                                                                            
+18HU92053_1    AR10     23      1  ROS 041393 1455   BE 25 51.05 N  33 55.04 W GPS                                                                                 
+18HU92053_1    AR10     23      1  ROS 041393        BO                                                  337   348       2               FAST TRACER CAST          
+18HU92053_1    AR10     23      1  ROS 041393 1512   EN                                                                                                            
+18HU92053_1    AR10     24      1  ROS 041393 1551   BE 25 43.84 N  33 55.04 W GPS                                                                                 
+18HU92053_1    AR10     24      1  ROS 041393        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10     24      1  ROS 041393 1633   EN                                                                                                            
+18HU92053_1    AR10     25      1  ROS 041393 1711   BE 25 36.74 N  33 54.95 W GPS                                                                                 
+18HU92053_1    AR10     25      1  ROS 041393        BO                                                        340       2               FAST TRACER CAST          
+18HU92053_1    AR10     25      1  ROS 041393 1727   EN                                                                                                            
+18HU92053_1    AR10     26      1  ROS 041393 1818   BE 25 29.83 N  33 55.13 W GPS                                                                                 
+18HU92053_1    AR10     26      1  ROS 041393        BO                                                        340       2               FAST TRACER CAST          
+18HU92053_1    AR10     26      1  ROS 041393 1833   EN                                                                                                            
+18HU92053_1    AR10     27      1  ROS 041393 1924   BE 25 30.23 N  33 47.42 W GPS                                                                                 
+18HU92053_1    AR10     27      1  ROS 041393        BO                                                  321   326       2               FAST TRACER CAST          
+18HU92053_1    AR10     27      1  ROS 041393 1941   EN                                                                                                            
+18HU92053_1    AR10     28      1  ROS 041393 2025   BE 25 30.43 N  33 39.90 W GPS                                                                                 
+18HU92053_1    AR10     28      1  ROS 041393        BO                                                  323   328       2               FAST TRACER CAST          
+18HU92053_1    AR10     28      1  ROS 041393 2041   EN                                                                                                            
+18HU92053_1    AR10     29      1  ROS 041393 2127   BE 25 30.18 N  33 32.33 W GPS                                                                                 
+18HU92053_1    AR10     29      1  ROS 041393        BO                                                  325   352       2               FAST TRACER CAST          
+18HU92053_1    AR10     29      1  ROS 041393 2142   EN                                                                                                            
+18HU92053_1    AR10     30      1  ROS 041393 2228   BE 25 30.45 N  33 24.82 W GPS                                                                                 
+18HU92053_1    AR10     30      1  ROS 041393        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10     30      1  ROS 041393 2301   EN                                                                                                            
+18HU92053_1    AR10     31      1  ROS 041393 2349   BE 25 30.53 N  33 17.29 W GPS                                                                                 
+18HU92053_1    AR10     31      1  ROS 041393        BO                                                  320   354       2               FAST TRACER CAST          
+18HU92053_1    AR10     31      1  ROS 041493 0003   EN                                                                                                            
+18HU92053_1    AR10     32      1  ROS 041493 0047   BE 25 30.55 N  33 09.73 W GPS                                                                                 
+18HU92053_1    AR10     32      1  ROS 041493        BO                                                        322       2               FAST TRACER CAST          
+18HU92053_1    AR10     32      1  ROS 041493 0101   EN                                                                                                            
+18HU92053_1    AR10     33      1  ROS 041493 0142   BE 25 30.99 N  33 02.05 W GPS                                                                                 
+18HU92053_1    AR10     33      1  ROS 041493        BO                                                        342       2               FAST TRACER CAST          
+18HU92053_1    AR10     33      1  ROS 041493 0159   EN                                                                                                            
+18HU92053_1    AR10     34      1  ROS 041493 0238   BE 25 30.82 N  32 54.30 W GPS                                                                                 
+18HU92053_1    AR10     34      1  ROS 041493        BO                                                  330   336       2               FAST TRACER CAST          
+18HU92053_1    AR10     34      1  ROS 041493 0254   EN                                                                                                            
+18HU92053_1    AR10     35      1  ROS 041493 0330   BE 25 30.85 N  32 46.94 W GPS                                                                                 
+18HU92053_1    AR10     35      1  ROS 041493        BO                                                  322   334       2               FAST TRACER CAST          
+18HU92053_1    AR10     35      1  ROS 041493 0348   EN                                                                                                            
+18HU92053_1    AR10     36      1  ROS 041493 0430   BE 25 30.93 N  32 39.42 W GPS                                                                                 
+18HU92053_1    AR10     36      1  ROS 041493        BO                                                        322       2               FAST TRACER CAST          
+18HU92053_1    AR10     36      1  ROS 041493 0445   EN                                                                                                            
+18HU92053_1    AR10     37      1  ROS 041493 0533   BE 25 31.19 N  32 31.85 W GPS                                                                                 
+18HU92053_1    AR10     37      1  ROS 041493        BO                                                  311   324       2               FAST TRACER CAST          
+18HU92053_1    AR10     37      1  ROS 041493 0550   EN                                                                                                            
+18HU92053_1    AR10     38      1  ROS 041493 0636   BE 25 30.39 N  32 24.31 W GPS                                                                                 
+18HU92053_1    AR10     38      1  ROS 041493        BO                                                  334   334       1               FAST TRACER CAST          
+18HU92053_1    AR10     38      1  ROS 041493 0651   EN                                                                                                            
+18HU92053_1    AR10     39      1  ROS 041493 0737   BE 25 31.27 N  32 16.66 W GPS                                                                                 
+18HU92053_1    AR10     39      1  ROS 041493        BO                                                  308   312       1               FAST TRACER CAST          
+18HU92053_1    AR10     39      1  ROS 041493 0752   EN                                                                                                            
+18HU92053_1    AR10     40      1  ROS 041493 0835   BE 25 31.26 N  32 09.13 W GPS                                                                                 
+18HU92053_1    AR10     40      1  ROS 041493        BO                                                        338       2               FAST TRACER CAST          
+18HU92053_1    AR10     40      1  ROS 041493 0856   EN                                                                                                            
+18HU92053_1    AR10     41      1  ROS 041493 0909   BE 25 31.71 N  32 09.43 W GPS                                                                                 
+18HU92053_1    AR10     41      1  ROS 041493        BO                                                 1000   968      11 1,2,4,5,43    BIOLOGY DEEP              
+18HU92053_1    AR10     41      1  ROS 041493 0950   EN                                                                                                            
+18HU92053_1    AR10     42      1  ROS 041493 1013   BE 25 32.23 N  32 10.21 W GPS                                                                                 
+18HU92053_1    AR10     42      1  ROS 041493        BO                                                  200   196      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10     42      1  ROS 041493 1033   EN                                                                                                            
+18HU92053_1    AR10     43      1  ROS 041493 1135   BE 25 31.35 N  32 01.68 W GPS                                                                                 
+18HU92053_1    AR10     43      1  ROS 041493        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10     43      1  ROS 041493 1206   EN                                                                                                            
+18HU92053_1    AR10     44      1  ROS 041493 1428   BE 25 31.21 N  31 54.00 W GPS                                                                                 
+18HU92053_1    AR10     44      1  ROS 041493        BO                                                  350   350       2               FAST TRACER CAST          
+18HU92053_1    AR10     44      1  ROS 041493 1450   EN                                                                                                            
+18HU92053_1    AR10     45      1  ROS 041493 1534   BE 25 31.31 N  31 46.36 W GPS                                                                                 
+18HU92053_1    AR10     45      1  ROS 041493        BO                                                  343   342       2               FAST TRACER CAST          
+18HU92053_1    AR10     45      1  ROS 041493 1550   EN                                                                                                            
+18HU92053_1    AR10     46      1  ROS 041493 1633   BE 25 31.22 N  31 38.84 W GPS                                                                                 
+18HU92053_1    AR10     46      1  ROS 041493        BO                                                        340       2               FAST TRACER CAST          
+18HU92053_1    AR10     46      1  ROS 041493 1649   EN                                                                                                            
+18HU92053_1    AR10     47      1  ROS 041493 1737   BE 25 31.36 N  31 31.24 W GPS                                                                                 
+18HU92053_1    AR10     47      1  ROS 041493        BO                                                  314   318       2               FAST TRACER CAST          
+18HU92053_1    AR10     47      1  ROS 041493 1753   EN                                                                                                            
+18HU92053_1    AR10     48      1  ROS 041493 1842   BE 25 30.91 N  31 23.78 W GPS                                                                                 
+18HU92053_1    AR10     48      1  ROS 041493        BO                                                  327   330       2               FAST TRACER CAST          
+18HU92053_1    AR10     48      1  ROS 041493 1859   EN                                                                                                            
+18HU92053_1    AR10     49      1  ROS 041493 1944   BE 25 31.34 N  31 16.34 W GPS                                                                                 
+18HU92053_1    AR10     49      1  ROS 041493        BO                                                  348   350       2               FAST TRACER CAST          
+18HU92053_1    AR10     49      1  ROS 041493 2003   EN                                                                                                            
+18HU92053_1    AR10     50      1  ROS 041493 2051   BE 25 31.39 N  31 08.63 W GPS                                                                                 
+18HU92053_1    AR10     50      1  ROS 041493        BO                                                  325   332       2               FAST TRACER CAST          
+18HU92053_1    AR10     50      1  ROS 041493 2107   EN                                                                                                            
+18HU92053_1    AR10     51      1  ROS 041493 2154   BE 25 30.98 N  31 01.14 W GPS                                                                                 
+18HU92053_1    AR10     51      1  ROS 041493        BO                                                        338       2               FAST TRACER CAST          
+18HU92053_1    AR10     51      1  ROS 041493 2212   EN                                                                                                            
+18HU92053_1    AR10     52      1  ROS 041493 2254   BE 25 31.19 N  30 53.78 W GPS                                                                                 
+18HU92053_1    AR10     52      1  ROS 041493        BO                                                  335   340       2               FAST TRACER CAST          
+18HU92053_1    AR10     52      1  ROS 041493 2308   EN                                                                                                            
+18HU92053_1    AR10     53      1  ROS 041493 2352   BE 25 30.85 N  30 45.98 W GPS                                                                                 
+18HU92053_1    AR10     53      1  ROS 041493        BO                                                  330   334       2               FAST TRACER CAST          
+18HU92053_1    AR10     53      1  ROS 041593 0016   EN                                                                                                            
+18HU92053_1    AR10     54      1  ROS 041593 0100   BE 25 31.05 N  30 38.43 W GPS                                                                                 
+18HU92053_1    AR10     54      1  ROS 041593        BO                                                  331   320       2               FAST TRACER CAST          
+18HU92053_1    AR10     54      1  ROS 041593 0116   EN                                                                                                            
+18HU92053_1    AR10     55      1  ROS 041593 0203   BE 25 30.98 N  30 30.85 W GPS                                                                                 
+18HU92053_1    AR10     55      1  ROS 041593        BO                                                        506      20               FULL TRACER CAST          
+18HU92053_1    AR10     55      1  ROS 041593 0240   EN                                                                                                            
+18HU92053_1    AR10     56      1  ROS 041593 0328   BE 25 30.94 N  30 23.39 W GPS                                                                                 
+18HU92053_1    AR10     56      1  ROS 041593        BO                                                  333   332       2               FAST TRACER CAST          
+18HU92053_1    AR10     56      1  ROS 041593 0345   EN                                                                                                            
+18HU92053_1    AR10     57      1  ROS 041593 0434   BE 25 31.03 N  30 15.79 W GPS                                                                                 
+18HU92053_1    AR10     57      1  ROS 041593        BO                                                  330   328       2               FAST TRACER CAST          
+18HU92053_1    AR10     57      1  ROS 041593 0450   EN                                                                                                            
+18HU92053_1    AR10     58      1  ROS 041593 0540   BE 25 30.98 N  30 08.31 W GPS                                                                                 
+18HU92053_1    AR10     58      1  ROS 041593        BO                                                  331   336       2               FAST TRACER CAST          
+18HU92053_1    AR10     58      1  ROS 041593 0555   EN                                                                                                            
+18HU92053_1    AR10     59      1  ROS 041593 0645   BE 25 30.98 N  30 00.55 W GPS                                                                                 
+18HU92053_1    AR10     59      1  ROS 041593        BO                                                  331   326       2               FAST TRACER CAST          
+18HU92053_1    AR10     59      1  ROS 041593 0700   EN                                                                                                            
+18HU92053_1    AR10     60      1  ROS 041593 0750   BE 25 30.13 N  29 52.85 W GPS                                                                                 
+18HU92053_1    AR10     60      1  ROS 041593        BO                                                  320   326       2               FAST TRACER CAST          
+18HU92053_1    AR10     60      1  ROS 041593 0807   EN                                                                                                            
+18HU92053_1    AR10     61      1  ROS 041593 0857   BE 25 30.93 N  29 45.40 W GPS                                                                                 
+18HU92053_1    AR10     61      1  ROS 041593        BO                                                  365   352       2               FAST TRACER CAST          
+18HU92053_1    AR10     61      1  ROS 041593 0920   EN                                                                                                            
+18HU92053_1    AR10     62      1  ROS 041593 0928   BE 25 30.67 N  29 45.60 W GPS                                                                                 
+18HU92053_1    AR10     62      1  ROS 041593        BO                                                  200   198      17 2,4,5,34      BIOLOGY SHALLOW           
+18HU92053_1    AR10     62      1  ROS 041593 0949   EN                                                                                                            
+18HU92053_1    AR10     63      1  ROS 041593 1041   BE 25 30.48 N  29 37.81 W GPS                                                                                 
+18HU92053_1    AR10     63      1  ROS 041593        BO                                                  340   354       2               FAST TRACER CAST          
+18HU92053_1    AR10     63      1  ROS 041593 1059   EN                                                                                                            
+18HU92053_1    AR10     64      1  ROS 041593 1156   BE 25 30.49 N  29 30.21 W GPS                                                                                 
+18HU92053_1    AR10     64      1  ROS 041593        BO                                                        514      20               FULL TRACER CAST          
+18HU92053_1    AR10     64      1  ROS 041593 1228   EN                                                                                                            
+18HU92053_1    AR10     65      1  ROS 041593 1340   BE 25 30.42 N  29 19.98 W GPS                                                                                 
+18HU92053_1    AR10     65      1  ROS 041593        BO                                                        502      20               FULL TRACER CAST          
+18HU92053_1    AR10     65      1  ROS 041593 1420   EN                                                                                                            
+18HU92053_1    AR10     66      1  ROS 041593 1535   BE 25 30.00 N  29 10.16 W GPS                                                                                 
+18HU92053_1    AR10     66      1  ROS 041593        BO                                                        506      20               FULL TRACER CAST          
+18HU92053_1    AR10     66      1  ROS 041593 1628   EN                                                                                                            
+18HU92053_1    AR10     67      1  ROS 041593 1851   BE 25 30.13 N  29 00.21 W GPS                                                                                 
+18HU92053_1    AR10     67      1  ROS 041593        BO                                                        530      20               FULL TRACER CAST          
+18HU92053_1    AR10     67      1  ROS 041593 1935   EN                                                                                                            
+18HU92053_1    AR10     68      1  ROS 041693 0137   BE 25 29.64 N  29 00.03 W GPS                                                                                 
+18HU92053_1    AR10     68      1  ROS 041693        BO                                                        522       1               MOORING SURVEY            
+18HU92053_1    AR10     68      1  ROS 041693 0157   EN                                                                                                            
+18HU92053_1    AR10     69      1  ROS 041693 1700   BE 25 29.14 N  29 07.50 W GPS                                                                                 
+18HU92053_1    AR10     69      1  ROS 041693        BO                                                        528      20               FULL TRACER CAST          
+18HU92053_1    AR10     69      1  ROS 041693 1751   EN                                                                                                            
+18HU92053_1    AR10     70      1  ROS 041693 1946   BE 25 20.20 N  29 10.31 W GPS                                                                                 
+18HU92053_1    AR10     70      1  ROS 041693        BO                                                        518      20               FULL TRACER CAST          
+18HU92053_1    AR10     70      1  ROS 041693 2016   EN                                                                                                            
+18HU92053_1    AR10     71      1  ROS 041793 0239   BE 25 20.00 N  29 00.01 W GPS                                                                                 
+18HU92053_1    AR10     71      1  ROS 041793        BO                                                        508      20               FULL TRACER CAST          
+18HU92053_1    AR10     71      1  ROS 041793 0325   EN                                                                                                            
+18HU92053_1    AR10     72      1  ROS 041793 0927   BE 25 10.15 N  28 59.95 W GPS                                                                                 
+18HU92053_1    AR10     72      1  ROS 041793        BO                                                        506      20               FULL TRACER CAST          
+18HU92053_1    AR10     72      1  ROS 041793 1001   EN                                                                                                            
+18HU92053_1    AR10     73      1  ROS 041793 1031   BE 25 09.90 N  29 00.50 W GPS                                                                                 
+18HU92053_1    AR10     73      1  ROS 041793        BO                                                 1000   992      11 1,2,4,5,43    BIOLOGY (11 BOTTLE)       
+18HU92053_1    AR10     73      1  ROS 041793 1111   EN                                                                                                            
+18HU92053_1    AR10     74      1  ROS 041793 1142   BE 25 09.50 N  29 01.00 W GPS                                                                                 
+18HU92053_1    AR10     74      1  ROS 041793        BO                                                  200   186      17 4,5,23,34,43  BIOLOGY (7 BOTTLE)        
+18HU92053_1    AR10     74      1  ROS 041793 1200   EN                                                                                                            
+18HU92053_1    AR10     75      1  ROS 041793 1714   BE 24 59.94 N  28 59.82 W GPS                                                                                 
+18HU92053_1    AR10     75      1  ROS 041793        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10     75      1  ROS 041793 1751   EN                                                                                                            
+18HU92053_1    AR10     76      1  ROS 041793 2324   BE 24 50.10 N  29 00.80 W GPS                                                                                 
+18HU92053_1    AR10     76      1  ROS 041793        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     76      1  ROS 041893 0001   EN                                                                                                            
+18HU92053_1    AR10     77      1  ROS 041893 0508   BE 24 39.97 N  29 10.35 W GPS                                                                                 
+18HU92053_1    AR10     77      1  ROS 041893        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10     77      1  ROS 041893 0544   EN                                                                                                            
+18HU92053_1    AR10     78      1  ROS 041893 0926   BE 24 41.30 N  29 12.30 W GPS                                                                                 
+18HU92053_1    AR10     78      1  ROS 041893        BO                                                  200   204      17 1,4,5,34      BIOLOGY                   
+18HU92053_1    AR10     78      1  ROS 041893 0947   EN                                                                                                            
+18HU92053_1    AR10     79      1  ROS 041893 1056   BE 24 50.04 N  29 10.01 W GPS                                                                                 
+18HU92053_1    AR10     79      1  ROS 041893        BO                                                        518      20 2,4,5,43      BIOL/TRACER CAST          
+18HU92053_1    AR10     79      1  ROS 041893 1135   EN                                                                                                            
+18HU92053_1    AR10     80      1  ROS 042393 1420   BE 25 17.05 N  29 21.02 W GPS                                                                                 
+18HU92053_1    AR10     80      1  ROS 042393        BO                                                        514      20               FULL TRACER CAST          
+18HU92053_1    AR10     80      1  ROS 042393 1525   EN                                                                                                            
+18HU92053_1    AR10     81      1  ROS 042493 0400   BE 27 00.14 N  31 00.17 W GPS                                                                                 
+18HU92053_1    AR10     81      1  ROS 042493        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     81      1  ROS 042493 0455   EN                                                                                                            
+18HU92053_1    AR10     82      1  ROS 042493 0858   BE 26 59.53 N  31 05.94 W GPS                                                                                 
+18HU92053_1    AR10     82      1  ROS 042493        BO                                                        512      20 2,4,5,43      FULL TRACER CAST          
+18HU92053_1    AR10     82      1  ROS 042493 0940   EN                                                                                                            
+18HU92053_1    AR10     83      1  ROS 042493 1013   BE 26 58.64 N  31 07.10 W GPS                                                                                 
+18HU92053_1    AR10     83      1  ROS 042493        BO                                                 1000   962       7 1,2,4,5,43    BIOLOGY DEEP              
+18HU92053_1    AR10     83      1  ROS 042493 1053   EN                                                                                                            
+18HU92053_1    AR10     84      1  ROS 042493 1119   BE 26 58.28 N  31 07.90 W GPS                                                                                 
+18HU92053_1    AR10     84      1  ROS 042493        BO                                                  200   200      17 43            BIOLOGY SHALLOW           
+18HU92053_1    AR10     84      1  ROS 042493 1138   EN                                                                                                            
+18HU92053_1    AR10     85      1  ROS 042493 1515   BE 26 59.20 N  31 14.08 W GPS                                                                                 
+18HU92053_1    AR10     85      1  ROS 042493        BO                                                        514      20               FULL TRACER CAST          
+18HU92053_1    AR10     85      1  ROS 042493 1600   EN                                                                                                            
+18HU92053_1    AR10     86      1  ROS 042493 2009   BE 26 59.73 N  31 21.78 W GPS                                                                                 
+18HU92053_1    AR10     86      1  ROS 042493        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     86      1  ROS 042493 2057   EN                                                                                                            
+18HU92053_1    AR10     87      1  ROS 042593 0047   BE 27 01.73 N  31 28.16 W GPS                                                                                 
+18HU92053_1    AR10     87      1  ROS 042593        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     87      1  ROS 042593 0134   EN                                                                                                            
+18HU92053_1    AR10     88      1  ROS 042593 0435   BE 27 02.59 N  31 32.09 W GPS                                                                                 
+18HU92053_1    AR10     88      1  ROS 042593        BO                                                        522      20               FULL TRACER CAST          
+18HU92053_1    AR10     88      1  ROS 042593 0528   EN                                                                                                            
+18HU92053_1    AR10     89      1  ROS 042593 0920   BE 27 00.17 N  31 20.33 W GPS                                                                                 
+18HU92053_1    AR10     89      1  ROS 042593        BO                                                  200   206      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10     89      1  ROS 042593 0946   EN                                                                                                            
+18HU92053_1    AR10     90      1  ROS 042593 1141   BE 26 49.67 N  31 00.41 W GPS                                                                                 
+18HU92053_1    AR10     90      1  ROS 042593        BO                                                        524      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10     90      1  ROS 042593 1233   EN                                                                                                            
+18HU92053_1    AR10     91      1  ROS 042593 1635   BE 26 49.59 N  31 07.06 W GPS                                                                                 
+18HU92053_1    AR10     91      1  ROS 042593        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10     91      1  ROS 042593 1723   EN                                                                                                            
+18HU92053_1    AR10     92      1  ROS 042593 2102   BE 26 50.34 N  31 13.39 W GPS                                                                                 
+18HU92053_1    AR10     92      1  ROS 042593        BO                                                  420                             INSTRUMENT PROBS. NO DATA 
+18HU92053_1    AR10     92      1  ROS 042593 2139   EN                                                                                                            
+18HU92053_1    AR10     93      1  ROS 042603 0125   BE 26 51.89 N  31 18.63 W GPS                                                                                 
+18HU92053_1    AR10     93      1  ROS 042603        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     93      1  ROS 042603 0204   EN                                                                                                            
+18HU92053_1    AR10     94      1  ROS 042693 0435   BE 26 52.40 N  31 22.43 W GPS                                                                                 
+18HU92053_1    AR10     94      1  ROS 042693        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10     94      1  ROS 042693 0530   EN                                                                                                            
+18HU92053_1    AR10     95      1  ROS 042693 0915   BE 26 54.66 N  31 15.13 W GPS                                                                                 
+18HU92053_1    AR10     95      1  ROS 042693        BO                                                 1000  1006      11 1,2,4,5       BIOLOGY DEEP              
+18HU92053_1    AR10     95      1  ROS 042693 1000   EN                                                                                                            
+18HU92053_1    AR10     96      1  ROS 042693 1018   BE 26 54.39 N  31 15.24 W GPS                                                                                 
+18HU92053_1    AR10     96      1  ROS 042693        BO                                                  200   198      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10     96      1  ROS 042693 1040   EN                                                                                                            
+18HU92053_1    AR10     97      1  ROS 042693 1333   BE 26 39.85 N  31 15.24 W GPS                                                                                 
+18HU92053_1    AR10     97      1  ROS 042693        BO                                                        524      20 2,4,5,43      FULL TRACER CAST          
+18HU92053_1    AR10     97      1  ROS 042693 1420   EN                                                                                                            
+18HU92053_1    AR10     98      1  ROS 042693 1802   BE 26 40.19 N  31 22.79 W GPS                                                                                 
+18HU92053_1    AR10     98      1  ROS 042693        BO                                                        512      20               FULL TRACER CAST          
+18HU92053_1    AR10     98      1  ROS 042693 1845   EN                                                                                                            
+18HU92053_1    AR10     99      1  ROS 042793 0718   BE 26 29.59 N  33 00.16 W GPS                                                                                 
+18HU92053_1    AR10     99      1  ROS 042793        BO                                                        526      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10     99      1  ROS 042793 0806   EN                                                                                                            
+18HU92053_1    AR10    100      1  ROS 042793 0847   BE 26 29.15 N  33 00.70 W GPS                                                                                 
+18HU92053_1    AR10    100      1  ROS 042793        BO                                                       1004       7 4,5,43        BIOLOGY DEEP              
+18HU92053_1    AR10    100      1  ROS 042793 0945   EN                                                                                                            
+18HU92053_1    AR10    101      1  ROS 042793 1005   BE 26 29.12 N  33 01.82 W GPS                                                                                 
+18HU92053_1    AR10    101      1  ROS 042793        BO                                                  200   204      17 4,5,34,43     BIOLOGY SHALLOW           
+18HU92053_1    AR10    101      1  ROS 042793 1028   EN                                                                                                            
+18HU92053_1    AR10    102      1  ROS 042793 1350   BE 26 29.63 N  33 04.14 W GPS                                                                                 
+18HU92053_1    AR10    102      1  ROS 042793        BO                                                       2192      20               FULL TRACER CAST          
+18HU92053_1    AR10    102      1  ROS 042793 1547   EN                                                                                                            
+18HU92053_1    AR10    103      1  ROS 042793 1920   BE 26 30.15 N  33 07.71 W GPS                                                                                 
+18HU92053_1    AR10    103      1  ROS 042793        BO                                                        512      20               FULL TRACER CAST          
+18HU92053_1    AR10    103      1  ROS 042793 2007   EN                                                                                                            
+18HU92053_1    AR10    104      1  ROS 042893 0000   BE 26 30.52 N  33 11.38 W GPS                                                                                 
+18HU92053_1    AR10    104      1  ROS 042893        BO                                                        522      20               FULL TRACER CAST          
+18HU92053_1    AR10    104      1  ROS 042893 0035   EN                                                                                                            
+18HU92053_1    AR10    105      1  ROS 042893 0350   BE 26 31.35 N  33 14.21 W GPS                                                                                 
+18HU92053_1    AR10    105      1  ROS 042893        BO                                                        516      20               FULL TRACER CAST          
+18HU92053_1    AR10    105      1  ROS 042893 0424   EN                                                                                                            
+18HU92053_1    AR10    106      1  ROS 042893 0747   BE 26 32.53 N  33 15.68 W GPS                                                                                 
+18HU92053_1    AR10    106      1  ROS 042893        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    106      1  ROS 042893 0839   EN                                                                                                            
+18HU92053_1    AR10    107      1  ROS 042893 0944   BE 26 32.50 N  33 16.00 W GPS                                                                                 
+18HU92053_1    AR10    107      1  ROS 042893        BO                                                  200   206      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10    107      1  ROS 042893        EN                                                                                                            
+18HU92053_1    AR10    108      1  ROS 042893 1331   BE 26 32.58 N  33 17.37 W GPS                                                                                 
+18HU92053_1    AR10    108      1  ROS 042893        BO                                                        516      20 2,4,5,43      FULL TRACER CAST          
+18HU92053_1    AR10    108      1  ROS 042893 1403   EN                                                                                                            
+18HU92053_1    AR10    109      1  ROS 042893 1806   BE 26 33.54 N  33 17.94 W GPS                                                                                 
+18HU92053_1    AR10    109      1  ROS 042893        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    109      1  ROS 042893 1857   EN                                                                                                            
+18HU92053_1    AR10    110      1  ROS 042993 1137   BE 25 30.16 N  33 29.60 W GPS                                                                                 
+18HU92053_1    AR10    110      1  ROS 042993        BO                                                 1000  1006      11 1,2,4,5,43    BIOLOGY DEEP              
+18HU92053_1    AR10    110      1  ROS 042993 1225   EN                                                                                                            
+18HU92053_1    AR10    111      1  ROS 042993 1255   BE 25 30.45 N  33 29.14 W GPS                                                                                 
+18HU92053_1    AR10    111      1  ROS 042993        BO                                                  200   204      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    111      1  ROS 042993 1322   EN                                                                                                            
+18HU92053_1    AR10    112      1  ROS 042993 1354   BE 25 30.02 N  33 28.09 W GPS                                                                                 
+18HU92053_1    AR10    112      1  ROS 042993        BO                                                        500      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    112      1  ROS 042993 1430   EN                                                                                                            
+18HU92053_1    AR10    113      1  ROS 042993 2046   BE 25 30.19 N  33 38.02 W GPS                                                                                 
+18HU92053_1    AR10    113      1  ROS 042993        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    113      1  ROS 042993 2125   EN                                                                                                            
+18HU92053_1    AR10    114      1  ROS 042993 2255   BE 25 30.02 N  33 46.16 W GPS                                                                                 
+18HU92053_1    AR10    114      1  ROS 042993        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    114      1  ROS 042993 2337   EN                                                                                                            
+18HU92053_1    AR10    115      1  ROS 043093 0035   BE 25 29.94 N  33 54.00 W GPS                                                                                 
+18HU92053_1    AR10    115      1  ROS 043093        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10    115      1  ROS 043093 0121   EN                                                                                                            
+18HU92053_1    AR10    116      1  ROS 043093 0215   BE 25 29.92 N  34 02.02 W GPS                                                                                 
+18HU92053_1    AR10    116      1  ROS 043093        BO                                                        528      20               FULL TRACER CAST          
+18HU92053_1    AR10    116      1  ROS 043093 0248   EN                                                                                                            
+18HU92053_1    AR10    117      1  ROS 043093 0345   BE 25 30.03 N  34 10.03 W GPS                                                                                 
+18HU92053_1    AR10    117      1  ROS 043093        BO                                                        516      20               FULL TRACER CAST          
+18HU92053_1    AR10    117      1  ROS 043093 0425   EN                                                                                                            
+18HU92053_1    AR10    118      1  ROS 043093 1051   BE 25 30.00 N  34 18.00 W GPS                                                                                 
+18HU92053_1    AR10    118      1  ROS 043093        BO                                                  200   202      17 1,2,4,5,34    BIOLOGY SHALLOW           
+18HU92053_1    AR10    118      1  ROS 043093 1115   EN                                                                                                            
+18HU92053_1    AR10    119      1  ROS 043093 1143   BE 25 29.44 N  34 17.67 W GPS                                                                                 
+18HU92053_1    AR10    119      1  ROS 043093        BO                                                        648      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    119      1  ROS 043093 1231   EN                                                                                                            
+18HU92053_1    AR10    120      1  ROS 043093 1745   BE 25 29.90 N  34 25.90 W GPS                                                                                 
+18HU92053_1    AR10    120      1  ROS 043093        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10    120      1  ROS 043093 1834   EN                                                                                                            
+18HU92053_1    AR10    121      1  ROS 050193 0108   BE 25 29.96 N  34 34.07 W GPS                                                                                 
+18HU92053_1    AR10    121      1  ROS 050193        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10    121      1  ROS 050193 0145   EN                                                                                                            
+18HU92053_1    AR10    122      1  ROS 050193 0819   BE 25 30.13 N  34 42.09 W GPS                                                                                 
+18HU92053_1    AR10    122      1  ROS 050193        BO                                                        516      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    122      1  ROS 050193 0858   EN                                                                                                            
+18HU92053_1    AR10    123      1  ROS 050193 0929   BE 25 29.62 N  34 41.74 W GPS                                                                                 
+18HU92053_1    AR10    123      1  ROS 050193        BO                                                 1000   990      11 1,2,4,5       BIOLOGY DEEP              
+18HU92053_1    AR10    123      1  ROS 050193 1011   EN                                                                                                            
+18HU92053_1    AR10    124      1  ROS 050193 1041   BE 25 29.02 N  34 41.88 W GPS                                                                                 
+18HU92053_1    AR10    124      1  ROS 050193        BO                                                  200   200      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10    124      1  ROS 050193 1100   EN                                                                                                            
+18HU92053_1    AR10    125      1  ROS 050193 1246   BE 25 30.00 N  34 50.10 W GPS                                                                                 
+18HU92053_1    AR10    125      1  ROS 050193        BO                                                        518      20                                         
+18HU92053_1    AR10    125      1  ROS 050193 1323   EN                                                                                                            
+18HU92053_1    AR10    126      1  ROS 050193 1421   BE 25 30.13 N  35 00.03 W GPS                                                                                 
+18HU92053_1    AR10    126      1  ROS 050193        BO                                                        508      20                                         
+18HU92053_1    AR10    126      1  ROS 050193 1457   EN                                                                                                            
+18HU92053_1    AR10    127      1  ROS 050193 2233   BE 25 29.90 N  35 08.18 W GPS                                                                                 
+18HU92053_1    AR10    127      1  ROS 050193        BO                                                        502      20               FULL TRACER CAST          
+18HU92053_1    AR10    127      1  ROS 050193 2337   EN                                                                                                            
+18HU92053_1    AR10    128      1  ROS 050293 1013   BE 25 29.51 N  34 03.80 W GPS                                                                                 
+18HU92053_1    AR10    128      1  ROS 050293        BO                                                  200   204      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    128      1  ROS 050293 1033   EN                                                                                                            
+18HU92053_1    AR10    129      1  ROS 050293 2251   BE 24 59.90 N  33 10.08 W GPS                                                                                 
+18HU92053_1    AR10    129      1  ROS 050293        BO                                                        518      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    129      1  ROS 050293 2333   EN                                                                                                            
+18HU92053_1    AR10    130      1  ROS 050393 0604   BE 25 00.19 N  33 19.01 W GPS                                                                                 
+18HU92053_1    AR10    130      1  ROS 050393        BO                                                        504      20               FULL TRACER CAST          
+18HU92053_1    AR10    130      1  ROS 050393 0700   EN                                                                                                            
+18HU92053_1    AR10    131      1  ROS 050393 1014   BE 24 59.79 N  33 24.64 W GPS                                                                                 
+18HU92053_1    AR10    131      1  ROS 050393        BO                                                 1000  1010      20 1,2,4,5       BIOLOGY DEEP              
+18HU92053_1    AR10    131      1  ROS 050393 1057   EN                                                                                                            
+18HU92053_1    AR10    132      1  ROS 050393 1130   BE 24 59.30 N  33 24.60 W GPS                                                                                 
+18HU92053_1    AR10    132      1  ROS 050393        BO                                                  200   206      17 4,5,34        BIOLOGY SHALLOW           
+18HU92053_1    AR10    132      1  ROS 050393 1153   EN                                                                                                            
+18HU92053_1    AR10    133      1  ROS 050393 1239   BE 24 59.10 N  33 25.48 W GPS                                                                                 
+18HU92053_1    AR10    133      1  ROS 050393        BO                                                        524      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    133      1  ROS 050393 1313   EN                                                                                                            
+18HU92053_1    AR10    134      1  ROS 050393 1916   BE 25 00.00 N  33 34.20 W GPS                                                                                 
+18HU92053_1    AR10    134      1  ROS 050393        BO                                                        532      20               FULL TRACER CAST          
+18HU92053_1    AR10    134      1  ROS 050393 2002   EN                                                                                                            
+18HU92053_1    AR10    135      1  ROS 050493 0038   BE 25 00.48 N  33 39.92 W GPS                                                                                 
+18HU92053_1    AR10    135      1  ROS 050493        BO                                                        524      20               FULL TRACER CAST          
+18HU92053_1    AR10    135      1  ROS 050493 0120   EN                                                                                                            
+18HU92053_1    AR10    136      1  ROS 050493 0758   BE 24 59.10 N  33 47.59 W GPS                                                                                 
+18HU92053_1    AR10    136      1  ROS 050493        BO                                                        494      20               BIOLOGY SHALLOW           
+18HU92053_1    AR10    136      1  ROS 050493 0845   EN                                                                                                            
+18HU92053_1    AR10    137      1  ROS 050493 0909   BE 24 58.20 N  33 47.90 W GPS                                                                                 
+18HU92053_1    AR10    137      1  ROS 050493        BO                                                  200   200      17 2,4,5,34      FULL TRACER CAST          
+18HU92053_1    AR10    137      1  ROS 050493 0932   EN                                                                                                            
+18HU92053_1    AR10    138      1  ROS 050493 1518   BE 24 56.75 N  33 53.37 W GPS                                                                                 
+18HU92053_1    AR10    138      1  ROS 050493        BO                                                        512      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    138      1  ROS 050493 1600   EN                                                                                                            
+18HU92053_1    AR10    139      1  ROS 050493 2143   BE 24 57.00 N  33 58.80 W GPS                                                                                 
+18HU92053_1    AR10    139      1  ROS 050493        BO                                                        522      20               FULL TRACER CAST          
+18HU92053_1    AR10    139      1  ROS 050493 2219   EN                                                                                                            
+18HU92053_1    AR10    140      1  ROS 050593 0336   BE 24 57.21 N  34 03.90 W GPS                                                                                 
+18HU92053_1    AR10    140      1  ROS 050593        BO                                                        508      20               FULL TRACER CAST          
+18HU92053_1    AR10    140      1  ROS 050593 0420   EN                                                                                                            
+18HU92053_1    AR10    141      1  ROS 050593 0722   BE 24 57.44 N  34 07.31 W GPS                                                                                 
+18HU92053_1    AR10    141      1  ROS 050593        BO                                                 1000   984      11 1,2,4,5,43    BIOLOGY DEEP              
+18HU92053_1    AR10    141      1  ROS 050593 0815   EN                                                                                                            
+18HU92053_1    AR10    142      1  ROS 050593 0835   BE 24 57.08 N  34 07.62 W GPS                                                                                 
+18HU92053_1    AR10    142      1  ROS 050593        BO                                                  200   202      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    142      1  ROS 050593 0856   EN                                                                                                            
+18HU92053_1    AR10    143      1  ROS 050593 2152   BE 25 00.00 N  31 00.00 W GPS                                                                                 
+18HU92053_1    AR10    143      1  ROS 050593        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    143      1  ROS 050593 2130   EN                                                                                                            
+18HU92053_1    AR10    144      1  ROS 050693 0321   BE 25 00.00 N  31 05.02 W GPS                                                                                 
+18HU92053_1    AR10    144      1  ROS 050693        BO                                                        522      20               FULL TRACER CAST          
+18HU92053_1    AR10    144      1  ROS 050693 0425   EN                                                                                                            
+18HU92053_1    AR10    145      1  ROS 050693 0959   BE 24 58.44 N  31 07.00 W GPS                                                                                 
+18HU92053_1    AR10    145      1  ROS 050693        BO                                                  200   204      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    145      1  ROS 050693 1021   EN                                                                                                            
+18HU92053_1    AR10    146      1  ROS 050693 1052   BE 24 58.50 N  31 07.00 W GPS                                                                                 
+18HU92053_1    AR10    146      1  ROS 050693        BO                                                        524       4               FULL TRACER CAST          
+18HU92053_1    AR10    146      1  ROS 050693 1115   EN                                                                                                            
+18HU92053_1    AR10    147      1  ROS 050693 1529   BE 25 00.00 N  31 11.10 W GPS                                                                                 
+18HU92053_1    AR10    147      1  ROS 050693        BO                                                        514      20               FULL TRACER CAST          
+18HU92053_1    AR10    147      1  ROS 050693 1606   EN                                                                                                            
+18HU92053_1    AR10    148      1  ROS 050793 2212   BE 26 07.88 N  29 13.42 W GPS                                                                                 
+18HU92053_1    AR10    148      1  ROS 050793        BO                                                        522      20               AT RINO SITE?             
+18HU92053_1    AR10    148      1  ROS 050793 2253   EN                                                                                                            
+18HU92053_1    AR10    149      1  ROS 050893 0747   BE 26 12.63 N  29 21.07 W GPS                                                                                 
+18HU92053_1    AR10    149      1  ROS 050893        BO                                                 1000   998      11 1,2,4,5       BIOLOGY DEEP              
+18HU92053_1    AR10    149      1  ROS 050893 0836   EN                                                                                                            
+18HU92053_1    AR10    150      1  ROS 050893 0902   BE 26 12.40 N  29 20.73 W GPS                                                                                 
+18HU92053_1    AR10    150      1  ROS 050893        BO                                                  200   200      17 4,5,23,34     BIOLOGY SHALLOW           
+18HU92053_1    AR10    150      1  ROS 050893 0925   EN                                                                                                            
+18HU92053_1    AR10    151      1  ROS 050893 1006   BE 26 11.96 N  29 20.42 W GPS                                                                                 
+18HU92053_1    AR10    151      1  ROS 050893        BO                                                        518      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    151      1  ROS 050893 1045   EN                                                                                                            
+18HU92053_1    AR10    152      1  ROS 050893 1850   BE 25 41.96 N  28 54.14 W GPS                                                                                 
+18HU92053_1    AR10    152      1  ROS 050893        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    152      1  ROS 050893 1932   EN                                                                                                            
+18HU92053_1    AR10    153      1  ROS 050993 0255   BE 25 37.93 N  29 06.18 W GPS                                                                                 
+18HU92053_1    AR10    153      1  ROS 050993        BO                                                        516      20               FULL TRACER CAST          
+18HU92053_1    AR10    153      1  ROS 050993 0335   EN                                                                                                            
+18HU92053_1    AR10    154      1  ROS 050993 0830   BE 25 29.04 N  29 07.74 W GPS                                                                                 
+18HU92053_1    AR10    154      1  ROS 050993        BO                                                  200   198      20               BIOLOGY SHALLOW           
+18HU92053_1    AR10    154      1  ROS 050993 0855   EN                                                                                                            
+18HU92053_1    AR10    155      1  ROS 050993 1310   BE 25 25.90 N  29 07.24 W GPS                                                                                 
+18HU92053_1    AR10    155      1  ROS 050993        BO                                                        516       1               500m. 1 BTL.              
+18HU92053_1    AR10    155      1  ROS 050993 1335   EN                                                                                                            
+18HU92053_1    AR10    156      1  ROS 050993 2215   BE 25 40.04 N  28 40.00 W GPS                                                                                 
+18HU92053_1    AR10    156      1  ROS 050993        BO                                                        526      20               FULL TRACER CAST          
+18HU92053_1    AR10    156      1  ROS 050993 2245   EN                                                                                                            
+18HU92053_1    AR10    157      1  ROS 051093 0603   BE 25 50.16 N  28 20.04 W GPS                                                                                 
+18HU92053_1    AR10    157      1  ROS 051093        BO                                                        510      20 4,5,43        FULL TRACER CAST          
+18HU92053_1    AR10    157      1  ROS 051093 0650   EN                                                                                                            
+18HU92053_1    AR10    158      1  ROS 051093 0912   BE 25 47.08 N  28 20.14 W GPS                                                                                 
+18HU92053_1    AR10    158      1  ROS 051093        BO                                                 1000  1000      11               BIOLOGY DEEP              
+18HU92053_1    AR10    158      1  ROS 051093 0955   EN                                                                                                            
+18HU92053_1    AR10    159      1  ROS 051093 1020   BE 25 46.60 N  28 19.90 W GPS                                                                                 
+18HU92053_1    AR10    159      1  ROS 051093        BO                                                  200   204      20               BIOLOGY SHALLOW           
+18HU92053_1    AR10    159      1  ROS 051093 1042   EN                                                                                                            
+18HU92053_1    AR10    160      1  ROS 051093 1517   BE 25 59.06 N  28 00.54 W GPS                                                                                 
+18HU92053_1    AR10    160      1  ROS 051093        BO                                                        516      20               FULL TRACER CAST          
+18HU92053_1    AR10    160      1  ROS 051093 1554   EN                                                                                                            
+18HU92053_1    AR10    161      1  ROS 051093 2338   BE 26 00.00 N  27 30.00 W GPS                                                                                 
+18HU92053_1    AR10    161      1  ROS 051093        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10    161      1  ROS 051193 0021   EN                                                                                                            
+18HU92053_1    AR10    162      1  ROS 051193 0951   BE 25 59.90 N  27 00.00 W GPS                                                                                 
+18HU92053_1    AR10    162      1  ROS 051193        BO                                                  200   204      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    162      1  ROS 051193 1014   EN                                                                                                            
+18HU92053_1    AR10    163      1  ROS 051193 1044   BE 25 59.36 N  26 59.90 W GPS                                                                                 
+18HU92053_1    AR10    163      1  ROS 051193        BO                                                        520      20               FULL TRACER CAST          
+18HU92053_1    AR10    163      1  ROS 051193 1123   EN                                                                                                            
+18HU92053_1    AR10    164      1  ROS 051293 0817   BE 26 38.86 N  23 06.25 W GPS                                                                                 
+18HU92053_1    AR10    164      1  ROS 051293        BO                                                  200   200      17               BIOLOGY DEEP              
+18HU92053_1    AR10    164      1  ROS 051293 0844   EN                                                                                                            
+18HU92053_1    AR10    165      1  ROS 051393 0709   BE 27 22.80 N  18 43.15 W GPS                                                                                 
+18HU92053_1    AR10    165      1  ROS 051393        BO                                                  200   200      17               BIOLOGY SHALLOW           
+18HU92053_1    AR10    165      1  ROS 051393 0747   EN                                                                                                            

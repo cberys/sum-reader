@@ -1,0 +1,30 @@
+PR15 R/V KA'IMIMOANA CRUISE GP499 LEG 1   20010424WHPOSIOKJU
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF 
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33KMGP499_1 PR15      1      1  ROS 080599 1801    BO  8  3.0  N 165  1.8  E GPS  5211                 4006      12 1
+33KMGP499_1 PR15      1      2  ROS 080699 0337    BO  8  0.0  N 165  3.6  E GPS  5210                  202      12 1
+33KMGP499_1 PR15      2      1  ROS 080699 1029    BO  7  0.0  N 165  1.8  E GPS  5151                 1002      12 1
+33KMGP499_1 PR15      3      1  ROS 080699 1654    BO  6  0.0  N 165  0.6  E GPS  4999                 1002      12 1
+33KMGP499_1 PR15      4      1  ROS 080799 0452    BO  5  3.6  N 164 57.6  E GPS  4784                 4007      12 1
+33KMGP499_1 PR15      4      2  ROS 080799 2253    BO  5  1.8  N 165  0.6  E GPS  4775                 1005      12 1
+33KMGP499_1 PR15      5      1  ROS 080899 0710    BO  4  0.6  N 165  0.6  E GPS  4490                 1003      12 1
+33KMGP499_1 PR15      6      1  ROS 080899 1342    BO  3  0.0  N 165  0.0  E GPS  4254                 1001      12 1
+33KMGP499_1 PR15      7      1  ROS 080999 0447    BO  2  0.6  N 164 57.6  E GPS  4171                 4004      12 1
+33KMGP499_1 PR15      7      2  ROS 080999 0736    BO  2  0.0  N 164 58.8  E GPS  4170                  207      12 1
+33KMGP499_1 PR15      8      1  ROS 080999 1724    BO  1  0.0  N 165  0.0  E GPS  4329                 1003      12 1
+33KMGP499_1 PR15      9      1  ROS 080999 2131    BO  0 30.0  N 165  0.6  E GPS  4365                 1005      12 1
+33KMGP499_1 PR15     10      1  ROS 081099 0621    BO  0  0.6  N 165  0.0  E GPS  4406                 4003      12 1
+33KMGP499_1 PR15     11      1  ROS 081199 0043    BO  0  1.2  S 165  0.6  E GPS  4404                 1002      12 1
+33KMGP499_1 PR15     12      1  ROS 081199 0452    BO  0 30.0  S 164 49.2  E GPS  4428                 1002      12 1
+33KMGP499_1 PR15     13      1  ROS 081199 0850    BO  1  0.0  S 164 58.2  E GPS  4414                 1002      12 1
+33KMGP499_1 PR15     14      1  ROS 081199 1251    BO  1 29.4  S 164 26.4  E GPS  4438                 1002      12 1
+33KMGP499_1 PR15     15      1  ROS 081199 1844    BO  1 52.8  S 164 15.6  E GPS  4441                 4004      12 1
+33KMGP499_1 PR15     15      2  ROS 081299 0320    BO  1 55.8  S 164 25.8  E GPS  4431                 1002      12 1
+33KMGP499_1 PR15     16      1  ROS 081299 1039    BO  3  0.0  S 164 42.0  E GPS  3927                 1002      12 1
+33KMGP499_1 PR15     17      1  ROS 081299 1733    BO  4  0.0  S 164 56.4  E GPS  3226                 1002      12 1
+33KMGP499_1 PR15     18      1  ROS 081399 0252    BO  4 59.4  S 165 10.8  E GPS  2497                 1004      12 1
+33KMGP499_1 PR15     19      1  ROS 081399 0938    BO  6  0.0  S 165  4.2  E GPS  3604                 1002      12 1
+33KMGP499_1 PR15     20      1  ROS 081399 1606    BO  6 59.4  S 164 57.0  E GPS  3716                 1002      12 1
+33KMGP499_1 PR15     21      1  ROS 081399 2305    BO  8  1.2  S 164 49.2  E GPS  3892                  202      12 1
+33KMGP499_1 PR15     21      2  ROS 081499 0057    BO  8  1.2  S 164 51.6  E GPS  3895                 3704      12 1

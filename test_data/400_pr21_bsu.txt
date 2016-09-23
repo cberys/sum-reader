@@ -1,0 +1,30 @@
+Ocean Researcher 1 Cruise # 287 Along WHP Section PR20 & PR21       20010327WHPOSIOKJU                               
+SHIP/CRS   WOCE                 CAST         UTC            POSITION                   UNC    COR HT ABOVE   MAX NO. OF            
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE  LATITUDE    LONGITUDE    NAV  DEPTH CDEPTH BOTTOM   PRESS BOTTLES PARAM   CO
+-----------------------------------------------------------------------------------------------------------------------------------
+21OR287_2  PR21     121       1  ROS 070991 1937   BE  18 36.95 N  120 43.01 E  GPS    560    562            497      11 2-6,26            
+21OR287_2  PR21     121       1  ROS 070991 2000   EN                           GPS                                                        
+21OR287_2  PR21     120       1  ROS 070991 2040   BE  18 44.10 N  120 42.90 E  GPS   1915   1905           1813      11 1-6,26            
+21OR287_2  PR21     120       1  ROS 070991 2144   EN                           GPS                                                        
+21OR287_2  PR21     118       1  ROS 070991 2333   BE  19 04.30 N  120 43.00 E  GPS   3450   3444           1965      11 2-6               
+21OR287_2  PR21     118       1  ROS 071091 0039   EN                           GPS                                                        
+21OR287_2  PR21     116       1  ROS 071091 0205   BE  19 24.00 N  120 43.00 E  TRS   2200   2188           1961      11 2-6,26            
+21OR287_2  PR21     116       1  ROS 071091 0255   EN                           TRS                                                        
+21OR287_2  PR21     114       1  ROS 071091 0425   BE  19 44.20 N  120 43.20 E  GPS   2700   2688           1621      11 2-6,26            
+21OR287_2  PR21     114       1  ROS 071091 0528   EN                           GPS                                                        
+21OR287_2  PR21     112       1  ROS 071091 0722   BE  20 04.00 N  120 42.90 E  GPS   3460   3454           1989      11 2-6               
+21OR287_2  PR21     112       1  ROS 071091 0826   EN                           GPS                                                        
+21OR287_2  PR21     110       1  ROS 071091 2210   BE  20 24.30 N  120 43.20 E  GPS   3050   3040           1805      11 1-6,26            
+21OR287_2  PR21     110       1  ROS 071091 2318   EN                           GPS                                                        
+21OR287_2  PR21     108       1  ROS 071191 0052   BE  20 44.63 N  120 42.73 E  GPS   1900   1890    200    1849      11 3-6,26  note 2    
+21OR287_2  PR21     108       1  ROS 071191 0152   EN                           GPS                                                        
+21OR287_2  PR21     106       1  ROS 071191 0332   BE  21 04.33 N  120 43.47 E  GPS    930    931     30     903      11 2-6               
+21OR287_2  PR21     106       1  ROS 071191 0407   EN                           GPS                                                        
+21OR287_2  PR21     104       1  ROS 071191 0532   BE  21 24.10 N  120 43.40 E  GPS    420    426     21     401      11 2-6,26            
+21OR287_2  PR21     104       1  ROS 071191 0552   EN                           GPS                                                        
+21OR287_2  PR21     103       1  ROS 071191 0638   BE  21 34.10 N  120 43.30 E  GPS    925    926     55     861      11 2-6,26            
+21OR287_2  PR21     103       1  ROS 071191 0712   EN                           GPS                                                        
+21OR287_2  PR21     102       1  ROS 071191 0822   BE  21 44.10 N  120 43.20 E  GPS    584    588     63     523      11 1-6               
+21OR287_2  PR21     102       1  ROS 071191 0845   EN                           GPS                                                        
+21OR287_2  PR21     101       1  CTD 071191 0939   BE  21 54.00 N  120 43.00 E  GPS     71     71             71      11                   
+21OR287_2  PR21     101       1  CTD 071191 0944   EN                           GPS                                                        

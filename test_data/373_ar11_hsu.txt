@@ -1,0 +1,10 @@
+                                       Subduction 2 -    R/V OCEANUS CRUISE 254_4   20000509SIOWHPODMB
+SHIP/CRS   WOCE                 CAST         UTC            POSITION                 MAX  NO.  OF              
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE    NAV  PRESS  BOTTLES   PARAM COMMENTS
+------------------------------------------------------------------------------------------------------------------
+32OC254_4  AR11       2       1  ROS 112992 0626   BE 20 00.11 N 29 30.00 W   GPS   4546       24   1,2
+32OC254_4  AR11       3       1  ROS 120292 2220   BE 22 40.90 N 26 56.60 W   GPS   5008       24   1,2
+32OC254_4  AR11       4       1  ROS 120692 0754   BE 23 00.42 N 29 10.44 W   GPS   5016       24   1,2
+32OC254_4  AR11       5       1  ROS 120992 0506   BE 24 51.68 N 24 08.62 W   GPS   4522       24   1,2
+32OC254_4  AR11       6       1  ROS 121192 0838   BE 26 40.02 N 24 45.00 W   GPS   4516       24   1,2
+32OC254_4  AR11       7       1  ROS 121492 2220   BE 32 45.66 N 24 43.98 W   GPS   4508       24   1,2

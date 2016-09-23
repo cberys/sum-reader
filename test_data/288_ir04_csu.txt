@@ -1,0 +1,143 @@
+R/V SONNE CRUISE 88 LEG 1  WHP-ID IR04                         19990113WHPSIOSA                                                       
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX NO.  OF              
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS            
+----------------------------------------------------------------------------------------------------------------------------------------------          
+06BE88_1       IR04      1      1  ROS 071093 0418   BE 18 05.91 S 065 37.86 E GPS  2333                                              
+06BE88_1       IR04      1      1  ROS 071093 0513   BO 18 05.98 S 065 37.91 E GPS  2361                    2295      24 1          CTD SBE 9 - IFMHH   
+06BE88_1       IR04      1      1  ROS 071093 0622   EN 18 05.99 S 065 38.37 E GPS                                                  Test Station        
+06BE88_1       IR04      3      1  ROS 071293 0810   BE 16 16.12 S 074 26.58 E GPS  5423                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      3      1  ROS 071293 0908   BO 16 15.68 S 074 26.78 E GPS  5418                    2509      24 1            
+06BE88_1       IR04      3      1  ROS 071293 1011   EN 16 15.39 S 074 27.06 E GPS                                                    
+06BE88_1       IR04      4      1  ROS 071393 2032   BE 15 00.06 S 080 29.95 E GPS  4915                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      4      1  ROS 071393 2213   BO 15 00.06 S 080 30.02 E GPS  4923                    4993      24 1            
+06BE88_1       IR04      4      1  ROS 071493 0021   EN 14 59.73 S 080 30.06 E GPS                                                    
+06BE88_1       IR04      5      1  ROS 071493 0319   BE 14 30.75 S 080 30.01 E GPS  4828                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      5      1  ROS 071493 0507   BO 14 30.03 S 080 30.01 E GPS  4831                    4884      24 1            
+06BE88_1       IR04      5      1  ROS 071493 0701   EN 14 29.87 S 080 30.03 E GPS                                                    
+06BE88_1       IR04      6      1  ROS 071493 1321   BE 13 58.30 S 080 29.97 E GPS  5056                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      6      1  ROS 071493 1500   BO 13 58.29 S 080 29.97 E GPS  5056                    5050      24 1          Pegasus             
+06BE88_1       IR04      6      1  ROS 071493 1700   EN 13 58.23 S 080 29.98 E GPS                                                    
+06BE88_1       IR04      7      1  ROS 071493 2309   BE 13 29.91 S 080 29.93 E GPS  4737                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      7      1  ROS 071593 0052   BO 13 29.96 S 080 29.97 E GPS  4734                    4787      24 1            
+06BE88_1       IR04      7      1  ROS 071593 0308   EN 13 29.97 S 080 29.90 E GPS                                                    
+06BE88_1       IR04      8      1  ROS 071593 0545   BE 13 00.03 S 080 29.91 E GPS  4756                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      8      1  ROS 071593 0732   BO 13 00.01 S 080 29.95 E GPS  4743                    4806      23 1            
+06BE88_1       IR04      8      1  ROS 071593 0931   EN 13 00.01 S 080 29.98 E GPS                                                    
+06BE88_1       IR04      9      3  ROS 071593 1352   BE 12 30.00 S 080 29.96 E GPS  4904                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04      9      3  ROS 071593 1536   BO 12 29.96 S 080 29.99 E GPS  4911                    4980      23 1            
+06BE88_1       IR04      9      3  ROS 071593 1707   EN 12 30.00 S 080 30.04 E GPS                                                    
+06BE88_1       IR04     10      1  ROS 071693 0053   BE 12 02.03 S 080 29.96 E GPS  5027                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     10      1  ROS 071693 0248   BO 12 02.01 S 080 30.03 E GPS  5029                    5120      24 1          Pegasus             
+06BE88_1       IR04     10      1  ROS 071693 0459   EN 12 02.05 S 080 30.04 E GPS                                                    
+06BE88_1       IR04     11      3  ROS 071693 1211   BE 11 18.19 S 080 29.99 E GPS  4933                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     11      3  ROS 071693 1308   BO 11 18.17 S 080 29.94 E GPS  4933                    2503      23 1            
+06BE88_1       IR04     11      3  ROS 071693 1422   EN 11 18.05 S 080 29.93 E GPS                                                    
+06BE88_1       IR04     12      1  ROS 071693 1735   BE 10 40.50 S 080 30.04 E GPS  5300                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     12      1  ROS 071693 1827   BO 10 39.99 S 080 29.99 E GPS  5303                    2531      24 1          Argosdrifter        
+06BE88_1       IR04     12      1  ROS 071693 1938   EN 10 39.93 S 080 29.98 E GPS                                                    
+06BE88_1       IR04     13      1  ROS 071793 0343   BE 10 02.40 S 080 29.99 E GPS  5143                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     13      1  ROS 071793 0538   BO 10 02.00 S 080 30.05 E GPS  5147                    5233      23 1          Pegasus             
+06BE88_1       IR04     13      1  ROS 071793 0744   EN 10 01.83 S 080 30.02 E GPS                                                    
+06BE88_1       IR04     14      1  ROS 071793 1445   BE  9 20.01 S 080 29.95 E GPS  5311                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     14      1  ROS 071793 1539   BO  9 19.93 S 080 29.97 E GPS  5330                    2533      23 1            
+06BE88_1       IR04     14      1  ROS 071793 1647   EN  9 19.99 S 080 29.98 E GPS                                                    
+06BE88_1       IR04     15      1  ROS 071793 2008   BE  8 40.03 S 080 30.01 E GPS  5080                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     15      1  ROS 071793 2100   BO  8 39.04 S 080 29.98 E GPS  5090                    2530      23 1            
+06BE88_1       IR04     15      1  ROS 071793 2206   EN  8 39.80 S 080 29.96 E GPS                                                    
+06BE88_1       IR04     16      1  ROS 071893 0526   BE  8 02.32 S 080 29.97 E GPS  5346                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     16      1  ROS 071893 0719   BO  8 02.33 S 080 30.01 E GPS  5332                    5418      23 1          Pegasus             
+06BE88_1       IR04     16      1  ROS 071893 1052   EN  8 02.01 S 080 30.22 E GPS                                                    
+06BE88_1       IR04     17      1  ROS 071893 1429   BE  7 19.91 S 080 30.00 E GPS  4922                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     17      1  ROS 071893 1524   BO  7 20.00 S 080 29.99 E GPS  4948                    2534      24 1            
+06BE88_1       IR04     17      1  ROS 071893 1626   EN  7 20.19 S 080 30.01 E GPS                                                    
+06BE88_1       IR04     18      1  ROS 071893 2003   BE  6 39.97 S 080 30.12 E GPS  5032                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     18      1  ROS 071893 2058   BO  6 40.03 S 080 30.04 E GPS  5030                    2533      23 1            
+06BE88_1       IR04     18      1  ROS 071893 2207   EN  6 40.12 S 080 30.04 E GPS                                                    
+06BE88_1       IR04     19      1  ROS 071993 0211   BE  5 57.25 S 080 30.14 E GPS  5176                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     19      1  ROS 071993 0418   BO  5 57.68 S 080 30.16 E GPS  5190                    5262      23 1          Pegasus             
+06BE88_1       IR04     19      1  ROS 071993 0614   EN  5 57.71 S 080 30.28 E GPS                                                    
+06BE88_1       IR04     20      1  ROS 071993 1028   BE  5 19.95 S 080 30.10 E GPS  5121                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     20      1  ROS 071993 1123   BO  5 19.99 S 080 30.19 E GPS  5120                    2500      24 1            
+06BE88_1       IR04     20      1  ROS 071993 1239   EN  5 19.96 S 080 30.39 E GPS  5120                                              
+06BE88_1       IR04     21      1  ROS 071993 1602   BE  4 40.02 S 080 29.95 E GPS  5060                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     21      1  ROS 071993 1654   BO  4 40.08 S 080 30.15 E GPS  5071                    2533      24 1            
+06BE88_1       IR04     21      1  ROS 071993 1753   EN  4 40.10 S 080 30.24 E GPS                                                    
+06BE88_1       IR04     22      1  ROS 071993 2151   BE  3 58.05 S 080 30.03 E GPS  5011                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     22      1  ROS 071993 2341   BO  3 58.17 S 080 30.06 E GPS  4998                    5099      23 1          Pegasus             
+06BE88_1       IR04     22      1  ROS 072093 0154   EN  3 58.19 S 080 30.35 E GPS                                                    
+06BE88_1       IR04     23      1  ROS 072093 0626   BE  3 20.00 S 080 30.00 E GPS  4980                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     23      1  ROS 072093 0718   BO  3 20.02 S 080 30.08 E GPS  4977                    2530      23 1            
+06BE88_1       IR04     23      1  ROS 072093 0839   EN  3 20.01 S 080 30.20 E GPS                                                    
+06BE88_1       IR04     24      1  ROS 072093 1209   BE  2 40.02 S 080 30.03 E GPS  4866                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     24      1  ROS 072093 1300   BO  2 39.98 S 080 30.09 E GPS  4866                    2500      23 1            
+06BE88_1       IR04     24      1  ROS 072093 1416   EN  2 40.15 S 080 30.45 E GPS                                                    
+06BE88_1       IR04     25      1  ROS 072093 1813   BE  1 57.72 S 080 30.08 E GPS  4850                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     25      1  ROS 072093 1955   BO  1 57.80 S 080 30.11 E GPS  4853                    4937      23 1          Pegasus             
+06BE88_1       IR04     25      1  ROS 072093 2151   EN  1 57.78 S 080 30.27 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     26      1  ROS 072193 0225   BE  1 19.95 S 080 30.04 E GPS  4805                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     26      1  ROS 072193 0317   BO  1 20.06 S 080 29.81 E GPS  4818                    2533      23 1            
+06BE88_1       IR04     26      1  ROS 072193 0424   EN  1 20.28 S 080 29.43 E GPS                                                    
+06BE88_1       IR04     27      1  ROS 072193 2236   BE  0 00.03 N 084 00.06 E GPS  4566                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     27      1  ROS 072193 2325   BO  0 00.25 N 084 00.32 E GPS  4540                    2252      23 1            
+06BE88_1       IR04     27      1  ROS 072293 0038   EN  0 00.23 N 084 00.83 E GPS                                                    
+06BE88_1       IR04     28      1  ROS 072393 0600   BE  0 47.19 S 080 29.91 E GPS  4604                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     28      1  ROS 072393 0737   BO  0 47.22 S 080 30.02 E GPS  4572                    4654      23 1          Pegasus             
+06BE88_1       IR04     28      1  ROS 072393 0925   EN  0 47.18 S 080 30.15 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     29      1  ROS 072393 1759   BE  0 22.00 S 080 30.01 E GPS  4694                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     29      1  ROS 072393 1943   BO  0 22.10 S 080 30.13 E GPS  4673                    4741      23 1            
+06BE88_1       IR04     29      1  ROS 072393 2146   EN  0 22.01 S 080 30.50 E GPS                                                    
+06BE88_1       IR04     30      1  ROS 072493 1106   BE  0 01.87 S 080 30.02 E GPS  4668                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     30      1  ROS 072493 1246   BO  0 01.97 S 080 30.08 E GPS  4670                    4722      23 1          Pegasus             
+06BE88_1       IR04     30      1  ROS 072493 1450   EN  0 01.76 S 080 30.20 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     31      1  ROS 072493 1747   BE  0 22.02 N 080 30.09 E GPS  4620                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     31      1  ROS 072493 1921   BO  0 22.02 N 080 30.07 E GPS  4619                    4650      23 1            
+06BE88_1       IR04     31      1  ROS 072493 2110   EN  0 21.99 N 080 30.19 E GPS  4619                                              
+06BE88_1       IR04     32      1  ROS 072593 0503   BE  0 47.07 N 080 30.08 E GPS  4596                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     32      1  ROS 072593 0632   BO  0 47.02 N 080 30.02 E GPS  4599                    4640      23 1          Pegasus             
+06BE88_1       IR04     32      1  ROS 072593 0826   EN  0 46.81 N 080 30.04 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     33      1  ROS 072593 1249   BE  1 10.04 N 080 30.05 E GPS  4587                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     33      1  ROS 072593 1427   BO  1 09.90 N 080 30.30 E GPS  4586                    4622      23 1            
+06BE88_1       IR04     33      1  ROS 072593 1614   EN  1 09.76 N 080 30.63 E GPS                                                    
+06BE88_1       IR04     34      1  ROS 072593 1840   BE  1 35.07 N 080 30.04 E GPS  4548                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     34      1  ROS 072593 2007   BO  1 34.99 N 080 30.05 E GPS  4546                    4572      13 1            
+06BE88_1       IR04     34      1  ROS 072593 2156   EN  1 35.00 N 080 30.13 E GPS                                                    
+06BE88_1       IR04     36      1  ROS 072693 0606   BE  2 02.07 N 080 30.00 E GPS  4499                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     36      1  ROS 072693 0733   BO  2 02.14 N 080 29.92 E GPS  4498                    4515      23 1          Pegasus             
+06BE88_1       IR04     36      1  ROS 072693 0925   EN  2 02.09 N 080 29.88 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     37      1  ROS 072693 1320   BE  2 29.91 N 080 30.08 E GPS  4463                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     37      1  ROS 072693 1455   BO  2 29.95 N 080 30.00 E GPS  4462                    4504      23 1            
+06BE88_1       IR04     37      1  ROS 072693 1642   EN  2 29.76 N 080 30.03 E GPS                                                    
+06BE88_1       IR04     41      2  ROS 072793 1900   BE  3 00.00 N 080 30.00 E GPS  4420                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     41      2  ROS 072793 2030   BO  2 59.99 N 080 29.98 E GPS  4423                    4450      23 1            
+06BE88_1       IR04     41      2  ROS 072793 2215   EN  2 59.89 N 080 30.23 E GPS                                                    
+06BE88_1       IR04     42      1  ROS 072893 0106   BE  3 30.05 N 080 30.05 E GPS  4385                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     42      1  ROS 072893 0237   BO  3 29.96 N 080 30.05 E GPS  4385                    4422      23 1            
+06BE88_1       IR04     42      1  ROS 072893 0419   EN  3 29.79 N 080 30.00 E GPS                                                    
+06BE88_1       IR04     43      1  ROS 072893 0803   BE  4 02.06 N 080 29.98 E GPS  4362                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     43      1  ROS 072893 0933   BO  4 02.03 N 080 30.48 E GPS  4362                    4385      23 1          Pegasus             
+06BE88_1       IR04     43      1  ROS 072893 1125   EN  4 01.86 N 080 30.82 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     44      1  ROS 072893 1408   BE  4 20.04 N 080 29.95 E GPS  4354                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     44      1  ROS 072893 1537   BO  4 19.96 N 080 30.18 E GPS  4348                    4379      23 1            
+06BE88_1       IR04     44      1  ROS 072893 1716   EN  4 19.87 N 080 30.37 E GPS                                                    
+06BE88_1       IR04     45      1  ROS 072893 1917   BE  4 39.93 N 080 30.02 E GPS  4339                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     45      1  ROS 072893 2048   BO  4 39.61 N 080 30.30 E GPS  4340                    4376      23 1            
+06BE88_1       IR04     45      1  ROS 072893 2234   EN  4 39.13 N 080 30.43 E GPS                                                    
+06BE88_1       IR04     46      1  ROS 072993 0742   BE  5 01.78 N 080 29.80 E GPS  4320                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     46      1  ROS 072993 0909   BO  5 01.36 N 080 30.01 E GPS  4319                    4366      23 1          Pegasus             
+06BE88_1       IR04     46      1  ROS 072993 1056   EN  5 01.20 N 080 30.46 E GPS                                                  Argosdrifter        
+06BE88_1       IR04     47      1  ROS 073093 0406   BE  5 19.99 N 080 30.10 E GPS  4245                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     47      1  ROS 073093 0535   BO  5 19.83 N 080 29.96 E GPS  4241                    4261      23 1            
+06BE88_1       IR04     47      1  ROS 073093 0715   EN  5 19.60 N 080 30.11 E GPS                                                    
+06BE88_1       IR04     48      1  ROS 073093 0946   BE  5 38.04 N 080 29.96 E GPS  3184                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     48      1  ROS 073093 1053   BO  5 37.99 N 080 29.81 E GPS  3192                    3170      23 1          Argosdrifter        
+06BE88_1       IR04     48      1  ROS 073093 1222   EN  5 37.89 N 080 29.62 E GPS                                                    
+06BE88_1       IR04     49      1  ROS 073093 1445   BE  5 47.06 N 080 29.43 E GPS  1807                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     49      1  ROS 073093 1527   BO  5 46.93 N 080 29.26 E GPS  1830                              23 1            
+06BE88_1       IR04     49      1  ROS 073093 1618   EN  5 46.82 N 080 29.19 E GPS                                                    
+06BE88_1       IR04     50      1  HS  073093 1652   BE  5 48.66 N 080 30.04 E GPS  1435                                            Hydrosweep/Parasound
+06BE88_1       IR04     50      1  HS  073093 2339   EN  5 54.29 N 080 09.57 E GPS    70                                            Section             
+06BE88_1       IR04     51      1  ROS 073193 0539   BE  6 35.91 N 079 39.53 E GPS   660                                            CTD SBE 9 - IFMHH   
+06BE88_1       IR04     51      1  ROS 073193 0559   BO  6 35.81 N 079 39.49 E GPS   690                              23 1            
+06BE88_1       IR04     51      1  ROS 073193 0631   EN  6 35.73 N 079 39.44 E GPS                                                    
+06BE88_1       IR04     52      1  HS  073193 0631   BE  6 35.73 N 079 39.44 E GPS   690                                            Hydrosweep/Parasound
+06BE88_1       IR04     52      1  HS  080193 0131   EN  6 57.00 N 079 39.08 E GPS    43                                            Section             

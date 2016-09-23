@@ -1,0 +1,519 @@
+R/V HUDSON    CRUISE 18HU96026_1 CLARKE DATASET      2    20010822WHPOSIOKJU                                                                                 
+SHIP/CRS      WOCE                 CAST         UTC             POSITION                     UNC    COR HT ABOVE   WIRE     MAX NO. OF                                              
+EXPOCODE      SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE   NAV   DEPTH CDEPTH  BOTTOM     OUT   PRESS BOTTLES  PARAMETERS                   COMMENTS   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18HU96026_1              1       1  ROS 101696 1148   BE 44 41.53 N  63 38.04 W  GPS                                                                                             
+18HU96026_1              1       1  ROS 101696 1148   BO 44 41.53 N  63 38.04 W  INT                                             23                               Test CTD Station  
+18HU96026_1              1       2  ROS 101696 1148   BO 44 41.53 N  63 38.04 W  INT                                              3                               Test CTD Station  
+18HU96026_1   AR7W       2       1  ROS 101996 0454   BE 53 40.29 N  55 31.88 W  GPS     160    160                                                                              
+18HU96026_1   AR7W       2       1  ROS 101996 0458   BO 53 40.28 N  55 31.79 W  GPS     160    160      11     140     143       4   1-8,23,24,27,28,36,43       Site 1      
+18HU96026_1   AR7W       2       1  ROS 101996 0503   EN 53 40.28 N  55 31.79 W  GPS     160    160                                                                              
+18HU96026_1   AR7W       3       1  ROS 101996 0645   BE 53 48.22 N  55 25.54 W  GPS     209    204                                                                              
+18HU96026_1   AR7W       3       1  ROS 101996 0653   BO 53 48.19 N  55 25.31 W  GPS     209    204      13     186     180       7   1-8,23,24,27,28,36          Site 2      
+18HU96026_1   AR7W       3       1  ROS 101996 0710   EN 53 48.13 N  55 24.91 W  GPS     209    204                                                                              
+18HU96026_1   AR7W       4       1  ROS 102096 0908   BE 53 59.16 N  55 14.54 W  GPS     152    152                                                                              
+18HU96026_1   AR7W       4       1  ROS 102096 0916   BO 53 59.11 N  55 14.42 W  GPS     152    152       8     140     140       4   1-8,23,24,27,28,36          Site 3      
+18HU96026_1   AR7W       4       1  ROS 102096 0926   EN 53 59.09 N  55 14.39 W  GPS     152    152                                                                              
+18HU96026_1   AR7W       5       1  BIO 102096 1152   BE 54 13.22 N  55 01.95 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W       5       1  BIO 102096 1203   EN 54 13.17 N  55 01.95 W  GPS                                                                                             
+18HU96026_1   AR7W       5       2  ROS 102096 1218   BE 54 13.35 N  55 01.93 W  GPS     171    171                                                                              
+18HU96026_1   AR7W       5       2  ROS 102096 1224   BO 54 13.30 N  55 01.85 W  GPS     173    173      12     150     152       5   1-6,20,23,24,43             Site 4      
+18HU96026_1   AR7W       5       2  ROS 102096 1235   EN 54 13.25 N  55 01.74 W  GPS                                                                                             
+18HU96026_1   AR7W       6       1  ROS 102096 1510   BE 54 29.55 N  54 45.76 W  GPS     197    197                                                                              
+18HU96026_1   AR7W       6       1  ROS 102096 1518   BO 54 29.50 N  54 45.58 W  GPS     197    197      11     183     184       6   1-6,20,23,24                Site 5      
+18HU96026_1   AR7W       6       1  ROS 102096 1528   EN 54 29.47 N  54 45.53 W  GPS     197    197                                                                              
+18HU96026_1   AR7W       7       1  ROS 102096 1743   BE 54 45.58 N  54 28.85 W  GPS     248    242                                                                              
+18HU96026_1   AR7W       7       1  ROS 102096 1750   BO 54 45.61 N  54 28.80 W  GPS     248    242       6     230     233       6   1-6,20,23,24,43             Site 6      
+18HU96026_1   AR7W       7       1  ROS 102096 1801   EN 54 45.64 N  54 28.70 W  GPS     248    242                                                                              
+18HU96026_1   AR7W       8       1  BIO 102096 1942   BE 54 56.98 N  54 17.23 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W       8       2  BIO 102096 1947   BE 54 56.87 N  54 16.85 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W       8       2  BIO 102096 2049   EN 54 56.40 N  54 13.53 W  GPS                                                                                             
+18HU96026_1   AR7W       8       3  ROS 102096 2025   BE 54 56.44 N  54 14.62 W  GPS     366    358                                                                              
+18HU96026_1   AR7W       8       3  ROS 102096 2036   BO 54 56.39 N  54 14.11 W  GPS     366    358      11     370     350       9   1-6,20,23,24,43             Site 7      
+18HU96026_1   AR7W       8       3  ROS 102096 2050   EN 54 56.39 N  54 13.51 W  GPS     366    358                                                                              
+18HU96026_1   AR7W       9       1  ROS 102096 2221   BE 55 06.58 N  54 08.42 W  GPS     957    941                                                                              
+18HU96026_1   AR7W       9       1  ROS 102096 2240   BO 55 06.53 N  54 08.10 W  GPS     944    929      35     910     915      11   1-6,23,26                   Site 8      
+18HU96026_1   AR7W       9       1  ROS 102096 2307   EN 55 06.54 N  54 07.57 W  GPS                                                                                             
+18HU96026_1   AR7W      10       1  MOR 102196 0017   BE 55 11.27 N  54 03.40 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      10       1  MOR 102196 0052   EN 55 11.26 N  54 02.74 W  GPS                                                                                             
+18HU96026_1   AR7W      10       2  MOR 102196 0101   BE 55 11.40 N  54 02.83 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      10       2  MOR 102196 0135   EN 55 11.34 N  54 02.23 W  GPS                                                                                             
+18HU96026_1   AR7W      10       3  FLT 102196 0157   DE 55 11.52 N  54 00.94 W  GPS                                                                              Alace 655   
+18HU96026_1   AR7W      11       1  ROS 102196 0246   BE 55 15.86 N  53 59.24 W  GPS    2087   2063                                                                              
+18HU96026_1   AR7W      11       1  ROS 102196 0325   BO 55 15.91 N  53 58.72 W  GPS    2069   2045      15    2046    2059      17   1-8,20,23,24,27,28,36,43    Site 9      
+18HU96026_1   AR7W      11       1  ROS 102196 0422   EN 55 15.90 N  53 57.96 W  GPS    2097   2073                                                                              
+18HU96026_1   AR7W      12       1  BIO 102196 0548   BE 55 25.02 N  53 49.72 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      12       1  BIO 102196 0802   EN 55 25.07 N  53 48.78 W  GPS                                                                                             
+18HU96026_1   AR7W      12       2  BIO 102196 0555   BE 55 25.01 N  53 49.69 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      12       2  BIO 102196 0645   EN 55 24.94 N  53 49.24 W  GPS                                                                                             
+18HU96026_1   AR7W      13       1  MOR 102196 1351   DE 55 28.71 N  53 39.38 W  GPS                                                                              Mooring 1244  
+18HU96026_1   AR7W      14       1  MOR 102196 1816   MR 55 38.80 N  53 29.50 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      14       2  FLT 102196 1914   DE 55 37.99 N  53 28.82 W  GPS                                                                              Alace 508   
+18HU96026_1   AR7W      14       3  MOR 102196 2257   DE 55 40.90 N  53 29.63 W  GPS                                                                              CTD Profiling Mooring  
+18HU96026_1   AR7W      14       4  FLT 102196 2342   DE 55 39.98 N  53 30.05 W  GPS                                                                              Alace 708   
+18HU96026_1   AR7W      15       1  ROS 102296 0148   BE 55 25.27 N  53 49.54 W  GPS    2687   2663                                                                              
+18HU96026_1   AR7W      15       1  ROS 102296 0236   BO 55 24.99 N  53 48.85 W  GPS    2697   2673      15    2676    2698      20   1-8,20,23,24,27,28,36       Site 10     
+18HU96026_1   AR7W      15       1  ROS 102296 0402   EN 55 25.38 N  53 46.86 W  GPS    2706   2682                                                                              
+18HU96026_1   AR7W      16       1  MOR 102296 0548   DE 55 36.84 N  53 37.81 W  GPS                                                                              PIES 086    
+18HU96026_1   AR7W      16       2  ROS 102296 0614   BE 55 36.71 N  53 37.64 W  GPS    2931   2908                                                                              
+18HU96026_1   AR7W      16       2  ROS 102296 0705   BO 55 36.64 N  53 37.25 W  GPS    2931   2908      10    2916    2950      20   1-6,20,23,24                Site 11     
+18HU96026_1   AR7W      16       2  ROS 102296 0828   EN 55 36.57 N  53 36.74 W  GPS    2940   2917                                                                              
+18HU96026_1   AR7W      17       1  MOR 102296 1205   DE 55 44.98 N  53 29.48 W  GPS                                                                              Mooring 1245  
+18HU96026_1   AR7W      17       2  BIO 102296 1245   BE 55 44.38 N  53 29.72 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      17       2  BIO 102296 1322   EN 55 43.72 N  53 29.79 W  GPS                                                                                             
+18HU96026_1   AR7W      18       1  MOR 102296 1813   BE 56 10.73 N  52 59.45 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      18       1  MOR 102296 1909   EN 56 10.72 N  52 57.69 W  GPS                                                                                             
+18HU96026_1   AR7W      18       2  MOR 102296 2045   DE 56 10.04 N  52 58.75 W  GPS                                                                              Mooring 1246  
+18HU96026_1   AR7W      18       3  DRF 102296 2226   DE 56 09.30 N  52 59.18 W  GPS                                                                              Meteorlogical Drifter 16891  
+18HU96026_1   AR7W      18       4  FLT 102296 2229   DE 56 09.14 N  52 59.27 W  GPS                                                                              Alace 709   
+18HU96026_1   AR7W      18       5  FLT 102296 2231   DE 56 08.99 N  52 59.35 W  GPS                                                                              Mixed Layer Float  
+18HU96026_1   AR7W      18       6  FLT 102296 2235   DE 56 08.69 N  52 59.52 W  GPS                                                                              Mixed Layer Float  
+18HU96026_1   AR7W      19       1  BIO 102396 0104   BE 55 50.74 N  53 23.98 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      19       1  BIO 102396 0153   EN 55 50.58 N  53 23.78 W  GPS                                                                                             
+18HU96026_1   AR7W      19       2  BIO 102396 0105   BE 55 50.72 N  53 23.98 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      19       2  BIO 102396 0112   EN 55 50.70 N  53 23.96 W  GPS                                                                                             
+18HU96026_1   AR7W      19       3  BIO 102396 0115   BE 55 50.70 N  53 23.95 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      19       3  BIO 102396 0121   EN 55 50.70 N  53 23.92 W  GPS                                                                                             
+18HU96026_1   AR7W      19       4  ROS 102396 0138   BE 55 50.64 N  53 23.88 W  GPS    3141   3120                                                                              
+18HU96026_1   AR7W      19       4  ROS 102396 0244   BO 55 50.63 N  53 23.78 W  GPS    3141   3120      10    3130    3155      23   1-8,23,24,27,28,36,43       Site 12     
+18HU96026_1   AR7W      19       4  ROS 102396 0404   EN 55 50.84 N  53 22.88 W  GPS    3141   3120                                                                              
+18HU96026_1   AR7W      20       1  MOR 102396 2050   RE 56 41.92 N  52 29.12 W  GPS                                                                              Dragging for Mooring  
+18HU96026_1   AR7W      21       1  MOR 102396 0108   DE 56 06.74 N  53 06.89 W  GPS                                                                              PIES 087    
+18HU96026_1   AR7W      21       2  ROS 102396 0121   BE 56 06.88 N  53 06.80 W  GPS    3344   3326                                                                              
+18HU96026_1   AR7W      21       2  ROS 102396 0225   BO 56 06.57 N  53 06.49 W  GPS    3334   3316       7    3329    3364      23   1-8,23,24,27,28,36          Site 13     
+18HU96026_1   AR7W      21       2  ROS 102396 0348   EN 56 06.68 N  53 06.24 W  GPS    3353   3335                                                                              
+18HU96026_1   AR7W      22       1  MOR 102496 0929   BE 56 45.19 N  52 27.35 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      22       1  MOR 102496 1001   EN 56 45.05 N  52 27.28 W  GPS                                                                                             
+18HU96026_1   AR7W      22       2  MOR 102496 1302   DE 56 44.88 N  52 26.77 W  GPS                                                                              Mooring 1226  
+18HU96026_1   AR7W      22       3  BIO 102496 1333   BE 56 44.80 N  52 27.11 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      22       3  BIO 102496 1417   EN 56 44.80 N  52 27.13 W  GPS                                                                                             
+18HU96026_1   AR7W      22       4  BIO 102496 1338   BE 56 44.78 N  52 27.12 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      22       4  BIO 102496 1344   EN 56 44.78 N  52 27.11 W  GPS                                                                                             
+18HU96026_1   AR7W      22       5  BIO 102496 1347   BE 56 44.73 N  52 27.16 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      22       5  BIO 102496 1353   EN 56 44.76 N  52 27.13 W  GPS                                                                                             
+18HU96026_1   AR7W      22       6  BIO 102496 1432   BE 56 44.69 N  52 27.15 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      22       6  BIO 102496 1452   EN 56 44.68 N  52 27.00 W  GPS                                                                                             
+18HU96026_1   AR7W      23       1  MOR 102496 2022   DE 56 55.62 N  52 17.10 W  GPS                                                                              Meteorlogical Mooring  
+18HU96026_1   AR7W      23       2  DRF 102496 2058   DE 56 56.62 N  52 17.07 W  GPS                                                                              Meteorlogical Drifter 16894  
+18HU96026_1   AR7W      23       3  DRF 102496 2117   DE 56 56.08 N  52 18.64 W  GPS                                                                              Meteorlogical Drifter 16899  
+18HU96026_1   AR7W      23       4  DRF 102496 2136   DE 56 55.08 N  52 18.78 W  GPS                                                                              Meteorlogical Drifter 16886  
+18HU96026_1   AR7W      23       5  DRF 102496 2156   DE 56 54.61 N  52 17.07 W  GPS                                                                              Meteorlogical Drifter 16905  
+18HU96026_1   AR7W      23       6  DRF 102496 2219   DE 56 55.12 N  52 15.48 W  GPS                                                                              Meteorlogical Drifter 16887  
+18HU96026_1   AR7W      23       7  DRF 102496 2239   DE 56 56.10 N  52 15.55 W  GPS                                                                              Meteorlogical Drifter 16900  
+18HU96026_1   AR7W      24       1  DRF 102596 0125   DE 56 35.65 N  52 36.03 W  GPS                                                                              Meteorlogical Drifter 16896 
+18HU96026_1   AR7W      24       2  FLT 102596 0128   DE 56 35.56 N  52 36.04 W  GPS                                                                              Alace 664   
+18HU96026_1   AR7W      24       3  BIO 102596 0140   BE 56 35.36 N  52 35.99 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      24       3  BIO 102596 0146   EN 56 35.31 N  52 35.93 W  GPS                                                                                             
+18HU96026_1   AR7W      24       4  BIO 102596 0144   BE 56 35.31 N  52 35.97 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      24       4  BIO 102596 0223   EN 56 35.20 N  52 35.46 W  GPS                                                                                             
+18HU96026_1   AR7W      24       5  BIO 102596 0149   BE 56 35.30 N  52 35.88 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      24       5  BIO 102596 0158   EN 56 35.32 N  52 35.72 W  GPS                                                                                             
+18HU96026_1   AR7W      24       6  BIO 102596 0203   BE 56 35.30 N  52 35.68 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      24       6  BIO 102596 0502   EN 56 33.84 N  52 34.54 W  GPS                                                                                             
+18HU96026_1   AR7W      24       7  MOR 102596 0534   DE 56 35.13 N  52 36.31 W  GPS                                                                              PIES 088    
+18HU96026_1   AR7W      24       8  ROS 102596 0554   BE 56 34.90 N  52 34.53 W  GPS    3518   3502                                                                              
+18HU96026_1   AR7W      24       8  ROS 102596 0657   BO 56 34.99 N  52 34.06 W  GPS    3525   3510      10    3527    3554      23   1-8,23,24,27,28,36,43       Site 14     
+18HU96026_1   AR7W      24       8  ROS 102596 0815   EN 56 35.12 N  52 33.94 W  GPS    3525   3510                                                                              
+18HU96026_1   AR7W      25       1  CTD 102596 1013   BE 56 45.38 N  52 21.01 W  GPS    3550   3535                                                                              
+18HU96026_1   AR7W      25       1  CTD 102596 1117   BO 56 45.10 N  52 20.77 W  GPS    3550   3535      10    3535    3571       0                               Bravo Site  
+18HU96026_1   AR7W      25       1  CTD 102596 1206   EN 56 44.95 N  52 20.48 W  GPS                                                                                             
+18HU96026_1   AR7W      26       1  BIO 102596 1413   BE 56 57.52 N  52 14.24 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      26       1  BIO 102596 1436   EN 56 57.16 N  52 14.04 W  GPS                                                                                             
+18HU96026_1   AR7W      26       2  ROS 102596 1442   BE 56 57.26 N  52 13.97 W  GPS    3550   3535                                                                              
+18HU96026_1   AR7W      26       2  ROS 102596 1544   BO 56 57.05 N  52 13.86 W  GPS    3550   3535      10    3515    3560      23   1-6,23,24                   Site 15     
+18HU96026_1   AR7W      26       2  ROS 102596 1643   EN 56 57.21 N  52 14.14 W  GPS                                                                                             
+18HU96026_1   AR7W      26       3  BIO 102596 1504   BE 56 57.17 N  52 13.90 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      26       3  BIO 102596 1550   EN 56 57.03 N  52 13.89 W  GPS                                                                                             
+18HU96026_1   AR7W      26       4  FLT 102596 1625   DE 56 57.18 N  52 14.12 W  GPS                                                                              Sono Buoy   
+18HU96026_1   AR7W      27       1  BIO 102596 1939   BE 57 22.65 N  51 47.59 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      27       2  BIO 102596 1954   BE 57 22.67 N  51 47.62 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      27       3  ROS 102596 2012   BE 57 22.57 N  51 47.67 W  GPS    3559   3544                                                                              
+18HU96026_1   AR7W      27       3  ROS 102596 2115   BO 57 22.79 N  51 47.58 W  GPS    3559   3544      10    3536    3570      23   1-6,23,24,43                Site 16     
+18HU96026_1   AR7W      27       3  ROS 102596 2228   EN 57 22.71 N  51 47.42 W  GPS    3559   3544                                                                              
+18HU96026_1   AR7W      27       4  BIO 102596 2055   BE 57 22.81 N  51 47.75 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      27       4  BIO 102596 2141   EN 57 22.68 N  51 47.38 W  GPS                                                                                             
+18HU96026_1   AR7W      27       5  FLT 102596 2243   DE 57 22.58 N  51 46.92 W  GPS                                                                              Alace 711   
+18HU96026_1   AR7W      27       6  DRF 102596 2244   DE 57 22.63 N  51 46.86 W  GPS                                                                              Meteorlogical Drifter 16889  
+18HU96026_1   AR7W      28       1  DRF 102696 0122   DE 57 47.32 N  51 19.67 W  GPS                                                                              Meteorlogical Drifter 16890  
+18HU96026_1   AR7W      28       2  ROS 102696 0142   BE 57 47.80 N  51 20.13 W  GPS    3644   3630                                                                              
+18HU96026_1   AR7W      28       2  ROS 102696 0248   BO 57 47.73 N  51 19.44 W  GPS    3644   3630      10    3631    3670      23   1-6,23,24                   Site 17     
+18HU96026_1   AR7W      28       2  ROS 102696 0401   EN 57 47.65 N  51 18.38 W  GPS    3644   3630                                                                              
+18HU96026_1   AR7W      29       1  ROS 102696 0636   BE 58 13.00 N  50 52.81 W  GPS    3569   3554                                                                              
+18HU96026_1   AR7W      29       1  ROS 102696 0740   BO 58 13.04 N  50 52.54 W  GPS                     10    3562    3600      23   1-6,20,23,24,43             Site 18     
+18HU96026_1   AR7W      29       1  ROS 102696 0852   EN 58 13.15 N  50 57.68 W  GPS                                                                                           
+18HU96026_1   AR7W      30       1  MOR 102696 0932   BE 58 13.96 N  50 50.62 W  GPS                                                                              Release Test  
+18HU96026_1   AR7W      30       1  MOR 102696 1004   EN 58 13.87 N  50 50.39 W  GPS                                                                                             
+18HU96026_1   AR7W      30       2  MOR 102696 1242   DE 58 15.65 N  50 49.15 W  GPS                                                                              Sound Source North  
+18HU96026_1   AR7W      30       3  BIO 102696 1324   BE 58 15.86 N  50 49.00 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      30       3  BIO 102696 1343   EN 58 15.66 N  50 48.51 W  GPS                                                                                             
+18HU96026_1   AR7W      30       4  BIO 102696 1346   BE 58 15.60 N  50 48.50 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      30       4  BIO 102696 1401   EN 58 15.51 N  50 48.22 W  GPS                                                                                             
+18HU96026_1   AR7W      30       5  FLT 102696 1440   DE 58 15.15 N  50 48.96 W  GPS                                                                              Alace 710   
+18HU96026_1   AR7W      30       6  FLT 102696 1442   DE 58 15.08 N  50 49.06 W  GPS                                                                              RAFOS 375   
+18HU96026_1   AR7W      30       7  FLT 102696 1446   DE 58 15.10 N  50 49.28 W  GPS                                                                              RAFOS 377   
+18HU96026_1   AR7W      30       8  FLT 102696 1448   DE 58 15.15 N  50 49.25 W  GPS                                                                              Mixed Layer Float #9  
+18HU96026_1   AR7W      31       1  MOR 102696 1751   RE 58 37.82 N  50 24.61 W  GPS                                                                              Benthos Release  
+18HU96026_1   AR7W      31       2  MOR 102696 1921   RE 58 37.91 N  50 24.79 W  GPS                                                                              EG&G Release  
+18HU96026_1   AR7W      31       3  BIO 102696 1934   BE 58 37.81 N  50 24.76 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      31       4  BIO 102696 1942   BE 58 37.84 N  50 24.84 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      31       4  BIO 102696 2029   EN 58 37.66 N  50 24.69 W  GPS                                                                                             
+18HU96026_1   AR7W      31       5  BIO 102696 1946   BE 58 37.73 N  50 24.73 W  GPS                                                                              Net Cast    
+18HU96026_1   AR7W      31       6  BIO 102696 2000   BE 58 37.66 N  50 24.81 W  GPS                                                                              Net Cast    
+18HU96026_1   AR7W      31       6  BIO 102696 2220   EN 58 37.43 N  50 24.50 W  GPS                                                                                             
+18HU96026_1   AR7W      31       7  ROS 102696 2245   BE 58 37.59 N  50 24.57 W  GPS    3544   3529                                                                              
+18HU96026_1   AR7W      31       7  ROS 102696 2348   BO 58 37.52 N  50 24.17 W  GPS    3544   3529      15    3534    3569      23   1-6,23,24                   Site 19     
+18HU96026_1   AR7W      31       7  ROS 102796 0058   EN 58 37.37 N  50 23.76 W  GPS    3540   3525                                                                              
+18HU96026_1   AR7W      32       1  ROS 102796 0402   BE 59 03.29 N  49 56.85 W  GPS    3488   3472                                                                              
+18HU96026_1   AR7W      32       1  ROS 102796 0506   BO 59 03.07 N  49 56.65 W  GPS    3475   3459      10    3469    3514      23   1-6,23,24,43                Site 20     
+18HU96026_1   AR7W      32       1  ROS 102796 0629   EN 59 03.03 N  49 56.95 W  GPS                                                                                             
+18HU96026_1   AR7W      32       2  FLT 102796 0637   DE 59 03.05 N  49 56.78 W  GPS                                                                              Alace 665   
+18HU96026_1   AR7W      33       1  ROS 102796 0910   BE 59 28.73 N  49 28.43 W  GPS    3419   3402                                                                              
+18HU96026_1   AR7W      33       1  ROS 102796 1012   BO 59 28.77 N  49 28.24 W  GPS    3417   3400       8    3411    3442      23   1-6,20,23,24,43             Site 21     
+18HU96026_1   AR7W      33       1  ROS 102796 1110   EN 59 28.77 N  49 28.20 W  GPS                                                                                            
+18HU96026_1   AR7W      33       2  BIO 102796 1129   BE 59 28.81 N  49 28.26 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      33       2  BIO 102796 1152   EN 59 28.67 N  49 27.84 W  GPS                                                                                            
+18HU96026_1   AR7W      33       3  BIO 102796 1203   BE 59 28.76 N  49 27.98 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      33       3  BIO 102796 1250   EN 59 28.43 N  49 27.58 W  GPS                                                                                             
+18HU96026_1   AR7W      33       4  BIO 102796 1220   BE 59 28.64 N  49 27.77 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      33       4  BIO 102796 1228   EN 59 28.62 N  49 27.66 W  GPS                                                                                             
+18HU96026_1   AR7W      33       5  BIO 102796 1233   BE 59 28.57 N  49 27.70 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      33       5  BIO 102796 1241   EN 59 28.49 N  49 27.70 W  GPS                                                                                             
+18HU96026_1   AR7W      34       1  BIO 102796 1518   BE 59 45.05 N  49 09.96 W  GPS                                                                              Light Meter  
+18HU96026_1   AR7W      34       1  BIO 102796 1537   EN 59 44.78 N  49 09.48 W  GPS                                                                                             
+18HU96026_1   AR7W      34       2  ROS 102796 1557   BE 59 44.96 N  49 09.02 W  GPS    3231   3211                                                                              
+18HU96026_1   AR7W      34       2  ROS 102796 1655   BO 59 44.89 N  49 09.43 W  GPS    3235   3215            3217    3252      23   1-6,23,24                   Site 22     
+18HU96026_1   AR7W      34       2  ROS 102796 1752   EN 59 44.84 N  49 08.58 W  GPS    3240   3220                                                                              
+18HU96026_1   AR7W      34       3  FLT 102796 1802   DE 59 44.91 N  49 08.18 W  GPS                                                                              Alace 713   
+18HU96026_1   AR7W      35       1  BIO 102796 2002   BE 59 59.02 N  48 53.83 W  GPS                                                                              Net Cast    
+18HU96026_1   AR7W      35       1  BIO 102796 2010   EN 59 58.97 N  48 53.72 W  GPS                                                                                             
+18HU96026_1   AR7W      35       2  BIO 102796 1954   BE 59 59.07 N  48 53.94 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      35       2  BIO 102796 2042   EN 59 59.04 N  48 53.56 W  GPS                                                                                             
+18HU96026_1   AR7W      35       3  BIO 102796 2015   BE 59 58.98 N  48 53.71 W  GPS                                                                              Net Cast    
+18HU96026_1   AR7W      35       3  BIO 102796 2023   EN 59 59.00 N  48 53.71 W  GPS                                                                                             
+18HU96026_1   AR7W      35       4  BIO 102796 2028   BE 59 58.99 N  48 53.66 W  GPS                                                                              Net Cast    
+18HU96026_1   AR7W      35       4  BIO 102796 2341   EN 59 59.42 N  48 53.12 W  GPS                                                                                             
+18HU96026_1   AR7W      35       5  ROS 102896 0056   BE 59 58.98 N  48 53.95 W  GPS    3044   3022                                                                              
+18HU96026_1   AR7W      35       5  ROS 102896 0151   BO 59 59.02 N  48 53.32 W  GPS    3015   2993            3047    3047      23   1-8,20,23,24,27,28,36       Site 23     
+18HU96026_1   AR7W      35       5  ROS 102896 0305   EN 59 59.00 N  48 52.87 W  GPS                                                                                             
+18HU96026_1   AR7W      35       6  FLT 102896 0315   DE 59 58.90 N  48 52.29 W  GPS                                                                              Alace 654   
+18HU96026_1   AR7W      36       1  ROS 102896 0522   BE 60 10.94 N  48 40.78 W  GPS                                                                              Cast aborted,CTD problems  
+18HU96026_1   AR7W      36       2  ROS 102896 0804   BE 60 09.13 N  48 38.95 W  GPS    2875   2852                                                                              
+18HU96026_1   AR7W      36       2  ROS 102896 0858   BO 60 10.26 N  48 40.40 W  GPS    2875   2852      15    2903    2875      23   1-6,20,23,24,43             Site 24     
+18HU96026_1   AR7W      36       2  ROS 102896 1006   EN 60 11.52 N  48 41.69 W  GPS    2912   2889                                                                              
+18HU96026_1   AR7W      37       1  ROS 102896 1117   BE 60 15.85 N  48 30.92 W  GPS    2819   2796                                                                             
+18HU96026_1   AR7W      37       1  ROS 102896 1208   BO 60 16.68 N  48 31.72 W  GPS    2781   2758      12    2854    2801      23   1-6,20,23,24                Site 25     
+18HU96026_1   AR7W      37       1  ROS 102896 1255   EN 60 16.90 N  48 32.90 W  GPS    2781   2758                                                                              
+18HU96026_1   AR7W      38       1  BIO 102896 1349   BE 60 21.15 N  48 24.00 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR7W      38       1  BIO 102896 1433   EN 60 21.43 N  48 24.73 W  GPS                                                                                          
+18HU96026_1   AR7W      38       2  BIO 102896 1349   BE 60 21.16 N  48 24.00 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      38       2  BIO 102896 1356   EN 60 21.23 N  48 24.02 W  GPS                                                                                           
+18HU96026_1   AR7W      38       3  BIO 102896 1359   BE 60 21.23 N  48 24.03 W  GPS                                                                              Net Tow     
+18HU96026_1   AR7W      38       3  BIO 102896 1405   EN 60 21.23 N  48 23.96 W  GPS                                                                                             
+18HU96026_1   AR7W      38       4  ROS 102896 1424   BE 60 21.35 N  48 24.48 W  GPS     719    706                                                                              
+18HU96026_1   AR7W      38       4  ROS 102896 1444   BO 60 21.43 N  48 24.93 W  GPS     906    891             800     799      11   1-6,20,23,24,43             Site 26     
+18HU96026_1   AR7W      38       4  ROS 102896 1504   EN 60 21.43 N  48 25.15 W  GPS                                                                                             
+18HU96026_1   AR7W      39       1  ROS 102896 1612   BE 60 26.38 N  48 21.97 W  GPS     156    156                                                                              
+18HU96026_1   AR7W      39       1  ROS 102896 1617   BO 60 26.39 N  48 21.96 W  GPS     160    160      13     140     141       4   1-6,20,23,24                Site 27     
+18HU96026_1   AR7W      39       1  ROS 102896 1625   EN 60 26.43 N  48 22.13 W  GPS     160    160                                                                              
+18HU96026_1   AR27      40       1  BIO 102896 1729   BE 60 33.80 N  48 13.48 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      40       1  BIO 102896 1802   EN 60 34.08 N  48 12.94 W  GPS                                                                                             
+18HU96026_1   AR27      40       2  BIO 102896 1810   BE 60 34.10 N  48 12.85 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      40       2  BIO 102896 1859   EN 60 34.57 N  48 12.44 W  GPS                                                                                             
+18HU96026_1   AR27      40       3  BIO 102896 1817   BE 60 34.22 N  48 12.75 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      40       3  BIO 102896 1831   EN 60 34.35 N  48 12.66 W  GPS                                                                                             
+18HU96026_1   AR27      40       4  BIO 102896 1835   BE 60 34.37 N  48 12.69 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      40       4  BIO 102896 1839   EN 60 34.48 N  48 12.69 W  GPS                                                                                             
+18HU96026_1   AR27      40       5  BIO 102896 1846   BE 60 34.48 N  48 12.61 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      40       5  BIO 102896 1850   EN 60 34.53 N  48 12.60 W  GPS                                                                                             
+18HU96026_1   AR27      40       6  ROS 102896 1910   BE 60 34.77 N  48 12.35 W  GPS     154    154                                                                              
+18HU96026_1   AR27      40       6  ROS 102896 1915   BO 60 34.78 N  48 12.28 W  GPS     141    141      14     125     123       4   1-6,20,23,24,43             Site 28     
+18HU96026_1   AR27      40       6  ROS 102896 1921   EN 60 34.81 N  48 12.12 W  GPS     126    126                                                                             
+18HU96026_1   AR27      41       1  BIO 102996 0210   BE 60 07.03 N  48 53.05 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      41       1  BIO 102996 0218   EN 60 07.08 N  48 53.09 W  GPS                                                                                             
+18HU96026_1   AR27      41       2  ROS 102996 0233   BE 60 07.05 N  45 52.83 W  GPS                                                                                             
+18HU96026_1   AR27      41       2  ROS 102996 0237   BO 60 07.99 N  45 52.84 W  GPS     119    119      10     105     106      12   1-6,20,23,24,43             Site L4_24  
+18HU96026_1   AR27      41       2  ROS 102996 0251   EN 60 07.02 N  45 52.68 W  GPS                                                                                             
+18HU96026_1   AR27      42       1  BIO 102996 0430   BE 59 52.01 N  45 59.83 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      42       1  BIO 102996 0439   EN 59 52.23 N  45 59.37 W  GPS                                                                                             
+18HU96026_1   AR27      42       2  ROS 102996 0457   BE 59 52.39 N  45 58.74 W  GPS     137    137                                                                              
+18HU96026_1   AR27      42       2  ROS 102996 0503   BO 59 52.42 N  45 58.54 W  GPS     137    137      10     125     125      12   1-6,23,24,43                Site L4_23  
+18HU96026_1   AR27      42       2  ROS 102996 0517   EN 59 52.65 N  45 58.19 W  GPS                                                                                             
+18HU96026_1   AR27      43       1  ROS 102996 0657   BE 59 37.12 N  46 07.39 W  GPS     719    706                                                                              
+18HU96026_1   AR27      43       1  ROS 102996 0713   BO 59 37.23 N  46 07.81 W  GPS     728    715      10     722     723       9   1-8,20,23,24,27,28,36,      Site L4_22  
+18HU96026_1   AR27      43       1  ROS 102996 0736   EN 59 37.38 N  46 08.58 W  GPS     737    724                                                                              
+18HU96026_1   AR27      44       1  ROS 102996 0910   BE 59 21.51 N  46 13.48 W  GPS    2162   2138                                                                              
+18HU96026_1   AR27      44       1  ROS 102996 0952   BO 59 21.84 N  46 14.25 W  GPS    2149   2125      11    2126    2146      17   1-6,20,23,24                Site L4_21  
+18HU96026_1   AR27      44       1  ROS 102996 1032   EN 59 21.98 N  46 14.37 W  GPS    2149   2125                                                                              
+18HU96026_1   AR27      44       2  FLT 102996 1037   DE 59 21.81 N  46 14.53 W  GPS                                                                              Alace 656   
+18HU96026_1   AR27      45       1  BIO 102996 1223   BE 59 02.96 N  46 27.07 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      45       1  BIO 102996 1232   EN 59 02.98 N  46 26.98 W  GPS                                                                                              
+18HU96026_1   AR27      45       2  BIO 102996 1235   BE 59 02.94 N  46 26.98 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      45       2  BIO 102996 1243   EN 59 02.85 N  46 26.98 W  GPS                                                                                             
+18HU96026_1   AR27      45       3  BIO 102996 1246   BE 59 02.89 N  46 26.98 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      45       3  BIO 102996 1454   EN 59 03.00 N  46 27.30 W  GPS                                                                                             
+18HU96026_1   AR27      45       4  BIO 102996 1341   BE 59 02.83 N  46 27.18 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      45       4  BIO 102996 1428   EN 59 02.75 N  46 27.24 W  GPS                                                                                             
+18HU96026_1   AR27      45       5  BIO 102996 1510   BE 59 03.28 N  46 27.30 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      45       5  BIO 102996 1534   EN 59 03.35 N  46 27.80 W  GPS                                                                                             
+18HU96026_1   AR27      45       6  ROS 102996 1546   BE 59 03.22 N  46 27.72 W  GPS    2697   2673                                                                              
+18HU96026_1   AR27      45       6  ROS 102996 1635   BO 59 02.98 N  46 27.88 W  GPS    2715   2691      14    2691    2703      19   1-6,23,24                   Site L4_20  
+18HU96026_1   AR27      45       6  ROS 102996 1723   EN 59 02.70 N  46 27.95 W  GPS    2715   2691                                                                              
+18HU96026_1   AR27      46       1  ROS 102996 2005   BE 58 32.99 N  46 43.16 W  GPS    2790   2767                                                                              
+18HU96026_1   AR27      46       1  ROS 102996 2054   BO 58 32.76 N  46 43.65 W  GPS    2804   2781      18    2782    2797      20   1-6,23,24                   Site L4_19  
+18HU96026_1   AR27      46       1  ROS 102996 2141   EN 58 32.60 N  46 44.01 W  GPS    4020   4013                                                                              
+18HU96026_1   AR27      46       2  FLT 102996 2148   DE 58 32.66 N  46 44.69 W  GPS                                                                              Alace 712   
+18HU96026_1   AR27      47       1  BIO 103096 0009   BE 58 07.00 N  46 58.23 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      47       1  BIO 103096 0018   EN 58 06.88 N  46 58.35 W  GPS                                                                                             
+18HU96026_1   AR27      47       2  ROS 103096 0032   BE 58 06.79 N  46 58.39 W  GPS    3156   3136                                                                              
+18HU96026_1   AR27      47       2  ROS 103096 0117   BO 58 06.43 N  46 58.45 W  GPS                                                                              Rosette package lost  
+18HU96026_1   AR27      48       1  FLT 103096 0531   DE 57 32.06 N  47 17.10 W  GPS                                                                              Alace 666   
+18HU96026_1   AR27      48       2  DRF 103096 0531   DE 57 32.06 N  47 17.10 W  GPS                                                                              Meteorlogical Drifter 16880  
+18HU96026_1   AR27      49       1  DRF 103096 0841   DE 56 57.08 N  47 36.24 W  GPS                                                                              Meteorlogical Drifter 16892  
+18HU96026_1   AR27      50       1  DRF 103096 1145   DE 56 22.21 N  47 55.52 W  GPS                                                                              Meteorlogical Drifter 16885  
+18HU96026_1   AR27      51       1  DRF 103096 1539   DE 55 47.43 N  48 13.68 W  GPS                                                                              Meteorlogical Drifter 18891  
+18HU96026_1   AR27      51       2  FLT 103096 1542   DE 55 47.27 N  48 13.87 W  GPS                                                                              Alace 707   
+18HU96026_1   AR27      52       1  FLT 103096 1708   DE 55 34.96 N  48 22.92 W  GPS                                                                              Alace 101   
+18HU96026_1   AR27      53       1  FLT 103196 1901   DE 54 47.09 N  48 57.90 W  GPS                                                                              Alace 667   
+18HU96026_1   AR27      54       1  FLT 103196 2345   DE 54 10.03 N  50 09.77 W  GPS                                                                              Alace 706   
+18HU96026_1   AR27      55       1  FLT 110196 0246   DE 53 46.36 N  50 52.95 W  GPS                                                                              Alace 715   
+18HU96026_1   AR27      56       1  FLT 110196 0550   DE 53 22.24 N  51 41.29 W  GPS                                                                              Alace 657   
+18HU96026_1   AR27      57       1  CTD 110296 0047   BE 53 01.55 N  51 08.66 W  GPS                                    388                                       Site L4_07 Cast aborted  
+18HU96026_1   AR27      57       1  CTD 110296 0121   EN 53 01.19 N  51 08.78 W  GPS                                                                                             
+18HU96026_1   AR27      57       2  CTD 110296 0133   BE 53 01.06 N  51 08.84 W  GPS    2500   2476                                                                              
+18HU96026_1   AR27      57       2  CTD 110296 0233   BO 53 00.46 N  51 08.73 W  GPS    2500   2476      15    2470    2496                                       Site L4_07  
+18HU96026_1   AR27      57       2  CTD 110296 0310   EN 53 00.11 N  51 08.42 W  GPS    2500   2476                                                                              
+18HU96026_1   AR27      58       1  CTD 110296 0431   BE 52 52.87 N  51 27.47 W  GPS    1806   1783                                                                              
+18HU96026_1   AR27      58       1  CTD 110296 0517   BO 52 52.19 N  51 27.25 W  GPS    1806   1783      25    1780    1760                                       Site L4_06  
+18HU96026_1   AR27      58       1  CTD 110296 0546   EN 52 51.97 N  51 26.97 W  GPS                                                                                             
+18HU96026_1   AR27      59       1  CTD 110296 0711   BE 52 46.85 N  51 49.72 W  GPS     381    372                                                                              
+18HU96026_1   AR27      59       1  CTD 110296 0721   BO 52 46.67 N  51 49.76 W  GPS                     12     363     361                                       Site L4_05  
+18HU96026_1   AR27      59       1  CTD 110296 0728   EN 52 46.59 N  51 49.77 W  GPS                                                                                             
+18HU96026_1   AR27      60       1  CTD 110296 0846   BE 52 40.88 N  52 11.60 W  GPS     306    299                                                                              
+18HU96026_1   AR27      60       1  CTD 110296 0854   BO 52 40.80 N  52 11.59 W  GPS                     15     267     267                                       Site L4_04  
+18HU96026_1   AR27      60       1  CTD 110296 0859   EN 52 40.75 N  52 11.58 W  GPS                                                                                             
+18HU96026_1   AR27      61       1  CTD 110296 1102   BE 52 30.99 N  52 46.13 W  GPS     269    263                                                                              
+18HU96026_1   AR27      61       1  CTD 110296 1109   BO 52 30.93 N  52 46.22 W  GPS     265    259      18     239     237                                       Site L4_03  
+18HU96026_1   AR27      61       1  CTD 110296 1114   EN 52 30.91 N  52 46.19 W  GPS     265    259                                                                              
+18HU96026_1   AR27      61       2  BIO 110296 1113   BE 52 30.91 N  52 46.18 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      61       2  BIO 110296 1153   EN 52 30.60 N  52 46.43 W  GPS                                                                                             
+18HU96026_1   AR27      61       3  BIO 110296 1127   BE 52 30.80 N  52 46.25 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      61       3  BIO 110296 1139   EN 52 30.70 N  52 46.33 W  GPS                                                                                             
+18HU96026_1   AR27      61       4  BIO 110296 1140   BE 52 30.70 N  52 46.32 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      61       4  BIO 110296 1148   EN 52 30.64 N  52 46.61 W  GPS                                                                                             
+18HU96026_1   AR27      61       5  BIO 110296 1207   BE 52 30.49 N  52 46.54 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      61       5  BIO 110296 1228   EN 52 30.25 N  52 46.74 W  GPS                                                                                             
+18HU96026_1   AR27      62       1  BIO 110296 1512   BE 52 18.03 N  53 32.01 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      62       1  BIO 110296 1556   EN 52 17.81 N  53 32.17 W  GPS                                                                                             
+18HU96026_1   AR27      62       2  BIO 110296 1513   BE 52 18.02 N  53 32.01 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      62       2  BIO 110296 1520   EN 52 17.97 N  53 32.05 W  GPS                                                                                             
+18HU96026_1   AR27      62       3  BIO 110296 1523   BE 52 17.98 N  53 32.07 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      62       3  BIO 110296 1534   EN 52 17.90 N  53 32.14 W  GPS                                                                                             
+18HU96026_1   AR27      62       4  CTD 110296 1542   BE 52 17.88 N  53 32.15 W  GPS     409    400                                                                              
+18HU96026_1   AR27      62       4  CTD 110296 1553   BO 52 17.83 N  53 32.17 W  GPS     409    400      17     379     381                                       Site L4_02  
+18HU96026_1   AR27      62       4  CTD 110296 1559   EN 52 17.81 N  53 32.18 W  GPS     409    400                                                                              
+18HU96026_1   AR27      62       5  BIO 110296 1607   BE 52 17.74 N  53 32.20 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      62       5  BIO 110296 1620   EN 52 17.59 N  53 32.31 W  GPS                                                                                             
+18HU96026_1   AR27      63       1  BIO 110296 1858   BE 52 04.77 N  54 17.79 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      63       1  BIO 110296 1924   EN 52 04.53 N  54 17.85 W  GPS                                                                                             
+18HU96026_1   AR27      63       2  BIO 110296 1926   BE 52 04.52 N  54 17.86 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      63       2  BIO 110296 2005   EN 52 04.11 N  54 17.95 W  GPS                                                                                             
+18HU96026_1   AR27      63       3  BIO 110296 1935   BE 52 04.43 N  54 17.95 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      63       3  BIO 110296 1944   EN 52 04.33 N  54 17.93 W  GPS                                                                                          
+18HU96026_1   AR27      63       4  BIO 110296 1949   BE 52 04.23 N  54 18.01 W  GPS                                                                              Net Tow     
+18HU96026_1   AR27      63       4  BIO 110296 1956   EN 52 04.17 N  54 18.02 W  GPS                                                                                            
+18HU96026_1   AR27      63       5  CTD 110296 2009   BE 52 04.11 N  54 17.90 W  GPS     194    194                                                                              
+18HU96026_1   AR27      63       5  CTD 110296 2015   BO 52 04.05 N  54 17.87 W  GPS     194    194      13                                                       Site L4_01  
+18HU96026_1   AR27      63       5  CTD 110296 2020   EN 52 04.00 N  54 17.91 W  GPS     194    194                                                                              
+18HU96026_1   AR27      64       1  MOR 110696 1129   BE 54 57.78 N  48 37.67 W  GPS                                                                              Release Test  
+18HU96026_1   AR27      64       1  MOR 110696 1217   EN 54 57.65 N  48 37.22 W  GPS                                                                                             
+18HU96026_1   AR27      64       2  MOR 110696 1829   DE 54 58.78 N  48 43.04 W  GPS                                                                              Sound Source South  
+18HU96026_1   AR27      64       3  BIO 110696 1857   BE 54 58.83 N  48 43.21 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      64       3  BIO 110696 1929   EN 54 58.41 N  48 42.21 W  GPS                                                                                           
+18HU96026_1   AR27      64       4  BIO 110696 1932   BE 54 58.40 N  48 42.12 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      64       4  BIO 110696 2012   EN 54 57.94 N  48 41.17 W  GPS                                                                                             
+18HU96026_1   AR27      65       1  ROS 110696 2218   BE 55 12.03 N  48 32.87 W  GPS    3765   3753                                                                              
+18HU96026_1   AR27      65       1  ROS 110696 2353   BO 55 12.10 N  48 32.00 W  GPS    3765   3753      20    3771    3812      23   1-6,23,24                   Site L4_13  
+18HU96026_1   AR27      65       1  ROS 110796 0112   EN 55 12.11 N  48 31.34 W  GPS    3765   3753                                                                              
+18HU96026_1   AR27      66       1  ROS 110796 0451   BE 55 46.78 N  48 13.85 W  GPS    3709   3696                                                                             
+18HU96026_1   AR27      66       1  ROS 110796 0557   BO 55 46.79 N  48 13.70 W  GPS    3718   3705      10    3695    3744      23   1-8,23,24,27,28,36          Site L4_14  
+18HU96026_1   AR27      66       1  ROS 110796 0711   EN 55 46.75 N  48 13.48 W  GPS    3718   3705                                                                              
+18HU96026_1   AR27      67       1  ROS 110796 1107   BE 56 22.08 N  47 55.39 W  GPS    3625   3611                                                                              
+18HU96026_1   AR27      67       1  ROS 110796 1211   BO 56 22.01 N  47 55.00 W  GPS    3615   3601      18    3604    3648      23   1-6,23,24                   Site L4_15  
+18HU96026_1   AR27      67       1  ROS 110796 1315   EN 56 22.14 N  47 54.26 W  GPS    3615   3601                                                                              
+18HU96026_1   AR27      67       2  BIO 110796 1206   BE 56 22.07 N  47 55.10 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      67       2  BIO 110796 1253   EN 56 22.10 N  47 54.45 W  GPS                                                                                             
+18HU96026_1   AR27      67       3  BIO 110796 1326   BE 56 22.19 N  47 53.95 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      67       3  BIO 110796 1346   EN 56 22.28 N  47 53.61 W  GPS                                                                                             
+18HU96026_1   AR27      68       1  BIO 110796 1729   BE 56 57.11 N  47 35.86 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      68       1  BIO 110796 1755   EN 56 57.18 N  47 34.98 W  GPS                                                                                             
+18HU96026_1   AR27      68       2  BIO 110796 1800   BE 56 57.18 N  47 34.89 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      68       2  BIO 110796 1817   EN 56 57.29 N  47 34.27 W  GPS                                                                                             
+18HU96026_1   AR27      68       3  ROS 110796 1806   BE 56 57.22 N  47 34.56 W  GPS    3606   3592                                                                              
+18HU96026_1   AR27      68       3  ROS 110796 1914   BO 56 57.51 N  47 33.97 W  GPS    3606   3592      22    3602    3626      23   1-6,23,24                   Site L4_16  
+18HU96026_1   AR27      68       3  ROS 110796 2011   EN 56 57.88 N  47 33.66 W  GPS    3615   3601                                                                              
+18HU96026_1   AR27      69       1  ROS 110796 2334   BE 57 32.06 N  47 16.95 W  GPS    3015   2993                                                                              
+18HU96026_1   AR27      69       1  ROS 110896 0025   BO 57 31.95 N  47 16.69 W  GPS    3025   3003      10    2991    3025      23   1-8,23,24,27,28             Site L4_17  
+18HU96026_1   AR27      69       1  ROS 110896 0136   EN 57 31.81 N  47 16.39 W  GPS    3015   2993                                                                              
+18HU96026_1   AR27      70       1  BIO 110896 1208   BE 56 47.45 N  43 57.79 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      70       1  BIO 110896 1253   EN 56 47.36 N  43 57.99 W  GPS                                                                                             
+18HU96026_1   AR27      70       2  BIO 110896 1300   BE 56 47.43 N  43 57.89 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      70       2  BIO 110896 1326   EN 56 47.73 N  43 57.00 W  GPS                                                                                             
+18HU96026_1   AR27      70       3  MOR 110896 1603   DE 56 47.10 N  43 59.40 W  GPS                                                                              Sound Source East  
+18HU96026_1   AR27      71       1  BIO 110896 1750   BE 56 51.04 N  43 59.89 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      71       1  BIO 110896 1815   EN 56 51.43 N  43 59.77 W  GPS                                                                                            
+18HU96026_1   AR27      71       2  BIO 110896 1818   BE 56 51.49 N  43 59.75 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      71       2  BIO 110896 1836   EN 56 51.63 N  43 59.87 W  GPS                                                                                             
+18HU96026_1   AR27      71       3  ROS 110896 1827   BE 56 51.56 N  43 59.83 W  GPS    3510   3494                                                                              
+18HU96026_1   AR27      71       3  ROS 110896 1917   BO 56 51.83 N  43 00.17 W  GPS    3494   3478            2800    2826      18   1-6,23,24                   Site L5_21  
+18HU96026_1   AR27      71       3  ROS 110896 2008   EN 56 52.21 N  44 00.60 W  GPS    3494   3478                                                                              
+18HU96026_1   AR27      71       4  FLT 110896 2041   DE 56 52.61 N  43 58.72 W  GPS                                                                              Alace 673   
+18HU96026_1   AR27      72       1  ROS 110896 2324   BE 57 25.08 N  43 59.69 W  GPS    3465   3449                                                                              
+18HU96026_1   AR27      72       1  ROS 110996 0027   BO 57 25.20 N  43 59.31 W  GPS    3465   3449      10    3446    3489      23   1-8,20,23,24,27,28,36       Site L5_22  
+18HU96026_1   AR27      72       1  ROS 110996 0140   EN 57 25.54 N  43 58.69 W  GPS    3465   3449                                                                              
+18HU96026_1   AR27      72       2  FLT 110996 0149   DE 57 25.75 N  43 58.37 W  GPS                                                                              Alace 680   
+18HU96026_1   AR27      73       1  ROS 110996 0453   BE 57 59.95 N  44 00.06 W  GPS    3081   3060                                                                              
+18HU96026_1   AR27      73       1  ROS 110996 0549   BO 58 00.23 N  44 00.81 W  GPS    3081   3060      10    3078    3101      23   1-6,20,23,24                Site L5_23  
+18HU96026_1   AR27      73       1  ROS 110996 0655   EN 58 00.59 N  44 01.85 W  GPS    3062   3041                                                                              
+18HU96026_1   AR27      74       1  ROS 110996 0926   BE 58 29.89 N  43 59.94 W  GPS    2031   2007                                                                              
+18HU96026_1   AR27      74       1  ROS 110996 1004   BO 58 29.94 N  44 00.19 W  GPS    2022   1998       9    2012    2017      17   1-6,23,24                   Site L5_24  
+18HU96026_1   AR27      74       1  ROS 110996 1041   EN 58 30.00 N  44 00.30 W  GPS    2012   1988                                                                              
+18HU96026_1   AR27      74       2  FLT 110996 1048   DE 58 30.24 N  44 00.03 W  GPS                                                                              Alace 681   
+18HU96026_1   AR27      75       1  BIO 110996 1328   BE 59 00.02 N  43 59.98 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      75       1  BIO 110996 1350   EN 59 00.36 N  43 59.42 W  GPS                                                                                            
+18HU96026_1   AR27      75       2  BIO 110996 1400   BE 59 00.47 N  43 59.12 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      75       2  BIO 110996 1448   EN 59 00.79 N  43 58.92 W  GPS                                                                                            
+18HU96026_1   AR27      75       3  ROS 110996 1403   BE 59 00.49 N  43 59.09 W  GPS    1778   1755                                                                              
+18HU96026_1   AR27      75       3  ROS 110996 1437   BO 59 00.71 N  43 59.01 W  GPS    1778   1755      18    1750    1763      15   1-6,20,23,24                Site L5_25  
+18HU96026_1   AR27      75       3  ROS 110996 1510   EN 59 00.96 N  43 58.80 W  GPS    1782   1759                                                                              
+18HU96026_1   AR27      75       4  FLT 110996 1518   DE 59 01.22 N  43 58.57 W  GPS                                                                              Alace 660   
+18HU96026_1   AR27      76       1  FLT 110996 1628   DE 59 13.99 N  44 00.34 W  GPS                                                                              Alace 661   
+18HU96026_1   AR27      76       2  ROS 110996 1642   BE 59 14.54 N  44 00.44 W  GPS    1478   1457                                                                            
+18HU96026_1   AR27      76       2  ROS 110996 1710   BO 59 14.27 N  44 01.20 W  GPS    1544   1523      20    1522    1520      13   1-6,20,23,24                Site L5_26  
+18HU96026_1   AR27      76       2  ROS 110996 1738   EN 59 14.28 N  44 01.71 W  GPS                                                                                             
+18HU96026_1   AR27      77       1  ROS 110996 1914   BE 59 29.64 N  43 59.35 W  GPS     212    207                                                                              
+18HU96026_1   AR27      77       1  ROS 110996 1920   BO 59 29.70 N  43 59.44 W  GPS     212    207      16     180     184       6   1-6,20,23,24                Site L5_27  
+18HU96026_1   AR27      77       1  ROS 110996 1927   EN 59 29.68 N  43 59.41 W  GPS     212    207                                                                              
+18HU96026_1   AR27      78       1  BIO 111096 1308   BE 58 39.64 N  50 06.08 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      78       1  BIO 111096 1327   EN 58 39.81 N  50 06.07 W  GPS                                                                                             
+18HU96026_1   AR27      78       2  BIO 111096 1332   BE 58 39.90 N  50 06.08 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      78       2  BIO 111096 1417   EN 58 39.79 N  50 05.98 W  GPS                                                                                             
+18HU96026_1   AR27      78       3  MOR 111096 1338   BE 58 39.90 N  50 06.06 W  GPS                                                                              Release Test  
+18HU96026_1   AR27      78       3  MOR 111096 1405   EN 58 39.90 N  50 05.99 W  GPS                                                                                             
+18HU96026_1   AR27      78       4  FLT 111096 1426   DE 58 39.81 N  50 06.34 W  GPS                                                                              RAFOS 376   
+18HU96026_1   AR27      78       5  FLT 111096 1430   DE 58 39.85 N  50 06.46 W  GPS                                                                              RAFOS 378   
+18HU96026_1   AR27      79       1  MOR 111196 1400   DE 57 45.45 N  56 00.04 W  GPS                                                                              Tomography  
+18HU96026_1   AR27      79       2  MOR 111196 1538   DE 57 47.03 N  56 00.05 W  GPS                                                                              T3 Transponder  
+18HU96026_1   AR27      79       3  MOR 111196 1616   DE 57 44.70 N  55 57.62 W  GPS                                                                              T2 Transponder  
+18HU96026_1   AR27      79       4  MOR 111196 1635   DE 57 44.65 N  56 02.56 W  GPS                                                                              T1 Transponder  
+18HU96026_1   AR27      80       1  MOR 111196 1942   DE 57 59.00 N  56 10.40 W  GPS                                                                              Sound Source West  
+18HU96026_1   AR27      81       1  ROS 111296 1219   BE 61 00.11 N  57 59.97 W  GPS    2819   2796                                                                             
+18HU96026_1   AR27      81       1  ROS 111296 1309   BO 61 00.30 N  58 00.22 W  GPS    2819   2796     10    2792    2826      21   1-6,20,23,24                 Site L6_15  
+18HU96026_1   AR27      81       1  ROS 111296 1356   EN 61 00.20 N  58 00.32 W  GPS    2819   2796                                                                              
+18HU96026_1   AR27      81       2  BIO 111296 1310   BE 61 00.29 N  58 00.22 W  GPS                                                                              Pump Cast   
+18HU96026_1   AR27      81       2  BIO 111296 1354   EN 61 00.17 N  58 00.35 W  GPS                                                                                            
+18HU96026_1   AR27      81       3  BIO 111296 1410   BE 61 00.33 N  58 00.00 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      81       3  BIO 111296 1428   EN 61 00.58 N  57 59.51 W  GPS                                                                                             
+18HU96026_1   AR27      81       4  FLT 111296 1440   DE 61 00.34 N  57 58.60 W  GPS                                                                              Alace 675   
+18HU96026_1   AR27      82       1  BIO 111296 1743   BE 60 33.15 N  57 20.98 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      82       1  BIO 111296 1815   EN 60 33.57 N  57 19.79 W  GPS                                                                                             
+18HU96026_1   AR27      82       2  ROS 111296 1824   BE 60 33.64 N  57 19.27 W  GPS    2978   2956                                                                              
+18HU96026_1   AR27      82       2  ROS 111296 1918   BO 60 33.86 N  57 18.93 W  GPS    2997   2975      16    2994    3002      23   1-6,23,24                   Site L6_14  
+18HU96026_1   AR27      82       2  ROS 111296 2005   EN 60 33.87 N  57 18.96 W  GPS    2997   2975                                                                              
+18HU96026_1   AR27      82       3  FLT 111296 2013   DE 60 33.89 N  57 18.33 W  GPS                                                                              Alace 672   
+18HU96026_1   AR27      83       1  FLT 111296 2301   DE 60 05.65 N  56 43.57 W  GPS                                                                              Alace 714   
+18HU96026_1   AR27      83       2  ROS 111296 2317   BE 60 04.96 N  56 42.18 W  GPS    2931   2908                                                                              
+18HU96026_1   AR27      83       2  ROS 111396 0010   BO 60 05.05 N  56 41.87 W  GPS    2931   2908      10    2914    2943      23   1-8,20,23,24,27,28,36       Site L6_13  
+18HU96026_1   AR27      83       2  ROS 111396 0113   EN 60 05.16 N  56 41.41 W  GPS    2931   2908                                                                              
+18HU96026_1   AR27      84       1  ROS 111396 0422   BE 59 38.38 N  56 03.09 W  GPS    3100   3079                                                                              
+18HU96026_1   AR27      84       1  ROS 111396 0520   BO 59 39.06 N  56 02.59 W  GPS    3090   3069      10    3119    3110      23   1-6,23,24                   Site L6_12  
+18HU96026_1   AR27      84       1  ROS 111396 0629   EN 59 39.69 N  56 01.88 W  GPS    3090   3069                                                                              
+18HU96026_1   AR27      85       1  ROS 111396 0940   BE 59 11.11 N  55 23.59 W  GPS    3287   3268                                                                            
+18HU96026_1   AR27      85       1  ROS 111396 1041   BO 59 11.61 N  55 23.24 W  GPS    3278   3259      14    3290    3291      23   1-6,20,23,24                Site L6_11  
+18HU96026_1   AR27      85       1  ROS 111396 1136   EN 59 12.11 N  55 23.36 W  GPS    3278   3259                                                                              
+18HU96026_1   AR27      85       2  FLT 111396 1146   DE 59 11.95 N  55 23.01 W  GPS                                                                              Alace 668   
+18HU96026_1   AR27      85       3  DRF 111396 1149   DE 59 11.89 N  55 22.89 W  GPS                                                                              Meteorlogical Drifter  
+18HU96026_1   AR27      86       1  BIO 111396 1500   BE 58 42.81 N  54 43.64 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      86       1  BIO 111396 1524   EN 58 42.98 N  54 42.50 W  GPS                                                                                             
+18HU96026_1   AR27      86       2  ROS 111396 1538   BE 58 43.09 N  54 41.97 W  GPS    3353   3335                                                                              
+18HU96026_1   AR27      86       2  ROS 111396 1642   BO 58 43.71 N  54 41.32 W  GPS    3353   3335      14    3372    3371      23   1-6,23,24                   Site L6_10  
+18HU96026_1   AR27      86       2  ROS 111396 1738   EN 58 44.27 N  54 40.97 W  GPS                                                                                            
+18HU96026_1   AR27      86       3  BIO 111396 1603   BE 58 43.39 N  54 41.67 W  GPS                                                                              Pump Cast. Pump failed, no data  
+18HU96026_1   AR27      86       3  BIO 111396 1608   EN 58 43.42 N  54 41.61 W  GPS                                                                                             
+18HU96026_1   AR27      86       4  DRF 111396 1747   DE 58 44.12 N  54 40.37 W  GPS                                                                              Meteorlogical Drifter 16884  
+18HU96026_1   AR27      87       1  ROS 111396 2038   BE 58 16.18 N  54 04.51 W  GPS    3437   3420                                                                              
+18HU96026_1   AR27      87       1  ROS 111396 2140   BO 58 16.82 N  54 04.85 W  GPS    3437   3420      10    3419    3447      23   1-6,20,23,24                Site L6_9   
+18HU96026_1   AR27      87       1  ROS 111396 2248   EN 58 17.60 N  54 04.92 W  GPS    3437   3420                                                                              
+18HU96026_1   AR27      87       2  DRF 111396 2259   DE 58 17.45 N  54 04.31 W  GPS                                                                              Meteorlogical Drifter 16895  
+18HU96026_1   AR27      87       3  FLT 111396 2302   DE 58 17.32 N  54 03.97 W  GPS                                                                              Alace 577   
+18HU96026_1   AR27      87       4  FLT 111396 2304   DE 58 17.26 N  54 03.80 W  GPS                                                                              Alace 576   
+18HU96026_1   AR27      87       5  FLT 111396 2308   DE 58 17.18 N  54 03.54 W  GPS                                                                              Alace 652   
+18HU96026_1   AR27      87       6  FLT 111396 2311   DE 58 17.10 N  54 03.27 W  GPS                                                                              Alace 88K   
+18HU96026_1   AR27      87       7  FLT 111396 2313   DE 58 17.04 N  54 03.10 W  GPS                                                                              Alace 87K   
+18HU96026_1   AR27      88       1  DRF 111496 0203   DE 57 48.87 N  53 26.90 W  GPS                                                                              Meteorlogical Drifter 16883  
+18HU96026_1   AR27      88       2  ROS 111496 0222   BE 57 48.46 N  53 25.97 W  GPS    3465   3449                                                                              
+18HU96026_1   AR27      88       2  ROS 111496 0328   BO 57 49.12 N  53 25.62 W  GPS    3465   3449      10    3505    3495      23   1-8,23,24,27,28,36          Site L6_08  
+18HU96026_1   AR27      88       2  ROS 111496 0435   EN 57 49.45 N  53 26.12 W  GPS    3465   3449                                                                              
+18HU96026_1   AR27      89       1  ROS 111496 0756   BE 57 16.99 N  52 53.95 W  GPS                                                                              Cast Aborted.Low tension in wire  
+18HU96026_1   AR27      89       2  ROS 111496 0822   BE 57 17.25 N  52 53.90 W  GPS    3465   3449                                                                              
+18HU96026_1   AR27      89       2  ROS 111496 0928   BO 57 18.09 N  52 53.29 W  GPS    3469   3453      20    3482    3487      23   1-6,23,24                   Site L6_07  
+18HU96026_1   AR27      89       2  ROS 111496 1029   EN 57 18.72 N  52 52.10 W  GPS                                                                                             
+18HU96026_1   AR27      89       3  FLT 111496 1037   DE 57 18.73 N  52 51.58 W  GPS                                                                              Alace 674   
+18HU96026_1   AR27      90       1  BIO 111496 1350   BE 56 46.48 N  52 21.85 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      90       1  BIO 111496 1415   EN 56 46.76 N  52 20.69 W  GPS                                                                                             
+18HU96026_1   AR27      90       2  ROS 111496 1426   BE 56 46.83 N  52 20.31 W  GPS    3540   3525                                                                              
+18HU96026_1   AR27      90       2  ROS 111496 1530   BO 56 47.08 N  52 20.04 W  GPS    3540   3525      20    3522    3545      22   1-6,23,24                   Site L6_06  
+18HU96026_1   AR27      90       2  ROS 111496 1628   EN 56 47.33 N  52 20.13 W  GPS    3540   3525                                                                              
+18HU96026_1   AR27      91       1  ROS 111496 1918   BE 56 27.14 N  51 37.08 W  GPS    3593   3579                                                                              
+18HU96026_1   AR27      91       1  ROS 111496 2023   BO 56 27.66 N  51 36.92 W  GPS                     16    3587    3620      22   1-6,23,24                   Site L6_05  
+18HU96026_1   AR27      91       1  ROS 111496 2119   EN 56 28.03 N  51 37.11 W  GPS                                                                                             
+18HU96026_1   AR27      91       2  FLT 111496 2127   DE 56 27.85 N  51 36.46 W  GPS                                                                              Alace 669   
+18HU96026_1   AR27      92       1  ROS 111596 0047   BE 55 59.06 N  50 48.90 W  GPS    3606   3592                                                                              
+18HU96026_1   AR27      92       1  ROS 111596 0150   BO 55 59.59 N  50 49.21 W  GPS    3615   3601      10    3600    3636      22   1-8,23,24,27,28,36          Site L6_04  
+18HU96026_1   AR27      92       1  ROS 111596 0300   EN 56 00.02 N  50 49.11 W  GPS    3625   3611                                                                              
+18HU96026_1   AR27      93       1  FLT 111596 0551   DE 55 33.09 N  50 13.29 W  GPS                                                                              Alace 683   
+18HU96026_1   AR27      93       2  ROS 111596 0609   BE 55 31.93 N  50 10.21 W  GPS    3608   3594                                                                              
+18HU96026_1   AR27      93       2  ROS 111596 0713   BO 55 32.50 N  50 09.89 W  GPS    3608   3594      10    3611    3606      22   1-6,20,23,24                Site L6_03  
+18HU96026_1   AR27      93       2  ROS 111596 0822   EN 55 33.15 N  50 10.06 W  GPS    3608   3594                                                                              
+18HU96026_1   AR27      94       1  ROS 111596 1141   BE 55 04.02 N  49 30.98 W  GPS    3647   3633                                                                              
+18HU96026_1   AR27      94       1  ROS 111596 1247   BO 55 04.63 N  49 30.60 W  GPS    3644   3630      12    3673    3684      22   1-6,23,24                   Site L6_02  
+18HU96026_1   AR27      94       1  ROS 111596 1347   EN 55 05.02 N  49 30.46 W  GPS                                                                                             
+18HU96026_1   AR27      94       2  BIO 111596 1359   BE 55 05.19 N  49 30.11 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      94       2  BIO 111596 1421   EN 55 05.56 N  49 29.52 W  GPS                                                                                             
+18HU96026_1   AR27      95       1  BIO 111596 1731   BE 54 36.96 N  48 52.08 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      95       1  BIO 111596 1802   EN 54 37.29 N  48 51.19 W  GPS                                                                                             
+18HU96026_1   AR27      95       2  ROS 111596 1813   BE 54 37.35 N  48 51.11 W  GPS    3756   3744                                                                              
+18HU96026_1   AR27      95       2  ROS 111596 1919   BO 54 37.77 N  48 50.80 W  GPS    3756   3744      11    3760    3789      22   1-6,23,24                   Site L4_12  
+18HU96026_1   AR27      95       2  ROS 111596 2018   EN 54 38.06 N  48 50.79 W  GPS    3756   3744                                                                              
+18HU96026_1   AR27      96       1  ROS 111596 2350   BE 54 04.39 N  48 04.94 W  GPS    3915   3906                                                                              
+18HU96026_1   AR27      96       1  ROS 111696 0101   BO 54 04.80 N  48 04.94 W  GPS    3887   3878      10    3938    3980      22   1-6,23,24                   Site L6_01  
+18HU96026_1   AR27      96       1  ROS 111696 0212   EN 54 05.33 N  48 04.94 W  GPS    3925   3917                                                                              
+18HU96026_1   AR27      96       2  FLT 111696 0222   DE 54 05.20 N  48 04.33 W  GPS                                                                              Alace 682   
+18HU96026_1   AR27      97       1  ROS 111696 0457   BE 53 44.95 N  47 25.13 W  GPS    3887   3878                                                                              
+18HU96026_1   AR27      97       1  ROS 111696 0608   BO 53 45.48 N  47 24.88 W  GPS    3887   3878      10    3898    3938      22   1-8,23,24,27,28,36          Site L6_00  
+18HU96026_1   AR27      97       1  ROS 111696 0720   EN 53 46.07 N  47 24.67 W  GPS    3887   3878                                                                              
+18HU96026_1   AR27      97       2  FLT 111696 0730   DE 53 45.86 N  47 24.50 W  GPS                                                                              Alace 678   
+18HU96026_1   AR27      98       1  BIO 111696 1340   BE 54 01.93 N  49 11.18 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27      98       1  BIO 111696 1358   EN 54 01.98 N  49 10.79 W  GPS                                                                                             
+18HU96026_1   AR27      98       2  ROS 111696 1409   BE 54 01.96 N  49 10.55 W  GPS    3756   3744                                                                              
+18HU96026_1   AR27      98       2  ROS 111696 1515   BO 54 01.79 N  49 10.89 W  GPS    3756   3744       9    3741    3790      22   1-6,23,24                   Site L4_11  
+18HU96026_1   AR27      98       2  ROS 111696 1617   EN 54 01.81 N  49 10.86 W  GPS    3756   3744                                                                              
+18HU96026_1   AR27      99       1  ROS 111696 1919   BE 53 27.09 N  49 29.80 W  GPS    3704   3691                                                                              
+18HU96026_1   AR27      99       1  ROS 111696 2023   BO 53 27.19 N  49 29.07 W  GPS    3700   3687      11    3713    3740      22   1-6,23,24                   Site L4_10  
+18HU96026_1   AR27      99       1  ROS 111696 2121   EN 53 27.42 N  49 29.12 W  GPS                                                                                             
+18HU96026_1   AR27     100       1  ROS 111696 2310   BE 53 19.03 N  49 58.97 W  GPS    3475   3459                                                                              
+18HU96026_1   AR27     100       1  ROS 111796 0011   BO 53 19.24 N  49 58.73 W  GPS    3494   3478      10    3476    3509      22   1-8,20,23,24,27,,28,36      Site L4_09  
+18HU96026_1   AR27     100       1  ROS 111796 0125   EN 53 19.25 N  49 59.29 W  GPS    3475   3459                                                                              
+18HU96026_1   AR27     101       1  ROS 111796 0313   BE 53 11.02 N  50 27.02 W  GPS    3212   3192                                                                              
+18HU96026_1   AR27     101       1  ROS 111796 0411   BO 53 11.31 N  50 27.56 W  GPS    3212   3192      10    3215    3223      22   1-6,23,24                   Site L4_08  
+18HU96026_1   AR27     101       1  ROS 111796 0520   EN 53 11.07 N  50 28.35 W  GPS    3212   3192                                                                              
+18HU96026_1   AR27     102       1  ROS 111796 0655   BE 53 03.01 N  50 55.88 W  GPS    2809   2786                                                                              
+18HU96026_1   AR27     102       1  ROS 111796 0746   BO 53 02.73 N  50 56.12 W  GPS    2790   2767      10    2763    2797      20   1-6,20,23,24                Site L4_07  
+18HU96026_1   AR27     102       1  ROS 111796 0849   EN 53 02.55 N  50 56.43 W  GPS                                                                                             
+18HU96026_1   AR27     103       1  ROS 111796 1002   BE 52 55.88 N  51 16.99 W  GPS    2265   2240                                                                              
+18HU96026_1   AR27     103       1  ROS 111796 1043   BO 52 55.82 N  51 16.77 W  GPS    2265   2240      12    2223    2246      17   1-6,20,23,24                Site L4_06  
+18HU96026_1   AR27     103       1  ROS 111796 1120   EN 52 55.60 N  51 16.72 W  GPS    2237   2213                                                                              
+18HU96026_1   AR27     104       1  BIO 111796 1354   BE 52 43.98 N  52 00.01 W  GPS                                                                              Light Meter  
+18HU96026_1   AR27     104       1  BIO 111796 1429   EN 52 43.79 N  52 00.08 W  GPS                                                                                             
+18HU96026_1   AR27     104       2  ROS 111796 1437   BE 52 43.75 N  52 00.14 W  GPS     310    303                                                                              
+18HU96026_1   AR27     104       2  ROS 111796 1446   BO 52 43.67 N  52 00.04 W  GPS                            294     294       5   1-6,23,24                   Site L4_04  
+18HU96026_1   AR27     104       2  ROS 111796 1452   EN 52 43.59 N  52 00.05 W  GPS                                                                                             

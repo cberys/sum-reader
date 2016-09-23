@@ -1,0 +1,12 @@
+R/V VALDIVIA  CRUISE 144    WHP-ID AR07E                              20031013WHPOSIODMB     
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC  ABOVE WIRE   MAX  NO. OF            
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+------------------------------------------------------------------------------------------------------------------------------------
+06AZ144        AR07E    15      1  UNK 052794 1600   UN 54 11.10 N  25 40.09 W UNK  2860 
+06AZ144        AR07E    16      1  UNK 052794 2133   UN 54 37.80 N  26 02.10 W UNK  3404 
+06AZ144        AR07E    17      1  UNK 052894 1555   UN 57 19.69 N  27 58.90 W UNK  2673 
+06AZ144        AR07E    18      1  UNK 052894 2136   UN 57 45.60 N  28 19.20 W UNK  2392 
+06AZ144        AR07E    21      1  UNK 053094 1526   UN 59 04.30 N  33 37.40 W UNK  2230 
+06AZ144        AR07E    22      1  UNK 053094 2214   UN 59 12.19 N  34 27.70 W UNK  2670 
+06AZ144        AR07E    47      1  UNK 060894 0823   UN 52 23.00 N  15 46.09 W UNK  3275 
+06AZ144        AR07E    48      1  UNK 060894 1305   UN 52 23.00 N  15 06.49 W UNK  1023 

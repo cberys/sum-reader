@@ -1,0 +1,25 @@
+Project, Ship, Cruise, woce line, start and end dates
+SHIP/CRS   WOCE                 CAST         UTC          POSITION                  UNC   MAX NO. OF 
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV  DEPTH PRESS BOTTLES PARAMETER COMMENTS
+-------------------------------------------------------------------------------------------------------------------------
+49SU9402_2 PR17  SU4902       1  BOT 021894 0142                                                      2,4-6     bucket    
+49SU9402_2 PR17  SU4902       2  ROS 021794 2314   BE 29 29.83 N 133 30.76 E GPS   2770                            
+49SU9402_2 PR17  SU4902       2  ROS 021794 2346   BO 29 29.48 N 133 30.38 E GPS   2790            11 2,4-6                 
+49SU9402_2 PR17  SU4902       2  ROS 021894 0023   EN 29 29.17 N 133 30.09 E GPS   2800                                       
+49SU9402_2 PR17  SU4902       3  ROS 021894 0041   BE 29 29.06 N 133 29.93 E GPS   2800                           
+49SU9402_2 PR17  SU4902       3  ROS 021894 0102   BO 29 28.91 N 133 29.76 E GPS   2810             4 2,4-6                 
+49SU9402_2 PR17  SU4902       3  ROS 021894 0113   EN 29 28.84 N 133 29.72 E GPS   2810                                       
+49SU9402_2 PR17  SU4902       4  ROS 021894 0126   BE 29 28.74 N 133 29.61 E GPS   2810                                    
+49SU9402_2 PR17  SU4902       4  ROS 021894 0131   BO 29 28.71 N 133 29.56 E GPS   2815            10 2,4-6                 
+49SU9402_2 PR17  SU4902       4  ROS 021894 0143   EN 29 28.65 N 133 29.52 E GPS   2820                                    
+49SU9402_2 PR17   TH011       1  XBT 021894 0355   DE 29 43.87 N 133 12.86 E GPS   3050                            
+49SU9402_2 PR17  SU4903       1  BOT 021894 0846                                                      2,4-6     bucket    
+49SU9402_2 PR17  SU4903       2  ROS 021894 0544   BE 29 56.78 N 132 56.78 E GPS   3890           
+49SU9402_2 PR17  SU4903       2  ROS 021894 0637   BO 29 56.68 N 132 56.05 E GPS   3910            11 1-2,4-6               
+49SU9402_2 PR17  SU4903       2  ROS 021894 0730   EN 29 56.56 N 132 55.39 E GPS   3920           
+49SU9402_2 PR17  SU4903       3  ROS 021894 0745   BE 29 56.53 N 132 55.20 E GPS   3920           
+49SU9402_2 PR17  SU4903       3  ROS 021894 0804   BO 29 56.49 N 132 54.96 E GPS   3920             9 1-2,4-6               
+49SU9402_2 PR17  SU4903       3  ROS 021894 0827   EN 29 56.46 N 132 54.66 E GPS   3920           
+49SU9402_2 PR17  SU4903       4  ROS 021894 0840   BE 29 56.45 N 132 54.49 E GPS   3910           
+49SU9402_2 PR17  SU4903       4  ROS 021894 0846   BO 29 56.44 N 132 54.39 E GPS   3910            11 1-2,4-6               
+49SU9402_2 PR17  SU4903       4  ROS 021894 0859   EN 29 56.46 N 132 54.23 E GPS   3910           

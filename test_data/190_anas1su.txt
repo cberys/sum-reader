@@ -1,0 +1,38 @@
+TTO-NAS R/V KNORR Leg 1          20061127CCHDOSIODM
+SHIP/CRS      WOCE                CAST           UTC EVENT     POSITION                CORR 
+EXPOCODE      SECT  STNNBR CASTNO TYPE  DATE    TIME  CODE  LATITUDE  LONGITUDE   NAV DEPTH      COMMMENTS
+----------------------------------------------------------------------------------------------------------------------
+316N19810401  ANAS1      1      1  ROS  040281  1655    BO  39 48.3 N 070  4.9 W  UNK    -9      CTD #3, CAST FAILED   
+316N19810401  ANAS1      1      2  ROS  040281  1945    BO  39 48.3 N 070  5.1 W  UNK  1172      CTD #3, 9 SAMPLES      
+316N19810401  ANAS1      2      1  ROS  040381  0717    BO  38 50.0 N 069 30.0 W  UNK  3192      CTD #3                  
+316N19810401  ANAS1      3      1  ROS  040381  1526    BO  38 16.7 N 069  9.7 W  UNK  3711      CTD #3 BOTTOM RADON      
+316N19810401  ANAS1      3      2  GER  040381  2145    MR  38 17.2 N 069 10.0 W  UNK  3721      C-14, KR-85             
+316N19810401  ANAS1      3      3  GER  040481  0218    MR  38 15.8 N 069  8.5 W  UNK    -9      C-14, KR-85              
+316N19810401  ANAS1      3      4  ROS  040481  0505    BO  38 16.1 N 069  5.7 W  UNK  3758      CTD #3, SURFACE RADON    
+316N19810401  ANAS1      4      1  ROS  040481  1500    BO  37 19.1 N 068 38.7 W  UNK  4694      CTD #3, 7 SAMPLES        
+316N19810401  ANAS1      5      1  ROS  040581  0150    BO  35 59.0 N 068  0.1 W  UNK    -9      CTD #3, SURFACE RADON    
+316N19810401  ANAS1      5      2  ROS  040581  0519    BO  35 57.8 N 067 59.2 W  UNK  4928      CTD #3                   
+316N19810401  ANAS1      6      1  GER  040581  1907    MR  34 41.0 N 067 20.8 W  UNK  5241      C-14, KR-85              
+316N19810401  ANAS1      6      2  ROS  040681  0050    BO  34 39.6 N 067 21.9 W  UNK  5239      CTD #3                   
+316N19810401  ANAS1      6      3  GER  040681  0554    MR  34 37.8 N 067 21.4 W  UNK    -9      C-14, KR-85              
+316N19810401  ANAS1      6      4  ROS  040681  0920    BO  34 41.8 N 067 20.7 W  UNK    -9      CTD #3, SURFACE RADON    
+316N19810401  ANAS1      6      5  GER  040681  1246    MR  34 38.6 N 067 19.4 W  UNK  5222      AR-39                    
+316N19810401  ANAS1      7      1  ROS  040781  1100    BO  31  4.0 N 068 29.8 W  UNK    -9      CTD #3, SURFACE RADON    
+316N19810401  ANAS1      7      2  GER  040781  1553    MR  31 40.4 N 068 28.9 W  UNK  5175      C-14                     
+316N19810401  ANAS1      7      3  ROS  040781  2040    BO  31 40.3 N 068 30.8 W  UNK  5189      CTD #3                   
+316N19810401  ANAS1      7      4  GER  040881  0230    MR  31 43.7 N 068 29.4 W  UNK  5180      C-14                     
+316N19810401  ANAS1      8      1  CTD  040881  1815    BO  31 20.0 N 071 30.0 W  UNK    -9      CTD #2, ABORTED          
+316N19810401  ANAS1      8      2  ROS  040881  1942    BO  31 20.0 N 071  3.0 W  UNK    -9      CTD #3, ABORTED          
+316N19810401  ANAS1      8      3  ROS  040881  2310    BO  31 20.3 N 071 28.9 W  UNK  5415      CTD #3                   
+316N19810401  ANAS1      9      1  ROS  040981  1153    BO  30 59.0 N 073 11.1 W  UNK  5222      CTD #3                   
+316N19810401  ANAS1     10      1  ROS  040981  1826    BO  30 54.8 N 073 38.6 W  UNK  5047      CTD #3, 10 SAMPLES       
+316N19810401  ANAS1     10      2  NIS  040981  2117    MR  30 56.4 N 073 41.5 W  UNK  5032      SURFACE RADON            
+316N19810401  ANAS1     11      1  GER  041081  0217    MR  30 50.4 N 074  3.1 W  UNK  4529      C-14, KR-85              
+316N19810401  ANAS1     11      2  ROS  041081  0623    BO  30 50.4 N 074  3.0 W  UNK  4506      CTD #3, BOTTOM RADON     
+316N19810401  ANAS1     11      3  GER  041081  1218    MR  30 50.3 N 074  3.4 W  UNK    -9      C-14, KR-85              
+316N19810401  ANAS1     11      4  NIS  041081  1423    MR  30 49.9 N 074  3.9 W  UNK    -9      SURFACE RADON            
+316N19810401  ANAS1     12      1  ROS  041181  0117    BO  30 18.4 N 076  0.4 W  UNK  4429      CTD #3, 10 SAMPLES       
+316N19810401  ANAS1     13      1  ROS  041181  1104    BO  29 55.9 N 077 21.2 W  UNK   893      CTD #3                   
+316N19810401  ANAS1     13      2  NIS  041181  1238    MR  29 57.1 N 077 20.4 W  UNK    -9      SURFACE RADON            
+316N19810401  ANAS1     14      1  ROS  041281  0255    BO  28 45.9 N 079 46.6 W  UNK   544      CTD #3, SURFACE RADON    
+316N19810401  ANAS1     14      2  GER  041281  0400    MR  28 45.9 N 079 46.6 W  UNK   550      C-14                     

@@ -1,0 +1,15 @@
+PR16 R/V MALCOLM BALDRIGE CRUISE EP190 LEG 1                            20010622SIOWHPODMB
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF 
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+3175EP190_1 PR16    020      1  ROS 051290 2201    BO  4 53.60 S 110  5.40 W GPS  3502                 1001
+3175EP190_1 PR16    021      1  ROS 051390 0259    BO  4  0.10 S 110 28.50 W GPS  3786                  999
+3175EP190_1 PR16    022      1  ROS 051390 0838    BO  2 59.60 S 110 54.20 W GPS  3940                 1000
+3175EP190_1 PR16    023      1  ROS 051390 1438    BO  2  3.30 S 111 20.10 W GPS  4071                 1000
+3175EP190_1 PR16    024      1  ROS 051390 2358    BO  0 59.80 S 110 39.20 W GPS  4071                 1017
+3175EP190_1 PR16    025      1  ROS 051490 1043    BO  0  1.20 S 109 56.80 W GPS  3833                 1000
+3175EP190_1 PR16    026      1  ROS 051590 0745    BO  1  0.10 N 110  6.00 W GPS  3779                  999
+3175EP190_1 PR16    027      1  ROS 051590 1300    BO  1 58.10 N 110 11.20 W GPS  3818                 1005
+3175EP190_1 PR16    028      1  ROS 051590 2309    BO  3  0.20 N 110  6.40 W GPS  3850                 1001
+3175EP190_1 PR16    029      1  ROS 051690 0411    BO  4  0.20 N 110  3.00 W GPS  3913                  999
+3175EP190_1 PR16    030      1  ROS 051690 0919    BO  5  0.30 N 109 56.70 W GPS  3816                 1006

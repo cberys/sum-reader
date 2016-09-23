@@ -1,0 +1,43 @@
+			    R/V DISCOVERER EPOCS CRUISE III LEG I  19991115WHPOSIOLMH                                                                                       
+SHIP/CRS    WOCE                 CAST         UTC EVENT                               UNC    COR   MAX  NO. OF                     
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV  DEPTH CDEPTH PRESS BOTTLES PARAMS   COMMENTS   
+-----------------------------------------------------------------------------------------------------------------------------------
+31DSEP391_1 PR16       1       1  ROS 102391 2332    BE 10  9.20 N 109 17.50 W GPS                                                  
+31DSEP391_1 PR16       1       1  ROS 102391 2359    BO 10  9.51 N 109 17.46 W GPS   2974   2961   999      12 1                    
+31DSEP391_1 PR16       1       1  ROS 102491 0044    EN 10  9.77 N 109 17.42 W GPS                                                  
+31DSEP391_1 PR16       2       1  ROS 102491 0644    BE  8 59.89 N 109 38.30 W GPS                                                  
+31DSEP391_1 PR16       2       1  ROS 102491 0703    BO  9 00.01 N 109 38.06 W GPS   3794   3787   997      12 1                    
+31DSEP391_1 PR16       2       1  ROS 102491 0746    EN  9 00.01 N 109 38.06 W GPS                                                  
+31DSEP391_1 PR16       3       1  ROS 102591 0646    BE  8 04.02 N 110 03.09 W GPS                                                  
+31DSEP391_1 PR16       3       1  ROS 102591 0704    BO  8 04.11 N 110 02.98 W GPS   4062   4059  1003      12 1                    
+31DSEP391_1 PR16       3       1  ROS 102591 0746    EN  8 04.53 N 110 02.74 W GPS                                                  
+31DSEP391_1 PR16       4       1  ROS 102591 1507    BE  6 29.90 N 110 02.89 W GPS                                                  
+31DSEP391_1 PR16       4       1  ROS 102591 1528    BO  6 29.78 N 110 02.95 W GPS   3645   3636   995      12 1                    
+31DSEP391_1 PR16       4       1  ROS 102591 1610    EN  6 29.51 N 110 02.68 W GPS                                                  
+31DSEP391_1 PR16       5       1  ROS 102591 2304    BE  5 02.72 N 109 59.35 W GPS                                                  
+31DSEP391_1 PR16       5       1  ROS 102591 2323    BO  5 02.62 N 109 59.15 W GPS   3968   3964  1000      12 1                    
+31DSEP391_1 PR16       5       1  ROS 102691 0004    EN  5 02.49 N 109 59.74 W GPS                                                  
+31DSEP391_1 PR16       6       1  ROS 102691 0751    BE  3 29.88 N 110 15.58 W GPS                                                  
+31DSEP391_1 PR16       6       1  ROS 102691 0810    BO  3 29.80 N 110 15.22 W GPS   3848   3842  1000      12 1                    
+31DSEP391_1 PR16       6       1  ROS 102691 0848    EN  3 29.80 N 110 15.16 W GPS                                                  
+31DSEP391_1 PR16       7       1  ROS 102791 0521    BE  2 02.57 N 110 03.00 W GPS                                                  
+31DSEP391_1 PR16       7       1  ROS 102791 0542    BO  2 02.63 N 110 02.75 W GPS   3765   3758   996       3 1                    
+31DSEP391_1 PR16       7       1  ROS 102791 0610    EN  2 02.45 N 110 02.44 W GPS                                                  
+31DSEP391_1 PR16       8       1  ROS 102891 0657    BE  0 01.87 N 109 59.99 W GPS                                                  
+31DSEP391_1 PR16       8       1  ROS 102891 0758    BO  0 01.19 N 109 59.84 W GPS   3830   3824  3604      12 1        NO PINGER   
+31DSEP391_1 PR16       8       1  ROS 102891 0924    EN  0 00.53 N 109 59.76 W GPS                                                  
+31DSEP391_1 PR16       9       1  ROS 102991 0736    BE  0 59.84 S 109 58.95 W GPS                                                  
+31DSEP391_1 PR16       9       1  ROS 102991 0755    BO  0 59.63 S 109 58.74 W GPS   3978   3974  1001      12 1                    
+31DSEP391_1 PR16       9       1  ROS 102991 0834    EN  0 59.61 S 109 58.68 W GPS                                                  
+31DSEP391_1 PR16      10       1  ROS 103091 0621    BE  2 00.20 S 110 00.70 W GPS                                                  
+31DSEP391_1 PR16      10       1  ROS 103091 0640    BO  2 00.20 S 110 00.60 W GPS   3947   3942   999      12 1                    
+31DSEP391_1 PR16      10       1  ROS 103091 0721    EN  2 00.20 S 110 00.42 W GPS                                                  
+31DSEP391_1 PR16      11       1  ROS 103091 1215    BE  2 59.65 S 110 00.17 W GPS                                                  
+31DSEP391_1 PR16      11       1  ROS 103091 1234    BO  2 59.86 S 110 00.20 W GPS   3773   3766   999      12 1                    
+31DSEP391_1 PR16      11       1  ROS 103091 1311    EN  3 00.01 S 110 00.11 W GPS                                                  
+31DSEP391_1 PR16      12       1  ROS 103091 1816    BE  4 00.18 S 110 00.12 W GPS                                                  
+31DSEP391_1 PR16      12       1  ROS 103091 1836    BO  4 00.10 S 110 00.00 W GPS   3826   3820   997      12 1                    
+31DSEP391_1 PR16      12       1  ROS 103091 1920    EN  4 00.24 S 109 59.87 W GPS                                                  
+31DSEP391_1 PR16      13       1  ROS 103191 0258    BE  4 58.40 S 110 02.00 W GPS                                                  
+31DSEP391_1 PR16      13       1  ROS 103191 0317    BO  4 58.78 S 110 01.90 W GPS   3658   3650   989       5 1                    
+31DSEP391_1 PR16      13       1  ROS 103191 0351    EN  4 59.12 S 110 01.83 W GPS                                                  

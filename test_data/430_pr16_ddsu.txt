@@ -1,0 +1,31 @@
+PR16 R/V RONALD H. BROWN CRUISE GP801 LEG 1
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33RBGP801_1 PR16      2      1  ROS 110701 2047    BO  8  3.40 S 109 56.60 W GPS  3310                 1002
+33RBGP801_1 PR16      3      1  ROS 110801 0536    BO  7  0.00 S 109 58.80 W GPS  3618                 1001
+33RBGP801_1 PR16      4      1  ROS 110801 1132    BO  5 59.90 S 109 59.60 W GPS  3749                 1002
+33RBGP801_1 PR16      5      1  ROS 110801 1717    BO  5  0.70 S 110  0.00 W GPS  3625                 1002
+33RBGP801_1 PR16      6      1  ROS 110801 2354    BO  3 59.90 S 110  0.00 W GPS  3784                 1001
+33RBGP801_1 PR16      7      1  ROS 111001 0611    BO  3  0.00 S 110  0.00 W GPS  3758                 1002
+33RBGP801_1 PR16      8      1  ROS 111001 0953    BO  2 30.00 S 109 59.50 W GPS  3876                 1001
+33RBGP801_1 PR16      9      1  ROS 111001 1756    BO  1 57.20 S 109 55.70 W GPS  3984                 1001
+33RBGP801_1 PR16     10      1  ROS 111101 0045    BO  1 30.00 S 109 59.60 W GPS  3891                 1002
+33RBGP801_1 PR16     11      1  ROS 111101 0419    BO  1  0.00 S 110  0.60 W GPS  3991                 1003
+33RBGP801_1 PR16     12      1  ROS 111101 0751    BO  0 30.00 S 110  1.70 W GPS  3388                 1004
+33RBGP801_1 PR16     13      1  ROS 111201 1659    BO  0  3.60 S 110  3.70 W GPS  3767                 1002
+33RBGP801_1 PR16     14      1  ROS 111301 0715    BO  0 30.00 N 110  5.00 W GPS  ----                 1001
+33RBGP801_1 PR16     15      1  ROS 111301 1058    BO  1  0.00 N 110  7.50 W GPS  ----                 1002
+33RBGP801_1 PR16     16      1  ROS 111301 1434    BO  1 30.10 N 110 10.00 W GPS  3807                 1002
+33RBGP801_1 PR16     17      1  ROS 111401 0400    BO  2  1.80 N 110  1.30 W GPS  3747                  356
+33RBGP801_1 PR16     18      1  ROS 111401 0805    BO  2 30.00 N 110  0.00 W GPS  3740                 1004
+33RBGP801_1 PR16     19      1  ROS 111401 1134    BO  3  0.00 N 109 58.00 W GPS  3859                 1003
+33RBGP801_1 PR16     20      1  ROS 111401 1706    BO  4  0.10 N 109 54.10 W GPS  3228                 1003
+33RBGP801_1 PR16     21      1  ROS 111501 0056    BO  4 55.70 N 109 51.30 W GPS  3873                 1002
+33RBGP801_1 PR16     22      1  ROS 111501 0648    BO  6  0.00 N 109 57.40 W GPS  3673                 1004
+33RBGP801_1 PR16     23      1  ROS 111501 1249    BO  6 59.90 N 110  5.80 W GPS  3777                 1002
+33RBGP801_1 PR16     24      1  ROS 111601 0201    BO  8  3.70 N 110  7.80 W GPS  4233                 3002
+33RBGP801_1 PR16     25      1  ROS 111701 0239    BO  9  0.00 N 110  0.00 W GPS  4108                 1002
+33RBGP801_1 PR16     26      1  ROS 111701 0823    BO 10  0.00 N 109 59.90 W GPS  3293                 1003
+33RBGP801_1 PR16     27      1  ROS 111701 1420    BO 10 59.90 N 109 59.90 W GPS  3721                 1002
+33RBGP801_1 PR16     28      1  ROS 111701 1947    BO 12  0.00 N 110  0.00 W GPS  3536                 1002

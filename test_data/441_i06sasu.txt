@@ -1,0 +1,518 @@
+             R/V MARION DUFRESNE  MF74/1               2 Feb 93 - 13 Mar 93      20020723SIOWHPODM 
+SHIP/CRS     WOCE                 CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE    MAX  NO. OF                                                                
+EXPOCODE     SECT   STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS                      COMMENTS                      
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+35MFCIVA_1   I06SA       1      1  ROS 020593 0157    BE 68 58.52 S  30 08.87 E GPS
+35MFCIVA_1   I06SA       1      1  ROS 020593 0202    BO 68 58.57 S  30 08.84 E GPS   272        9  272  307.9      12 1-4,6-8,13,20,23,24,27         13 :  surface only
+35MFCIVA_1   I06SA       1      1  ROS 020593 0228    EN 68 58.64 S  30 08.29 E GPS
+35MFCIVA_1   I06SA       2      1  ROS 020593 0417    BE 68 58.63 S  30 04.95 E GPS
+35MFCIVA_1   I06SA       2      1  ROS 020593 0428    BO 68 58.67 S  30 04.90 E GPS   690       27  696  730.3       4 1-4,6-8,20,23,24,27
+35MFCIVA_1   I06SA       2      1  ROS 020593 0448    EN 68 58.80 S  30 04.52 E GPS
+35MFCIVA_1   I06SA       2      2  ROS 020593 0533    BE 68 58.99 S  30 03.50 E GPS
+35MFCIVA_1   I06SA       2      2  ROS 020593 0539    BO 68 59.02 S  30 03.28 E GPS   750           262  294.8      12 1-4,6-8,13,20,23,24,27         13 :  surface only
+35MFCIVA_1   I06SA       2      2  ROS 020593 0604    EN 68 59.13 S  30 02.55 E GPS
+35MFCIVA_1   I06SA       3      1  ROS 020593 0734    BE 68 59.17 S  29 59.83 E GPS
+35MFCIVA_1   I06SA       3      1  ROS 020593 0750    BO 68 59.26 S  29 59.42 E GPS  1275       27 1122 1151.0      10 1-4,6-8,20,23,24
+35MFCIVA_1   I06SA       3      1  ROS 020593 0823    EN 68 59.38 S  29 58.48 E GPS
+35MFCIVA_1   I06SA       3      2  ROS 020593 0922    BE 68 59.55 S  29 56.08 E GPS
+35MFCIVA_1   I06SA       3      2  ROS 020593 0928    BO 68 59.58 S  29 55.89 E GPS  1240                301.0      12 1-4,6-8,13,20,23,24            13 :  surface only
+35MFCIVA_1   I06SA       3      2  ROS 020593 0951    EN 68 59.71 S  29 55.08 E GPS
+35MFCIVA_1   I06SA       4      1  ROS 020593 1131    BE 68 58.33 S  29 51.68 E GPS
+35MFCIVA_1   I06SA       4      1  ROS 020593 1205    BO 68 58.34 S  29 51.29 E GPS  2197       27 2179 2229.3      12 1-4,6-8,20,23,24,27
+35MFCIVA_1   I06SA       4      1  ROS 020593 1304    EN 68 58.31 S  29 50.79 E GPS
+35MFCIVA_1   I06SA       4      2  ROS 020593 1409    BE 68 58.30 S  29 51.99 E GPS
+35MFCIVA_1   I06SA       4      2  ROS 020593 1420    BO 68 58.27 S  29 51.84 E GPS  2146           607  649.3       6 1-4,6-8,20,23,24,27
+35MFCIVA_1   I06SA       4      2  ROS 020593 1443    EN 68 58.26 S  29 51.71 E GPS
+35MFCIVA_1   I06SA       4      3  ROS 020593 1524    BE 68 58.37 S  29 51.75 E GPS
+35MFCIVA_1   I06SA       4      3  ROS 020593 1529    BO 68 58.39 S  29 51.72 E GPS  2160           202  240.2      10 1-4,6-8,13,20,23,24,27         13 :  surface only
+35MFCIVA_1   I06SA       4      3  ROS 020593 1548    EN 68 58.41 S  29 51.44 E GPS
+35MFCIVA_1   I06SA       5      1  ROS 020593 2026    BE 68 39.94 S  29 57.77 E GPS
+35MFCIVA_1   I06SA       5      1  ROS 020593 2109    BO 68 39.85 S  29 58.22 E GPS  3075       12 3068 3117.6      12 1-4,6-8,13,20,23,27
+35MFCIVA_1   I06SA       5      1  ROS 020593 2232    EN 68 39.91 S  29 59.38 E GPS
+35MFCIVA_1   I06SA       5      2  ROS 020593 2345    BE 68 40.03 S  29 57.77 E GPS
+35MFCIVA_1   I06SA       5      2  ROS 020593 2358    BO 68 40.02 S  29 57.95 E GPS  3247           826  849.7       6 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA       5      2  ROS 020693 0023    EN 68 40.00 S  29 58.19 E GPS
+35MFCIVA_1   I06SA       5      3  ROS 020693 0105    BE 68 40.12 S  29 58.26 E GPS
+35MFCIVA_1   I06SA       5      3  ROS 020693 0111    BO 68 40.08 S  29 58.31 E GPS  3006           259  293.3      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA       5      3  ROS 020693 0137    EN 68 40.14 S  29 58.06 E GPS
+35MFCIVA_1   I06SA       6      1  ROS 020693 0538    BE 68 00.04 S  30 00.27 E GPS
+35MFCIVA_1   I06SA       6      1  ROS 020693 0617    BO 68 00.18 S  30 00.35 E GPS  3750       32 3730 3794.0      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA       6      1  ROS 020693 0741    EN 67 59.83 S  30 00.20 E GPS
+35MFCIVA_1   I06SA       6      2  ROS 020693 0921    BE 68 00.19 S  29 59.81 E GPS
+35MFCIVA_1   I06SA       6      2  ROS 020693 0938    BO 68 00.10 S  29 59.60 E GPS  3757          1024 1051.3       8 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA       6      2  ROS 020693 1008    EN 67 59.88 S  29 59.58 E GPS
+35MFCIVA_1   I06SA       6      3  ROS 020693 1156    BE 68 00.06 S  29 59.59 E GPS
+35MFCIVA_1   I06SA       6      3  ROS 020693 1202    BO 68 00.07 S  29 59.38 E GPS  3764           261  292.3      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA       6      3  ROS 020693 1226    EN 67 59.92 S  29 59.07 E GPS
+35MFCIVA_1   I06SA     X01      1  XBT 020693 1411    DE 67 42.25 S  30 00.28 E GPS                                                                        T7
+35MFCIVA_1   I06SA       7      1  ROS 020693 1534    BE 67 30.10 S  29 59.66 E GPS
+35MFCIVA_1   I06SA       7      1  ROS 020693 1632    BO 67 30.00 S  29 59.36 E GPS  3645       27 1601 1661.0      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA       7      1  ROS 020693 1755    EN 67 29.90 S  29 59.11 E GPS
+35MFCIVA_1   I06SA       7      2  ROS 020693 1858    BE 67 30.09 S  29 59.68 E GPS
+35MFCIVA_1   I06SA       7      2  ROS 020693 1902    BO 67 30.08 S  29 59.63 E GPS  3622           260  294.9      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA       7      2  ROS 020693 1924    EN 67 30.01 S  29 59.51 E GPS
+35MFCIVA_1   I06SA     X02      1  XBT 020693 2113    DE 67 12.86 S  30 00.18 E GPS                                                                        T7
+35MFCIVA_1   I06SA       8      1  ROS 020693 2246    BE 67 00.00 S  29 59.23 E GPS
+35MFCIVA_1   I06SA       8      1  ROS 020793 0002    BO 66 59.36 S  29 59.17 E GPS  4107       34 4174 4181.7      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA       8      1  ROS 020793 0134    EN 66 59.11 S  29 58.53 E GPS
+35MFCIVA_1   I06SA       8      2  ROS 020793 0300    BE 67 00.05 S  29 59.75 E GPS
+35MFCIVA_1   I06SA       8      2  ROS 020793 0321    BO 66 59.97 S  29 59.59 E GPS  4099          1316 1359.9      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA       8      2  ROS 020793 0404    EN 66 59.77 S  29 59.26 E GPS
+35MFCIVA_1   I06SA       8      3  ROS 020793 0543    BE 67 00.04 S  29 59.12 E GPS
+35MFCIVA_1   I06SA       8      3  ROS 020793 0549    BO 67 00.00 S  29 58.95 E GPS  4148           259  290.5      12 1-4,6-8,9,11-13,20,23,24,27    13 :  surface only
+35MFCIVA_1   I06SA       8      3  ROS 020793 0618    EN 66 59.94 S  29 58.89 E GPS
+35MFCIVA_1   I06SA     X04      1  XBT 020793 0826    DE 66 41.69 S  30 00.13 E GPS                                                                       T6
+35MFCIVA_1   I06SA       9      1  ROS 020793 0954    BE 66 30.11 S  29 59.97 E GPS
+35MFCIVA_1   I06SA       9      1  ROS 020793 1103    BO 66 29.91 S  29 59.10 E GPS  4226       24 1616 1658.1      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA       9      1  ROS 020793 1234    EN 66 29.66 S  29 58.08 E GPS
+35MFCIVA_1   I06SA       9      2  ROS 020793 1337    BE 66 30.04 S  29 59.89 E GPS
+35MFCIVA_1   I06SA       9      2  ROS 020793 1343    BO 66 30.04 S  29 59.80 E GPS  4271           262  294.4      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA       9      2  ROS 020793 1403    EN 66 30.02 S  29 59.68 E GPS
+35MFCIVA_1   I06SA     X05      1  XBT 020793 1519    DE 66 19.19 S  30 00.47 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X06      1  XBT 020793 1618    DE 66 10.11 S  30 00.33 E GPS                                                                       T7
+35MFCIVA_1   I06SA      10      1  ROS 020793 1722    BE 65 59.98 S  29 59.93 E GPS
+35MFCIVA_1   I06SA      10      1  ROS 020793 1840    BO 66 00.05 S  29 59.94 E GPS  4537       21 4525 4611.3     12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      10      1  ROS 020793 2016    EN 66 00.01 S  29 59.91 E GPS
+35MFCIVA_1   I06SA      10      2  ROS 020793 2136    BE 65 59.98 S  29 59.85 E GPS
+35MFCIVA_1   I06SA      10      2  ROS 020793 2157    BO 65 59.89 S  29 59.83 E GPS  4537          1363 1412.2      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      10      2  ROS 020793 2241    EN 65 59.76 S  29 59.79 E GPS
+35MFCIVA_1   I06SA      10      3  ROS 020793 2353    BE 66 00.02 S  29 59.59 E GPS
+35MFCIVA_1   I06SA      10      3  ROS 020893 0015    BO 65 59.97 S  29 59.40 E GPS  4500           255  293.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      10      3  ROS 020893 0024    EN 65 59.96 S  29 59.31 E GPS
+35MFCIVA_1   I06SA     X07      1  XBT 020893 0129    DE 65 49.29 S  30 00.36 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X08      1  XBT 020893 0232    DE 65 37.71 S  30 00.03 E GPS                                                                       T6
+35MFCIVA_1   I06SA      11      1  ROS 020893 0326    BE 65 30.05 S  30 00.06 E GPS
+35MFCIVA_1   I06SA      11      1  ROS 020893 0438    BO 65 30.28 S  29 59.24 E GPS  4702       19 1604 1660.3      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      11      1  ROS 020893 0611    EN 65 30.48 S  29 59.09 E GPS
+35MFCIVA_1   I06SA      11      2  ROS 020893 0851    BE 65 29.88 S  30 00.06 E GPS
+35MFCIVA_1   I06SA      11      2  ROS 020893 0856    BO 65 29.86 S  30 00.08 E GPS  4750           329  368.2      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA      11      2  ROS 020893 0921    EN 65 29.93 S  29 59.87 E GPS
+35MFCIVA_1   I06SA     X09      1  XBT 020893 1042    DE 65 17.70 S  30 00.07 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X10      1  XBT 020893 1131    DE 65 09.19 S  30 00.18 E GPS                                                                       T6
+35MFCIVA_1   I06SA     ET1      1  XBT 020893 1256    DE 65 00.10 S  30 00.19 E GPS                                                                       T6
+35MFCIVA_1   I06SA      12      1  ROS 020893 1231    BE 65 00.02 S  30 00.06 E GPS
+35MFCIVA_1   I06SA      12      1  ROS 020893 1346    BO 65 00.33 S  30 00.20 E GPS  4850       12 4896 4996.7      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      12      1  ROS 020893 1542    EN 65 00.72 S  30 00.35 E GPS
+35MFCIVA_1   I06SA      12      3  ROS 020893 1640    BE 65 00.08 S  30 00.21 E GPS
+35MFCIVA_1   I06SA      12      3  ROS 020893 1645    BO 65 00.05 S  30 00.17 E GPS  4892           260  294.1      12                               rosette out of use
+35MFCIVA_1   I06SA      12      3  ROS 020893 1708    EN 65 00.14 S  29 59.96 E GPS
+35MFCIVA_1   I06SA      12      2  ROS 020893 1818    BE 65 00.15 S  29 59.95 E GPS
+35MFCIVA_1   I06SA      12      2  ROS 020893 1840    BO 65 00.13 S  29 59.90 E GPS  4890          1360    1405     12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      12      2  ROS 020893 1925    EN 65 00.03 S  30 00.01 E GPS
+35MFCIVA_1   I06SA      12      4  ROS 020993 0251    BE 65 00.05 S  29 59.96 E GPS
+35MFCIVA_1   I06SA      12      4  ROS 020993 0400    BO 65 00.17 S  29 59.59 E GPS  4850       20 4885    4830     12 1-4,6-8,9,11-13,20,23,24,27    rosette only
+35MFCIVA_1   I06SA      12      4  ROS 020993 0538    EN 64 56.95 S  30 00.45 E GPS
+35MFCIVA_1   I06SA     X11      1  XBT 020993 0635    DE 64 48.33 S  30 00.43 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X12      1  XBT 020993 0715    DE 64 38.66 S  29 59.68 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X13      1  XBT 020993 0756    DE 64 28.94 S  30 00.13 E GPS                                                                       T6
+35MFCIVA_1   I06SA      13      3  ROS 020993 0915    BE 64 20.17 S  30 00.14 E GPS
+35MFCIVA_1   I06SA      13      3  ROS 020993 0921    BO 64 20.21 S  30 00.16 E GPS  5070           255  292.9      12 1-4,6-8,23,24                  13 :  surface only
+35MFCIVA_1   I06SA      13      3  ROS 020993 0943    EN 64 20.34 S  30 00.48 E GPS
+35MFCIVA_1   I06SA      13      2  ROS 020993 1046    BE 64 19.99 S  29 59.63 E GPS
+35MFCIVA_1   I06SA      13      2  ROS 020993 1113    BO 64 20.18 S  29 59.74 E GPS  5070          1622 1662.1      12 1-4,6-8,13,23,24
+35MFCIVA_1   I06SA      13      2  ROS 020993 1158    EN 64 20.43 S  29 59.58 E GPS
+35MFCIVA_1   I06SA      13      1  ROS 020993 1254    BE 64 20.05 S  30 00.15 E GPS
+35MFCIVA_1   I06SA      13      1  ROS 020993 1415    BO 64 20.40 S  30 00.14 E GPS  5070       27 5063 5167.5      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      13      1  ROS 020993 1601    EN 64 20.85 S  30 00.33 E GPS
+35MFCIVA_1   I06SA     X14      1  XBT 020993 1715    DE 64 08.57 S  30 00.47 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X15      1  XBT 020993 1811    DE 63 55.28 S  29 59.88 E GPS                                                                       T7
+35MFCIVA_1   I06SA      14      1  ROS 020993 1933    BE 63 40.02 S  30 00.14 E GPS
+35MFCIVA_1   I06SA      14      1  ROS 020993 2049    BO 63 40.25 S  30 00.28 E GPS  5138       18 5127 5247.7      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      14      1  ROS 020993 2237    EN 63 40.65 S  30 00.52 E GPS
+35MFCIVA_1   I06SA      14      2  ROS 021093 0003    BE 63 39.85 S  30 00.33 E GPS
+35MFCIVA_1   I06SA      14      2  ROS 021093 0027    BO 63 40.00 S  30 00.51 E GPS  5130          1366 1409.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      14      2  ROS 021093 0107    EN 63 40.29 S  30 00.79 E GPS
+35MFCIVA_1   I06SA      14      3  ROS 021093 0208    BE 63 40.06 S  29 59.72 E GPS
+35MFCIVA_1   I06SA      14      3  ROS 021093 0214    BO 63 40.09 S  29 59.74 E GPS  5088           253  294.2      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      14      3  ROS 021093 0236    EN 63 40.27 S  30 00.10 E GPS
+35MFCIVA_1   I06SA     X16      1  XBT 021093 0515    DE 63 07.17 S  29 59.99 E GPS                                                                       T7
+35MFCIVA_1   I06SA      15      1  ROS 021093 0556    BE 62 59.94 S  30 00.09 E GPS
+35MFCIVA_1   I06SA      15      1  ROS 021093 0711    BO 63 00.23 S  29 59.96 E GPS  5178       15 1608 1663.7      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      15      1  ROS 021093 0842    EN 63 00.33 S  30 00.05 E GPS
+35MFCIVA_1   I06SA      15      2  ROS 021093 0946    BE 63 00.14 S  30 00.24 E GPS
+35MFCIVA_1   I06SA      15      2  ROS 021093 0951    BO 63 00.19 S  30 00.23 E GPS  5180           257  294.0      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA      15      2  ROS 021093 1012    EN 63 00.41 S  30 00.18 E GPS
+35MFCIVA_1   I06SA     X17      1  XBT 021093 1114    DE 62 48.33 S  29 59.94 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X18      1  XBT 021093 1148    DE 62 40.26 S  30 00.28 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X19      1  XBT 021093 1230    DE 62 30.53 S  30 00.00 E GPS                                                                  T7
+35MFCIVA_1   I06SA      16      1  ROS 021093 1327    BE 62 20.03 S  30 00.13 E GPS
+35MFCIVA_1   I06SA      16      1  ROS 021093 1448    BO 62 20.18 S  30 00.15 E GPS  5160       15 5181 5300.9      12 1-4,6-8,9,11,12,23,24,27
+35MFCIVA_1   I06SA      16      1  ROS 021093 1643    EN 62 20.30 S  30 00.09 E GPS
+35MFCIVA_1   I06SA      16      2  ROS 021093 1800    BE 62 20.06 S  29 59.62 E GPS
+35MFCIVA_1   I06SA      16      2  ROS 021093 1825    BO 62 20.09 S  30 00.08 E GPS  5182          1366 1407.7      12 1-4,6-8,9,11,12,23,24,27
+35MFCIVA_1   I06SA      16      2  ROS 021093 1903    EN 62 20.10 S  30 00.32 E GPS
+35MFCIVA_1   I06SA      16      3  ROS 021093 2008    BE 62 20.28 S  30 00.14 E GPS
+35MFCIVA_1   I06SA      16      3  ROS 021093 2014    BO 62 20.29 S  30 00.15 E GPS  5182           256  294.2      12 1-4,6-8,9,11,12,13,23,24,27    13 :  surface only
+35MFCIVA_1   I06SA      16      3  ROS 021093 2036    EN 62 20.43 S  30 00.51 E GPS
+35MFCIVA_1   I06SA     X20      1  XBT 021093 2130    DE 62 10.11 S  30 00.01 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X21      1  XBT 021093 2211    DE 62 00.40 S  30 00.11 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X22      1  XBT 021093 2253    DE 61 50.31 S  29 59.96 E GPS                                                                       T7
+35MFCIVA_1   I06SA      17      1  ROS 021093 2349    BE 61 40.02 S  29 59.91 E GPS
+35MFCIVA_1   I06SA      17      1  ROS 021193 0058    BO 61 40.12 S  30 00.26 E GPS  5192       22 1612 1653.3      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      17      1  ROS 021193 0326    EN 61 40.52 S  30 01.00 E GPS
+35MFCIVA_1   I06SA      17      2  ROS 021193 0433    BE 61 40.05 S  30 00.08 E GPS
+35MFCIVA_1   I06SA      17      2  ROS 021193 0441    BO 61 40.04 S  30 00.21 E GPS  5235           257  293.5      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA      17      2  ROS 021193 0506    EN 61 40.16 S  30 00.34 E GPS
+35MFCIVA_1   I06SA     X23      1  XBT 021193 0615    DE 61 25.43 S  29 59.93 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X24      1  XBT 021193 0648    DE 61 17.56 S  29 59.77 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X25      1  XBT 021193 0728    DE 61 07.71 S  30 00.20 E GPS                                                                       T7
+35MFCIVA_1   I06SA      18      1  ROS 021193 0809    BE 60 59.99 S  30 00.02 E GPS
+35MFCIVA_1   I06SA      18      1  ROS 021193 0931    BO 60 59.75 S  30 00.47 E GPS  5265       25 5270 5386.5      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      18      1  ROS 021193 1118    EN 60 59.32 S  30 01.02 E GPS
+35MFCIVA_1   I06SA      18      2  ROS 021193 1226    BE 61 00.04 S  29 59.64 E GPS
+35MFCIVA_1   I06SA      18      2  ROS 021193 1250    BO 61 00.04 S  29 59.86 E GPS  5255          1382 1407.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      18      2  ROS 021193 1333    EN 60 59.88 S  29 59.97 E GPS
+35MFCIVA_1   I06SA      18      3  ROS 021193 1433    BE 60 59.82 S  30 00.10 E GPS
+35MFCIVA_1   I06SA      18      3  ROS 021193 1437    BO 60 59.84 S  30 00.11 E GPS  5255           258  295.0      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      18      3  ROS 021193 1459    EN 60 59.73 S  30 00.28 E GPS
+35MFCIVA_1   I06SA     X26      1  XBT 021193 1555    DE 60 48.26 S  30 00.42 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X27      1  XBT 021193 1631    DE 60 39.78 S  30 00.28 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X28      1  XBT 021193 1713    DE 60 30.35 S  30 00.61 E GPS                                                                       T7
+35MFCIVA_1   I06SA      19      1  ROS 021193 1811    BE 60 20.00 S  30 00.13 E GPS
+35MFCIVA_1   I06SA      19      1  ROS 021193 1937    BO 60 19.95 S  29 59.87 E GPS  5166       25 1601 1659.3      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      19      1  ROS 021193 2119    EN 60 20.05 S  29 59.83 E GPS
+35MFCIVA_1   I06SA      19      2  ROS 021193 2220    BE 60 20.14 S  30 00.75 E GPS
+35MFCIVA_1   I06SA      19      2  ROS 021193 2225    BO 60 20.16 S  30 00.67 E GPS  5235           260  291.0      12 1-4,6-8,13,23,24               13 :  surface only
+35MFCIVA_1   I06SA      19      2  ROS 021193 2246    EN 60 20.29 S  30 00.30 E GPS
+35MFCIVA_1   I06SA     X29      1  XBT 021193 2342    DE 60 10.55 S  30 00.24 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X30      1  XBT 021293 0034    DE 59 59.75 S  30 00.29 E GPS                                                                        T7
+35MFCIVA_1   I06SA     X31      1  XBT 021293 0123    DE 59 49.97 S  30 00.04 E GPS                                                                       T7
+35MFCIVA_1   I06SA      20      1  ROS 021293 0225    BE 59 39.97 S  30 00.38 E GPS
+35MFCIVA_1   I06SA      20      1  ROS 021293 0404    BO 59 40.55 S  29 59.73 E GPS  5210       30 5221 5324.1      12 1-4,6-8,9,11,12,23,24
+35MFCIVA_1   I06SA      20      1  ROS 021293 0600    EN 59 41.38 S  29 58.57 E GPS
+35MFCIVA_1   I06SA      20      2  ROS 021293 1626    BE 59 40.02 S  30 01.06 E GPS
+35MFCIVA_1   I06SA      20      2  ROS 021293 1656    BO 59 40.16 S  30 00.49 E GPS  5200          1384 1408.1      12 1-4,6-8,9,11,12,23,24
+35MFCIVA_1   I06SA      20      2  ROS 021293 1741    EN 59 40.36 S  29 59.58 E GPS
+35MFCIVA_1   I06SA      20      3  ROS 021293 1842    BE 59 40.05 S  30 01.73 E GPS
+35MFCIVA_1   I06SA      20      3  ROS 021293 1847    BO 59 40.12 S  30 01.62 E GPS  5215           279  292.4      12 1-4,6-8,9,11,12,13,23,24       13 : surface only
+35MFCIVA_1   I06SA      20      3  ROS 021293 1906    EN 59 40.31 S  30 01.02 E GPS
+35MFCIVA_1   I06SA     X32      1  XBT 021293 2024    DE 59 30.45 S  30 01.13 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X33      1  XBT 021293 2136    DE 59 19.22 S  30 00.29 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X34      1  XBT 021293 2235    DE 59 09.77 S  29 59.92 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X35      1  XBT 021293 2241    DE 59 08.75 S  29 59.94 E GPS                                                                       T7
+35MFCIVA_1   I06SA      21      1  ROS 021293 2355    BE 59 00.22 S  30 00.06 E GPS
+35MFCIVA_1   I06SA      21      1  ROS 021393 0123    BO 59 00.98 S  30 00.49 E GPS  5423       17 1623 1662.2      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      21      1  ROS 021393 0259    EN 59 01.89 S  30 00.54 E GPS
+35MFCIVA_1   I06SA      21      2  ROS 021393 0400    BE 59 00.02 S  30 00.20 E GPS
+35MFCIVA_1   I06SA      21      2  ROS 021393 0404    BO 59 00.02 S  30 00.17 E GPS  5430           260  292.9      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      21      2  ROS 021393 0428    EN 59 00.27 S  30 00.12 E GPS
+35MFCIVA_1   I06SA     X36      1  XBT 021393 0548    DE 58 48.12 S  30 00.34 E GPS                                                                        T7
+35MFCIVA_1   I06SA     X37      1  XBT 021393 0641    DE 58 39.48 S  30 00.04 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X38      1  XBT 021393 0740    DE 58 29.92 S  29 59.89 E GPS                                                                       T7
+35MFCIVA_1   I06SA      22      1  ROS 021393 0852    BE 58 20.04 S  30 00.01 E GPS
+35MFCIVA_1   I06SA      22      1  ROS 021393 1023    BO 58 20.89 S  29 58.50 E GPS  5415       17 5547 5533.2      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      22      1  ROS 021393 1216    EN 58 21.59 S  29 56.84 E GPS
+35MFCIVA_1   I06SA      22      2  ROS 021393 1320    BE 58 19.95 S  29 59.94 E GPS
+35MFCIVA_1   I06SA      22      2  ROS 021393 1340    BO 58 20.12 S  29 59.89 E GPS  5420          1368 1410.1      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      22      2  ROS 021393 1413    EN 58 20.37 S  29 59.55 E GPS
+35MFCIVA_1   I06SA      22      3  ROS 021393 1518    BE 58 20.14 S  30 00.13 E GPS
+35MFCIVA_1   I06SA      22      3  ROS 021393 1523    BO 58 20.16 S  30 00.09 E GPS  5415           255  291.7      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      22      3  ROS 021393 1548    EN 58 20.32 S  29 59.99 E GPS
+35MFCIVA_1   I06SA     X39      1  XBT 021393 1709    DE 58 08.01 S  30 00.97 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X40      1  XBT 021393 1821    DE 57 55.30 S  30 00.79 E GPS                                                                       T7
+35MFCIVA_1   I06SA      23      1  ROS 021393 1958    BE 57 40.06 S  30 00.17 E GPS
+35MFCIVA_1   I06SA      23      1  ROS 021393 2129    BO 57 40.41 S  29 59.48 E GPS  5444       27 1629 1659.3      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      23      1  ROS 021393 2308    EN 57 40.92 S  29 58.77 E GPS
+35MFCIVA_1   I06SA      23      2  ROS 021393 2358    BE 57 39.89 S  30 00.81 E GPS
+35MFCIVA_1   I06SA      23      2  ROS 021493 0003    BO 57 39.91 S  30 00.77 E GPS  5440           255  295.4      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      23      2  ROS 021493 0023    EN 57 40.12 S  30 00.79 E GPS
+35MFCIVA_1   I06SA     X41      1  XBT 021493 0146    DE 57 29.68 S  29 59.93 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X42      1  XBT 021493 0235    DE 57 19.75 S  30 00.13 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X43      1  XBT 021493 0328    DE 57 09.05 S  30 00.10 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X44      1  XBT 021493 0332    DE 57 08.23 S  30 00.13 E GPS                                                                       T7
+35MFCIVA_1   I06SA      24      1  ROS 021493 0421    BE 56 59.98 S  30 00.21 E GPS
+35MFCIVA_1   I06SA      24      1  ROS 021493 0542    BO 56 59.93 S  30 00.11 E GPS  5460       22 5583 5585.3      12 1-4,6-8,,9,11,12,23,24
+35MFCIVA_1   I06SA      24      1  ROS 021493 0731    EN 56 59.80 S  29 59.84 E GPS
+35MFCIVA_1   I06SA      24      2  ROS 021493 0827    BE 57 00.05 S  30 00.40 E GPS
+35MFCIVA_1   I06SA      24      2  ROS 021493 0851    BO 57 00.14 S  30 00.28 E GPS  5460          1377 1410.2      12 1-4,6-8,,9,11,12,23,24
+35MFCIVA_1   I06SA      24      2  ROS 021493 0931    EN 57 00.20 S  30 00.25 E GPS
+35MFCIVA_1   I06SA      24      3  ROS 021493 1025    BE 57 00.01 S  30 00.37 E GPS
+35MFCIVA_1   I06SA      24      3  ROS 021493 1030    BO 57 00.08 S  30 00.43 E GPS  5460           263  294.0      12 1-4,6-8,9,11,12,13,23,24       13 : surface only
+35MFCIVA_1   I06SA      24      3  ROS 021493 1051    EN 57 00.11 S  30 00.31 E GPS
+35MFCIVA_1   I06SA     X45      1  XBT 021493 1149    DE 56 48.51 S  30 00.14 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X46      1  XBT 021493 1222    DE 56 40.94 S  30 00.04 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X47      1  XBT 021493 1310    DE 56 29.89 S  30 00.33 E GPS                                                                       T6
+35MFCIVA_1   I06SA      25      1  ROS 021493 1400    BE 56 20.01 S  30 00.16 E GPS
+35MFCIVA_1   I06SA      25      1  ROS 021493 1520    BO 56 19.72 S  30 01.15 E GPS  5450       23 1602 1654.6      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      25      1  ROS 021493 1649    EN 56 19.73 S  30 01.87 E GPS
+35MFCIVA_1   I06SA      25      2  ROS 021493 1744    BE 56 19.96 S  30 00.45 E GPS
+35MFCIVA_1   I06SA      25      2  ROS 021493 1749    BO 56 19.87 S  30 00.48 E GPS  5454           259  291.7      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      25      2  ROS 021493 1807    EN 56 19.97 S  30 00.63 E GPS
+35MFCIVA_1   I06SA     X48      1  XBT 021493 1902    DE 56 08.40 S  30 01.07 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X49      1  XBT 021493 1935    DE 56 00.76 S  30 01.37 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X50      1  XBT 021493 2019    DE 55 50.75 S  30 01.05 E GPS                                                                       T6
+35MFCIVA_1   I06SA      26      1  ROS 021493 2125    BE 55 39.37 S  29 59.93 E GPS
+35MFCIVA_1   I06SA      26      1  ROS 021493 2258    BO 55 40.31 S  30 00.21 E GPS  5464       22 5516 5604.8      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      26      1  ROS 021593 0039    EN 55 41.38 S  30 00.24 E GPS
+35MFCIVA_1   I06SA      26      2  ROS 021593 0150    BE 55 39.82 S  29 59.86 E GPS
+35MFCIVA_1   I06SA      26      2  ROS 021593 0214    BO 55 40.23 S  29 59.87 E GPS  5465          1379 1404.2      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      26      2  ROS 021593 0254    EN 55 40.86 S  29 59.59 E GPS
+35MFCIVA_1   I06SA      26      3  ROS 021593 0358    BE 55 39.97 S  29 59.92 E GPS
+35MFCIVA_1   I06SA      26      3  ROS 021593 0402    BO 55 40.04 S  29 59.97 E GPS  5464           257  295.5      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      26      3  ROS 021593 0427    EN 55 40.44 S  29 59.71 E GPS
+35MFCIVA_1   I06SA     X51      1  XBT 021593 0528    DE 55 28.86 S  30 00.05 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X52      1  XBT 021593 0630    DE 55 15.03 S  30 00.07 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X53      1  XBT 021593 0702    DE 55 07.73 S  30 00.34 E GPS                                                                       T7
+35MFCIVA_1   I06SA      27      1  ROS 021593 0748    BE 54 59.95 S  30 00.12 E GPS
+35MFCIVA_1   I06SA      27      1  ROS 021593 0915    BO 55 00.56 S  30 00.11 E GPS  5465       25 1646 1655.2      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      27      1  ROS 021593 1102    EN 55 01.36 S  30 00.43 E GPS
+35MFCIVA_1   I06SA      27      2  ROS 021593 1200    BE 55 00.22 S  30 00.25 E GPS
+35MFCIVA_1   I06SA      27      2  ROS 021593 1205    BO 55 00.27 S  30 00.33 E GPS  5465           263  296.8      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      27      2  ROS 021593 1229    EN 55 00.59 S  30 00.56 E GPS
+35MFCIVA_1   I06SA     X54      1  XBT 021593 1325    DE 54 50.53 S  30 00.30 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X55      1  XBT 021593 1411    DE 54 40.38 S  29 59.89 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X56      1  XBT 021593 1457    DE 54 30.41 S  29 59.99 E GPS                                                                       T6
+35MFCIVA_1   I06SA      28      1  ROS 021593 1555    BE 54 19.93 S  29 59.97 E GPS
+35MFCIVA_1   I06SA      28      1  ROS 021593 1732    BO 54 20.00 S  29 57.96 E GPS  5482       22 5584 5621.9      12 1-4,6-8,9,11,12,23,24
+35MFCIVA_1   I06SA      28      1  ROS 021593 1912    EN 54 20.68 S  29 56.26 E GPS
+35MFCIVA_1   I06SA      28      2  ROS 021593 2016    BE 54 20.31 S  29 59.20 E GPS
+35MFCIVA_1   I06SA      28      2  ROS 021593 2042    BO 54 20.66 S  29 58.57 E GPS  5482          1691 1650.1      12 1-4,6-8,9,11,12,23,24
+35MFCIVA_1   I06SA      28      2  ROS 021593 2125    EN 54 21.05 S  29 57.58 E GPS
+35MFCIVA_1   I06SA      28      3  ROS 021593 2227    BE 54 20.22 S  30 01.38 E GPS
+35MFCIVA_1   I06SA      28      3  ROS 021593 2232    BO 54 20.30 S  30 01.34 E GPS  5482           257  297.4      12 1-4,6-8,9,11-13,23,24          13 : surface only
+35MFCIVA_1   I06SA      28      3  ROS 021593 2252    EN 54 20.73 S  30 00.99 E GPS
+35MFCIVA_1   I06SA     X57      1  XBT 021693 0543    DE 54 02.51 S  29 59.75 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X58      1  XBT 021693 0941    DE 53 53.19 S  30 00.49 E GPS                                                                       T6
+35MFCIVA_1   I06SA      29      1  ROS 022893 0510    BE 53 40.15 S  29 59.98 E GPS
+35MFCIVA_1   I06SA      29      1  ROS 022893 0649    BO 53 40.62 S  29 59.14 E GPS  5494       50 1603 1656.5      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      29      1  ROS 022893 0936    EN 53 40.49 S  29 58.31 E GPS
+35MFCIVA_1   I06SA      29      2  ROS 022893 1029    BE 53 39.80 S  30 00.74 E GPS
+35MFCIVA_1   I06SA      29      2  ROS 022893 1033    BO 53 39.82 S  30 00.68 E GPS  5502           255  282.8      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      29      2  ROS 022893 1054    EN 53 39.89 S  30 00.29 E GPS
+35MFCIVA_1   I06SA     X59      1  XBT 022893 1219    DE 53 28.24 S  30 00.15 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X60      1  XBT 022893 1306    DE 53 20.48 S  30 00.37 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X61      1  XBT 022893 1407    DE 53 09.98 S  30 00.54 E GPS                                                                       T7
+35MFCIVA_1   I06SA      30      1  ROS 022893 1516    BE 52 59.98 S  30 00.23 E GPS
+35MFCIVA_1   I06SA      30      1  ROS 022893 1648    BO 53 00.11 S  30 00.45 E GPS  5494       22 5509 5636.9      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      30      1  ROS 022893 2016    EN 53 00.90 S  30 00.27 E GPS
+35MFCIVA_1   I06SA      30      2  ROS 030193 0505    BE 52 59.83 S  30 00.18 E GPS
+35MFCIVA_1   I06SA      30      2  ROS 030193 0537    BO 53 00.09 S  30 00.46 E GPS  5498          1406 1413.3      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      30      2  ROS 030193 0646    EN 53 00.47 S  30 01.03 E GPS
+35MFCIVA_1   I06SA      30      3  ROS 030193 0734    BE 52 59.99 S  30 00.00 E GPS
+35MFCIVA_1   I06SA      30      3  ROS 030193 0738    BO 52 59.99 S  30 00.01 E GPS  5498           259  293.6      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      30      3  ROS 030193 0801    EN 53 00.03 S  30 00.17 E GPS
+35MFCIVA_1   I06SA     X62      1  XBT 030193 0939    DE 52 49.96 S  30 00.18 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X63      1  XBT 030193 1120    DE 52 37.41 S  30 00.26 E GPS                                                                       T6
+35MFCIVA_1   I06SA     X64      1  XBT 030193 1219    DE 52 29.52 S  30 00.25 E GPS                                                                       T6
+35MFCIVA_1   I06SA      31      1  ROS 030193 1335    BE 52 19.96 S  30 00.19 E GPS
+35MFCIVA_1   I06SA      31      1  ROS 030193 1454    BO 52 19.25 S  30 01.54 E GPS  4746       25 1611 1658.0      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      31      1  ROS 030193 1842    EN 52 17.34 S  30 03.82 E GPS
+35MFCIVA_1   I06SA      31      2  ROS 030193 1933    BE 52 19.23 S  30 01.24 E GPS
+35MFCIVA_1   I06SA      31      2  ROS 030193 1937    BO 52 19.20 S  30 01.22 E GPS  4711           271  296.6      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      31      2  ROS 030193 2002    EN 52 19.18 S  30 01.45 E GPS
+35MFCIVA_1   I06SA      32      1  ROS 030193 2334    BE 51 39.32 S  30 00.26 E GPS
+35MFCIVA_1   I06SA      32      1  ROS 030293 0155    BO 51 37.89 S  29 58.65 E GPS  4880       42 5033 4995.0      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      32      1  ROS 030293 0443    EN 51 37.72 S  29 56.73 E GPS
+35MFCIVA_1   I06SA      32      2  ROS 030293 0641    BE 51 39.32 S  29 59.45 E GPS
+35MFCIVA_1   I06SA      32      2  ROS 030293 0705    BO 51 38.80 S  29 58.89 E GPS  4880          1366 1407.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      32      2  ROS 030293 0751    EN 51 38.64 S  29 58.67 E GPS
+35MFCIVA_1   I06SA      32      3  ROS 030293 0847    BE 51 37.93 S  29 57.32 E GPS
+35MFCIVA_1   I06SA      32      3  ROS 030293 0852    BO 51 37.91 S  29 57.22 E GPS  4836           263  290.5      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      32      3  ROS 030293 0918    EN 51 37.65 S  28 56.59 E GPS
+35MFCIVA_1   I06SA     X65      1  XBT 030293 1030    DE 51 25.46 S  30 00.31 E GPS                                                                       T7
+35MFCIVA_1   I06SA      33      1  ROS 030293 1135    BE 51 19.89 S  30 00.01 E GPS
+35MFCIVA_1   I06SA      33      1  ROS 030293 1353    BO 51 19.22 S  29 58.60 E GPS  4386       32 1615 1658.0      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      33      1  ROS 030293 1524    EN 51 18.77 S  29 58.36 E GPS
+35MFCIVA_1   I06SA      33      2  ROS 030293 1639    BE 51 20.28 S  30 00.09 E GPS
+35MFCIVA_1   I06SA      33      2  ROS 030293 1643    BO 51 20.27 S  30 00.01 E GPS  4536           270  293.5      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      33      2  ROS 030293 1708    EN 51 20.25 S  29 59.46 E GPS
+35MFCIVA_1   I06SA      34      1  ROS 030293 1910    BE 50 59.78 S  30 00.20 E GPS
+35MFCIVA_1   I06SA      34      1  ROS 030293 2052    BO 50 59.92 S  29 58.51 E GPS  5720       27 5970 5915.9      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      34      1  ROS 030293 2306    EN 51 01.08 S  29 57.72 E GPS
+35MFCIVA_1   I06SA      34      2  ROS 030393 0006    BE 50 59.08 S  30 00.77 E GPS
+35MFCIVA_1   I06SA      34      2  ROS 030393 0027    BO 50 59.20 S  30 00.73 E GPS  5762          1368 1412.5      12 1-4,6-8,13,20,23,24,27
+35MFCIVA_1   I06SA      34      2  ROS 030393 0107    EN 50 59.27 S  30 00.76 E GPS
+35MFCIVA_1   I06SA      34      3  ROS 030393 0221    BE 51 00.10 S  30 00.11 E GPS
+35MFCIVA_1   I06SA      34      3  ROS 030393 0227    BO 51 00.15 S  30 00.22 E GPS  5830           257  295.0      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      34      3  ROS 030393 0253    EN 51 00.44 S  30 00.33 E GPS
+35MFCIVA_1   I06SA      35      1  ROS 030393 0628    BE 50 40.01 S  29 59.16 E GPS
+35MFCIVA_1   I06SA      35      1  ROS 030393 0727    BO 50 40.67 S  29 58.01 E GPS  3475       57 2031 1666.1      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      35      1  ROS 030393 0920    EN 50 42.66 S  29 55.34 E GPS
+35MFCIVA_1   I06SA      35      2  ROS 030393 1301    BE 50 40.02 S  29 59.83 E GPS
+35MFCIVA_1   I06SA      35      2  ROS 030393 1305    BO 50 40.02 S  29 59.78 E GPS  3227           257  295.3      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      35      2  ROS 030393 1326    EN 50 40.40 S  29 59.57 E GPS
+35MFCIVA_1   I06SA      36      1  ROS 030393 1526    BE 50 19.95 S  29 59.93 E GPS
+35MFCIVA_1   I06SA      36      1  ROS 030393 1628    BO 50 20.82 S  29 59.61 E GPS  3885       35 4125 4026.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      36      1  ROS 030393 1825    EN 50 21.56 S  29 58.03 E GPS
+35MFCIVA_1   I06SA      36      2  ROS 030393 1946    BE 50 19.68 S  29 59.44 E GPS
+35MFCIVA_1   I06SA      36      2  ROS 030393 1959    BO 50 19.63 S  29 59.41 E GPS  4020          1115 1151.5      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      36      2  ROS 030393 2030    EN 50 19.52 S  29 59.28 E GPS
+35MFCIVA_1   I06SA      36      3  ROS 030393 2124    BE 50 19.87 S  29 57.84 E GPS
+35MFCIVA_1   I06SA      36      3  ROS 030393 2128    BO 50 19.88 S  29 57.86 E GPS  4500           263  291.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      36      3  ROS 030393 2147    EN 50 19.86 S  29 57.20 E GPS
+35MFCIVA_1   I06SA     X66      1  XBT 030393 2320    DE 50 10.08 S  30 01.45 E GPS                                                                       T7
+35MFCIVA_1   I06SA      37      1  ROS 030593 0615    BE 49 59.92 S  30 00.12 E GPS
+35MFCIVA_1   I06SA      37      1  ROS 030593 0703    BO 49 59.96 S  30 00.37 E GPS  3671       37 1651 1659.9      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      37      1  ROS 030593 0819    EN 50 00.64 S  30 00.45 E GPS
+35MFCIVA_1   I06SA      37      2  ROS 030593 0911    BE 50 01.28 S  30 00.63 E GPS
+35MFCIVA_1   I06SA      37      2  ROS 030593 0916    BO 50 01.36 S  30 00.67 E GPS  4062           260  290.3      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      37      2  ROS 030593 0948    EN 50 01.55 S  30 00.86 E GPS
+35MFCIVA_1   I06SA     X67      1  XBT 030593 1050    DE 49 48.71 S  30 00.31 E GPS                                                                       T7
+35MFCIVA_1   I06SA      38      1  ROS 030593 1141    BE 49 39.97 S  30 00.20 E GPS
+35MFCIVA_1   I06SA      38      1  ROS 030593 1314    BO 49 40.62 S  30 01.38 E GPS  5484       21 5545 5625.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      38      1  ROS 030593 1511    EN 49 41.53 S  30 02.05 E GPS
+35MFCIVA_1   I06SA      38      2  ROS 030593 1623    BE 49 40.07 S  29 59.82 E GPS
+35MFCIVA_1   I06SA      38      2  ROS 030593 1644    BO 49 40.26 S  30 00.12 E GPS  5476          1364 1416.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      38      2  ROS 030593 1731    EN 49 40.49 S  30 00.70 E GPS
+35MFCIVA_1   I06SA      38      3  ROS 030593 1828    BE 49 40.60 S  30 01.37 E GPS
+35MFCIVA_1   I06SA      38      3  ROS 030593 1832    BO 49 40.58 S  30 01.45 E GPS  5514           253  293.3      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      38      3  ROS 030593 1850    EN 49 40.57 S  30 01.69 E GPS
+35MFCIVA_1   I06SA     X68      1  XBT 030593 2001    DE 49 29.90 S  30 00.59 E GPS                                                                       T7
+35MFCIVA_1   I06SA      39      1  ROS 030593 2115    BE 49 20.01 S  30 00.09 E GPS
+35MFCIVA_1   I06SA      39      1  ROS 030593 2209    BO 49 19.97 S  30 00.32 E GPS  3285       24   -9 1660.1      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      39      1  ROS 030593 2325    EN 49 19.86 S  30 00.97 E GPS
+35MFCIVA_1   I06SA      39      2  ROS 030693 0028    BE 49 19.92 S  30 01.75 E GPS
+35MFCIVA_1   I06SA      39      2  ROS 030693 0032    BO 49 19.95 S  30 01.77 E GPS  3528           259  293.5      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      39      2  ROS 030693 0053    EN 49 20.18 S  30 01.94 E GPS
+35MFCIVA_1   I06SA     X69      1  XBT 030693 0204    DE 49 09.17 S  30 00.58 E GPS                                                                       T7
+35MFCIVA_1   I06SA      40      1  ROS 030693 0316    BE 48 59.78 S  30 00.16 E GPS
+35MFCIVA_1   I06SA      40      1  ROS 030693 0432    BO 48 59.72 S  30 01.12 E GPS  4022       32 4154 4238.4      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      40      1  ROS 030693 0615    EN 48 59.74 S  30 02.77 E GPS
+35MFCIVA_1   I06SA      40      2  ROS 030693 0722    BE 49 00.08 S  30 00.47 E GPS
+35MFCIVA_1   I06SA      40      2  ROS 030693 0752    BO 49 00.01 S  30 01.75 E GPS  4044          1570 1396.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      40      2  ROS 030693 0842    EN 48 59.82 S  30 04.08 E GPS
+35MFCIVA_1   I06SA      40      3  ROS 030693 0937    BE 49 00.09 S  30 00.94 E GPS
+35MFCIVA_1   I06SA      40      3  ROS 030693 0942    BO 49 00.09 S  30 01.22 E GPS  4134           275  297.1      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      40      3  ROS 030693 1004    EN 49 00.00 S  30 02.23 E GPS
+35MFCIVA_1   I06SA     X70      1  XBT 030693 1055    DE 48 49.88 S  30 01.43 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X71      1  XBT 030693 1137    DE 48 39.25 S  30 00.01 E GPS                                                                       T7
+35MFCIVA_1   I06SA      41      1  ROS 030693 1226    BE 48 29.54 S  30 00.09 E GPS
+35MFCIVA_1   I06SA      41      1  ROS 030693 1349    BO 48 30.00 S  30 00.29 E GPS 4793        20 1691 1663.4      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      41      1  ROS 030693 1558    EN 48 31.12 S  29 59.91 E GPS
+35MFCIVA_1   I06SA      41      2  ROS 030693 1701    BE 48 30.23 S  30 00.05 E GPS
+35MFCIVA_1   I06SA      41      2  ROS 030693 1707    BO 48 30.35 S  30 00.15 E GPS  4778           287  288.1      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      41      2  ROS 030693 1731    EN 48 30.67 S  30 00.21 E GPS
+35MFCIVA_1   I06SA     X72      1  XBT 030693 1839    DE 48 20.51 S  30 00.28 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X73      1  XBT 030693 1936    DE 48 10.42 S  30 00.17 E GPS                                                                       T7
+35MFCIVA_1   I06SA      42      1  ROS 030693 2050    BE 48 00.17 S  30 00.13 E GPS
+35MFCIVA_1   I06SA      42      1  ROS 030693 2226    BO 48 01.60 S  30 00.28 E GPS  5100       52 5522 5210.4      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      42      1  ROS 030793 0040    EN 48 02.18 S  30 00.72 E GPS
+35MFCIVA_1   I06SA      42      2  ROS 030793 0145    BE 47 59.36 S  30 00.59 E GPS
+35MFCIVA_1   I06SA      42      2  ROS 030793 0208    BO 47 59.50 S  30 00.74 E GPS  4943          1367 1408.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      42      2  ROS 030793 0305    EN 47 59.39 S  30 01.10 E GPS
+35MFCIVA_1   I06SA      42      3  ROS 030793 0405    BE 48 00.03 S  29 59.92 E GPS
+35MFCIVA_1   I06SA      42      3  ROS 030793 0410    BO 48 00.03 S  29 59.93 E GPS                 254  295.2      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      42      3  ROS 030793 0435    EN 47 59.98 S  30 00.17 E GPS
+35MFCIVA_1   I06SA     X74      1  XBT 030793 0549    DE 47 48.82 S  30 00.07 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X75      1  XBT 030793 0639    DE 47 40.24 S  30 00.22 E GPS                                                                       T7
+35MFCIVA_1   I06SA      43      1  ROS 030793 0745    BE 47 29.87 S  29 59.85 E GPS
+35MFCIVA_1   I06SA      43      1  ROS 030793 0907    BO 47 30.10 S  29 58.95 E GPS  4883       30 1735 1654.8      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      43      1  ROS 030793 1120    EN 47 31.17 S  29 58.11 E GPS
+35MFCIVA_1   I06SA      43      2  ROS 030793 1216    BE 47 29.78 S  30 00.24 E GPS
+35MFCIVA_1   I06SA      43      2  ROS 030793 1220    BO 47 29.80 S  30 00.23 E GPS  4853           256  294.2      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      43      2  ROS 030793 1242    EN 47 29.90 S  30 00.20 E GPS
+35MFCIVA_1   I06SA     X76      1  XBT 030793 1340    DE 47 18.07 S  30 00.13 E GPS
+35MFCIVA_1   I06SA     X77      1  XBT 030793 1414    DE 47 09.94 S  30 00.09 E GPS                                                                       T7
+35MFCIVA_1   I06SA      44      1  ROS 030793 1508    BE 46 59.88 S  29 59.91 E GPS
+35MFCIVA_1   I06SA      44      1  ROS 030793 1605    BO 47 00.40 S  30 00.11 E GPS  3615       22 3736 3745.9      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      44      1  ROS 030793 1747    EN 47 00.96 S  30 00.22 E GPS
+35MFCIVA_1   I06SA      44      2  ROS 030793 1854    BE 46 59.82 S  30 00.32 E GPS
+35MFCIVA_1   I06SA      44      2  ROS 030793 1910    BO 46 59.77 S  30 00.43 E GPS  3592          1008 1052.4      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      44      2  ROS 030793 1942    EN 46 59.55 S  30 00.61 E GPS
+35MFCIVA_1   I06SA      44      3  ROS 030793 2034    BE 46 59.89 S  30 00.14 E GPS
+35MFCIVA_1   I06SA      44      3  ROS 030793 2038    BO 46 59.88 S  30 00.17 E GPS  3600           253  294.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      44      3  ROS 030793 2057    EN 46 59.77 S  30 00.29 E GPS
+35MFCIVA_1   I06SA     X78      1  XBT 030793 2140    DE 46 50.27 S  30 00.08 E GPS                                                                       T7
+35MFCIVA_1   I06SA      45      1  ROS 030793 2230    BE 46 39.86 S  30 00.63 E GPS
+35MFCIVA_1   I06SA      45      1  ROS 030793 2346    BO 46 39.62 S  30 01.26 E GPS  4374       22 1611 1659.6      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      45      1  ROS 030893 0124    EN 46 40.00 S  30 01.37 E GPS
+35MFCIVA_1   I06SA      45      2  ROS 030893 0240    BE 46 39.24 S  29 59.40 E GPS
+35MFCIVA_1   I06SA      45      2  ROS 030893 0245    BO 46 39.17 S  29 59.28 E GPS  4629           268  288.2      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      45      2  ROS 030893 0309    EN 46 38.94 S  29 58.70 E GPS
+35MFCIVA_1   I06SA     X79      1  XBT 030893 0351    DE 46 30.52 S  29 59.41 E GPS                                                                       T7
+35MFCIVA_1   I06SA      46      1  ROS 030893 0445    BE 46 19.93 S  29 59.70 E GPS
+35MFCIVA_1   I06SA      46      1  ROS 030893 0550    BO 46 19.98 S  29 58.95 E GPS  4277       18 4425 4480.5      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      46      1  ROS 030893 0731    EN 46 20.23 S  29 58.93 E GPS
+35MFCIVA_1   I06SA      46      2  ROS 030893 0826    BE 46 20.10 S  30 00.35 E GPS
+35MFCIVA_1   I06SA      46      2  ROS 030893 0848    BO 46 20.17 S  30 00.45 E GPS  4200          1363 1407.5      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      46      2  ROS 030893 0933    EN 46 20.21 S  30 00.37 E GPS
+35MFCIVA_1   I06SA      46      3  ROS 030893 1015    BE 46 19.80 S  30 00.25 E GPS
+35MFCIVA_1   I06SA      46      3  ROS 030893 1020    BO 46 19.88 S  30 00.22 E GPS  4274           270  301.2      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      46      3  ROS 030893 1041    EN 46 20.06 S  30 00.32 E GPS
+35MFCIVA_1   I06SA     X80      1  XBT 030893 1145    DE 46 10.29 S  30 00.02 E GPS                                                                       T7
+35MFCIVA_1   I06SA      47      1  ROS 030893 1249    BE 46 00.03 S  30 00.12 E GPS
+35MFCIVA_1   I06SA      47      1  ROS 030893 1408    BO 45 59.99 S  29 59.80 E GPS  4876       26 1625 1667.1      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      47      1  ROS 030893 1719    EN 45 59.98 S  29 57.55 E GPS
+35MFCIVA_1   I06SA      47      2  ROS 030893 1825    BE 46 00.53 S  30 00.26 E GPS
+35MFCIVA_1   I06SA      47      2  ROS 030893 1829    BO 46 00.48 S  30 00.22 E GPS  4890           258  297.5      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      47      2  ROS 030893 1846    EN 46 00.36 S  30 00.07 E GPS
+35MFCIVA_1   I06SA     X81      1  XBT 030893 1947    DE 45 49.70 S  30 00.16 E GPS                                                                       T7
+35MFCIVA_1   I06SA      48      1  ROS 030893 2042    BE 45 39.98 S  29 59.98 E GPS
+35MFCIVA_1   I06SA      48      1  ROS 030893 2208    BO 45 40.61 S  29 59.54 E GPS  5115       22 5290 5250.8      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      48      1  ROS 030993 0002    EN 45 41.37 S  29 59.17 E GPS
+35MFCIVA_1   I06SA      48      2  ROS 030993 0123    BE 45 40.39 S  30 00.47 E GPS
+35MFCIVA_1   I06SA      48      2  ROS 030993 0147    BO 45 40.94 S  30 00.59 E GPS  5062          1568 1390.0      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      48      2  ROS 030993 0244    EN 45 41.14 S  30 01.88 E GPS
+35MFCIVA_1   I06SA      48      3  ROS 030993 0410    BE 45 41.10 S  30 00.38 E GPS
+35MFCIVA_1   I06SA      48      3  ROS 030993 0415    BO 45 41.22 S  30 00.43 E GPS  5069           266  291.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      48      3  ROS 030993 0438    EN 45 41.74 S  30 00.74 E GPS
+35MFCIVA_1   I06SA     X82      1  XBT 030993 0540    DE 45 30.16 S  30 00.01 E GPS                                                                       T7
+35MFCIVA_1   I06SA      49      1  ROS 030993 0636    BE 45 20.12 S  29 59.95 E GPS
+35MFCIVA_1   I06SA      49      1  ROS 030993 0814    BO 45 22.20 S  30 00.36 E GPS  5188      115 2126 1660.9      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      49      1  ROS 030993 1002    EN 45 23.65 S  30 01.20 E GPS
+35MFCIVA_1   I06SA      49      2  ROS 030993 1056    BE 45 20.89 S  30 00.26 E GPS
+35MFCIVA_1   I06SA      49      2  ROS 030993 1101    BO 45 20.99 S  30 00.45 E GPS  5165           293  298.3      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      49      2  ROS 030993 1122    BE 45 21.10 S  30 00.74 E GPS
+35MFCIVA_1   I06SA     X83      1  XBT 030993 1222    DE 45 08.40 S  29 59.98 E GPS                                                                       T7
+35MFCIVA_1   I06SA      50      1  ROS 030993 1306    BE 44 59.94 S  30 00.05 E GPS
+35MFCIVA_1   I06SA      50      1  ROS 030993 1431    BO 45 00.13 S  29 59.42 E GPS  5337       22 5451 5532.5      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      50      1  ROS 030993 1722    EN 45 02.18 S  29 57.55 E GPS
+35MFCIVA_1   I06SA      50      2  ROS 030993 1812    BE 45 00.06 S  29 59.97 E GPS
+35MFCIVA_1   I06SA     X84      1  XBT 030993 1824    DE 45 00.18 S  29 59.66 E GPS                                                                       T7
+35MFCIVA_1   I06SA      50      2  ROS 030993 1832    BO 45 00.22 S  29 59.57 E GPS  5385          1403 1408.9      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      50      2  ROS 030993 1913    EN 45 00.84 S  29 59.15 E GPS
+35MFCIVA_1   I06SA      50      3  ROS 030993 2002    BE 45 01.31 S  29 58.28 E GPS
+35MFCIVA_1   I06SA      50      3  ROS 030993 2007    BO 45 01.42 S  29 58.18 E GPS  5332           260  285.1      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      50      3  ROS 030993 2027    EN 45 01.76 S  29 57.80 E GPS
+35MFCIVA_1   I06SA     X85      1  XBT 030993 2123    DE 44 50.43 S  30 00.00 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X86      1  XBT 030993 2209    DE 44 39.82 S  30 00.10 E GPS                                                                       T7
+35MFCIVA_1   I06SA      51      1  ROS 030993 2301    BE 44 29.90 S  30 00.10 E GPS
+35MFCIVA_1   I06SA      51      1  ROS 031093 0037    BO 44 31.13 S  29 59.37 E GPS  5310       37 5564 5441.9      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      51      1  ROS 031093 0249    EN 44 32.21 S  29 58.25 E GPS
+35MFCIVA_1   I06SA      51      2  ROS 031093 0349    BE 44 29.65 S  30 00.30 E GPS
+35MFCIVA_1   I06SA      51      2  ROS 031093 0412    BO 44 29.89 S  30 00.29 E GPS  5290          1374 1407.7      12 1-4,6-8,23,24
+35MFCIVA_1   I06SA      51      2  ROS 031093 0457    EN 44 30.20 S  29 59.80 E GPS
+35MFCIVA_1   I06SA      51      3  ROS 031093 0545    BE 44 29.88 S  30 00.06 E GPS
+35MFCIVA_1   I06SA      51      3  ROS 031093 0549    BO 44 29.90 S  30 00.08 E GPS  5325           259  295.5      12 1-4,6-8,13,23,24               13 : surface only
+35MFCIVA_1   I06SA      51      3  ROS 031093 0611    EN 44 30.14 S  29 59.71 E GPS
+35MFCIVA_1   I06SA     X87      1  XBT 031093 0703    DE 44 20.17 S  30 00.13 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X88      1  XBT 031093 0749    DE 44 09.91 S  30 00.09 E GPS                                                                       T7
+35MFCIVA_1   I06SA      52      1  ROS 031093 0841    BE 43 59.97 S  29 59.80 E GPS
+35MFCIVA_1   I06SA      52      1  ROS 031093 1014    BO 44 00.55 S  29 58.15 E GPS  5483       52 5781 5600.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      52      1  ROS 031093 1221    EN 44 01.62 S  29 56.30 E GPS
+35MFCIVA_1   I06SA      52      2  ROS 031093 1317    BE 44 00.57 S  29 59.87 E GPS
+35MFCIVA_1   I06SA      52      2  ROS 031093 1340    BO 44 00.78 S  30 00.12 E GPS  5445          1399 1404.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      52      2  ROS 031093 1427    EN 44 01.19 S  30 00.68 E GPS
+35MFCIVA_1   I06SA      52      3  ROS 031093 1625    BE 44 01.88 S  29 59.18 E GPS
+35MFCIVA_1   I06SA      52      3  ROS 031093 1630    BO 44 01.93 S  29 59.20 E GPS  5452           255  294.6      12 1-4,6-8,9,11-13,20,23,24,27
+35MFCIVA_1   I06SA      52      3  ROS 031093 1654    EN 44 02.21 S  29 59.03 E GPS
+35MFCIVA_1   I06SA     X89      1  XBT 031093 1912    DE 43 31.06 S  30 03.73 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X90      1  XBT 031093 2119    DE 42 59.53 S  30 07.43 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X91      1  XBT 031093 2243    DE 42 38.47 S  30 09.40 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X92      1  XBT 031093 2356    DE 42 19.93 S  30 11.42 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X93      1  XBT 031193 0116    DE 41 59.52 S  30 13.96 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X94      1  XBT 031193 0308    DE 41 30.36 S  30 15.53 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X95      1  XBT 031193 0503    DE 41 00.18 S  30 15.23 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X96      1  XBT 031193 0701    DE 40 30.28 S  30 18.35 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X97      1  XBT 031193 0834    DE 40 07.80 S  30 21.95 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X98      1  XBT 031193 0953    DE 39 49.91 S  30 24.46 E GPS                                                                       T7
+35MFCIVA_1   I06SA     X99      1  XBT 031193 1121    DE 39 30.29 S  30 26.66 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X100      1  XBT 031193 1352    DE 39 00.00 S  30 29.60 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X101      1  XBT 031193 1628    DE 38 27.95 S  30 29.42 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X102      1  XBT 031193 1837    DE 38 00.36 S  30 28.10 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X103      1  XBT 031193 2058    DE 37 30.23 S  30 30.08 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X104      1  XBT 031193 2324    DE 37 00.00 S  30 32.61 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X105      1  XBT 031293 0158    DE 36 30.26 S  30 36.03 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X106      1  XBT 031293 0425    DE 35 59.84 S  30 39.47 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X107      1  XBT 031293 0639    DE 35 30.02 S  30 42.62 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X108      1  XBT 031293 0918    DE 34 53.68 S  30 44.48 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X109      1  XBT 031293 1128    DE 34 21.67 S  30 45.28 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X110      1  XBT 031293 1307    DE 33 57.98 S  30 48.48 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X111      1  XBT 031293 1507    DE 33 27.74 S  30 54.16 E GPS                                                                       T7
+35MFCIVA_1   I06SA    X112      1  XBT 031293 1658    DE 33 02.38 S  30 59.22 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X113      1  XBT 031293 1856    DE 32 35.86 S  30 59.03 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X114      1  XBT 031293 2119    DE 32 01.20 S  30 58.18 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X115      1  XBT 031293 2336    DE 31 29.62 S  30 59.92 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X116      1  XBT 031393 0204    DE 31 00.02 S  31 04.03 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X117      1  XBT 031393 0432    DE 30 30.68 S  31 06.05 E GPS                                                                       T6
+35MFCIVA_1   I06SA    X118      1  XBT 031393 0654    DE 30 00.54 S  31 09.00 E GPS                                                                       T6

@@ -1,0 +1,20 @@
+R/V Kilo-Moana LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+33KB154_1      PRS2      1      1  ROS 121903 0356   BE 21 20.49 N 158 16.21 W GPS  1494       479          1024      24 1,2             Dual T, C sensors   
+33KB154_1      PRS2      2      1  ROS 121903 1428   BE 22 45.06 N 157 59.96 W GPS  4747       26           4804      24 1,2,3,4,5,6     Dual T, C sensors   
+33KB154_1      PRS2      2      2  ROS 121903 2104   BE 22 44.70 N 157 57.31 W GPS  4731       3716         1024      24 1,2,3,4,5,6     Dual T, C sensors   
+33KB154_1      PRS2      2      3  ROS 122003 0038   BE 22 43.63 N 157 54.96 W GPS  4728       3715         1022      14 1               Dual T, C sensors   
+33KB154_1      PRS2      2      4  ROS 122003 0302   BE 22 44.97 N 157 59.91 W GPS  4728       3715         1022      14 1               Dual T, C sensors   
+33KB154_1      PRS2      2      5  ROS 122003 0557   BE 22 45.00 N 157 59.85 W GPS  4728       3707         1030      16 1               Dual T, C sensors   
+33KB154_1      PRS2      2      6  ROS 122003 0901   BE 22 44.18 N 157 59.46 W GPS  4728       3715         1022      19 1,2             Dual T, C sensors   
+33KB154_1      PRS2      2      7  ROS 122003 1211   BE 22 44.84 N 157 59.03 W GPS  4728       3717         1020      22 1               Dual T, C sensors   
+33KB154_1      PRS2      2      8  ROS 122003 1454   BE 22 45.01 N 157 59.94 W GPS  4728       3701         1036       3 1               Dual T, C sensors   
+33KB154_1      PRS2      2      9  ROS 122003 1801   BE 22 44.83 N 157 57.41 W GPS  4720       3707         1022      15 1               Dual T, C sensors   
+33KB154_1      PRS2      2     10  ROS 122003 2102   BE 22 44.09 N 157 55.03 W GPS  4728       3711         1026      19 1               Dual T, C sensors   
+33KB154_1      PRS2      2     11  ROS 122103 0108   BE 22 43.20 N 157 55.69 W GPS  4728       3717         1020      16 1               Dual T, C sensors   
+33KB154_1      PRS2      2     12  ROS 122103 0316   BE 22 43.40 N 157 55.33 W GPS  4728       3705         1032       8 1               Dual T, C sensors   
+33KB154_1      PRS2      2     13  ROS 122103 0610   BE 22 44.74 N 157 58.70 W GPS  4728       3713         1024      22 1               Dual T, C sensors   
+33KB154_1      PRS2      2     14  ROS 122103 0906   BE 22 45.54 N 157 59.96 W GPS  4728       13           4798      21 1,2             Dual T, C sensors   
+33KB154_1      PRS2      2     15  ROS 122203 0536   BE 22 44.95 N 158 00.00 W GPS  4728       3            4808      10 1               Dual T, C sensors   

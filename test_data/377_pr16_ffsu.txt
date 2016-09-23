@@ -1,0 +1,19 @@
+PR16 R/V RONALD H. BROWN CRUISE GP602 LEG 1          20030309WHPOSIODMB
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33RBGP602_1 PR16     26      1  ROS 102502 2010    BO  8  0.00 S 110  7.20 W GPS  3574                 1000
+33RBGP602_1 PR16     27      1  ROS 102702 2327    BO  4 59.40 S 110  1.20 W GPS  3459                 1001
+33RBGP602_1 PR16     28      1  ROS 102802 0527    BO  4  0.20 S 110  0.10 W GPS  3705                 1001
+33RBGP602_1 PR16     29      1  ROS 102802 1106    BO  3  0.10 S 110  0.00 W GPS  3734                 1001
+33RBGP602_1 PR16     30      1  ROS 102802 2317    BO  1 58.40 S 110  0.10 W GPS  3935                 1001
+33RBGP602_1 PR16     31      1  ROS 102902 0530    BO  1  0.20 S 110  0.10 W GPS  3962                 1002
+33RBGP602_1 PR16     32      1  ROS 102902 1611    BO  0  3.60 S 109 55.60 W GPS  3806                 1002
+33RBGP602_1 PR16     33      1  ROS 103002 1341    BO  0 59.90 N 110  5.70 W GPS  3728                 1001
+33RBGP602_1 PR16     34      1  ROS 103102 0241    BO  2  3.70 N 110  2.80 W GPS  3726                 1001
+33RBGP602_1 PR16     35      1  ROS 103102 0856    BO  3  0.00 N 110  0.10 W GPS  3883                 1002
+33RBGP602_1 PR16     36      1  ROS 103102 1437    BO  4  0.00 N 109 59.90 W GPS  3876                 1001
+33RBGP602_1 PR16     37      1  ROS 110102 0114    BO  5  0.20 N 110  3.30 W GPS  3948                 1000
+33RBGP602_1 PR16     38      1  ROS 110102 0748    BO  5 59.80 N 110  7.90 W GPS  3828                 1001
+33RBGP602_1 PR16     39      1  ROS 110102 1336    BO  7  0.10 N 110  8.80 W GPS  3676                 1001
+33RBGP602_1 PR16     40      1  ROS 110202 0558    BO  8  5.00 N 110  6.40 W GPS  4103                 3102

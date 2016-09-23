@@ -1,0 +1,424 @@
+R/V T. WASHINGTON TUNES LEG1 WHP-ID P17C                      20011029WHPOSIOSA                                                      
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX  NO. OF             
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETER  COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------------------
+31WTTUNES_1    P17C      1      1  ROS 060291 0955   BE 36 10.10 N 121 44.10 W GPS                                                   
+31WTTUNES_1    P17C      1      1  ROS 060291 1029   BO 36 10.30 N 121 44.20 W GPS   557   552      7  534   552      18 1-6,9-12    
+31WTTUNES_1    P17C      1      1  ROS 060291 1116   EN 36 10.30 N 121 44.70 W GPS                                                   
+31WTTUNES_1    P17C      2      1  ROS 060291 1245   BE 36 06.00 N 121 49.90 W GPS                                                   
+31WTTUNES_1    P17C      2      1  ROS 060291 1311   BO 36 06.00 N 121 50.00 W GPS   918   908      8  890   912      19 1-6,9-11,   
+31WTTUNES_1    P17C      2      1  ROS 060291 1403   EN 36 06.10 N 121 50.20 W GPS                                       23,24       
+31WTTUNES_1    P17C      3      1  ROS 060291 1550   BE 35 58.70 N 121 59.40 W GPS                                                   
+31WTTUNES_1    P17C      3      1  ROS 060291 1631   BO 35 58.80 N 121 59.60 W GPS  1425  1408      7 1445  1476      22 1-6         
+31WTTUNES_1    P17C      3      1  ROS 060291 1723   EN 35 58.30 N 121 58.70 W GPS                                                   
+31WTTUNES_1    P17C      4      1  ROS 060291 2021   BE 35 47.30 N 122 16.60 W GPS                                                   
+31WTTUNES_1    P17C      4      1  ROS 060291 2116   BO 35 47.40 N 122 16.70 W GPS  2331  2308      9 2385  2462      29 1-8,10-11   
+31WTTUNES_1    P17C      4      1  ROS 060291 2234   EN 35 47.90 N 122 16.20 W GPS                                                   
+31WTTUNES_1    P17C      5      1  ROS 060391 0257   BE 35 32.50 N 122 51.60 W GPS                                                   
+31WTTUNES_1    P17C      5      1  ROS 060391 0410   BO 35 32.90 N 122 51.80 W GPS  3283  3262      8 3327  3446      36 1-6,9-12,   
+31WTTUNES_1    P17C      5      1  ROS 060391 0551   EN 35 32.00 N 122 51.30 W GPS                                       23,24       
+31WTTUNES_1    P17C      6      1  ROS 060391 1013   BE 35 17.70 N 123 25.70 W GPS                                                   
+31WTTUNES_1    P17C      6      1  ROS 060391 1137   BO 35 17.90 N 123 26.00 W GPS  4018  4005      9 3970  4074      36 1-8         
+31WTTUNES_1    P17C      6      1  ROS 060391 1335   EN 35 17.30 N 123 24.10 W GPS                                                   
+31WTTUNES_1    P17C      7      1  ROS 060391 1803   BE 35 04.60 N 124 01.20 W GPS                                                   
+31WTTUNES_1    P17C      7      1  ROS 060391 2007   BO 35 04.50 N 124 01.00 W GPS  4171  4160     10 4065  4228      36 1-11        
+31WTTUNES_1    P17C      7      1  ROS 060391 2204   EN 35 06.20 N 124 01.40 W GPS                                                   
+31WTTUNES_1    P17C      8      1  ROS 060491 0218   BE 34 49.00 N 124 34.80 W GPS                                                   
+31WTTUNES_1    P17C      8      1  ROS 060491 0338   BO 34 49.00 N 124 34.90 W GPS  4350  4343      9 4258  4412      36 1-6,23,24   
+31WTTUNES_1    P17C      8      1  ROS 060491 0535   EN 34 49.50 N 124 33.60 W GPS                                                   
+31WTTUNES_1    P17C      9      1  ROS 060491 1025   BE 34 34.90 N 125 09.20 W GPS                                                   
+31WTTUNES_1    P17C      9      1  ROS 060491 1308   BO 34 34.90 N 125 09.40 W GPS  4523  4519        4430  4596      36 1-8         wire jumped  
+31WTTUNES_1    P17C      9      1  ROS 060491 1532   EN 34 34.90 N 125 07.20 W GPS                                                   sheave   
+31WTTUNES_1    P17C     10      1  ROS 060591 0015   BE 34 35.00 N 126 23.80 W GPS                                                   
+31WTTUNES_1    P17C     10      1  ROS 060591 0216   BO 34 34.90 N 126 24.00 W GPS  4682  4682      9 4558  4768      36 1-12        
+31WTTUNES_1    P17C     10      1  ROS 060591 0422   EN 34 35.90 N 126 22.70 W GPS                                                   
+31WTTUNES_1    P17C     11      1  ROS 060591 1251   BE 34 34.60 N 127 38.00 W GPS                                                   
+31WTTUNES_1    P17C     11      1  ROS 060591 1445   BO 34 34.60 N 127 38.10 W GPS  4763  4765      7 4675  4878      36 1-11,23,    
+31WTTUNES_1    P17C     11      1  ROS 060591 1711   EN 34 35.10 N 127 36.90 W GPS                                       24          
+31WTTUNES_1    P17C     12      1  ROS 060691 0016   BE 34 35.00 N 128 50.70 W GPS                                                   
+31WTTUNES_1    P17C     12      1  ROS 060691 0202   BO 34 35.00 N 128 50.80 W GPS  4882  4887      8 4748  4972      36 1-8         
+31WTTUNES_1    P17C     12      1  ROS 060691 0422   EN 34 35.50 N 128 49.10 W GPS                                                   
+31WTTUNES_1    P17C     13      1  ROS 060691 1114   BE 34 35.20 N 130 05.10 W GPS                                                   
+31WTTUNES_1    P17C     13      1  ROS 060691 1259   BO 34 35.10 N 130 05.20 W GPS  4345  4338      7 4327  4480      36 1-8,10,11   hit bottom  
+31WTTUNES_1    P17C     13      1  ROS 060691 1517   EN 34 35.70 N 130 03.30 W GPS                                                   
+31WTTUNES_1    P17C     14      1  ROS 060691 2223   BE 34 35.10 N 131 19.30 W GPS                                                   
+31WTTUNES_1    P17C     14      1  ROS 060791 0009   BO 34 35.10 N 131 19.20 W GPS  5121  5133      9 4988  5226      36 1-12,23,24  
+31WTTUNES_1    P17C     14      1  ROS 060791 0250   EN 34 35.80 N 131 18.30 W GPS                                                   
+31WTTUNES_1    P17C     15      1  ROS 060791 0929   BE 34 35.30 N 132 31.60 W GPS                                                   
+31WTTUNES_1    P17C     15      1  ROS 060791 1123   BO 34 35.30 N 132 26.50 W GPS  5081  5091     10 4970  5190      36 1-8,10,11   
+31WTTUNES_1    P17C     15      1  ROS 060791 1350   EN 34 35.20 N 132 29.60 W GPS                                                   
+31WTTUNES_1    P17C     16      1  ROS 060791 2031   BE 34 35.00 N 133 46.00 W GPS                                                   
+31WTTUNES_1    P17C     16      1  ROS 060791 2207   BO 34 35.00 N 133 46.20 W GPS  4330  4323      4 4208  4410      36 1-8         
+31WTTUNES_1    P17C     16      1  ROS 060891 0005   EN 34 34.70 N 133 46.30 W GPS                                                   
+31WTTUNES_1    P17C     17      1  LVS 060891 0955   MR 34 35.70 N 134 59.10 W GPS  5096  5107     23 5160  5206       9 1,3,12      
+31WTTUNES_1    P17C     17      2  ROS 060891 1315   BE 34 35.20 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     17      2  ROS 060891 1508   BO 34 35.90 N 134 57.80 W GPS  5129  5141     10 5005  5220      36 1-6,9-12,   
+31WTTUNES_1    P17C     17      2  ROS 060891 1706   EN 34 35.80 N 134 57.90 W GPS                                       23,24       
+31WTTUNES_1    P17C     17      3  LVS 060891 1730   BE 34 35.80 N 134 56.80 W GPS                                                   
+31WTTUNES_1    P17C     17      3  LVS 060891 1949   MR 34 36.40 N 134 56.60 W GPS  5230  5245   3276 3016  5348       5 1,3,12      
+31WTTUNES_1    P17C     17      4  LVS 060891 2204   MR 34 37.00 N 134 55.70 W GPS  5230  5245   3024 3016  5348       1 1,3,12      
+31WTTUNES_1    P17C     17      5  LVS 060891 2315   MR 34 37.10 N 134 55.20 W GPS  5190  5204   4456  714  5306       3 1,3,12      
+31WTTUNES_1    P17C     17      5  LVS 060991 0010   EN 34 37.30 N 134 55.30 W GPS                                                   
+31WTTUNES_1    P17C     18      1  ROS 060991 0400   BE 34 03.80 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     18      1  ROS 060991 0536   BO 34 04.00 N 135 00.00 W GPS  5086  5097     10 4980  5190      36 1-8         
+31WTTUNES_1    P17C     18      1  ROS 060991 0731   EN 34 02.90 N 134 58.00 W GPS                                                   
+31WTTUNES_1    P17C     19      1  ROS 060991 1059   BE 33 33.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     19      1  ROS 060991 1240   BO 33 34.00 N 135 00.10 W GPS  5024  5033      6 4910  5134      36 1-6         
+31WTTUNES_1    P17C     19      1  ROS 060991 1440   EN 33 34.50 N 134 58.70 W GPS                                                   
+31WTTUNES_1    P17C     20      1  ROS 060991 1832   BE 33 03.40 N 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C     20      1  ROS 060991 2007   BO 33 03.90 N 134 59.80 W GPS  4761  4763      7 4550  4848      36 1-8,12,23,  
+31WTTUNES_1    P17C     20      1  ROS 060991 2152   EN 33 04.20 N 134 59.60 W GPS                                       24          
+31WTTUNES_1    P17C     21      1  ROS 061091 0142   BE 32 33.00 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     21      1  ROS 061091 0302   BO 32 35.80 N 135 00.00 W GPS  4167  4161      9 3992  4252      36 1-6,9-11    
+31WTTUNES_1    P17C     21      1  ROS 061091 0442   EN 32 33.30 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     22      1  ROS 061091 0825   BE 32 02.10 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     22      1  ROS 061091 1003   BO 32 02.10 N 135 00.10 W GPS  4931  4943      8 4770  5028      36 1-8         
+31WTTUNES_1    P17C     22      1  ROS 061091 1145   EN 32 01.60 N 134 59.20 W GPS                                                   
+31WTTUNES_1    P17C     23      1  ROS 061091 1516   BE 31 31.70 N 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C     23      1  ROS 061091 1617   BO 31 31.90 N 135 00.10 W GPS  4525  4527      8 4353  4634      36 1-6,12,23,  
+31WTTUNES_1    P17C     23      1  ROS 061091 1825   EN 31 31.80 N 134 58.90 W GPS                                       24          
+31WTTUNES_1    P17C     24      1  ROS 061091 2141   BE 31 00.90 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     24      1  ROS 061091 2313   BO 31 01.10 N 135 00.00 W GPS  4551  4553     10 4594  4684      36 1-8         
+31WTTUNES_1    P17C     24      1  ROS 061191 0053   EN 30 59.90 N 134 58.50 W GPS                                                   
+31WTTUNES_1    P17C     25      1  ROS 061191 0419   BE 30 31.00 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     25      1  ROS 061191 0553   BO 30 31.10 N 135 00.00 W GPS  4565  4567     17 4535  4658      36 1-6,9-11    
+31WTTUNES_1    P17C     25      1  ROS 061191 0745   EN 30 31.00 N 134 58.10 W GPS                                                   
+31WTTUNES_1    P17C     26      1  LVS 061191 1150   BE 30 00.00 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     26      1  LVS 061191 1444   MR 30 00.80 N 134 58.10 W GPS  4702  4707     24 4760  4791       9 1,3,12      
+31WTTUNES_1    P17C     26      1  LVS 061191 1727   EN 30 01.90 N 134 57.20 W GPS                                                   
+31WTTUNES_1    P17C     26      2  ROS 061191 1747   BE 30 01.90 N 134 57.20 W GPS                                                   
+31WTTUNES_1    P17C     26      2  ROS 061191 1934   BO 30 02.00 N 134 57.10 W GPS  5075  5090      5 5184  5270      36 1-6,12,23,  
+31WTTUNES_1    P17C     26      2  ROS 061191 2123   EN 30 01.50 N 134 54.50 W GPS                                       24          
+31WTTUNES_1    P17C     26      3  LVS 061191 2135   BE 30 01.50 N 134 54.40 W GPS                                                   
+31WTTUNES_1    P17C     26      3  LVS 061191 2324   MR 30 02.20 N 134 53.60 W GPS  4833  4842   2968 2603  4931       9 1,3,12      
+31WTTUNES_1    P17C     27      1  ROS 061291 0455   BE 29 30.10 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     27      1  ROS 061291 0728   BO 29 30.50 N 135 00.10 W GPS  4478  4478     12 4410  4558      36 1-8         
+31WTTUNES_1    P17C     27      1  ROS 061291 0919   EN 29 30.50 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     28      1  ROS 061291 1301   BE 28 59.80 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     28      1  ROS 061291 1431   BO 28 59.80 N 134 59.90 W GPS  4510  4511     10 4430  4566      36 1-6         
+31WTTUNES_1    P17C     28      1  ROS 061291 1614   EN 28 59.50 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     29      1  ROS 061291 1930   BE 28 29.90 N 134 59.60 W GPS                                                   
+31WTTUNES_1    P17C     29      1  ROS 061291 2046   BO 28 29.90 N 134 59.80 W GPS  3593  3579     12 3800  3894      36 1-12,23,24  
+31WTTUNES_1    P17C     29      1  ROS 061291 2205   EN 28 29.70 N 134 58.50 W GPS                                                   
+31WTTUNES_1    P17C     30      1  ROS 061391 0142   BE 27 59.90 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     30      1  ROS 061391 0309   BO 28 00.30 N 135 00.10 W GPS  4203  4197     10 4256  4392      36 1-6         
+31WTTUNES_1    P17C     30      1  ROS 061391 0450   EN 28 00.60 N 135 00.60 W GPS                                                   
+31WTTUNES_1    P17C     31      1  ROS 061391 0818   BE 27 30.00 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     31      1  ROS 061391 0947   BO 27 30.60 N 135 00.10 W GPS  4477  4477      8 4400  4546      36 1-8         
+31WTTUNES_1    P17C     31      1  ROS 061391 1127   EN 27 30.60 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     32      1  ROS 061391 1503   BE 26 59.80 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     32      1  ROS 061391 1621   BO 27 00.00 N 134 59.90 W GPS  4127  4120     13 4070  4188      36 1-6,12,23,  
+31WTTUNES_1    P17C     32      1  ROS 061391 1750   EN 27 00.20 N 134 58.50 W GPS                                       24,         
+31WTTUNES_1    P17C     33      1  ROS 061391 2115   BE 26 30.20 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     33      1  ROS 061391 2239   BO 26 30.10 N 135 00.00 W GPS  4301  4297      7 4224  4366      36 1-11        
+31WTTUNES_1    P17C     33      1  ROS 061491 0004   EN 26 30.20 N 134 59.50 W GPS                                                   
+31WTTUNES_1    P17C     34      1  LVS 061491 0406   BE 26 00.10 N 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C     34      1  LVS 061491 0637   MR 26 01.20 N 134 59.50 W GPS  4735  4741     57 4710  4825       9 1,3,12      
+31WTTUNES_1    P17C     34      1  LVS 061491 0919   EN 26 02.30 N 134 58.30 W GPS                                                   
+31WTTUNES_1    P17C     34      2  ROS 061491 0940   BE 26 02.40 N 134 58.10 W GPS                                                   
+31WTTUNES_1    P17C     34      2  ROS 061491 1106   BO 26 02.40 N 134 58.20 W GPS  4571  4573      7 4510  4650      36 1-8,12      
+31WTTUNES_1    P17C     34      2  ROS 061491 1242   EN 26 01.60 N 134 57.40 W GPS                                                   
+31WTTUNES_1    P17C     35      1  ROS 061491 1602   BE 25 29.70 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     35      1  ROS 061491 1737   BO 25 29.90 N 134 59.80 W GPS  4545  4547     10 4657  4744      36 1-6,23,24   
+31WTTUNES_1    P17C     35      1  ROS 061491 1905   EN 25 28.90 N 134 58.10 W GPS                                                   
+31WTTUNES_1    P17C     36      1  ROS 061491 2209   BE 24 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     36      1  ROS 061491 2335   BO 25 00.10 N 135 00.00 W GPS  4575  4578     10 4540  4690      36 1-8         
+31WTTUNES_1    P17C     36      1  ROS 061591 0206   EN 24 59.60 N 134 58.80 W GPS                                                   
+31WTTUNES_1    P17C     37      1  ROS 061591 0510   BE 24 29.90 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     37      1  ROS 061591 0637   BO 24 30.10 N 135 00.30 W GPS  4543  4545      6 4570  4604      36 1-11        
+31WTTUNES_1    P17C     37      1  ROS 061591 0822   EN 24 28.10 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     38      1  ROS 061591 1152   BE 23 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     38      1  ROS 061591 1323   BO 23 59.90 N 135 00.00 W GPS  4840  4849      8 4775  4928      36 1-6,12,23,  
+31WTTUNES_1    P17C     38      1  ROS 061591 1515   EN 24 00.70 N 135 00.40 W GPS                                       24          
+31WTTUNES_1    P17C     39      1  ROS 061591 1835   BE 23 29.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     39      1  ROS 061591 2000   BO 23 30.20 N 135 00.30 W GPS  4190  4184     10 4404  4522      36 1-8         
+31WTTUNES_1    P17C     39      1  ROS 061591 2132   EN 23 30.70 N 134 58.80 W GPS                                                   
+31WTTUNES_1    P17C     40      1  ROS 061691 0053   BE 22 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     40      1  ROS 061691 0232   BO 23 00.00 N 135 00.00 W GPS  5128  5145      9 5102  5280      36 1-6         
+31WTTUNES_1    P17C     40      1  ROS 061691 0427   EN 23 00.20 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     41      1  ROS 061691 0745   BE 22 29.80 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     41      1  ROS 061691 0926   BO 22 29.90 N 135 00.10 W GPS  5130  5147      8 5232  5240      36 1-11,23,24  
+31WTTUNES_1    P17C     41      1  ROS 061691 1117   EN 22 27.60 N 134 59.20 W GPS                                                   
+31WTTUNES_1    P17C     42      1  ROS 061691 1515   BE 21 58.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     42      1  ROS 061691 1652   BO 22 02.20 N 134 59.80 W GPS  5225  5245      8 5215  5312      36 1-6,12      
+31WTTUNES_1    P17C     42      1  ROS 061691 1838   EN 21 58.20 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     43      1  ROS 061691 2130   BE 21 30.10 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     43      1  ROS 061691 2302   BO 21 31.50 N 135 00.10 W GPS  5192  5211      9 5125  5304      36 1-8         
+31WTTUNES_1    P17C     43      1  ROS 061791 0046   EN 21 29.70 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     44      1  ROS 061791 0350   BE 20 59.80 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     44      1  ROS 061791 0531   BO 21 00.50 N 135 00.00 W GPS  5232  5252      9 5170  5348      36 1-11,23,24  
+31WTTUNES_1    P17C     44      1  ROS 061791 0718   EN 20 59.50 N 134 59.60 W GPS                                                   
+31WTTUNES_1    P17C     45      1  ROS 061791 1037   BE 20 29.70 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     45      1  ROS 061791 1217   BO 20 29.80 N 134 59.90 W GPS  5219  5244     12 5207  5384      36 1-6         
+31WTTUNES_1    P17C     45      1  ROS 061791 1418   EN 20 29.30 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     46      1  LVS 061791 1745   BE 19 59.50 N 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C     46      1  LVS 061791 2028   MR 19 58.50 N 135 00.30 W GPS  5138  5160     21 4950  5256       8 1,3,12      
+31WTTUNES_1    P17C     46      1  LVS 061791 2310   EN 19 58.90 N 135 00.70 W GPS                                                   
+31WTTUNES_1    P17C     46      2  ROS 061791 2333   BE 19 58.80 N 135 00.90 W GPS                                                   
+31WTTUNES_1    P17C     46      2  ROS 061891 0108   BO 19 58.90 N 135 01.00 W GPS  5232  5257     11 5167  5344      36 1-8,12      
+31WTTUNES_1    P17C     46      2  ROS 061891 0300   EN 19 59.00 N 135 01.60 W GPS                                                   
+31WTTUNES_1    P17C     46      3  LVS 061891 0312   BE 19 59.00 N 135 01.70 W GPS                                                   
+31WTTUNES_1    P17C     46      3  LVS 061891 0501   MR 19 58.80 N 135 01.90 W GPS  5234  5259   2388 2913  5357       9 1,3,12      
+31WTTUNES_1    P17C     46      3  LVS 061891 0648   EN 19 58.40 N 135 01.80 W GPS                                                   
+31WTTUNES_1    P17C     47      1  ROS 061891 0958   BE 19 29.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     47      1  ROS 061891 1134   BO 19 30.00 N 135 00.00 W GPS  5248  5274      8 5200  5384      36 1-6,23,24   
+31WTTUNES_1    P17C     47      1  ROS 061891 1324   EN 19 29.90 N 134 59.30 W GPS                                                   
+31WTTUNES_1    P17C     48      1  ROS 061891 1630   BE 18 59.80 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     48      1  ROS 061891 1759   BO 18 59.90 N 135 00.00 W GPS  5176  5199      8 5106  5278      36 1-11        
+31WTTUNES_1    P17C     48      1  ROS 061891 1942   EN 19 00.20 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     49      1  ROS 061891 2300   BE 18 29.70 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     49      1  ROS 061991 0035   BO 18 29.90 N 134 59.90 W GPS  5177  5200      9 5125  5282      36 1-6         
+31WTTUNES_1    P17C     49      1  ROS 061991 0223   EN 18 29.00 N 135 01.70 W GPS                                                   
+31WTTUNES_1    P17C     50      1  ROS 061991 0536   BE 17 59.80 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     50      1  ROS 061991 0715   BO 18 00.00 N 135 00.30 W GPS  5144  5166     10 5167  5268      36 1-8,12,23   
+31WTTUNES_1    P17C     50      1  ROS 061991 0903   EN 17 58.00 N 135 00.00 W GPS                                       24          
+31WTTUNES_1    P17C     51      1  ROS 061991 1159   BE 17 29.70 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     51      1  ROS 061991 1330   BO 17 30.00 N 134 59.80 W GPS  4950  4968      7 4973  5106      36 1-11        
+31WTTUNES_1    P17C     51      1  ROS 061991 1523   EN 17 28.70 N 134 58.80 W GPS                                                   
+31WTTUNES_1    P17C     52      1  ROS 061991 1830   BE 16 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     52      1  ROS 061991 2003   BO 17 00.00 N 135 00.00 W GPS  5255  5281      8 5227  5392      36 1-8         
+31WTTUNES_1    P17C     52      1  ROS 061991 2143   EN 16 59.40 N 134 58.80 W GPS                                                   
+31WTTUNES_1    P17C     53      1  ROS 062091 0055   BE 16 29.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     53      1  ROS 062091 0232   BO 16 30.00 N 135 00.00 W GPS  4818  4832      9 4770  4922      36 1-6,12,23,  
+31WTTUNES_1    P17C     53      1  ROS 062091 0423   EN 16 29.00 N 134 59.20 W GPS                                       24          
+31WTTUNES_1    P17C     54      1  ROS 062091 0742   BE 15 59.90 N 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C     54      1  ROS 062091 0913   BO 15 59.80 N 135 00.10 W GPS  4788  4801      5 4720  4870      36 1-11        
+31WTTUNES_1    P17C     54      1  ROS 062091 1050   EN 15 59.20 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     55      1  ROS 062091 1415   BE 15 29.70 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     55      1  ROS 062091 1549   BO 15 29.90 N 134 59.90 W GPS  4873  4888      7 4780  4928      36 1-6         
+31WTTUNES_1    P17C     55      1  ROS 062091 1735   EN 15 29.40 N 134 59.40 W GPS                                                   
+31WTTUNES_1    P17C     56      1  ROS 062091 2045   BE 14 59.80 N 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C     56      1  ROS 062091 2216   BO 15 00.00 N 135 00.40 W GPS  4705  4715      8 4750  4910      36 1-8,23,24   
+31WTTUNES_1    P17C     56      1  ROS 062091 2351   EN 14 59.40 N 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C     57      1  LVS 062191 0255   BE 14 29.90 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     57      1  LVS 062191 0523   MR 14 28.60 N 134 59.30 W GPS  4875  4890     64 4890  4975       9 1,3,12      
+31WTTUNES_1    P17C     57      1  LVS 062191 0800   EN 14 27.70 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     57      2  ROS 062191 0820   BE 14 27.60 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     57      2  ROS 062191 0958   BO 14 27.70 N 134 58.70 W GPS  4983  5001      9 4920  5040      36 1-12        
+31WTTUNES_1    P17C     57      2  ROS 062191 1149   EN 14 26.30 N 134 58.50 W GPS                                                   
+31WTTUNES_1    P17C     57      3  LVS 062191 1156   BE 14 26.20 N 134 58.50 W GPS                                                   
+31WTTUNES_1    P17C     57      3  LVS 062191 1353   MR 14 26.50 N 134 58.40 W GPS  4934  4951   1990 3023  5038       9 1,3,12      
+31WTTUNES_1    P17C     57      3  LVS 062191 1554   EN 14 26.60 N 134 57.90 W GPS                                                   
+31WTTUNES_1    P17C     58      1  ROS 062191 1835   BE 13 59.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     58      1  ROS 062191 2006   BO 14 00.00 N 135 00.00 W GPS  4890  4906      7 4816  4978      36 1-8         
+31WTTUNES_1    P17C     58      1  ROS 062191 2143   EN 14 00.00 N 134 59.60 W GPS                                                   
+31WTTUNES_1    P17C     59      1  ROS 062291 0051   BE 13 30.00 N 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C     59      1  ROS 062291 0225   BO 13 30.10 N 135 00.00 W GPS  4881  4896      8 4833  4976      36 1-11,23,24  
+31WTTUNES_1    P17C     59      1  ROS 062291 0423   EN 13 29.60 N 134 58.90 W GPS                                                   
+31WTTUNES_1    P17C     60      1  ROS 062291 0742   BE 13 00.00 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     60      1  ROS 062291 0920   BO 13 00.10 N 135 00.20 W GPS  4892  4908      8 4830  4988      36 1-6,12      
+31WTTUNES_1    P17C     60      1  ROS 062291 1104   EN 13 00.00 N 134 58.70 W GPS                                                   
+31WTTUNES_1    P17C     61      1  ROS 062291 1416   BE 12 29.80 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     61      1  ROS 062291 1549   BO 12 30.00 N 134 59.80 W GPS  4835  4849      5 4800  4928      36 1-11        
+31WTTUNES_1    P17C     61      1  ROS 062291 1732   EN 12 30.20 N 134 58.10 W GPS                                                   
+31WTTUNES_1    P17C     62      1  ROS 062291 2103   BE 11 59.80 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     62      1  ROS 062291 2233   BO 12 00.00 N 134 59.90 W GPS  4838  4852      9 4768  4930      36 1-6,23,24   
+31WTTUNES_1    P17C     62      1  ROS 062391 0010   EN 11 59.80 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     63      1  ROS 062391 0324   BE 11 30.00 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     63      1  ROS 062391 0505   BO 11 30.20 N 135 00.00 W GPS  4869  4884      9 4805  4968      36 1-12        
+31WTTUNES_1    P17C     63      1  ROS 062391 0657   EN 11 30.10 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     64      1  ROS 062391 1030   BE 10 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     64      1  ROS 062391 1158   BO 11 00.10 N 135 00.00 W GPS  4873  4888      7 4844  5006      36 1-8         
+31WTTUNES_1    P17C     64      1  ROS 062391 1354   EN 10 59.60 N 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C     65      1  ROS 062391 1655   BE 10 30.00 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     65      1  ROS 062391 1823   BO 10 30.00 N 134 59.90 W GPS  4893  4909      6 4916  5010      36 1-11,23,24  
+31WTTUNES_1    P17C     65      1  ROS 062391 2002   EN 10 29.20 N 135 01.60 W GPS                                                   
+31WTTUNES_1    P17C     66      1  LVS 062391 2324   BE  9 59.80 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     66      1  LVS 062491 0201   MR  9 58.80 N 135 02.10 W GPS  4813  4826     45 4970  4993       9 1,3,12      
+31WTTUNES_1    P17C     66      1  LVS 062491 0423   EN  9 58.20 N 135 03.00 W GPS                                                   
+31WTTUNES_1    P17C     66      2  ROS 062491 0445   BE  9 57.90 N 135 03.40 W GPS                                                   
+31WTTUNES_1    P17C     66      2  ROS 062491 0617   BO  9 57.90 N 135 03.40 W GPS  4811  4824     10 4752  4882      36 1-8,12      
+31WTTUNES_1    P17C     66      2  ROS 062491 0800   EN  9 57.20 N 135 04.70 W GPS                                                   
+31WTTUNES_1    P17C     66      3  LVS 062491 0810   BE  9 57.10 N 135 04.80 W GPS                                                   
+31WTTUNES_1    P17C     66      3  LVS 062491 0947   MR  9 56.50 N 135 05.50 W GPS  4820  4834   3192 2824  4917       4 1,3,12      
+31WTTUNES_1    P17C     66      4  LVS 062491 1124   MR  9 55.80 N 135 05.90 W GPS  4837  4851   2084 2824  4934       5 1,3,12      
+31WTTUNES_1    P17C     66      4  LVS 062491 1244   EN  9 55.10 N 135 06.50 W GPS                                                   
+31WTTUNES_1    P17C     67      1  ROS 062491 1527   BE  9 29.80 N 134 59.50 W GPS                                                   
+31WTTUNES_1    P17C     67      1  ROS 062491 1656   BO  9 31.00 N 134 59.60 W GPS  4782  4794     10 4720  4866      36 1-11        
+31WTTUNES_1    P17C     67      1  ROS 062491 1830   EN  9 29.60 N 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C     68      1  ROS 062491 2214   BE  8 59.80 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     68      1  ROS 062491 2339   BO  8 59.70 N 135 00.00 W GPS  4713  4723      8 4650  4804      36 1-8,23,24   
+31WTTUNES_1    P17C     68      1  ROS 062591 0118   EN  8 59.30 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     69      1  ROS 062591 0410   BE  8 29.70 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     69      1  ROS 062591 0539   BO  8 31.20 N 134 59.90 W GPS  4767  4779      9 4702  4806      36 1-11        
+31WTTUNES_1    P17C     69      1  ROS 062591 0720   EN  8 29.78 N 134 58.60 W GPS                                                   
+31WTTUNES_1    P17C     70      1  ROS 062591 1038   BE  7 59.80 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     70      1  ROS 062591 1203   BO  8 00.00 N 134 59.90 W GPS  4726  4737      7 4658  4812      36 1-8,12      
+31WTTUNES_1    P17C     70      1  ROS 062591 1348   EN  7 59.50 N 134 59.20 W GPS                                                   
+31WTTUNES_1    P17C     71      1  ROS 062591 1648   BE  7 29.50 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     71      1  ROS 062591 1815   BO  7 29.80 N 134 59.90 W GPS  4773  4785      8 4720  4848      36 1-8,10,11,  
+31WTTUNES_1    P17C     71      1  ROS 062591 1950   EN  7 28.50 N 134 58.40 W GPS                                       23,24       
+31WTTUNES_1    P17C     72      1  ROS 062591 2252   BE  6 59.80 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     72      1  ROS 062691 0016   BO  7 01.60 N 134 59.80 W GPS  4655  4664     12 4620  4724      36 1-11        
+31WTTUNES_1    P17C     72      1  ROS 062691 0154   EN  6 59.40 N 134 58.30 W GPS                                                   
+31WTTUNES_1    P17C     73      1  ROS 062691 0452   BE  6 29.90 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     73      1  ROS 062691 0618   BO  6 31.40 N 135 00.00 W GPS  4623  4631      8 4622  4702      36 1-12        
+31WTTUNES_1    P17C     73      1  ROS 062691 0800   EN  6 29.20 N 134 58.00 W GPS                                                   
+31WTTUNES_1    P17C     74      1  ROS 062691 1108   BE  5 59.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     74      1  ROS 062691 1235   BO  6 00.10 N 134 59.90 W GPS  4618  4626      8 4580  4702      36 1-8,23,24   
+31WTTUNES_1    P17C     74      1  ROS 062691 1421   EN  5 59.50 N 134 58.70 W GPS                                                   
+31WTTUNES_1    P17C     75      1  ROS 062691 1737   BE  5 29.70 N 134 59.50 W GPS                                                   
+31WTTUNES_1    P17C     75      1  ROS 062691 1910   BO  5 29.70 N 134 59.70 W GPS  4553  4560     10 4683  4638      36 1-11        
+31WTTUNES_1    P17C     75      1  ROS 062691 2046   EN  5 29.40 N 134 57.10 W GPS                                                   
+31WTTUNES_1    P17C     76      1  LVS 062791 0019   BE  4 59.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     76      1  LVS 062791 0238   MR  5 00.20 N 134 58.90 W GPS  4563  4570     21 4625  4645       9 1,3,12      
+31WTTUNES_1    P17C     76      1  LVS 062791 0500   EN  4 59.60 N 134 58.30 W GPS                                                   
+31WTTUNES_1    P17C     76      2  ROS 062791 0521   BE  4 59.60 N 134 58.10 W GPS                                                   
+31WTTUNES_1    P17C     76      2  ROS 062791 0652   BO  4 59.50 N 134 58.30 W GPS  4578  4586     11 4560  4650      36 1-9,12      
+31WTTUNES_1    P17C     76      2  ROS 062791 0832   EN  4 59.00 N 134 56.50 W GPS                                                   
+31WTTUNES_1    P17C     76      3  LVS 062791 0846   BE  4 58.90 N 134 56.20 W GPS                                                   
+31WTTUNES_1    P17C     76      3  LVS 062791 1018   MR  4 57.70 N 134 56.00 W GPS  4545  4552   2226 2373  4626       9 1,3,12      
+31WTTUNES_1    P17C     76      3  LVS 062791 1248   EN  4 56.90 N 134 55.80 W GPS                                                   
+31WTTUNES_1    P17C     77      1  ROS 062791 1435   BE  4 29.60 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     77      1  ROS 062791 1602   BO  4 29.90 N 134 59.90 W GPS  4525  4532      6 4473  4598      36 1-9,23,24   
+31WTTUNES_1    P17C     77      1  ROS 062791 1735   EN  4 28.90 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     78      1  ROS 062791 2036   BE  3 59.80 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     78      1  ROS 062791 2208   BO  4 00.60 N 135 00.10 W GPS  4448  4452     10 4370  4510      36 1-11        
+31WTTUNES_1    P17C     78      1  ROS 062791 2342   EN  3 59.50 N 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C     79      1  ROS 062891 0253   BE  3 29.90 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     79      1  ROS 062891 0417   BO  3 31.00 N 135 00.10 W GPS  4311  4312     10 4260  4372      36 1-8,12      
+31WTTUNES_1    P17C     79      1  ROS 062891 0547   EN  3 29.20 N 135 01.10 W GPS                                                   
+31WTTUNES_1    P17C     80      1  ROS 062891 0903   BE  2 59.70 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     80      1  ROS 062891 1030   BO  3 02.00 N 135 00.70 W GPS  4329  4331      8 4660  4390      36 1-11,23,24  
+31WTTUNES_1    P17C     80      1  ROS 062891 1204   EN  2 58.80 N 135 02.20 W GPS                                                   
+31WTTUNES_1    P17C     81      1  ROS 062891 1406   BE  2 49.70 N 135 01.00 W GPS                                                   
+31WTTUNES_1    P17C     81      1  ROS 062891 1533   BO  2 49.70 N 135 00.50 W GPS  4338  4340     18 4380  4394      11 1           ADCP     
+31WTTUNES_1    P17C     81      1  ROS 062891 1648   EN  2 48.90 N 135 03.00 W GPS                                                   
+31WTTUNES_1    P17C     82      1  ROS 062891 1815   BE  2 40.00 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     82      1  ROS 062891 1931   BO  2 40.10 N 135 00.10 W GPS  4347  4349      8 4305  4404      36 1-8         
+31WTTUNES_1    P17C     82      1  ROS 062891 2102   EN  2 39.60 N 135 01.80 W GPS                                                   
+31WTTUNES_1    P17C     83      1  ROS 062891 2238   BE  2 29.90 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     83      1  ROS 062891 2354   BO  2 30.00 N 135 00.20 W GPS  4364  4366     10 4320  4436      11 1           ADCP     
+31WTTUNES_1    P17C     83      1  ROS 062991 0110   EN  2 29.20 N 135 01.40 W GPS                                                   
+31WTTUNES_1    P17C     84      1  ROS 062991 0230   BE  2 19.90 N 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C     84      1  ROS 062991 0352   BO  2 21.00 N 135 00.10 W GPS  4408  4411      9 4380  4484      36 1-8         
+31WTTUNES_1    P17C     84      1  ROS 062991 0530   EN  2 19.50 N 135 01.50 W GPS                                                   
+31WTTUNES_1    P17C     85      1  ROS 062991 0710   BE  2 10.10 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     85      1  ROS 062991 0835   BO  2 10.20 N 135 00.10 W GPS  4449  4453     17 4420  4510      11 1           ADCP     
+31WTTUNES_1    P17C     85      1  ROS 062991 0949   EN  2 09.40 N 135 01.40 W GPS                                                   
+31WTTUNES_1    P17C     86      1  ROS 062991 1122   BE  1 59.90 N 134 59.40 W GPS                                                   
+31WTTUNES_1    P17C     86      1  ROS 062991 1243   BO  2 00.00 N 134 59.40 W GPS  4510  4516      7 4445  4580      36 1-12,23,24  
+31WTTUNES_1    P17C     86      1  ROS 062991 1427   EN  1 59.40 N 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C     87      1  ROS 062991 1601   BE  1 49.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     87      1  ROS 062991 1743   BO  1 50.00 N 134 59.90 W GPS  4567  4574     25 4480  4628      11 1           ADCP     
+31WTTUNES_1    P17C     87      1  ROS 062991 1838   EN  1 50.40 N 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C     88      1  ROS 062991 2011   BE  1 40.10 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     88      1  ROS 062991 2133   BO  1 40.10 N 135 00.00 W GPS  4542  4549      8 4470  4614      36 1-8         
+31WTTUNES_1    P17C     88      1  ROS 062991 2305   EN  1 39.80 N 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C     89      1  ROS 063091 0038   BE  1 29.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     89      1  ROS 063091 0203   BO  1 30.00 N 134 59.90 W GPS  4456  4461      4 4425  4540      11 1           ADCP     
+31WTTUNES_1    P17C     89      1  ROS 063091 0320   EN  1 29.20 N 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C     90      1  ROS 063091 0455   BE  1 19.90 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     90      1  ROS 063091 0620   BO  1 20.10 N 134 59.90 W GPS  4464  4469      8 4405  4532      36 1-11        
+31WTTUNES_1    P17C     90      1  ROS 063091 0758   EN  1 19.40 N 134 59.30 W GPS                                                   
+31WTTUNES_1    P17C     91      1  ROS 063091 0930   BE  1 09.80 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     91      1  ROS 063091 1050   BO  1 09.90 N 134 59.90 W GPS  4375  4378      8 4337  4446      11 1           ADCP     
+31WTTUNES_1    P17C     91      1  ROS 063091 1204   EN  1 08.60 N 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C     92      1  ROS 063091 1326   BE  0 59.60 N 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C     92      1  ROS 063091 1444   BO  0 59.40 N 135 00.00 W GPS  4260  4260      7 4190  4316      36 1-8,12,23,  
+31WTTUNES_1    P17C     92      1  ROS 063091 1627   EN  1 08.60 N 135 00.30 W GPS                                       24          
+31WTTUNES_1    P17C     93      1  ROS 063091 1745   BE  0 49.80 N 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C     93      1  ROS 063091 1901   BO  0 50.00 N 134 59.80 W GPS  4312  4313      9 4275  4382         1           ADCP     
+31WTTUNES_1    P17C     93      1  ROS 063091 2012   EN  0 48.90 N 134 59.10 W GPS                                                   
+31WTTUNES_1    P17C     94      1  ROS 063091 2134   BE  0 39.20 N 134 59.50 W GPS                                                   
+31WTTUNES_1    P17C     94      1  ROS 063091 2252   BO  0 40.30 N 134 59.70 W GPS  4283  4284      9 4235  4350      36 1-11        
+31WTTUNES_1    P17C     94      1  ROS 070191 0023   EN  0 39.30 N 134 59.00 W GPS                                                   
+31WTTUNES_1    P17C     95      1  ROS 070191 0149   BE  0 29.80 N 134 59.40 W GPS                                                   
+31WTTUNES_1    P17C     95      1  ROS 070191 0311   BO  0 29.90 N 134 59.40 W GPS  4213  4212     12 4150  4272         1           ADCP     
+31WTTUNES_1    P17C     95      1  ROS 070191 0424   EN  0 29.10 N 134 58.90 W GPS                                                   
+31WTTUNES_1    P17C     96      1  ROS 070191 0538   BE  0 20.00 N 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C     96      1  ROS 070191 0658   BO  0 20.20 N 134 59.90 W GPS  3560  3551     11 3845  3952       3  1-8        
+31WTTUNES_1    P17C     96      1  ROS 070191 0827   EN  0 19.50 N 134 58.50 W GPS                                                   
+31WTTUNES_1    P17C     97      1  ROS 070191 1031   BE  0 09.80 N 135 03.10 W GPS                                                   
+31WTTUNES_1    P17C     97      1  ROS 070191 1130   BO  0 09.90 N 135 03.20 W GPS  3412  3401     18 3355  3446         1           ADCP     
+31WTTUNES_1    P17C     97      1  ROS 070191 1229   EN  0 09.10 N 135 02.70 W GPS                                                   
+31WTTUNES_1    P17C     98      1  LVS 070191 1410   BE  0 00.20 S 135 09.90 W GPS                                                   
+31WTTUNES_1    P17C     98      1  LVS 070191 1641   MR  0 00.30 S 135 09.50 W GPS  4324  4325     17 4380  4394       9 1,3,12      
+31WTTUNES_1    P17C     98      1  LVS 070191 1855   EN  0 00.10 N 135 09.40 W GPS                                                   
+31WTTUNES_1    P17C     98      2  ROS 070191 1915   BE  0 00.10 N 135 09.30 W GPS                                                   
+31WTTUNES_1    P17C     98      2  ROS 070191 2043   BO  0 00.20 N 135 09.40 W GPS  4317  4318      8 4260  4378      36 1-12,23,24  
+31WTTUNES_1    P17C     98      2  ROS 070191 2213   EN  0 00.60 S 135 08.40 W GPS                                                   
+31WTTUNES_1    P17C     98      3  LVS 070191 2229   BE  0 00.70 S 135 08.40 W GPS                                                   
+31WTTUNES_1    P17C     98      3  LVS 070291 0007   MR  0 00.30 S 135 08.20 W GPS  4317  4318   2244 2153  4387       9 1,3,12      
+31WTTUNES_1    P17C     98      3  LVS 070291 0126   EN  0 00.60 S 135 07.50 W GPS                                                   
+31WTTUNES_1    P17C     98      4  ROS 070291 0155   BE  0 00.60 S 135 07.40 W GPS                                                   
+31WTTUNES_1    P17C     98      4  ROS 070291 0312   BO  0 00.70 S 135 07.50 W GPS  4317  4318      8 4260  4382         1,2,10,11   ADCP     
+31WTTUNES_1    P17C     98      4  ROS 070291 0428   EN  0 01.20 S 135 06.70 W GPS                                                   
+31WTTUNES_1    P17C     99      1  ROS 070291 0545   BE  0 10.00 S 135 09.80 W GPS                                                   
+31WTTUNES_1    P17C     99      1  ROS 070291 0802   BO  0 09.80 S 135 10.00 W GPS  4224  4223     15 4220  4286         1           ADCP     
+31WTTUNES_1    P17C     99      1  ROS 070291 0915   EN  0 12.30 S 135 09.40 W GPS                                                   power fail  
+31WTTUNES_1    P17C    100      1  ROS 070291 1101   BE  0 20.00 S 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C    100      1  ROS 070291 1216   BO  0 19.90 S 135 00.00 W GPS  4236  4236      9 4173  4284      36 1-8         
+31WTTUNES_1    P17C    100      1  ROS 070291 1354   EN  0 20.80 S 134 58.90 W GPS                                                   
+31WTTUNES_1    P17C    101      1  ROS 070291 1504   BE  0 30.30 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    101      1  ROS 070291 1626   BO  0 30.10 S 135 00.00 W GPS  4318  4319      9 4250  4368         1           ADCP     
+31WTTUNES_1    P17C    101      1  ROS 070291 1734   EN  0 31.30 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    102      1  ROS 070291 1850   BE  0 40.10 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    102      1  ROS 070291 2009   BO  0 40.00 S 135 00.00 W GPS  4347  4349      8 4342  4402      36 1-11        
+31WTTUNES_1    P17C    102      1  ROS 070291 2143   EN  0 41.80 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    103      1  ROS 070291 2249   BE  0 50.20 S 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C    103      1  ROS 070391 0013   BO  0 49.90 S 135 00.20 W GPS  4299  4300      8 4235  4360         1           ADCP     
+31WTTUNES_1    P17C    103      1  ROS 070391 0127   EN  0 51.10 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    104      1  ROS 070391 0233   BE  1 00.10 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    104      1  ROS 070391 0359   BO  0 59.60 S 135 00.10 W GPS  4458  4463      8 4440  4540      36 1-8,12,     
+31WTTUNES_1    P17C    104      1  ROS 070391 0538   EN  1 01.80 S 135 00.30 W GPS                                       23,24       
+31WTTUNES_1    P17C    105      1  ROS 070391 0647   BE  1 10.10 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    105      1  ROS 070391 0816   BO  1 08.50 S 135 00.10 W GPS  4481  4486     20 4585  4556         1           ADCP     
+31WTTUNES_1    P17C    105      1  ROS 070391 0931   EN  1 12.00 S 135 00.70 W GPS                                                   
+31WTTUNES_1    P17C    106      1  ROS 070391 1033   BE  1 19.70 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    106      1  ROS 070391 1156   BO  1 19.50 S 135 00.00 W GPS  4363  4365      8 4465  4444      36 1-11        
+31WTTUNES_1    P17C    106      1  ROS 070391 1337   EN  1 20.70 S 135 00.30 W GPS                                                   
+31WTTUNES_1    P17C    107      1  ROS 070391 1450   BE  1 30.40 S 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C    107      1  ROS 070391 1619   BO  1 30.10 S 134 59.80 W GPS  4393  4396     16 4465  4460         1           ADCP     
+31WTTUNES_1    P17C    107      1  ROS 070391 1734   EN  1 32.20 S 135 00.90 W GPS                                                   
+31WTTUNES_1    P17C    108      1  ROS 070391 1838   BE  1 40.20 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    108      1  ROS 070391 1959   BO  1 39.70 S 135 00.00 W GPS  4363  4365      8 4392  4420      36 1-8,10,11   
+31WTTUNES_1    P17C    108      1  ROS 070391 2133   EN  1 41.50 S 135 00.60 W GPS                                                   
+31WTTUNES_1    P17C    109      1  ROS 070391 2240   BE  1 49.80 S 134 59.70 W GPS                                                   
+31WTTUNES_1    P17C    109      1  ROS 070391 2358   BO  1 49.50 S 134 59.80 W GPS  4220  4219     18 4290  4350         1           ADCP     
+31WTTUNES_1    P17C    109      1  ROS 070491 0115   EN  1 50.80 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    110      1  ROS 070491 0222   BE  2 00.10 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    110      1  ROS 070491 0347   BO  1 58.40 S 135 00.10 W GPS  4435  4439      8 4410  4504      36 1-12,23,24  
+31WTTUNES_1    P17C    110      1  ROS 070491 0526   EN  2 01.60 S 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C    111      1  ROS 070491 0640   BE  2 10.00 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    111      1  ROS 070491 0806   BO  2 09.00 S 135 00.10 W GPS  4434  4438      7 4400  4418         1           ADCP     
+31WTTUNES_1    P17C    111      1  ROS 070491 0920   EN  2 11.40 S 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C    112      1  ROS 070491 1027   BE  2 19.90 S 134 59.80 W GPS                                                   
+31WTTUNES_1    P17C    112      1  ROS 070491 1148   BO  2 19.70 S 134 59.90 W GPS  4318  4319      9 4364  4496      36 1-8         
+31WTTUNES_1    P17C    112      1  ROS 070491 1335   EN  2 20.00 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    113      1  ROS 070491 1451   BE  2 30.20 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    113      1  ROS 070491 1615   BO  2 30.10 S 135 00.00 W GPS  4392  4395      4 4410  4464         1           ADCP     
+31WTTUNES_1    P17C    113      1  ROS 070491 1727   EN  2 31.60 S 135 00.70 W GPS                                                   
+31WTTUNES_1    P17C    114      1  ROS 070491 1838   BE  2 40.10 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    114      1  ROS 070491 2000   BO  2 39.70 S 135 00.00 W GPS  4418  4422      8 4425  4496      36 1-8         
+31WTTUNES_1    P17C    114      1  ROS 070491 2133   EN  2 41.60 S 135 00.50 W GPS                                                   
+31WTTUNES_1    P17C    115      1  ROS 070491 2240   BE  2 50.00 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    115      1  ROS 070591 0001   BO  2 49.70 S 135 00.00 W GPS  4483  4488      6 4425  4564         1           ADCP     
+31WTTUNES_1    P17C    115      1  ROS 070591 0116   EN  2 50.80 S 135 00.60 W GPS                                                   
+31WTTUNES_1    P17C    116      1  ROS 070591 0226   BE  3 00.10 S 135 00.00 W GPS                                                   
+31WTTUNES_1    P17C    116      1  ROS 070591 0354   BO  2 59.90 S 135 00.10 W GPS  4552  4559     12 4510  4622      36 1-11,23,24  
+31WTTUNES_1    P17C    116      1  ROS 070591 0540   EN  3 02.10 S 135 00.80 W GPS                                                   
+31WTTUNES_1    P17C    117      1  ROS 070591 0720   BE  3 15.00 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    117      1  ROS 070591 0850   BO  3 13.80 S 135 00.10 W GPS  4606  4614     12 4650  4676         1           ADCP     
+31WTTUNES_1    P17C    117      1  ROS 070591 1006   EN  3 16.50 S 135 00.60 W GPS                                                   
+31WTTUNES_1    P17C    118      1  ROS 070591 1144   BE  3 29.80 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    118      1  ROS 070591 1314   BO  3 29.30 S 135 00.10 W GPS  4614  4622      9 4634  4738      36 1-8,12      
+31WTTUNES_1    P17C    118      1  ROS 070591 1457   EN  3 31.00 S 135 00.20 W GPS                                                   
+31WTTUNES_1    P17C    119      1  ROS 070591 1757   BE  4 00.20 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    119      1  ROS 070591 1926   BO  3 59.60 S 135 00.00 W GPS  4605  4613     10 4830  4700      36 1-11,23,24  
+31WTTUNES_1    P17C    119      1  ROS 070591 2107   EN  4 02.00 S 135 01.10 W GPS                                                   
+31WTTUNES_1    P17C    120      1  ROS 070691 0012   BE  4 29.80 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    120      1  ROS 070691 0142   BO  4 28.00 S 135 00.00 W GPS  4638  4647     16 4725  4710      36 1-8         
+31WTTUNES_1    P17C    120      1  ROS 070691 0330   EN  4 32.00 S 135 00.40 W GPS                                                   
+31WTTUNES_1    P17C    121      1  ROS 070691 0654   BE  5 00.50 S 135 00.50 W GPS                                                   
+31WTTUNES_1    P17C    121      1  ROS 070691 0828   BO  5 00.50 S 135 00.50 W GPS  4658  4667     17 4935  4718      36 1-11,23,24  
+31WTTUNES_1    P17C    121      1  ROS 070691 1011   EN  5 03.00 S 135 01.20 W GPS                                                   
+31WTTUNES_1    P17C    121      2  LVS 070691 1026   BE  5 03.20 S 135 01.20 W GPS                                                   
+31WTTUNES_1    P17C    121      2  LVS 070691 1252   MR  5 04.60 S 135 00.80 W GPS  4612  4620     78 4700  4696       5 1,3,12      
+31WTTUNES_1    P17C    121      2  LVS 070691 1800   EN  5 06.80 S 135 02.00 W GPS                                                   
+31WTTUNES_1    P17C    122      1  ROS 070791 0117   BE  5 30.10 S 134 59.90 W GPS                                                   
+31WTTUNES_1    P17C    122      1  ROS 070791 0243   BO  5 30.10 S 135 00.10 W GPS  4536  4543      7 4505  4634      36 1-8         
+31WTTUNES_1    P17C    122      1  ROS 070791 0424   EN  5 31.50 S 135 00.60 W GPS                                                   
+31WTTUNES_1    P17C    123      1  ROS 070791 0722   BE  6 00.00 S 135 00.10 W GPS                                                   
+31WTTUNES_1    P17C    123      1  ROS 070791 0853   BO  5 58.70 S 135 00.20 W GPS  4499  4505     10 4840  4584      36 1-11        
+31WTTUNES_1    P17C    123      1  ROS 070791 1031   EN  6 01.40 S 135 00.30 W GPS                                                   

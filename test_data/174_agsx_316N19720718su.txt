@@ -1,0 +1,785 @@
+GEOSECS ATLANTIC         R/V KNORR                 20101022CCHDOSIODM                            
+SHIP/CRS     WOCE                   CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE   MAX  NO. OF                                                                
+EXPOCODE     SECT     STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT PRESS BOTTLES PARAMETERS                      COMMENTS                       
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+316N19720718 AGSX          1      1  ROS 072472 0911    BE 44 57.00 N  42  0.20 W UNK  4673       -9   -9  4689      24 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX          1      2  NAN 072472 1328    BE 44 59.00 N  42  0.00 W UNK     0       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          1      3  ROS 072472 1828    BE 44 56.00 N  41 59.00 W UNK     0       -9   -9  1966      24 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX          1      4  NAN 072472 2334    BE 44 59.40 N  42  0.70 W UNK  4694       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX          1      5  PMP 072572 0119    BE 44 58.00 N  42  1.50 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RADON            
+316N19720718 AGSX          1     32  ROS 072472 1828    BE 44 56.00 N  41 59.00 W UNK     0       -9   -9   242       6                                 CTD LEVELS FROM CAST 3 SHALLOW 
+316N19720718 AGSX          2      1  NAN 072572 2247    BE 48  0.00 N  42 30.50 W UNK  4051       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          2      2  PMP 072672 0027    BE 47 57.30 N  42 28.30 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RADON            
+316N19720718 AGSX          2      3  NAN 072672 0619    BE 47 58.80 N  42 28.50 W UNK  4063       -9   -9    -9       0                                 SHA336W 5ANSEN                 
+316N19720718 AGSX          2      4  ROS 072672 0954    BE 47 58.00 N  42 32.00 W UNK  4063       -9   -9  1857      12 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX          2      5  NIS 072672 1500    BE 47 58.30 N  42 31.00 W UNK  4053       -9   -9  4126       8 1-4,6                           BOTTOM NISKIN, RADON           
+316N19720718 AGSX          2      6  ROS 072672 2202    BE 47 54.00 N  42 39.50 W UNK  3835       -9   -9  3705      24 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX          2      7  ROS 072772 0342    BE 47 58.50 N  42 32.00 W UNK  3961       -9   -9   467      12 1-4,6                           SHAL SINGLE ROSETTE (REPEAT)   
+316N19720718 AGSX          2     72  ROS 072772 0342    BE 47 58.50 N  42 32.00 W UNK  3961       -9   -9    20       2                                 CTD LEVELS FROM CAST 7 SHAL SI 
+316N19720718 AGSX          3      1  PMP 072772 2127    BE 51  1.50 N  43  1.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RADON            
+316N19720718 AGSX          3      2  BAG 072872 0230    BE 50 57.50 N  43  7.60 W UNK     0       -9   -9    -9       0                                 SI-32 BAG (ABORTED)            
+316N19720718 AGSX          3      3  ROS 072872 0822    BE 51  1.10 N  43  7.00 W UNK  4206       -9   -9  2063      24 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX          3      4  GER 072872 1240    BE 51  1.20 N  43 10.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX          3      5  NAN 072872 1705    BE 51  3.80 N  43  0.70 W UNK  4302       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          3      6  GER 072872 2207    BE 51  0.70 N  42 57.60 W UNK  4259       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX          3      7  ROS 072972 0314    BE 51  0.70 N  42 58.70 W UNK  4285       -9   -9  4220      23 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX          3      8  NAN 072972 0741    BE 51  1.40 N  43  0.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX          3      9  PMP 072972 0935    BE 51  1.60 N  43  0.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX          3     32  ROS 072872 0822    BE 51  1.10 N  43  7.00 W UNK  4206       -9   -9     1       1                                 CTD LEVELS FROM CAST 3 SHALLOW 
+316N19720718 AGSX          4      1  ROS 073072 1545    BE 54  5.50 N  42 57.80 W UNK  3543       -9   -9  3580      23 1-4,6                           DEEP & BOTTOM ROSETTE, RADON   
+316N19720718 AGSX          4      2  PMP 073072 1553    BE 54  5.50 N  42 57.80 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RADON            
+316N19720718 AGSX          4      3  NAN 073072 1854    BE 54  6.70 N  42 57.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX          4      4  NAN 073072 2057    BE 54  7.40 N  42 56.00 W UNK  3510       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          4      5  ROS 073072 2324    BE 54  8.00 N  42 57.00 W UNK  3463       -9   -9  2020      12 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX          4      6  ROS 073172 0117    BE 54  9.00 N  42 58.90 W UNK  3463       -9   -9   632      12 1-4,6                           SHALLOW ROSETTE (REPEAT)       
+316N19720718 AGSX          5      1  ROS 073172 1938    BE 56 56.70 N  42 33.50 W UNK  3405       -9   -9  3438      23 1-4,6                           DEEP & BOTTOM ROSETTE, RADON   
+316N19720718 AGSX          5      2  PMP 073172 2249    BE 56 56.10 N  42 33.40 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RADON            
+316N19720718 AGSX          5      3  GER 073172 2321    BE 56 56.00 N  42 33.40 W UNK     0       -9   -9    -9       0                                 INTERMED. GERARD, C-14, RA228  
+316N19720718 AGSX          5      4  NAN 080172 0159    BE 56 55.20 N  42 33.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX          5      5  ROS 080172 0345    BE 56 54.40 N  42 34.00 W UNK     0       -9   -9  2036      24 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX          5      6  GER 080172 0723    BE 56 52.50 N  42 36.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX          5      7  NAN 080172 1051    BE 56 57.00 N  42 36.20 W UNK  3402       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          5      8  PMP 080172 1354    BE 56 55.00 N  42 39.80 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX          5      9  BAG 080172 2025    BE 56 55.50 N  42 40.80 W UNK     0       -9   -9    -9       0                                 SI-32 BAG (ABORTED)            
+316N19720718 AGSX          5     10  ESS 080172 2232    BE 56 56.00 N  42 41.00 W UNK     0       -9   -9    -9       0                                 ESSO, BUCKET- LOST PAIL        
+316N19720718 AGSX          5     52  ROS 080172 0345    BE 56 54.40 N  42 34.00 W UNK     0       -9   -9     2       1                                 CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX          6      1  CTD 080272 0726    BE 58  0.00 N  41 58.00 W UNK  3198       -9   -9    -9       0                                 CTD WITH 3 CHECK SAMPLES       
+316N19720718 AGSX          6     11  CTD 080272 0726    BE 58  0.00 N  41 58.00 W UNK  3198       -9   -9  2839      34                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX          6     12  CTD 080272 0726    BE 58  0.00 N  41 58.00 W UNK  3198       -9   -9  3166       2                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX          7      1  CTD 080272 2210    BE 59 30.00 N  40 56.50 W UNK  2501       -9   -9    -9       0                                 CTD WITH 3 CHECK SAMPLES       
+316N19720718 AGSX          7     11  CTD 080272 2210    BE 59 30.00 N  40 56.50 W UNK  2501       -9   -9  2492      33                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX          8      1  ROS 080372 1108    BE 60 30.00 N  40  1.00 W UNK  2606       -9   -9  2590      23 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX          8      2  NAN 080372 1403    BE 60 30.80 N  40  1.60 W UNK  2609       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX          8      3  ROS 080372 1633    BE 60 32.50 N  40  1.00 W UNK  2539       -9   -9   652      12 1-4,6                           SHALLOW SINGLE ROSETTE         
+316N19720718 AGSX          8      4  NAN 080372 1803    BE 60 32.70 N  40  1.00 W UNK  2513       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX          8      5  NIS 080372 1957    BE 60 33.50 N  40  1.00 W UNK  2509       -9   -9  2513       8 1-4,6                           DEEP NISKIN, RADON             
+316N19720718 AGSX          8     32  ROS 080372 1633    BE 60 32.50 N  40  1.00 W UNK  2539       -9   -9     1       1 2                               CTD LEVELS FROM CAST 3 SHALLOW 
+316N19720718 AGSX          9      1  CTD 080472 1618    BE 62 25.40 N  39  4.90 W UNK  1913       -9   -9    -9       0                                 CTD                            
+316N19720718 AGSX          9     11  CTD 080472 1618    BE 62 25.40 N  39  4.90 W UNK  1913       -9   -9  1912      30                                 CTD LEVELS FROM CAST 1 CTD     
+316N19720718 AGSX         10      1  CTD 080572 0122    BE 63  0.00 N  36 50.00 W UNK  2344       -9   -9    -9       0                                 CTD WITH 4 CHECK SAMPLES       
+316N19720718 AGSX         10     11  CTD 080572 0122    BE 63  0.00 N  36 50.00 W UNK  2344       -9   -9    -9       0                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX         11      1  ROS 080572 0757    BE 63 31.90 N  35 13.80 W UNK  2419       -9   -9  2429      23 1-4,6                           DEEP & BOTTOM ROSETTE, RADON   
+316N19720718 AGSX         11      2  GER 080572 1035    BE 63 31.90 N  35 12.20 W UNK  2449       -9   -9    -9       0                                 SHALLOW GE9ARD, C 14           
+316N19720718 AGSX         11      3  NAN 080572 1230    BE 63 31.70 N  35 11.20 W UNK  2423       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         11      4  ROS 080572 1616    BE 63 30.50 N  35 11.30 W UNK     0       -9   -9  1111      24 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         11      5  GER 080572 2013    BE 63 29.90 N  35 11.20 W UNK     0       -9   -9    -9       0                                 INTERMED. GERARD, C-14, RA228  
+316N19720718 AGSX         11      6  NAN 080572 2151    BE 63 29.90 N  35 11.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         11      7  PMP 080572 2304    BE 63 29.90 N  35 11.10 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         11      8  GER 080672 0420    BE 63 28.90 N  35 10.50 W UNK  2463       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         11      9  ESS 080672 0540    BE 63 29.00 N  35 10.50 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         11     42  ROS 080572 1616    BE 63 30.50 N  35 11.30 W UNK     0       -9   -9     1       1                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         12      1  CTD 080672 1241    BE 63 37.50 N  32 52.00 W UNK  2784       -9   -9    -9       0                                 CTD WITH 2 CHECK SAMPLES       
+316N19720718 AGSX         12     11  CTD 080672 1241    BE 63 37.50 N  32 52.00 W UNK  2784       -9   -9  2798      33                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX         13      1  CTD 080672 2035    BE 63 43.50 N  30 31.00 W UNK  2366       -9   -9    -9       0                                 CTD WITH 2 CHECK SAMPLES       
+316N19720718 AGSX         13     11  CTD 080672 2035    BE 63 43.50 N  30 31.00 W UNK  2366       -9   -9  2373      32                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX         14      1  ROS 081372 0624    BE 65 55.70 N  27 27.00 W UNK   667       -9   -9    -9       0                                 ROSETTE FAILURE, CTD ONLY      
+316N19720718 AGSX         14      2  ROS 081372 1024    BE 65 56.00 N  27 32.00 W UNK   644       -9   -9   612      22 1-4,6                           DP & SHALLOW ROSETTE (REPEAT)  
+316N19720718 AGSX         14      3  GER 081372 1400    BE 65 56.50 N  27 33.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         14      4  NAN 081372 1605    BE 65 55.80 N  27 22.90 W UNK   667       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         14      5  ROS 081372 1752    BE 65 54.60 N  27 23.10 W UNK   674       -9   -9   652      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         14     22  ROS 081372 1024    BE 65 56.00 N  27 32.00 W UNK   644       -9   -9     1       1                                 CTD LEVELS FROM CAST 2 DP & SH 
+316N19720718 AGSX         15      1  NIS 081572 0422    BE 69  0.90 N  20  1.70 W UNK  1575       -9   -9  1547       8 1-4,6                           BOTTOM NISKIN, RADON           
+316N19720718 AGSX         15      2  ROS 081572 0643    BE 69  1.00 N  20  6.00 W UNK  1557       -9   -9  1516      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         15      3  PMP 081572 0855    BE 69  0.50 N  20 12.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RADON, SR-90         
+316N19720718 AGSX         15      4  NAN 081572 1133    BE 69  0.90 N  20  4.20 W UNK  1578       -9   -9    -9       0                                 DEEP & SHALLOW NANSEN          
+316N19720718 AGSX         15      5  ROS 081572 1254    BE 69  0.20 N  20  6.40 W UNK  1569       -9   -9   227      12 1-4,6                           SHALLOW SINGLE ROSETTE, RADON  
+316N19720718 AGSX         15     52  ROS 081572 1254    BE 69  0.20 N  20  6.40 W UNK  1569       -9   -9     3       1                                 CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX         16      1  ROS 081672 2146    BE 72  2.50 N   8 26.50 W UNK  2601       -9   -9  2579      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         16      2  NAN 081672 2341    BE 72  2.00 N   8 26.50 W UNK  2609       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         16      3  ROS 081772 0236    BE 72  1.00 N   8 25.20 W UNK  2627       -9   -9    -9       0                                 DEEP ROSETTE (ABORTED)         
+316N19720718 AGSX         16      4  NAN 081772 0437    BE 72  0.30 N   8 26.30 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         16      5  ROS 081772 0618    BE 71 59.70 N   8 24.60 W UNK  2589       -9   -9  2557      22 1-4,6                           DEEP ROSETTE (REPEAT)          
+316N19720718 AGSX         16      6  ROS 081772 1154    BE 72  1.00 N   8 26.50 W UNK     0       -9   -9   758      23 1-4,6                           SHALLOW ROSETTE, RADON         
+316N19720718 AGSX         16      7  PMP 081772 0640    BE 71 59.70 N   8 24.60 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RADON, SR-90         
+316N19720718 AGSX         17      1  ROS 081872 1112    BE 74 56.00 N   1  7.30 W UNK  3750       -9   -9  3753      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         17      2  NAN 081872 1426    BE 74 56.00 N   1 10.00 W UNK  3769       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         17      3  GER 081872 1633    BE 74 56.40 N   1 12.00 W UNK  3714       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         17      4  ROS 081872 2009    BE 74 56.00 N   1 20.00 W UNK  3748       -9   -9  3751      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         17      5  GER 081872 2350    BE 74 56.00 N   1  5.10 W UNK  3758       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         17      6  ROS 081972 0646    BE 74 54.00 N   1 12.00 W UNK     0       -9   -9  1616      23 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         17      7  NAN 081972 1008    BE 74 55.90 N   1  2.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         17      8  PMP 081972 1134    BE 74 54.80 N   1  2.90 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         17      9  BAG 081972 1655    BE 74 54.50 N   1  4.20 W UNK     0       -9   -9    -9       0                                 SI-32 BAG (ABORTED)            
+316N19720718 AGSX         17     10  GER 082072 0924    BE 74 56.00 N   1 14.00 W UNK  3754       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         17     11  GER 082072 1125    BE 74 55.30 N   1 16.40 W UNK     0       -9   -9    -9       0                                 1000 LITER GERARD, RA-228      
+316N19720718 AGSX         17     12  ESS 082072 1730    BE 74 56.50 N   1 15.40 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         17     13  GER 082072 2046    BE 74 58.20 N   1 12.50 W UNK  3716       -9   -9    -9       0                                 DEEP GERARD C-14 (REPEAT)      
+316N19720718 AGSX         17     14  NAN 082172 0030    BE 74 59.50 N   1 13.70 W UNK  3714       -9   -9    -9       0                                 DEEP NANSEN (REPEAT)           
+316N19720718 AGSX         17     62  ROS 081972 0646    BE 74 54.00 N   1 12.00 W UNK     0       -9   -9    24       1                                 CTD LEVELS FROM CAST 6 SHALLOW 
+316N19720718 AGSX         18      1  ROS 082272 1019    BE 70  0.00 N   0  0.50 W UNK  3298       -9   -9    -9       0                                 BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         18      2  GER 082272 1315    BE 69 59.80 N   0 -0.00 E UNK  3319       -9   -9    -9       0                                 DP GER C-14 (PART. POSTTRIP)   
+316N19720718 AGSX         18      3  GER 082272 1612    BE 69 59.80 N   0  1.80 W UNK     0       -9   -9    -9       0                                 DP GER C-14 (PART. POSTTRIP)   
+316N19720718 AGSX         18      4  ROS 082272 2024    BE 69 58.80 N   0  2.90 W UNK  3280       -9   -9    -9       0                                 DEEP ROSETTE                   
+316N19720718 AGSX         18      5  NAN 082272 2317    BE 69 58.90 N   0  6.00 W UNK  3336       -9   -9    -9       0                                 DEEP NA5SEN                    
+316N19720718 AGSX         18      6  PMP 082372 0030    BE 69 58.90 N   0  6.80 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         18      7  ROS 082372 0254    BE 69 59.00 N   0  8.00 W UNK  3286       -9   -9    -9       0                                 SHALLOW ROSETTE                
+316N19720718 AGSX         18      8  NAN 082372 0506    BE 69 58.90 N   0  8.30 W UNK  3336       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         18      9  GER 082372 0705    BE 69 59.90 N   0  9.50 W UNK  3280       -9   -9    -9       0                                 DEEP GERARD C-14 (REPEAT)      
+316N19720718 AGSX         18     10  ROS 082372 1034    BE 70  0.00 N   0  4.50 W UNK     0       -9   -9    -9       0                                 SURFACE RADON                  
+316N19720718 AGSX         19      1  ROS 082472 2345    BE 64 12.00 N   5 34.20 W UNK  3249       -9   -9  3244      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         19      2  GER 082572 0151    BE 64 11.50 N   5 36.00 W UNK  3528       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         19      3  ROS 082572 0458    BE 64  8.80 N   5 43.00 W UNK  3539       -9   -9  3520      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         19      4  GER 082572 0837    BE 64 10.40 N   5 40.20 W UNK     0       -9   -9    -9       0                                 DEE7 GE9A9D, C-14              
+316N19720718 AGSX         19      5  NAN 082572 1057    BE 64 11.40 N   5 38.90 W UNK  3289       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         19      6  ROS 082572 1354    BE 64 10.70 N   5 35.60 W UNK     0       -9   -9  1016      21 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         19      7  PMP 082572 1419    BE 64 10.70 N   5 35.60 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         19      8  BAG 082572 2010    BE 64  9.90 N   5 37.50 W UNK     0       -9   -9    -9       0                                 RA-228 BAG (PRETRIP)           
+316N19720718 AGSX         19      9  GER 082572 2325    BE 64  9.10 N   5 39.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         19     10  NAN 082672 0104    BE 64  8.30 N   5 36.70 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         19     11  ESS 082672 0130    BE 64  7.80 N   5 36.50 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         20      1  CTD 082672 1209    BE 63 24.70 N   8 23.00 W UNK   645       -9   -9   628       3 1                               CTD WITH 3 CHECK SAMPLES       
+316N19720718 AGSX         20     12  CTD 082672 1209    BE 63 24.70 N   8 23.00 W UNK   645       -9   -9   623      24                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX         21      1  CTD 082772 0358    BE 62 24.10 N  11 53.40 W UNK   864       -9   -9   846       3 1                               CTD WITH 3 CHECK SAMPLES       
+316N19720718 AGSX         21     12  CTD 082772 0358    BE 62 24.10 N  11 53.40 W UNK   864       -9   -9   812      25                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX         22      1  ROS 082772 1845    BE 61 39.40 N  14 17.60 W UNK  1860       -9   -9  1853      22 1-4,6                           DEEP ROSETTE, SURFACE RADON    
+316N19720718 AGSX         23      1  ROS 082872 1402    BE 60 24.90 N  18 37.00 W UNK  2533       -9   -9  2554      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         23      2  GER 082872 1604    BE 60 24.90 N  18 37.50 W UNK     0       -9   -9    -9       0                                 SHALLOW GE9ARD, C-14           
+316N19720718 AGSX         23      3  NAN 082872 1745    BE 60 24.70 N  18 37.50 W UNK     0       -9   -9    -9       0                                 DEEP NANSEN (ABORTED)          
+316N19720718 AGSX         23      4  ROS 082872 2245    BE 60 24.50 N  18 34.50 W UNK  2544       -9   -9  2554      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         23      5  GER 082972 0220    BE 60 23.00 N  18 38.20 W UNK  2519       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         23      6  NAN 082972 0423    BE 60 23.00 N  18 39.70 W UNK  2537       -9   -9    -9       0                                 DEEP NANSEN (REPEAT)           
+316N19720718 AGSX         23      7  ROS 082972 0643    BE 60 23.10 N  18 40.00 W UNK  2533       -9   -9  1212      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         23      8  NAN 082972 0850    BE 60 24.00 N  18 40.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         23      9  PMP 082972 0957    BE 60 24.50 N  18 38.60 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         23     10  GER 082972 1057    BE 60 24.50 N  18 38.70 W UNK  2537       -9   -9    -9       0                                 I5TE94EDIATE GERARD, C-14      
+316N19720718 AGSX         24      1  ROS 090772 2227    BE 53 45.60 N  33 37.60 W UNK  2567       -9   -9  2569      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         24      2  NAN 090872 0130    BE 53 47.00 N  33 37.00 W UNK  2545       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         24      3  ROS 090872 0455    BE 53 49.70 N  33 36.00 W UNK  2537       -9   -9  2497      22 1-6                             INTERMEDIATE ROSETTE           
+316N19720718 AGSX         24      4  NAN 090872 0801    BE 53 50.60 N  33 32.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         24      5  PMP 090872 0934    BE 53 50.10 N  33 33.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         24      6  ROS 090872 1503    BE 53 50.00 N  33 34.00 W UNK     0       -9   -9   356      10 1-6                             SURFACE RADON                  
+316N19720718 AGSX         24      7  ESS 090872 1536    BE 53 49.80 N  33 33.60 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         24     62  ROS 090872 1503    BE 53 50.00 N  33 34.00 W UNK     0       -9   -9     3       1                                 CTD LEVELS FROM CAST 6 SURFACE 
+316N19720718 AGSX         25      1  ROS 091072 1127    BE 47 36.50 N  39 53.60 W UNK  4539       -9   -9  4625      10 1-2                             BOT SINGLE ROSETTE,SURF RADON  
+316N19720718 AGSX         25     12  ROS 091072 1127    BE 47 36.50 N  39 53.60 W UNK  4539       -9   -9  4503      36                                 CTD LEVELS FROM CAST 1 BOT SIN 
+316N19720718 AGSX         26      1  ROS 091172 0932    BE 44 57.60 N  42  4.60 W UNK  4684       -9   -9  4055      18 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         26      2  PMP 091172 0952    BE 44 57.60 N  42  4.90 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         26      3  ROS 091172 1743    BE 45  0.80 N  42  5.60 W UNK  4684       -9   -9   299      10 1-6                             SURFACE RADON                  
+316N19720718 AGSX         27      1  ROS 091272 1554    BE 42  0.00 N  42  2.00 W UNK  4850       -9   -9  4959      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         27      2  GER 091272 1854    BE 41 59.00 N  42  0.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         27      3  NAN 091272 2038    BE 41 58.40 N  41 59.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN (ABORTED)       
+316N19720718 AGSX         27      4  ROS 091272 2344    BE 41 57.00 N  41 59.00 W UNK  4856       -9   -9  4946      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         27      5  NAN 091372 0425    BE 42  0.00 N  42  1.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN (REPEAT)        
+316N19720718 AGSX         27      6  GER 091372 0630    BE 42  0.00 N  42  0.00 W UNK  4857       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         27      7  NAN 091372 0930    BE 42  0.00 N  41 57.50 W UNK  4852       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         27      8  ROS 091372 1226    BE 41 59.50 N  41 58.00 W UNK     0       -9   -9  1281      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         27      9  GER 091372 1515    BE 41 59.40 N  41 56.40 W UNK     0       -9   -9    -9       0                                 I5TERMEDIATE GERARD, C-14      
+316N19720718 AGSX         27     10  PMP 091372 1624    BE 41 59.70 N  41 56.50 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228, C-14     
+316N19720718 AGSX         27     11  NAN 091372 2304    BE 42  2.00 N  42  2.00 W UNK  4863       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         27     12  ESS 091472 0204    BE 42  2.00 N  42  2.00 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         27     82  ROS 091372 1226    BE 41 59.50 N  41 58.00 W UNK     0       -9   -9     3       1                                 CTD LEVELS FROM CAST 8 SHALLOW 
+316N19720718 AGSX         28      1  ROS 091572 0150    BE 39  0.00 N  43 59.00 W UNK  4861       -9   -9  4969      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         28      2  NAN 091572 0334    BE 39  2.00 N  43 58.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         28      3  NAN 091572 0412    BE 39  2.00 N  43 58.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         28      4  ROS 091572 0739    BE 39  0.00 N  43 57.40 W UNK  4867       -9   -9  4921      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         28      5  PMP 091572 0950    BE 38 59.30 N  43 57.30 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         28      6  NAN 091572 1057    BE 38 59.30 N  43 57.10 W UNK  4867       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         28      7  ROS 091572 1326    BE 38 58.00 N  43 57.00 W UNK     0       -9   -9   302      10 1-6                             SURFACE SINGLE ROSETTE, RADON  
+316N19720718 AGSX         28      8  ROS 091572 1627    BE 38 59.70 N  44  0.00 W UNK     0       -9   -9  1314      21 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         28      9  GER 091572 2027    BE 38 57.90 N  44  3.00 W UNK  4791       -9   -9    -9       0                                 DEEP GERARD (SPECIAL), RA-228  
+316N19720718 AGSX         28     10  GER 091672 0027    BE 38 58.00 N  44  3.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD (SPECIAL), RA-228  
+316N19720718 AGSX         28     11  GER 091672 0502    BE 38 59.00 N  44  0.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD (SPECIAL), RA-228  
+316N19720718 AGSX         28     12  GER 091672 0950    BE 38 58.00 N  44  0.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD (SPECIAL), RA-228  
+316N19720718 AGSX         28     82  ROS 091572 1627    BE 38 59.70 N  44  0.00 W UNK     0       -9   -9     3       1                                 CTD LEVELS FROM CAST 8 SHALLOW 
+316N19720718 AGSX         29      1  ROS 091772 1234    BE 35 58.50 N  47  0.50 W UNK  4951       -9   -9  5069      10 1-6                             BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         29      2  NAN 091772 1440    BE 35 57.50 N  47  1.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         29      3  NAN 091772 1533    BE 35 57.50 N  47  1.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         29      4  GER 091772 1658    BE 35 57.00 N  47  1.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         29      5  ROS 091772 2157    BE 35 59.00 N  47  0.00 W UNK  4952       -9   -9  4998      13 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         29      6  GER 091872 0255    BE 35 56.10 N  46 59.80 W UNK  4949       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         29      7  ROS 091872 0717    BE 35 57.00 N  47  0.00 W UNK     0       -9   -9  2738      23 1-6                             INTERMEDIATE ROSETTE           
+316N19720718 AGSX         29      8  NAN 091872 1053    BE 36  0.00 N  47  0.00 W UNK  4976       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         29      9  PMP 091872 1224    BE 36  0.00 N  47  0.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         29     10  ROS 091872 1724    BE 35 56.00 N  47  0.00 W UNK     0       -9   -9   506      11 1-6                             SURFACE SINGLE ROSETTE, RADON  
+316N19720718 AGSX         29     11  GER 091872 1939    BE 35 55.00 N  47  0.00 W UNK  4773       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         29     12  ESS 091872 2130    BE 35 54.70 N  47  0.50 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         29     14  ROS 091772 1234    BE 35 58.50 N  47  0.50 W UNK  4951       -9   -9     3       1 2                               CTD LEVELS FROM CAST 1 BOTTOM  
+316N19720718 AGSX         30      1  ROS 092072 0422    BE 31 48.00 N  50 46.00 W UNK  5777       -9   -9  5949      11 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         30      2  NAN 092072 0619    BE 31 48.00 N  50 45.40 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         30      3  NAN 092072 0658    BE 31 48.00 N  50 44.00 W UNK     0       -9   -9    -9       0                                 SHALLOW 5ANSEN                 
+316N19720718 AGSX         30      4  ROS 092072 1015    BE 31 48.00 N  50 43.50 W UNK  5773       -9   -9  5903      23 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         30      5  NAN 092072 1416    BE 31 48.00 N  50 42.60 W UNK  5756       -9   -9    -9       0                                 DEEP 5A5SE5                    
+316N19720718 AGSX         30      6  CTD 092072 1710    BE 31 47.50 N  50 47.50 W UNK     0       -9   -9    -9       0                                 CTD TEST (ABORTED)             
+316N19720718 AGSX         30      7  ROS 092072 1941    BE 31 48.50 N  50 46.50 W UNK     0       -9   -9  1416      23 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         30      8  ESS 092072 2234    BE 31 49.00 N  50 46.00 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         30      9  ROS 092172 0022    BE 31 47.00 N  50 43.00 W UNK     0       -9   -9   301      13 1-2                             SURFACE ROSETTE, RADON         
+316N19720718 AGSX         30     10  ESS 092172 0115    BE 31 47.00 N  50 43.00 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         31      1  ROS 092272 0755    BE 27  0.00 N  53 32.00 W UNK  5974       -9   -9  6160      11 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         31      2  GER 092272 1138    BE 27  0.00 N  53 34.00 W UNK  5526       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         31      3  ROS 092272 1705    BE 27  0.30 N  53 30.00 W UNK     0       -9   -9  5616      23 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         31      4  GER 092272 2022    BE 27  0.50 N  53 30.60 W UNK     0       -9   -9    -9       0                                 I5TE94EDIATE GERARD, C-14      
+316N19720718 AGSX         31      5  NAN 092272 2319    BE 27  0.60 N  53 31.00 W UNK  5955       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         31      6  ROS 092372 0316    BE 27  0.00 N  53 31.00 W UNK  5959       -9   -9  6134      23 1-6                             SHALLOW ROSETTE, RADON         
+316N19720718 AGSX         31      7  NAN 092372 0558    BE 27  0.00 N  53 31.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         31      8  NAN 092372 0632    BE 26 59.60 N  53 30.70 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         31      9  PMP 092372 0758    BE 26 59.50 N  53 30.70 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         31     10  GER 092372 1204    BE 27  0.00 N  53 31.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         31     11  ESS 092372 1305    BE 26 59.60 N  53 31.10 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         32      1  ROS 092472 0834    BE 23 50.50 N  53 59.50 W UNK  5774       -9   -9  5949      11 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         32      2  NAN 092472 1052    BE 23 51.00 N  53 59.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         32      3  NAN 092472 1129    BE 23 51.00 N  53 59.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         32      4  ROS 092472 1451    BE 23 51.00 N  54  1.00 W UNK  5662       -9   -9  5760      23 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         32      5  NAN 092472 1906    BE 23 51.00 N  54  0.40 W UNK  5652       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         32      6  ROS 092472 2156    BE 23 51.00 N  53 59.70 W UNK     0       -9   -9  1818      23 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         32      7  ROS 092572 1659    BE 23 52.00 N  54  2.40 W UNK     0       -9   -9    76      11 1-2                             SURFACE SINGLE ROSETTE, RADON  
+316N19720718 AGSX         32      8  GER 092572 0158    BE 23 49.70 N  54  0.00 W UNK  5724       -9   -9    -9       0                                 DEEP GERARD A, RA-228          
+316N19720718 AGSX         32      9  GER 092572 0604    BE 23 50.00 N  54  1.20 W UNK     0       -9   -9    -9       0                                 DEEP GERARD B, RA-228          
+316N19720718 AGSX         32     10  GER 092572 0925    BE 23 51.00 N  54  2.20 W UNK     0       -9   -9    -9       0                                 DEEP GERARD C, RA-228          
+316N19720718 AGSX         32     11  GER 092572 1300    BE 23 51.00 N  54  2.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD D, RA-228          
+316N19720718 AGSX         32     12  ESS 092572 1725    BE 23 52.00 N  54  2.00 W UNK     0       -9   -9     0       1 6                               ESSO, BUCKET                   
+316N19720718 AGSX         33      1  ROS 092672 1033    BE 21  0.00 N  54  0.00 W UNK  5189       -9   -9  5317      11 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         33      2  GER 092672 1345    BE 21  0.00 N  54  0.00 W UNK  5181       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         33      3  ROS 092672 1715    BE 20 59.00 N  54  2.00 W UNK  5051       -9   -9  5079      23 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         33      4  GER 092672 2032    BE 20 59.60 N  54  2.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         33      5  NAN 092672 2156    BE 21  0.00 N  54  2.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         33      6  NAN 092672 2249    BE 21  0.70 N  54  3.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         33      7  ROS 092772 0053    BE 21  0.70 N  54  4.00 W UNK     0       -9   -9  1626      23 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         33      8  NAN 092772 0404    BE 21  0.00 N  53 59.00 W UNK  5145       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         33      9  PMP 092772 0603    BE 21  0.60 N  53 59.40 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         33     10  GER 092772 0952    BE 21  0.80 N  53 59.70 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         33     11  PMP 092772 1050    BE 21  0.80 N  53 59.70 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14             
+316N19720718 AGSX         33     72  ROS 092772 0053    BE 21  0.70 N  54  4.00 W UNK     0       -9   -9     2       1                                 CTD LEVELS FROM CAST 7 SHALLOW 
+316N19720718 AGSX         34      1  GER 092872 0719    BE 18  1.00 N  54  0.40 W UNK  4707       -9   -9    -9       0                                 SHALLOW GERARD A, RA-228       
+316N19720718 AGSX         34      2  GER 092872 1032    BE 17 59.00 N  54  1.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD B, RA-228       
+316N19720718 AGSX         34      3  GER 092872 1333    BE 17 59.30 N  54  1.00 W UNK  4551       -9   -9    -9       0                                 SHALLOW GERARD C, RA-228       
+316N19720718 AGSX         34      4  GER 092872 1805    BE 18  1.00 N  54  0.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD D, RA-228       
+316N19720718 AGSX         34      5  ROS 092872 2131    BE 18  1.00 N  53 59.00 W UNK  4690       -9   -9  4782      10 1-6                             BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         34      6  NAN 092872 2322    BE 18  1.50 N  53 58.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         34      7  NAN 092972 0026    BE 18  0.00 N  53 58.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         34      8  ROS 092972 0305    BE 18  2.00 N  53 58.00 W UNK  4697       -9   -9  4769      23 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         34      9  NAN 092972 0603    BE 18  2.40 N  53 57.60 W UNK  4683       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         34     10  ROS 092972 0810    BE 18  2.00 N  53 57.00 W UNK     0       -9   -9  1510      23 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         34     11  ESS 092972 1124    BE 18  2.00 N  53 56.00 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         34     12  ROS 092972 1401    BE 18  2.00 N  53 57.00 W UNK     0       -9   -9    98      11 1                               SURFACE ROSETTE, RADON         
+316N19720718 AGSX         34     13  GER 092972 1551    BE 18  3.00 N  53 57.50 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD (REPEAT)        
+316N19720718 AGSX         34     14  NAN 092872 2350    BE 18  1.50 N  53 58.00 W UNK     0       -9   -9    -9       0                                 SURFACE NANSEN                 
+316N19720718 AGSX         34     15  ESS 092972 1710    BE 18  4.70 N  53 57.30 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         35      1  CTD 100172 0400    BE 13  1.00 N  58  0.50 W UNK     0       -9   -9    -9       0                                 CTD (MALFUNCTION)              
+316N19720718 AGSX         35      2  NAN 100172 0458    BE 13  2.00 N  58  1.00 W UNK  3149       -9   -9    -9       0                                 NANSEN (Q TEST)                
+316N19720718 AGSX         35      3  PMP 100172 0455    BE 13  2.00 N  58  1.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         35      4  CTD 100172 0640    BE 13  2.50 N  58  1.00 W UNK     0       -9   -9    -9       0                                 CTD (TEST)                     
+316N19720718 AGSX         35      5  NAN 100172 0852    BE 13  2.20 N  58  1.60 W UNK  3166       -9   -9    -9       0                                 NANSEN (Q TEST)                
+316N19720718 AGSX         36      1  ROS 101172 1034    BE 15  0.00 N  53 56.50 W UNK  5399       -9   -9  5538      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         36      2  NAN 101172 1330    BE 15  1.50 N  53 56.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         36      3  PMP 101172 1516    BE 15  2.00 N  53 57.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         36      4  ROS 101172 2016    BE 15  1.40 N  53 58.00 W UNK  5390       -9   -9  1621      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         36      5  NAN 101172 2330    BE 15  2.00 N  53 58.50 W UNK  5390       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         36      6  ROS 101272 0348    BE 14 59.50 N  53 58.20 W UNK     0       -9   -9   100       8 1                               SURFACE RADON                  
+316N19720718 AGSX         36      7  ROS 101272 1003    BE 14 59.30 N  53 57.00 W UNK  5390       -9   -9  4066       6 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         36     12  ROS 101172 1034    BE 15  0.00 N  53 56.50 W UNK  5399       -9   -9  5094      13                                 CTD LEVELS FROM CAST 1 BOTTOM  
+316N19720718 AGSX         36     42  ROS 101172 2016    BE 15  1.40 N  53 58.00 W UNK  5390       -9   -9   126       4 2                               CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         37      1  ROS 101372 1140    BE 12  1.80 N  50 59.80 W UNK  5035       -9   -9  5152      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         37      2  GER 101372 1550    BE 12  2.30 N  51  0.80 W UNK  5007       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         37      3  ROS 101372 1926    BE 11 59.50 N  51  0.60 W UNK  5002       -9   -9  5107      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         37      4  NAN 101472 0059    BE 12  1.10 N  51  1.00 W UNK  5006       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         37      5  GER 101472 0330    BE 12  1.10 N  51  1.20 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         37      6  ROS 101472 0706    BE 12  1.20 N  51  2.00 W UNK  5013       -9   -9  1865      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         37      7  NAN 101472 1047    BE 12  1.50 N  51  2.00 W UNK  5009       -9   -9    -9       0                                 SHALL6W NANSEN                 
+316N19720718 AGSX         37      8  PMP 101472 1506    BE 12  2.40 N  51  2.20 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         37      9  BAG 101472 1545    BE 12  2.50 N  51  2.50 W UNK     0       -9   -9    -9       0                                 SI-32 BAG (ABORTED)            
+316N19720718 AGSX         37     10  GER 101472 2007    BE 12  3.00 N  51  3.00 W UNK  4994       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         37     62  ROS 101472 0706    BE 12  1.20 N  51  2.00 W UNK  5013       -9   -9    10       2                                 CTD LEVELS FROM CAST 6 SHALLOW 
+316N19720718 AGSX         38      1  CTD 101572 2353    BE  9 45.40 N  47 10.50 W UNK  4808       -9   -9  4907      10 1-2                             CTD W/11 CHECK SAMPLES, RADON  
+316N19720718 AGSX         38      2  NAN 101672 0400    BE  9 45.40 N  47 12.00 W UNK  4798       -9   -9    -9       0                                 DEEP NANSEN (ABORTED)          
+316N19720718 AGSX         38      3  PMP 101672 0323    BE  9 45.50 N  47 11.50 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         38     12  CTD 101572 2353    BE  9 45.40 N  47 10.50 W UNK  4808       -9   -9  4503      25                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         39      1  ROS 101772 0212    BE  7 57.50 N  43 51.30 W UNK  4768       -9   -9  4801      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         39      2  NAN 101772 0502    BE  7 57.50 N  43 51.30 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         39      3  ROS 101772 0832    BE  7 57.60 N  43 51.80 W UNK  4772       -9   -9  4867      10 1-6                             BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         39      4  NAN 101772 1423    BE  7 54.60 N  43 50.00 W UNK  4756       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         39      5  ROS 101772 1739    BE  7 55.20 N  43 50.50 W UNK  4752       -9   -9  1703      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         39      6  NIS 101772 2011    BE  7 55.00 N  43 51.00 W UNK  4752       -9   -9   100       8 1                               SURFACE RADON                  
+316N19720718 AGSX         39     52  ROS 101772 1739    BE  7 55.20 N  43 50.50 W UNK  4752       -9   -9   151       5                                 CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX         40      1  ROS 101972 0848    BE  3 56.80 N  38 31.00 W UNK  4261       -9   -9  4307      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         40      2  GER 101972 1236    BE  3 55.60 N  38 30.00 W UNK  4310       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         40      3  GER 101972 1429    BE  3 54.50 N  38 30.00 W UNK  4310       -9   -9    -9       0                                 DEEP GERARD, C-14 (REPEAT)     
+316N19720718 AGSX         40      4  NAN 101972 1718    BE  3 54.20 N  38 29.50 W UNK  4312       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         40      5  GER 101972 2115    BE  3 54.00 N  38 31.50 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         40      6  NAN 102072 0006    BE  3 53.50 N  38 32.70 W UNK  4617       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         40      7  ROS 102072 0159    BE  3 53.00 N  38 32.00 W UNK  4798       -9   -9  1356      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         40      8  PMP 102072 0456    BE  3 51.50 N  38 31.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         40      9  NIS 102072 0823    BE  3 47.00 N  38 27.00 W UNK  4189       -9   -9   200      10 1                               SURFACE RADON                  
+316N19720718 AGSX         40     10  GER 102072 1033    BE  3 47.00 N  38 27.00 W UNK  4189       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         40     72  ROS 102072 0159    BE  3 53.00 N  38 32.00 W UNK  4798       -9   -9   249       5                                 CTD LEVELS FROM CAST 7 SHALLOW 
+316N19720718 AGSX         41      1  CTD 102172 0011    BE  2  0.00 N  37 21.60 W UNK  4354       -9   -9  4409      10 1                               CTD W/10 CHECK SAMPLES, RADON  
+316N19720718 AGSX         41      2  NIS 102172 0238    BE  1 59.70 N  37 21.60 W UNK  4345       -9   -9   226      10 1                               SURFACE RADON                  
+316N19720718 AGSX         41     12  CTD 102172 0011    BE  2  0.00 N  37 21.60 W UNK  4354       -9   -9  4366      28                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         42      1  ROS 102172 1207    BE  0 58.00 N  37  4.00 W UNK  4517       -9   -9  4569      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         42      2  NAN 102172 1605    BE  0 58.30 N  37  3.50 W UNK  4507       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         42      3  ROS 102172 1847    BE  0 58.30 N  37  3.50 W UNK  4517       -9   -9  4597      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         42      4  NAN 102172 2111    BE  0 58.00 N  37  3.00 W UNK  4505       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         42      5  ROS 102172 2314    BE  0 58.00 N  37  3.00 W UNK  4505       -9   -9  1576      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         42      6  NIS 102272 0115    BE  0 57.80 N  37  3.10 W UNK     0       -9   -9   120       8 1                               SURFACE RADON                  
+316N19720718 AGSX         42      7  PMP 102272 0120    BE  0 57.80 N  37  3.10 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         43      1  CTD 102272 0756    BE  0 31.60 N  36 31.00 W UNK  4518       -9   -9  4599      10 1-2                             CTD W/10 CHECK SAMPLES         
+316N19720718 AGSX         43     12  CTD 102272 0756    BE  0 31.60 N  36 31.00 W UNK  4518       -9   -9  4549      30                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         44      1  CTD 102272 1546    BE  0  1.00 N  35 58.60 W UNK  4517       -9   -9  4596      10 1-2                             CTD W/10 CHECK SAMPLES         
+316N19720718 AGSX         44      2  PMP 102272 1505    BE  0  1.00 N  35 58.60 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         44     12  CTD 102272 1546    BE  0  1.00 N  35 58.60 W UNK  4517       -9   -9  4320      30                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         45      1  CTD 102372 0148    BE  0 30.30 S  34 59.80 W UNK  4482       -9   -9  4561      10 1-2                             CTD W/10 CHECK SAMPLES         
+316N19720718 AGSX         45      2  PMP 102372 0215    BE  0 30.30 S  34 59.80 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         45     12  CTD 102372 0148    BE  0 30.30 S  34 59.80 W UNK  4482       -9   -9  4247      34                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         46      1  ROS 102372 1151    BE  0 59.30 S  34  2.20 W UNK  4424       -9   -9  4494      22 1-6                             DEEP ROSETTE                   
+316N19720718 AGSX         46      2  NAN 102372 1552    BE  0 59.50 S  34  2.30 W UNK  4421       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         46      3  ROS 102372 1815    BE  0 59.70 S  34  2.20 W UNK  4428       -9   -9  4505      10 1-6                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         46      4  NAN 102372 2022    BE  0 59.80 S  34  1.50 W UNK  4343       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         46      5  ROS 102372 2227    BE  0 59.90 S  34  0.50 W UNK  4293       -9   -9  1373      22 1-6                             SHALLOW ROSETTE                
+316N19720718 AGSX         46      6  NIS 102472 0112    BE  0 59.50 S  34  0.10 W UNK  4293       -9   -9   301      10 1                               SURFACE RADON                  
+316N19720718 AGSX         46     52  ROS 102372 2227    BE  0 59.90 S  34  0.50 W UNK  4293       -9   -9   389       5 2                               CTD LEVELS FROM CAST 5 CTD LEV 
+316N19720718 AGSX         47      1  CTD 102472 1345    BE  1 58.40 S  32 31.80 W UNK  4493       -9   -9  4569      10 1-2                             CTD W/10 CHECK SAMPLES         
+316N19720718 AGSX         47     12  CTD 102472 1345    BE  1 58.40 S  32 31.80 W UNK  4493       -9   -9  4275      30                                 CTD LEVELS FROM CAST 1 CTD W/1 
+316N19720718 AGSX         48      1  ROS 102572 2103    BE  4  0.00 S  29  0.00 W UNK  5052       -9   -9  5160      22 2-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         48      2  GER 102672 0142    BE  3 59.90 S  28 59.00 W UNK  5037       -9   -9    -9       0                                 DEEP GERARD,C-14,PB-210,RADON  
+316N19720718 AGSX         48      3  NAN 102672 0520    BE  3 59.50 S  28 58.50 W UNK  5041       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         48      4  GER 102672 1031    BE  4  0.00 S  28 57.00 W UNK  5037       -9   -9    -9       0                                 INT. GERARD,C-14,PB-210,RADON  
+316N19720718 AGSX         48      5  NAN 102672 1505    BE  3 58.80 S  29  0.20 W UNK  5043       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         48      6  PMP 102672 1753    BE  3 58.70 S  28 58.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         48      7  BAG 102772 0221    BE  4  0.70 S  28 57.10 W UNK  5044       -9   -9    -9       0                                 SI-32 BAG                      
+316N19720718 AGSX         48      8  NIS 102772 1600    BE  3 58.50 S  29  2.20 W UNK     0       -9   -9   251      10 1                               SURFACE RADON                  
+316N19720718 AGSX         48      9  ROS 102772 1747    BE  3 59.00 S  29  1.00 W UNK  5007       -9   -9  1458      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         48     10  ROS 102872 0053    BE  3 58.80 S  29  4.00 W UNK  5013       -9   -9  5117      21 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         48     11  GER 102772 2014    BE  3 58.40 S  28 59.70 W UNK  5003       -9   -9    -9       0                                 SHALLOW GERARD, C-14, PB-210   
+316N19720718 AGSX         48     92  ROS 102772 1747    BE  3 59.00 S  29  1.00 W UNK  5007       -9   -9   101       2                                 CTD LEVELS FROM CAST 9 CTD LEV 
+316N19720718 AGSX         49      1  ROS 102972 0405    BE  7 56.00 S  28 12.00 W UNK  5495       -9   -9  5618      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         49      2  GER 102972 0830    BE  7 55.00 S  28 10.80 W UNK  4959       -9   -9    -9       0                                 DEEP GERARD, C-14, PB-210      
+316N19720718 AGSX         49      3  GER 102972 1249    BE  7 55.30 S  28 13.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         49      4  NIS 102972 1425    BE  7 55.40 S  28 13.40 W UNK  5532       -9   -9   251      10 1                               SURFACE RADON                  
+316N19720718 AGSX         49      5  ROS 102972 1553    BE  7 55.50 S  28 14.50 W UNK     0       -9   -9  1414      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         49      6  PMP 102972 1748    BE  7 55.80 S  28 14.60 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         49      7  GER 102972 1949    BE  7 55.80 S  28 14.60 W UNK  5548       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         50      1  ROS 110572 0130    BE  8 26.00 S  34 11.00 W UNK  1870       -9   -9  1856      10 1-4,6                           DEEP SINGLE ROSETTE            
+316N19720718 AGSX         50      2  NIS 110572 0259    BE  8 25.40 S  34 10.00 W UNK     0       -9   -9   201      10 1                               SURFACE RADON                  
+316N19720718 AGSX         50     12  ROS 110572 0130    BE  8 26.00 S  34 11.00 W UNK  1870       -9   -9  1777       7                                 CTD LEVELS FROM CAST 1 DEEP SI 
+316N19720718 AGSX         51      1  ROS 110572 0751    BE  8 38.00 S  33 47.00 W UNK  3340       -9   -9  3350      10 1-4,6                           DEEP SINGLE ROSETTE            
+316N19720718 AGSX         51      2  PMP 110572 0615    BE  8 38.00 S  33 47.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         51     12  ROS 110572 0751    BE  8 38.00 S  33 47.00 W UNK  3340       -9   -9  3000      24                                 CTD LEVELS FROM CAST 1 DEEP SI 
+316N19720718 AGSX         52      1  ROS 110572 1355    BE  8 54.80 S  33 17.60 W UNK  4757       -9   -9  4796      10 1-4,6                           DEEP SINGLE ROSETTE            
+316N19720718 AGSX         52      2  NIS 110572 1617    BE  8 54.80 S  33 17.40 W UNK     0       -9   -9   120       8 1                               SURFACE RADON                  
+316N19720718 AGSX         52     12  ROS 110572 1355    BE  8 54.80 S  33 17.60 W UNK  4757       -9   -9  4598      38                                 CTD LEVELS FROM CAST 1 DEEP SI 
+316N19720718 AGSX         53      1  NIS 110772 0430    BE 11 59.00 S  27 59.00 W UNK  5456       -9   -9   100      10 1                               SURFACE RADON                  
+316N19720718 AGSX         53      2  ROS 110772 0701    BE 11 57.70 S  27 58.70 W UNK  5497       -9   -9  5632      22 1-4,6                           DEEP ROSETTE, RADON            
+316N19720718 AGSX         53      3  NAN 110772 1002    BE 11 57.00 S  27 58.00 W UNK  5457       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         53      4  SAT 110772 1315    BE 12  0.00 S  28  1.00 W UNK  5486       -9   -9     0       1                                 SATU964ETER                    
+316N19720718 AGSX         53      5  ROS 110772 1431    BE 11 59.70 S  28  1.00 W UNK  5486       -9   -9  1714      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         53      6  NAN 110772 1710    BE 11 59.60 S  28  1.00 W UNK  5493       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         53      7  ROS 110772 2038    BE 11 59.00 S  28  1.50 W UNK  5491       -9   -9  5626       9 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         54      1  SAT 110872 2025    BE 15  3.30 S  29 31.20 W UNK     0       -9   -9     0       1                                 SATUROMETER                    
+316N19720718 AGSX         54      2  ROS 110872 2246    BE 15  2.50 S  29 32.00 W UNK  5075       -9   -9  5176      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         54      3  GER 110972 0326    BE 15  0.70 S  29 32.00 W UNK  5026       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         54      4  NAN 110972 0641    BE 15  0.00 S  29 32.00 W UNK  5139       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         54      5  ROS 110972 1101    BE 15  2.50 S  29 31.00 W UNK     0       -9   -9  1713      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         54      6  GER 110972 1346    BE 15  2.50 S  29 31.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         54      7  NAN 110972 1557    BE 15  2.00 S  29 30.50 W UNK     0       -9   -9    -9       0                                 SHA336W 5A5SEN                 
+316N19720718 AGSX         54      8  ROS 110972 1918    BE 15  1.20 S  29 30.50 W UNK  5064       -9   -9  5170      10 1-2                             BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         54      9  NIS 110972 2021    BE 15  1.00 S  29 30.50 W UNK  5002       -9   -9    70       8 1                               SURFACE RADON                  
+316N19720718 AGSX         54     10  GER 110972 2248    BE 15  0.80 S  29 30.70 W UNK  5066       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         54     11  PMP 111072 0000    BE 15  0.70 S  29 30.70 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         54     12  SPE 110972 1600    BE 15  2.00 S  29 31.00 W UNK     0       -9   -9    14       4                                 LANGMUIR CELL STUDY            
+316N19720718 AGSX         54     22  ROS 110872 2246    BE 15  2.50 S  29 32.00 W UNK  5075       -9   -9  3430       4 2                               CTD LEVELS FROM CAST 2 CTD LEV 
+316N19720718 AGSX         54     52  ROS 110972 1101    BE 15  2.50 S  29 31.00 W UNK     0       -9   -9     0       1 2                               CTD LEVELS FROM CAST 5 CTD LEV 
+316N19720718 AGSX         55      1  ROS 111172 0132    BE 18  0.00 S  31  0.50 W UNK  4676       -9   -9  4763      22 1-4,6                           DEEP ROSETTE, RADON            
+316N19720718 AGSX         55      2  SAT 111172 0845    BE 18  0.00 S  31  1.80 W UNK  4675       -9   -9     0       1                                 SATUROMETER                    
+316N19720718 AGSX         55      3  ROS 111172 1123    BE 17 59.50 S  31  2.00 W UNK  4675       -9   -9  1712      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         55      4  NIS 111172 1324    BE 17 59.00 S  31  1.50 W UNK     0       -9   -9    50       8 1                               SURFACE RADON                  
+316N19720718 AGSX         55      5  NAN 111172 1423    BE 17 58.60 S  31  1.50 W UNK     0       -9   -9    -9       0                                 SHA336W 5A5SEN                 
+316N19720718 AGSX         55      6  NAN 111172 1616    BE 17 58.70 S  31  1.50 W UNK  4696       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         55      7  ROS 111172 1912    BE 17 58.50 S  31  2.00 W UNK  4700       -9   -9  4781       9 1-2                             BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         55      8  ESS 111172 2255    BE 18  0.20 S  31  3.00 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         55      9  PMP 111172 1850    BE 17 58.50 S  31  2.50 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         55     10  ESS 111272 0012    BE 18  0.60 S  31  2.50 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         56      1  ROS 111272 2219    BE 21  0.50 S  33  0.00 W UNK  4311       -9   -9  4381      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         56      2  GER 111372 0205    BE 21  1.00 S  33  0.00 W UNK  4299       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         56      3  NAN 111372 0426    BE 21  1.70 S  32 59.70 W UNK  4301       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         56      4  NAN 111372 0552    BE 21  2.00 S  32 59.70 W UNK  4301       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         56      5  ROS 111372 0824    BE 21  2.00 S  33  0.30 W UNK  4299       -9   -9  1405      23 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         56      6  GER 111372 1045    BE 21  1.00 S  33  0.70 W UNK  4296       -9   -9    -9       0                                 I5TE94549ATE GERARD, C-14      
+316N19720718 AGSX         56      7  ROS 111372 1430    BE 20 59.20 S  33  0.00 W UNK  4310       -9   -9  4384      11 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         56      8  GER 111372 1722    BE 20 59.20 S  32 59.80 W UNK  4299       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         56      9  PMP 111372 1909    BE 20 59.10 S  32 59.60 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         57      1  SAT 111572 0007    BE 23 59.10 S  35  1.30 W UNK  4215       -9   -9     0       1                                 SATUROMETER                    
+316N19720718 AGSX         57      2  ROS 111572 0350    BE 23 59.30 S  35  0.00 W UNK  4224       -9   -9  4292      22 1-4,6                           DEEP ROSETTE, RADON            
+316N19720718 AGSX         57      3  NIS 111572 0611    BE 23 58.70 S  35  0.00 W UNK  4215       -9   -9    80       8 1                               SURFACE RADON                  
+316N19720718 AGSX         57      4  NAN 111572 0651    BE 23 58.60 S  35  0.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         57      5  NAN 111572 0814    BE 23 58.00 S  35  1.00 W UNK  4202       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         57      6  ROS 111572 1013    BE 23 58.00 S  35  0.30 W UNK  4214       -9   -9  1205      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         57      7  SAT 111572 1545    BE 23 56.10 S  35  2.10 W UNK  4224       -9   -9     0       1                                 SATU964ETER                    
+316N19720718 AGSX         57      8  ROS 111572 1811    BE 23 55.50 S  35  3.00 W UNK  4225       -9   -9  4288      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         57      9  PMP 111572 1050    BE 23 58.00 S  35  0.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         57     10  ESS 111572 1930    BE 23 55.50 S  35  2.60 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         57     62  ROS 111572 1013    BE 23 58.00 S  35  0.30 W UNK  4214       -9   -9    30       2 2                               CTD LEVELS FROM CAST 6 SHALLOW 
+316N19720718 AGSX         58      1  ROS 111672 1731    BE 27  0.00 S  37  1.40 W UNK  4574       -9   -9  4660      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         58      2  PMP 111672 2030    BE 27  0.00 S  37  2.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         58      3  GER 111772 0018    BE 26 59.00 S  37  2.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD A, RA-228       
+316N19720718 AGSX         58      4  BAG 111772 0607    BE 27  0.40 S  37  1.40 W UNK  4566       -9   -9    -9       0                                 SI-32 BAG                      
+316N19720718 AGSX         58      5  GER 111772 1811    BE 27  1.00 S  36 58.00 W UNK  4576       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         58      6  ROS 111772 2145    BE 27  0.00 S  37  0.00 W UNK     0       -9   -9  4658      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         58      7  GER 111872 0056    BE 26 59.50 S  37  0.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14, RA-228   
+316N19720718 AGSX         58      8  NIS 111872 0220    BE 26 59.00 S  36 59.00 W UNK     0       -9   -9   100       8 1                               SURFACE RADON                  
+316N19720718 AGSX         58      9  ROS 111872 0711    BE 27  0.00 S  37  1.00 W UNK     0       -9   -9  1165      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         58     10  NAN 111872 0307    BE 26 59.00 S  36 59.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         58     11  NAN 111872 0449    BE 26 59.00 S  36 59.00 W UNK  4569       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         58     12  GER 111872 0928    BE 27  0.00 S  37  1.00 W UNK  4576       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         58     13  GER 111872 1234    BE 27  0.00 S  37  3.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD B, RA-228       
+316N19720718 AGSX         58     14  GER 111872 1659    BE 27  0.00 S  37  3.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD C, RA-228       
+316N19720718 AGSX         58     15  GER 111872 2125    BE 27  0.00 S  37  2.00 W UNK  4584       -9   -9    -9       0                                 SHALLOW GERARD D, RA-228       
+316N19720718 AGSX         58     16  GER 111972 0125    BE 27  0.00 S  37  2.00 W UNK  4569       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         58     17  SPE 111872 1600    BE 27  0.00 S  37  3.00 W UNK     0       -9   -9    14       4                                 LANGMUIR CELL STUDY            
+316N19720718 AGSX         58     92  ROS 111872 0711    BE 27  0.00 S  37  1.00 W UNK     0       -9   -9    39       2 2                               CTD LEVELS FROM CAST 9 SHALLOW 
+316N19720718 AGSX         59      1  ROS 112072 0335    BE 30 12.50 S  39 18.00 W UNK  4805       -9   -9  4890      22 1-4,6                           DEEP ROSETTE, RADON            
+316N19720718 AGSX         59      2  NIS 112072 0619    BE 30 12.00 S  39 24.00 W UNK     0       -9   -9   121      10 1                               SURFACE RADON                  
+316N19720718 AGSX         59      3  SAT 112072 1304    BE 30 10.50 S  39 30.00 W UNK     0       -9   -9     0       1                                 SATUROMETER                    
+316N19720718 AGSX         59      4  ROS 112072 1635    BE 30 10.50 S  39 23.00 W UNK  4795       -9   -9  1506      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         59      5  NAN 112072 1836    BE 30 10.00 S  39 24.00 W UNK  4804       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         59      6  NAN 112072 2007    BE 30 10.00 S  39 24.00 W UNK  4759       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         59      7  ROS 112072 2329    BE 30 12.00 S  39 24.00 W UNK  4806       -9   -9  4885      10 1                               BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         59      8  ESS 112172 0249    BE 30 12.00 S  39 24.00 W UNK  4797       -9   -9    -9       0                                 ESSO 96SETTE                   
+316N19720718 AGSX         59      9  SAT 112172 0745    BE 30 12.00 S  39 25.00 W UNK  4806       -9   -9     0       1                                 SATUROMETER                    
+316N19720718 AGSX         59     10  PMP 112072 1735    BE 30 10.50 S  39 22.50 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         59     11  ESS 112172 0850    BE 30 12.10 S  39 25.60 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         59     42  ROS 112072 1635    BE 30 10.50 S  39 23.00 W UNK  4795       -9   -9    44       2 2                               CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         60      1  ROS 112272 1510    BE 32 58.00 S  42 30.50 W UNK  4413       -9   -9  4490      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         60      2  NIS 112272 1720    BE 32 57.00 S  42 32.00 W UNK     0       -9   -9    75       8 1                               SURFACE RADON                  
+316N19720718 AGSX         60      3  GER 112272 1911    BE 32 56.40 S  42 31.00 W UNK  4390       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         60      4  ROS 112272 2150    BE 32 57.00 S  42 31.00 W UNK     0       -9   -9  1500      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         60      5  NAN 112372 0001    BE 32 58.00 S  42 31.00 W UNK  4386       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         60      6  NAN 112372 0242    BE 32 58.00 S  42 30.00 W UNK  4403       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         60      7  GER 112372 0527    BE 32 57.00 S  42 29.00 W UNK  4389       -9   -9    -9       0                                 INTE94EDIATE GERARD, C-14      
+316N19720718 AGSX         60      8  ROS 112372 0810    BE 32 57.00 S  42 28.00 W UNK  4404       -9   -9  4481      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         60      9  GER 112372 1013    BE 32 56.40 S  42 28.00 W UNK  4384       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         60     10  PMP 112372 1215    BE 32 56.40 S  42 28.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         61      1  ROS 112472 1622    BE 36  0.00 S  45  0.00 W UNK  4924       -9   -9  5015      22 1-4,6                           DEEP ROSETTE, RADON            
+316N19720718 AGSX         61      2  NIS 112472 1650    BE 36  0.00 S  45  0.00 W UNK  4718       -9   -9    90       8 1                               SURFACE RADON                  
+316N19720718 AGSX         61      3  NAN 112472 1910    BE 36  0.00 S  44 58.90 W UNK  4906       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         61      4  NAN 112472 2331    BE 36  0.00 S  44 58.00 W UNK  4898       -9   -9    -9       0                                 DEEP NANSEN, SATUROMETER LOST  
+316N19720718 AGSX         61      5  ROS 112572 0412    BE 36  0.40 S  44 55.00 W UNK     0       -9   -9  1321      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         61      6  GER 112572 0703    BE 36  1.00 S  44 55.00 W UNK  4912       -9   -9    -9       0                                 SHALLOW GERARD A, RA-228       
+316N19720718 AGSX         61      7  GER 112572 1050    BE 36  1.00 S  44 59.00 W UNK  4915       -9   -9    -9       0                                 SHALLOW GERARD B, RA-228       
+316N19720718 AGSX         61      8  ROS 112572 1415    BE 36  1.00 S  44 59.40 W UNK  4916       -9   -9  5017      10 1                               BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         61      9  PMP 112472 1625    BE 36  0.10 S  44 59.90 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         62      1  CTD 120472 0149    BE 36 40.00 S  52 55.00 W UNK  2639       -9   -9    -9       0                                 CTD (ABORTED)                  
+316N19720718 AGSX         63      1  ROS 120472 1213    BE 37 14.50 S  52  0.00 W UNK  3909       -9   -9  3935      22 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         63     12  ROS 120472 1213    BE 37 14.50 S  52  0.00 W UNK  3909       -9   -9   150       9                                 CTD LEVELS FROM CAST 1 BOTTOM  
+316N19720718 AGSX         64      1  NAN 120572 1554    BE 39  3.50 S  48 33.00 W UNK  5323       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         64      2  PMP 120572 1755    BE 39  6.50 S  48 31.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP (ABORTED)         
+316N19720718 AGSX         64      3  NAN 120572 2059    BE 39  8.00 S  48 30.00 W UNK  5317       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         64      4  ROS 120672 0035    BE 39  5.00 S  48 33.00 W UNK     0       -9   -9    -9       0                                 DEEP ROSETTE (AB6RTED'         
+316N19720718 AGSX         64      5  GER 120672 0630    BE 39 11.00 S  48 34.00 W UNK  5321       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         64      6  ROS 120672 1100    BE 39  8.00 S  48 35.00 W UNK     0       -9   -9    -9       0                                 DEEP ROSETTE (ABORTED)         
+316N19720718 AGSX         64      7  ROS 120672 1514    BE 39 11.00 S  48 36.00 W UNK  5333       -9   -9  5419      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         64      8  GER 120672 2009    BE 39  9.00 S  48 34.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         64      9  ROS 120672 2344    BE 39 11.00 S  48 32.00 W UNK     0       -9   -9  1629      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         64     10  GER 120772 0349    BE 39 14.00 S  48 32.00 W UNK  5343       -9   -9    -9       0                                 DEEP GERARD, C-14 (REPEAT)     
+316N19720718 AGSX         64     11  ROS 120772 0922    BE 39 11.00 S  48 35.50 W UNK  5330       -9   -9  5447      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         64     12  GER 120772 1250    BE 39 12.00 S  48 33.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         64     92  ROS 120672 2344    BE 39 11.00 S  48 32.00 W UNK     0       -9   -9     3       1 2                               CTD LEVELS FROM CAST 9 SHALLOW 
+316N19720718 AGSX         65      1  CTD 120772 2140    BE 40 21.00 S  49 42.00 W UNK     0       -9   -9    -9       0                                 CTD (ABORTED)                  
+316N19720718 AGSX         66      1  ROS 120872 0951    BE 41 32.50 S  50 57.00 W UNK  5711       -9   -9  5839      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         66      2  NIS 120872 1325    BE 41 34.00 S  50 54.00 W UNK     0       -9   -9   131       8 1                               SURFACE RADON                  
+316N19720718 AGSX         66      3  NAN 120872 1420    BE 41 34.00 S  50 52.00 W UNK     0       -9   -9    -9       0                                 SHALL6W NANSEN                 
+316N19720718 AGSX         66      4  ROS 120872 1655    BE 41 31.00 S  50 55.50 W UNK     0       -9   -9  1646      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         66      5  NAN 120872 1956    BE 41 32.00 S  50 53.00 W UNK  5714       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         66      6  ROS 120872 2331    BE 41 33.00 S  50 51.50 W UNK  5758       -9   -9  5907      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         66     42  ROS 120872 1655    BE 41 31.00 S  50 55.50 W UNK     0       -9   -9     3       1                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         67      1  ROS 120972 2150    BE 44 58.00 S  51  3.50 W UNK  5788       -9   -9  5921      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         67      2  GER 121072 0222    BE 44 58.00 S  51  6.00 W UNK  5787       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         67      3  NAN 121072 0558    BE 45  0.00 S  51  2.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         67      4  ROS 121072 0827    BE 44 59.50 S  51  5.00 W UNK     0       -9   -9  1607      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         67      5  GER 121072 1110    BE 44 58.50 S  51  7.00 W UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         67      6  NAN 121072 1335    BE 44 58.00 S  51 10.00 W UNK  5805       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         67      7  ROS 121072 1818    BE 44 58.90 S  51  0.60 W UNK  5799       -9   -9  5939      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         67      8  GER 121072 2159    BE 44 59.00 S  51  2.70 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         67      9  PMP 121172 0304    BE 44 57.50 S  51  5.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         67     10  BAG 121172 0400    BE 44 57.00 S  51  7.10 W UNK     0       -9   -9    -9       0                                 SI-32 BAG                      
+316N19720718 AGSX         67     11  ESS 121172 2215    BE 44 57.00 S  51 19.00 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         67     42  ROS 121072 0827    BE 44 59.50 S  51  5.00 W UNK     0       -9   -9     3       1                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         68      1  ROS 121372 0321    BE 48 39.00 S  45 59.20 W UNK  5945       -9   -9  6090      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         68      2  NAN 121372 0620    BE 48 38.50 S  45 57.40 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         68      3  GER 121372 0855    BE 48 38.70 S  45 56.00 W UNK  5940       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         68      4  NAN 121372 1316    BE 48 37.00 S  45 56.50 W UNK  5918       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         68      5  ROS 121372 1809    BE 48 41.50 S  46  0.50 W UNK     0       -9   -9  1550      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         68      6  GER 121372 2207    BE 48 43.00 S  45 59.50 W UNK     0       -9   -9    -9       0                                 DEEP GERARD, RA-228 (ABORTED)  
+316N19720718 AGSX         68      7  ROS 121472 0246    BE 48 43.00 S  45 57.30 W UNK  5884       -9   -9  6028      10 1-4,6                           BOTTOM SINGLE ROSETTE, RADON   
+316N19720718 AGSX         68      8  GER 121472 0735    BE 48 43.00 S  45 56.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GE9, RA 228 (AB69T5D'  
+316N19720718 AGSX         68      9  GER 121472 1134    BE 48 40.50 S  45 57.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         68     10  GER 121472 1244    BE 48 40.50 S  45 57.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         68     11  NIS 121472 1351    BE 48 40.50 S  45 58.50 W UNK     0       -9   -9    61       6 1                               SURFACE RADON                  
+316N19720718 AGSX         68     52  ROS 121372 1809    BE 48 41.50 S  46  0.50 W UNK     0       -9   -9    75       3                                 CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX         69      1  ROS 121572 1838    BE 52 31.00 S  46 22.50 W UNK  3466       -9   -9  3481      22 1-4,6                           DEEP & BOTTOM ROSETTE, RADON   
+316N19720718 AGSX         69      2  NAN 121572 2120    BE 52 32.50 S  46 22.00 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         69      3  NAN 121572 2218    BE 52 33.50 S  46 22.50 W UNK     0       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         69      4  ROS 121672 0114    BE 52 35.00 S  46 22.50 W UNK     0       -9   -9  1412      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         69      5  NIS 121672 0324    BE 52 37.50 S  46 23.00 W UNK     0       -9   -9    80       8 1                               SURFACE RADON                  
+316N19720718 AGSX         69     42  ROS 121672 0114    BE 52 35.00 S  46 22.50 W UNK     0       -9   -9     1       1                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         70      1  ROS 121672 1223    BE 53  3.50 S  47 43.50 W UNK  2750       -9   -9  2715      10 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         70     12  ROS 121672 1223    BE 53  3.50 S  47 43.50 W UNK  2750       -9   -9  2402      21                                 CTD LEVELS FROM CAST 1 DEEP RO 
+316N19720718 AGSX         71      1  ROS 121672 1752    BE 53  7.50 S  48 24.00 W UNK  2989       -9   -9  2982      23 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         72      1  ROS 121672 2234    BE 53  4.00 S  48 50.50 W UNK  3238       -9   -9  3200      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         73      1  ROS 121772 0340    BE 53  2.50 S  49 31.50 W UNK  2715       -9   -9  2704      10 1-4,6                           DEEP SINGLE ROSETTE            
+316N19720718 AGSX         73      2  GER 121772 0545    BE 53  1.00 S  49 31.00 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         73     12  ROS 121772 0340    BE 53  2.50 S  49 31.50 W UNK  2715       -9   -9  2502      26                                 CTD LEVELS FROM CAST 1 DEEP SI 
+316N19720718 AGSX         74      1  ROS 121772 1817    BE 55  0.50 S  50  4.50 W UNK  4165       -9   -9  4180      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         74      2  NIS 121772 2105    BE 55  0.00 S  50  5.50 W UNK     0       -9   -9    40       6 1                               SURFACE RADON                  
+316N19720718 AGSX         74      3  GER 121772 2319    BE 54 59.00 S  50  7.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         74      4  NAN 121872 0220    BE 54 58.50 S  50  8.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         74      5  ROS 121872 0446    BE 54 58.50 S  50  9.00 W UNK     0       -9   -9   998      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         74      6  NAN 121872 0707    BE 54 58.50 S  50 14.50 W UNK  4176       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         74      7  GER 121872 1102    BE 55  1.00 S  50  3.50 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         74      8  ROS 121872 1345    BE 55  1.00 S  50  2.50 W UNK  4095       -9   -9  4133      22 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         74      9  ESS 121872 1632    BE 55  1.50 S  50  2.00 W UNK     0       -9   -9    -9       0                                 ESSO ROSETTE                   
+316N19720718 AGSX         74     10  GER 121872 2040    BE 55  2.00 S  49 58.00 W UNK     0       -9   -9    -9       0                                 DEEP GERARD, RA-228            
+316N19720718 AGSX         74     11  GER 121972 0019    BE 55  2.50 S  49 53.50 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, RA-228         
+316N19720718 AGSX         74     12  ESS 121972 0200    BE 55  2.60 S  49 52.10 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         74     52  ROS 121872 0446    BE 54 58.50 S  50  9.00 W UNK     0       -9   -9     3       1 2                               CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX         75      1  ROS 122072 1744    BE 56  2.00 S  61  2.00 W UNK  4173       -9   -9  4197      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         75      2  NAN 122072 2010    BE 56  4.00 S  61  3.50 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         75      3  NAN 122072 2136    BE 56  5.00 S  61  3.00 W UNK  4209       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         75      4  ROS 122072 2330    BE 56  6.00 S  61  3.00 W UNK     0       -9   -9  1008      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         75     42  ROS 122072 2330    BE 56  6.00 S  61  3.00 W UNK     0       -9   -9     2       1                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         76      1  ROS 123172 1554    BE 57 44.00 S  66  8.00 W UNK  4610       -9   -9  4685      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         76      2  GER 123172 2055    BE 57 42.00 S  66 12.00 W UNK  4614       -9   -9    -9       0                                 DEEP GE9ARD, C-14              
+316N19720718 AGSX         76      3  ROS 010173 0110    BE 57 43.00 S  66 12.00 W UNK  4608       -9   -9  4578      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         76      4  NAN 010173 0515    BE 57 42.00 S  66 14.70 W UNK     0       -9   -9    -9       0                                 DEEP NANSEN (PRETRIPPED)       
+316N19720718 AGSX         76      5  GER 010173 0900    BE 57 42.00 S  66 11.00 W UNK     0       -9   -9    -9       0                                 INT. GERARD,PB-210 (PRETRIP)   
+316N19720718 AGSX         76      6  NAN 010173 1220    BE 57 43.50 S  66  6.00 W UNK  3815       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         76      7  ROS 010173 1425    BE 57 44.00 S  66  3.00 W UNK  3815       -9   -9  1212      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         76      8  GER 010173 1830    BE 57 43.00 S  66  9.00 W UNK  3891       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         76      9  NAN 010173 2043    BE 57 42.50 S  66  5.50 W UNK  3966       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         76     10  GER 010173 2322    BE 57 42.80 S  66  4.20 W UNK  3928       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         76     11  PMP 010173 2050    BE 57 40.00 S  66  4.00 W UNK     0       -9   -9    -9       0                                 B6W 7U47, C 14, 9A 228         
+316N19720718 AGSX         76     72  ROS 010173 1425    BE 57 44.00 S  66  3.00 W UNK  3815       -9   -9     3       1 2                               CTD LEVELS FROM CAST 7 SHALLOW 
+316N19720718 AGSX         77      1  ROS 010273 1403    BE 59 39.50 S  64 30.00 W UNK  3627       -9   -9  3612      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         77      2  PMP 010273 1600    BE 59 39.10 S  64 29.90 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         77     12  ROS 010273 1403    BE 59 39.50 S  64 30.00 W UNK  3627       -9   -9    22       2                                 CTD LEVELS FROM CAST 1 DEEP RO 
+316N19720718 AGSX         78      1  ROS 010373 0323    BE 61  3.00 S  62 58.00 W UNK  3739       -9   -9  3680      14 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         78      2  NAN 010373 0646    BE 61  2.30 S  62 56.50 W UNK  3755       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         78      3  GER 010373 0928    BE 61  1.50 S  62 56.00 W UNK  3741       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         78      4  NAN 010373 1137    BE 61  0.90 S  62 56.00 W UNK  3722       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         78      5  ROS 010373 1329    BE 61  0.70 S  62 59.00 W UNK  3714       -9   -9  1508      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         78      6  GER 010373 1624    BE 61  0.80 S  62 59.30 W UNK  3720       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         78      7  ROS 010373 2039    BE 60 59.00 S  63  0.00 W UNK  3857       -9   -9  3875      10 1-4,6                           BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         78      8  GER 010373 2343    BE 60 58.00 S  62 58.00 W UNK  3718       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         78      9  PMP 010373 2220    BE 60 58.50 S  62 58.40 W UNK     0       -9   -9    -9       0                                 BOW PU4P, C-14, RA-228         
+316N19720718 AGSX         78     52  ROS 010373 1329    BE 61  0.70 S  62 59.00 W UNK  3714       -9   -9     3       1 2                               CTD LEVELS FROM CAST 5 SHALLOW 
+316N19720718 AGSX         79      1  ROS 010673 1448    BE 59 56.50 S  45  2.00 W UNK  5062       -9   -9  1612      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         79      2  NAN 010673 1700    BE 59 56.00 S  44 57.30 W UNK  5062       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX         79      3  ROS 010673 2026    BE 59 56.50 S  44 54.00 W UNK  4897       -9   -9  4946      10                                 BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         79      4  NAN 010773 0049    BE 59 59.10 S  45  9.90 W UNK  5403       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         79      5  ROS 010773 0453    BE 59 57.00 S  45  8.00 W UNK  5213       -9   -9  5170      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         79      6  PMP 010673 1810    BE 59 56.20 S  44 56.20 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         79     12  ROS 010673 1448    BE 59 56.50 S  45  2.00 W UNK  5062       -9   -9     3       1 2                               CTD LEVELS FROM CAST 1 SHALLOW 
+316N19720718 AGSX         80      1  ROS 011073 0136    BE 57 47.80 S  29 44.30 W UNK  3441       -9   -9  3421      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         80      2  NIS 011073 0359    BE 57 48.00 S  29 44.30 W UNK     0       -9   -9    99       9 1                               SURFACE RADON                  
+316N19720718 AGSX         80      3  PMP 011073 0140    BE 57 47.80 S  29 44.50 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         80     12  ROS 011073 0136    BE 57 47.80 S  29 44.30 W UNK  3441       -9   -9   302      10                                 CTD LEVELS FROM CAST 1 DEEP RO 
+316N19720718 AGSX         81      1  ROS 011173 1117    BE 55 58.70 S  26 26.40 W UNK  4625       -9   -9  4570      10 1-4,6                           DEEP SINGLE ROSETTE            
+316N19720718 AGSX         81     12  ROS 011173 1117    BE 55 58.70 S  26 26.40 W UNK  4625       -9   -9  4078      19                                 CTD LEVELS FROM CAST 1 DEEP SI 
+316N19720718 AGSX         82      1  ROS 011173 2315    BE 56 15.70 S  24 55.20 W UNK  7792       -9   -9    -9       0                                 WIRE PARTED, ROSETTE LOST      
+316N19720718 AGSX         82      2  NAN 011273 0955    BE 56 14.70 S  24 58.00 W UNK  7754       -9   -9    -9       0                                 SHALLOW NA5SEN                 
+316N19720718 AGSX         82      3  NAN 011273 1806    BE 56 15.00 S  24 59.50 W UNK  7756       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         82      4  ROS 011373 0518    BE 56 17.00 S  24 55.50 W UNK  7741       -9   -9  1799      12 1-4,6                           SHALLOW ROSETTE (MALFUNCTION)  
+316N19720718 AGSX         82      5  GER 011373 0823    BE 56 15.60 S  24 55.00 W UNK  7817       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         82      6  ROS 011373 1058    BE 56 15.70 S  24 54.50 W UNK  7788       -9   -9   289      10 1-4,6                           SHALLOW ROSETTE (REPEAT)       
+316N19720718 AGSX         82      7  GER 011373 1515    BE 56 16.00 S  24 55.00 W UNK  7825       -9   -9    -9       0                                 BOTTOM GERARD, C-14            
+316N19720718 AGSX         82      8  ROS 011473 0150    BE 56 14.30 S  24 50.50 W UNK  7695       -9   -9    -9       0                                 DEEP ROSETTE (ABORTED)         
+316N19720718 AGSX         82      9  GER 011473 0623    BE 56 15.00 S  24 49.00 W UNK  7817       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         82     10  NAN 011473 1007    BE 56 15.40 S  24 54.80 W UNK  7807       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX         82     11  GER 011473 1328    BE 56 15.60 S  24 55.50 W UNK  7803       -9   -9    -9       0                                 SHA336W GE9ARD                 
+316N19720718 AGSX         82     12  ROS 011473 1629    BE 56 16.20 S  24 56.00 W UNK  7803       -9   -9    97       9 1                               SURFACE RADON                  
+316N19720718 AGSX         82     13  ROS 011473 2333    BE 56 17.00 S  24 58.20 W UNK     0       -9   -9    -9       0                                 DEEP SINGLE ROSETTE (ABORTED)  
+316N19720718 AGSX         82     14  NIS 011573 0657    BE 56 18.30 S  24 58.70 W UNK  7732       -9   -9  6669      21 1-4,6                           DEEP NISKIN                    
+316N19720718 AGSX         82     15  PMP 011473 0440    BE 56 14.70 S  24 49.80 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX         83      1  ROS 011773 0237    BE 56 48.60 S  22 22.00 W UNK  4738       -9   -9  1324      10 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         83      2  ROS 011773 0947    BE 56 49.30 S  22 27.00 W UNK  4673       -9   -9  4694      14 1-4,6                           DEEP ROS, 14 NISKINS ON WIRE   
+316N19720718 AGSX         83      3  PMP 011773 0432    BE 56 48.60 S  22 22.40 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         83     12  ROS 011773 0237    BE 56 48.60 S  22 22.00 W UNK  4738       -9   -9   303       9                                 CTD LEVELS FROM CAST 1 SHALLOW 
+316N19720718 AGSX         84      1  ROS 011873 0123    BE 56 55.40 S  19 49.80 W UNK  5153       -9   -9  5205      22 1-4,6                           ROS TEST, 21 NISKINS ON WIRE   
+316N19720718 AGSX         84      2  PMP 011873 0114    BE 56 55.40 S  19 49.90 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         84     12  ROS 011873 0123    BE 56 55.40 S  19 49.80 W UNK  5153       -9   -9   404       8                                 CTD LEVELS FROM CAST 1 ROS TES 
+316N19720718 AGSX         85      1  NIS 011873 1442    BE 57 30.80 S  17 23.10 W UNK     0       -9   -9    98      10 1                               SURFACE RADON                  
+316N19720718 AGSX         85      2  ROS 011873 1709    BE 57 32.00 S  17 26.00 W UNK  4787       -9   -9  4818      22 1-4,6                           DEEP ROS, 11 NISKINS ON WIRE   
+316N19720718 AGSX         85      3  ROS 011873 2310    BE 57 29.20 S  17 22.70 W UNK     0       -9   -9  1312      17 1-4,6                           SHAL ROS, 5 NISKINS ON WIRE    
+316N19720718 AGSX         85      4  PMP 011873 1906    BE 57 31.80 S  17 26.70 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         85     32  ROS 011873 2310    BE 57 29.20 S  17 22.70 W UNK     0       -9   -9   126       5                                 CTD LEVELS FROM CAST 3 SHAL RO 
+316N19720718 AGSX         86      1  ROS 011973 1349    BE 57 52.00 S  14 32.00 W UNK  4556       -9   -9  4561      22 1-4,6                           DEEP ROS, 11 NISKINS ON WIRE   
+316N19720718 AGSX         86      2  PMP 011973 1400    BE 57 51.60 S  14 32.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         86     12  ROS 011973 1349    BE 57 52.00 S  14 32.00 W UNK  4556       -9   -9   201       6                                 CTD LEVELS FROM CAST 1 DEEP RO 
+316N19720718 AGSX         87      1  ROS 012073 1237    BE 58 38.00 S   9 26.00 W UNK  4239       -9   -9  4259      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         87      2  PMP 012073 1406    BE 58 38.30 S   9 25.90 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         87     12  ROS 012073 1237    BE 58 38.00 S   9 26.00 W UNK  4239       -9   -9   252       5                                 CTD LEVELS FROM CAST 1 DEEP RO 
+316N19720718 AGSX         88      1  ROS 012173 1028    BE 59 20.00 S   4 51.00 W UNK  5263       -9   -9    -9       0                                 DEEP ROSETTE (MALFUNCTION)     
+316N19720718 AGSX         88      2  ROS 012173 1855    BE 59 22.30 S   4 44.00 W UNK  5543       -9   -9  5621      22 1-4,6                           DEEP ROS, 12 NISKINS ON WIRE   
+316N19720718 AGSX         88      3  PMP 012173 1010    BE 59 22.40 S   4 42.80 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14, RA-228         
+316N19720718 AGSX         88     22  ROS 012173 1855    BE 59 22.30 S   4 44.00 W UNK  5543       -9   -9   303       7                                 CTD LEVELS FROM CAST 2 DEEP RO 
+316N19720718 AGSX         89      1  GER 012273 1354    BE 60  0.90 S   0  2.00 E UNK  5323       -9   -9    -9       0                                 DEEP GERARD, C-14, PB-210      
+316N19720718 AGSX         89      2  ROS 012273 1840    BE 60  1.50 S   0  1.50 E UNK  5388       -9   -9  5425      22 1-4,6                           DEEP ROS, 10 NISKINS ON WIRE   
+316N19720718 AGSX         89      3  PMP 012373 0500    BE 60  2.40 S   0  0.60 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         89      4  ROS 012373 0930    BE 60  2.20 S   0  0.20 E UNK     0       -9   -9  2126      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         89      5  GER 012373 1345    BE 60  1.40 S   0  0.20 E UNK     0       -9   -9    -9       0                                 INT. GERARD, C-14, PB-210      
+316N19720718 AGSX         89      6  BAG 012373 2010    BE 60  0.00 S   0  1.00 E UNK     0       -9   -9    -9       0                                 SI-32 BAG                      
+316N19720718 AGSX         89      7  GER 012473 1128    BE 59 58.50 S   0  7.60 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14, PB-210   
+316N19720718 AGSX         89      8  ROS 012473 1413    BE 59 58.10 S   0  9.50 W UNK     0       -9   -9    83      10 1                               SURFACE ROSETTE, RADON         
+316N19720718 AGSX         89      9  GER 012473 1650    BE 59 59.00 S   0  1.00 W UNK     0       -9   -9    -9       0                                 SURFACE GERARD, C-14, PB-210   
+316N19720718 AGSX         89     10  ROS 012473 2025    BE 59 57.10 S   0  4.60 W UNK  5392       -9   -9  5470      10 1                               BOTTOM ROSETTE, RADON          
+316N19720718 AGSX         89     11  PMP 012473 2020    BE 59 57.10 S   0  4.60 W UNK     0       -9   -9    -9       0                                 BOW PUMP, C-14                 
+316N19720718 AGSX         89     12  ESS 012473 2340    BE 59 56.30 S   0  7.00 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         90      1  ROS 012673 0704    BE 56 25.70 S   4 30.70 E UNK  4381       -9   -9  4408      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         90      2  PMP 012673 1040    BE 56 25.00 S   4 30.00 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         90      3  ROS 012673 1626    BE 56 25.10 S   4 27.00 E UNK     0       -9   -9  1996      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         90     32  ROS 012673 1626    BE 56 25.10 S   4 27.00 E UNK     0       -9   -9   143       3                                 CTD LEVELS FROM CAST 3 SHALLOW 
+316N19720718 AGSX         91      1  ROS 012973 0453    BE 49 34.30 S  11 28.00 E UNK  4222       -9   -9  4244      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         91      2  GER 012973 1022    BE 49 34.20 S  11 30.80 E UNK  4146       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         91      3  PMP 012973 1220    BE 49 34.50 S  11 30.80 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX         91      4  ROS 012973 1611    BE 49 34.50 S  11 33.00 E UNK     0       -9   -9  2028      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         91      5  GER 012973 2005    BE 49 35.20 S  11 35.00 E UNK     0       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX         91      6  ROS 012973 2211    BE 49 35.40 S  11 36.30 E UNK     0       -9   -9   109      10 1                               SURFACE SINGLE ROSETTE, RADON  
+316N19720718 AGSX         91      7  GER 013073 0010    BE 49 36.80 S  11 37.80 E UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         91      8  ESS 013073 0035    BE 49 37.10 S  11 38.20 E UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         92      1  ROS 013173 0004    BE 46 11.00 S  14 36.80 E UNK  4561       -9   -9  4590      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         92      2  PMP 013173 0420    BE 46 13.00 S  14 36.00 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         92      3  ROS 013173 0731    BE 46 14.00 S  14 35.40 E UNK     0       -9   -9  2027      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         92     32  ROS 013173 0731    BE 46 14.00 S  14 35.40 E UNK     0       -9   -9    76       3                                 CTD LEVELS FROM CAST 3 SHALLOW 
+316N19720718 AGSX         93      1  ROS 020273 0054    BE 41 46.10 S  18 27.20 E UNK  4944       -9   -9  4587      22 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX         93      2  PMP 020273 0300    BE 41 46.20 S  18 27.20 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         93      3  GER 020273 0846    BE 41 46.10 S  18 25.90 E UNK  4915       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX         93      4  ROS 020273 1200    BE 41 46.40 S  18 26.00 E UNK     0       -9   -9  2223      14 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX         93      5  GER 020273 1544    BE 41 47.20 S  18 26.00 E UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX         93      6  NIS 020273 1930    BE 41 49.70 S  18 23.80 E UNK     0       -9   -9   804       8 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX         93      7  ESS 020273 2010    BE 41 49.70 S  18 23.80 E UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX         93     42  ROS 020273 1200    BE 41 46.40 S  18 26.00 E UNK     0       -9   -9   202       7                                 CTD LEVELS FROM CAST 4 SHALLOW 
+316N19720718 AGSX         94      1  ROS 020373 1855    BE 38 18.00 S  19 23.80 E UNK  4781       -9   -9  1638      12 1-4,6                           ROS TRIPPED IN TOP 1600M ONLY  
+316N19720718 AGSX         94      2  PMP 020373 2235    BE 38 23.00 S  19 24.00 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX         94     12  ROS 020373 1855    BE 38 18.00 S  19 23.80 E UNK  4781       -9   -9   404       7                                 CTD LEVELS FROM CAST 1 ROS TRI 
+316N19720718 AGSX        100      1  NAN 021173 1450    BE 33 12.50 S  13 19.40 E UNK  4019       -9   -9    -9       0                                 NANSEN Q CAST                  
+316N19720718 AGSX        100      2  NAN 021173 1626    BE 33 11.80 S  13 19.00 E UNK  3998       -9   -9    -9       0                                 NANSEN Q CAST                  
+316N19720718 AGSX        100      3  NAN 021173 1900    BE 33 11.90 S  13 18.90 E UNK  4002       -9   -9    -9       0                                 NANSEN Q CAST                  
+316N19720718 AGSX        100      4  NAN 021173 1914    BE 33 11.90 S  13 18.90 E UNK  4010       -9   -9    -9       0                                 NANSEN Q CAST                  
+316N19720718 AGSX        100      5  NAN 021173 2042    BE 33 11.00 S  13 18.50 E UNK  3992       -9   -9    -9       0                                 NANSEN Q CAST                  
+316N19720718 AGSX        100      6  ROS 021173 2314    BE 33  9.00 S  13 17.50 E UNK  4016       -9   -9    -9       0                                 DEEP ROSETTE (ABORTED)         
+316N19720718 AGSX        100     61  ROS 021173 2314    BE 33  9.00 S  13 17.50 E UNK  4016       -9   -9  1720      34                                 CTD LEVELS FROM CAST 6 DEEP RO 
+316N19720718 AGSX        100     62  ROS 021173 2314    BE 33  9.00 S  13 17.50 E UNK  4016       -9   -9  4042      13                                 CTD LEVELS FROM CAST 8 DEEP RO 
+316N19720718 AGSX        101      1  CTD 021273 1441    BE 31 58.00 S  10 48.00 E UNK  4832       -9   -9    -9       0                                 CTD WITH 5 CHECK SAMPLES       
+316N19720718 AGSX        101     11  CTD 021273 1441    BE 31 58.00 S  10 48.00 E UNK  4832       -9   -9  1010      26                                 CTD LEVELS FROM CAST 1 CTD WIT 
+316N19720718 AGSX        102      1  ROS 021273 2311    BE 31 31.30 S   9 26.40 E UNK  4867       -9   -9    -9       0                                 SHALLOW ROSETTE (ABORTED)      
+316N19720718 AGSX        102      2  NIS 021373 0105    BE 31 31.00 S   9 24.90 E UNK  4657       -9   -9   111       8 1                               SURFACE RADON                  
+316N19720718 AGSX        102      3  NAN 021373 0153    BE 31 31.10 S   9 24.50 E UNK  4657       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX        102      4  CTD 021373 0250    BE 31 31.20 S   9 24.30 E UNK     0       -9   -9    -9       0                                 CTD TEST, WINCH FAILED         
+316N19720718 AGSX        102      5  NIS 021373 1127    BE 31 35.50 S   9 15.00 E UNK  4921       -9   -9  5016      22 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        102      6  NIS 021373 1613    BE 31 33.40 S   9 17.60 E UNK     0       -9   -9  2021      22 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        102      7  PMP 021373 1636    BE 31 33.60 S   9 17.10 E UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX        102     62  NIS 021373 1613    BE 31 33.40 S   9 17.60 E UNK     0       -9   -9     0       1                                 CTD LEVELS FROM CAST 1 SHALLOW 
+316N19720718 AGSX        103      1  ROS 021773 0327    BE 23 59.80 S   8 30.30 E UNK  4624       -9   -9    -9       0                                 SHALLOW ROSETTE (ABORTED)      
+316N19720718 AGSX        103      2  GER 021773 0643    BE 23 59.90 S   8 30.10 E UNK  4640       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        103      3  NIS 021773 1051    BE 23 59.90 S   8 29.40 E UNK  4650       -9   -9  4663      16 1-4,6                           DEEP NISKIN                    
+316N19720718 AGSX        103      4  NIS 021773 1400    BE 24  0.00 S   8 29.10 E UNK     0       -9   -9   102       8 1                               SURFACE RADON                  
+316N19720718 AGSX        103      5  PMP 021773 1445    BE 24  0.00 S   8 29.10 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX        103      6  ROS 021773 2215    BE 24  0.00 S   8 27.70 E UNK  4624       -9   -9  2343      22 1-4,6                           SHALLOW NISKIN & DEEP SDT      
+316N19720718 AGSX        103      7  GER 021873 0258    BE 23 59.00 S   8 27.00 E UNK  4666       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        103     62  ROS 021773 2215    BE 24  0.00 S   8 27.70 E UNK  4624       -9   -9    10       2                                 CTD LEVELS FROM CAST 6 SHALLOW 
+316N19720718 AGSX        104      1  NAN 021873 1609    BE 22  0.00 S   7 14.50 E UNK     0       -9   -9   347      13 1-4,6                           SHALLOW NANSEN                 
+316N19720718 AGSX        104      2  NAN 021873 1719    BE 22  0.00 S   7 14.50 E UNK  2978       -9   -9  2998      22 1-4,6                           DEEP NANSEN                    
+316N19720718 AGSX        105      1  NIS 022073 0452    BE 20  0.30 S   2  0.00 E UNK  5466       -9   -9  5601      26 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        105      2  CTD 022073 0820    BE 20  0.10 S   1 58.60 E UNK     0       -9   -9    -9       0                                 CTD (MALFUNCTION)              
+316N19720718 AGSX        105      3  NIS 022073 1047    BE 20  0.20 S   1 58.00 E UNK  5438       -9   -9  1303      20 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        105      4  NIS 022073 1223    BE 20  0.30 S   1 57.60 E UNK  5462       -9   -9   101       8 1                               SURFACE RADON                  
+316N19720718 AGSX        105      5  NIS 022073 1320    BE 20  0.00 S   1 57.40 E UNK  5430       -9   -9   182       9 1-4,6                           SURFACE NISKIN                 
+316N19720718 AGSX        106      1  NAN 022173 1135    BE 15 59.90 S   1 58.30 E UNK  5469       -9   -9  1096      20 1-4,6                           SHALLOW NANSEN                 
+316N19720718 AGSX        106      2  CTD 022173 1140    BE 15 59.90 S   1 58.30 E UNK     0       -9   -9    -9       0                                 CTD TEST                       
+316N19720718 AGSX        106      3  NAN 022173 1345    BE 15 59.40 S   1 58.00 E UNK  5430       -9   -9  2766       8 1-4,6                           DEEP NANSEN                    
+316N19720718 AGSX        106      4  NAN 022173 1631    BE 15 59.30 S   1 57.80 E UNK  5506       -9   -9  5620      12 1-4,6                           DEEP NANSEN (REPEAT)           
+316N19720718 AGSX        107      1  NIS 022273 1520    BE 12  0.00 S   2  0.00 E UNK     0       -9   -9   100       8 1                               SURFACE RADON                  
+316N19720718 AGSX        107      2  GER 022273 1723    BE 12  0.00 S   1 59.20 E UNK  5528       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        107      3  ROS 022273 2245    BE 12  0.60 S   1 59.00 E UNK     0       -9   -9  1907      22 1-4,6                           SHAL NIS (ABORTED ESSO ROS)    
+316N19720718 AGSX        107      4  PMP 022273 2330    BE 12  0.00 S   1 58.00 E UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX        107      5  NIS 022373 0608    BE 12  0.00 S   1 58.00 E UNK  5536       -9   -9  5674      22 1-4,6                           DP NISKIN,3ESSO, BOTTOM RADON  
+316N19720718 AGSX        107      6  GER 022373 1004    BE 12  0.30 S   1 57.90 E UNK  5572       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        107      7  ESS 022373 1100    BE 12  0.30 S   1 57.90 E UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX        108      1  NAN 022573 0553    BE  5 20.70 S   2 25.40 W UNK  4508       -9   -9  1108      19 1-4,6                           SHALLOW NANSEN                 
+316N19720718 AGSX        108      2  NAN 022573 0725    BE  5 20.50 S   2 25.20 W UNK  4536       -9   -9  4611      18 1-4,6                           DEEP NANSEN                    
+316N19720718 AGSX        109      1  NIS 022673 0545    BE  2  0.00 S   4 30.00 W UNK  5050       -9   -9   121       8 1                               SURFACE RADON                  
+316N19720718 AGSX        109      2  GER 022673 0757    BE  1 59.70 S   4 31.50 W UNK  5030       -9   -9    -9       0                                 BOTTOM GERARD, RA-228          
+316N19720718 AGSX        109      3  CTD 022673 1030    BE  1 59.50 S   4 32.00 W UNK     0       -9   -9    -9       0                                 CTD                            
+316N19720718 AGSX        109      4  NIS 022673 1326    BE  1 59.80 S   4 33.00 W UNK  5139       -9   -9  2026      20 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        109      5  GER 022673 1655    BE  1 59.80 S   4 33.30 W UNK  5226       -9   -9    -9       0                                 DEEP GERARD, RA-228            
+316N19720718 AGSX        109      6  NIS 022673 2106    BE  2  0.00 S   4 33.00 W UNK  5117       -9   -9  5224      23 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        109      7  PMP 022673 2346    BE  2  0.00 S   4 33.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX        109     32  CTD 022673 1030    BE  1 59.50 S   4 32.00 W UNK     0       -9   -9    75       2                                 CTD LEVELS FROM CAST 3 CTD     
+316N19720718 AGSX        110      1  NAN 022873 0135    BE  0  0.50 S   9 11.40 W UNK  4984       -9   -9   890      20 1-4,6                           SHALLOW NANSEN                 
+316N19720718 AGSX        110      2  NAN 022873 0355    BE  0  1.00 N   9 10.80 W UNK  5018       -9   -9  5125      20 1-4,6                           DEEP NANSEN                    
+316N19720718 AGSX        111      1  GER 030173 0836    BE  2  0.50 N  14  1.60 W UNK  5146       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        111      2  NIS 030173 1206    BE  2  0.00 N  14  1.30 W UNK  5128       -9   -9  5239      22 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        111      3  PMP 030173 1355    BE  2  0.00 N  14  1.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX        111      4  CTD 030173 1730    BE  2  0.00 N  14  0.60 W UNK     0       -9   -9    -9       0                                 CTD                            
+316N19720718 AGSX        111      5  NIS 030173 2015    BE  2  0.50 N  13 59.80 W UNK     0       -9   -9  1827      22 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        111      6  GER 030173 2230    BE  1 59.70 N  13 59.80 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        111      7  NIS 030173 2355    BE  2  0.50 N  13 59.60 W UNK     0       -9   -9   115       8 1                               SURFACE RADON                  
+316N19720718 AGSX        111     42  CTD 030173 1730    BE  2  0.00 N  14  0.60 W UNK     0       -9   -9   151       3                                 CTD LEVELS FROM CAST 4 CTD     
+316N19720718 AGSX        112      1  NAN 030373 0730    BE  6 20.50 N  17 16.00 W UNK     0       -9   -9   903      20 1-4,6                           SHALLOW NANSEN                 
+316N19720718 AGSX        112      2  NAN 030373 0920    BE  6 20.50 N  17 15.90 W UNK  4925       -9   -9  5025      20 1-4,6                           DEEP NANSEN                    
+316N19720718 AGSX        112      3  CTD 030373 1055    BE  6 20.40 N  17 16.00 W UNK     0       -9   -9    -9       0                                 CTD TEST                       
+316N19720718 AGSX        113      1  GER 030573 0018    BE 10 59.10 N  20 31.00 W UNK  4924       -9   -9    -9       0                                 BOTTOM GERARD, C-14            
+316N19720718 AGSX        113      2  GER 030573 0332    BE 10 59.00 N  20 31.10 W UNK  4924       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        113      3  NIS 030573 0740    BE 10 59.40 N  20 32.40 W UNK  4920       -9   -9  4997      28 1-4,6                           DEEP NISKIN                    
+316N19720718 AGSX        113      4  PMP 030573 1005    BE 11  0.00 N  20 33.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14, RA-228     
+316N19720718 AGSX        113      5  CTD 030573 1255    BE 11  0.00 N  20 35.00 W UNK     0       -9   -9    -9       0                                 CTD TEST                       
+316N19720718 AGSX        113      6  NIS 030573 1650    BE 11  0.80 N  20 35.50 W UNK     0       -9   -9   429      21 1-4,6                           SHALLOW NISKIN (MALFUNCTION)   
+316N19720718 AGSX        113      7  GER 030573 1837    BE 11  1.30 N  20 35.70 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        113      8  NIS 030573 1953    BE 11  1.00 N  20 36.00 W UNK     0       -9   -9   100       8 1                               SURFACE RADON                  
+316N19720718 AGSX        113      9  NIS 030573 2102    BE 11  1.00 N  20 36.00 W UNK     0       -9   -9  1206       8 1-4,6                           SHALLOW NISKIN (REPEAT)        
+316N19720718 AGSX        114      1  ROS 031273 2022    BE 21 10.50 N  21 46.50 W UNK  4319       -9   -9  1204      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX        114      2  NIS 031273 2217    BE 21 10.50 N  21 46.50 W UNK     0       -9   -9    81       6 1                               SURFACE RADON                  
+316N19720718 AGSX        114      3  NIS 031273 2247    BE 21 10.50 N  21 46.50 W UNK     0       -9   -9   157       4 1                               SURFACE RADON                  
+316N19720718 AGSX        114      4  NAN 031273 2349    BE 21  9.70 N  21 46.20 W UNK     0       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX        114      5  ROS 031373 0220    BE 21 10.00 N  21 46.00 W UNK  4334       -9   -9  4411      13 1-4,6                           DEEP ROSETTE                   
+316N19720718 AGSX        114      6  NAN 031373 0600    BE 21 10.00 N  21 46.00 W UNK     0       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX        114      7  NIS 031373 0909    BE 21 10.00 N  21 46.00 W UNK  4343       -9   -9  4422      21 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        115      1  NIS 031573 0757    BE 28  1.50 N  26  0.00 W UNK  5214       -9   -9   231      10 1                               SURFACE RADON                  
+316N19720718 AGSX        115      2  GER 031573 0919    BE 28  2.50 N  26  0.00 W UNK  5214       -9   -9    -9       0                                 INTERMEDIATE GERARD, C-14      
+316N19720718 AGSX        115      3  ROS 031573 1407    BE 28  2.00 N  26  1.00 W UNK  5214       -9   -9  1505      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX        115      4  PMP 031573 1130    BE 28  2.00 N  26  0.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX        115      5  NAN 031573 1822    BE 28  5.00 N  25 56.50 W UNK  5244       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX        115      6  ROS 031573 1945    BE 28  6.00 N  25 55.00 W UNK     0       -9   -9    -9       0                                 DEEP ROSETTE (ABORTED)         
+316N19720718 AGSX        115      7  GER 031673 0010    BE 28  6.00 N  25 54.00 W UNK  5254       -9   -9    -9       0                                 BOTTOM GERARD, RA-228          
+316N19720718 AGSX        115      8  NIS 031673 0215    BE 28  6.00 N  25 53.00 W UNK     0       -9   -9    -9       0                                 DEE7 5IS2I5 (AB69TED'          
+316N19720718 AGSX        115      9  NIS 031673 0907    BE 28  6.00 N  25 46.00 W UNK  5259       -9   -9  5406      32 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        115     10  GER 031673 1233    BE 28  6.00 N  25 46.00 W UNK  5196       -9   -9    -9       0                                 DEEP GERARD, RA-228            
+316N19720718 AGSX        115     11  NAN 031673 1520    BE 28  6.50 N  25 44.00 W UNK  5139       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX        115     12  GER 031673 1742    BE 28  6.50 N  25 42.70 W UNK  5232       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        116      1  NIS 031873 0043    BE 29 56.00 N  30 24.00 W UNK     0       -9   -9   302      10 1                               SURFACE RADON                  
+316N19720718 AGSX        116      2  ROS 031873 0140    BE 29 56.00 N  30 24.00 W UNK     0       -9   -9  1499      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX        116      3  NIS 031873 0445    BE 29 54.00 N  30 22.00 W UNK  4646       -9   -9  4752      11 1-4,6                           BOTTOM NISKIN, RADON           
+316N19720718 AGSX        116      4  PMP 031873 0800    BE 29 53.00 N  30 22.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, C-14             
+316N19720718 AGSX        116      5  ROS 031873 1043    BE 29 51.00 N  30 21.00 W UNK     0       -9   -9    -9       0                                 DEEP ROSETTE AND STD (FAILED)  
+316N19720718 AGSX        116      6  NIS 031873 1540    BE 29 51.00 N  30 20.00 W UNK  4582       -9   -9  4577      22 1-4,6                           DEEP NISKIN                    
+316N19720718 AGSX        116      7  ESS 031873 1730    BE 29 50.00 N  30 20.20 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX        117      1  NIS 032073 2043    BE 30 40.50 N  38 58.00 W UNK  3629       -9   -9   301      10 1                               SURFACE RADON                  
+316N19720718 AGSX        117      2  GER 032073 2222    BE 30 40.00 N  38 56.00 W UNK  3628       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        117      3  ROS 032173 0100    BE 30 39.00 N  38 57.00 W UNK     0       -9   -9  1517      22 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX        117      4  PMP 032173 0000    BE 30 39.00 N  38 57.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX        117      5  NAN 032173 0755    BE 30 44.50 N  38 58.00 W UNK  3627       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX        117      6  NAN 032173 0938    BE 30 44.50 N  38 58.40 W UNK  3606       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX        117      7  GER 032173 1200    BE 30 46.00 N  38 58.00 W UNK  3630       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        117      8  ROS 032173 1500    BE 30 49.00 N  38 56.00 W UNK  3567       -9   -9  3617      22 1-4,6                           DEEP AND BOTTOM ROSETTE,RADON  
+316N19720718 AGSX        117      9  ESS 032173 1720    BE 30 49.60 N  38 53.70 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX        118      1  NIS 032373 0532    BE 31 18.10 N  45 38.90 W UNK  4531       -9   -9   301      10 1                               SURFACE RADON                  
+316N19720718 AGSX        118      2  ROS 032373 0720    BE 31 18.20 N  45 38.20 W UNK  4531       -9   -9  2021      24 1-4,6                           SHALLOW ROSETTE                
+316N19720718 AGSX        118      3  NAN 032373 1010    BE 31 18.00 N  45 37.00 W UNK  4533       -9   -9    -9       0                                 DEEP NANSEN                    
+316N19720718 AGSX        118      4  NAN 032373 1220    BE 31 18.30 N  45 36.60 W UNK  4533       -9   -9    -9       0                                 SHALLOW NANSEN                 
+316N19720718 AGSX        118      5  ROS 032373 1445    BE 31 18.00 N  45 34.70 W UNK  4529       -9   -9    -9       0                                 DEEP ROSETTE, CTD CHECKS ONLY  
+316N19720718 AGSX        118      6  NIS 032373 2002    BE 31 16.90 N  45 33.20 W UNK  4539       -9   -9  4607      26 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        118      7  PMP 032373 1914    BE 31 16.70 N  45 33.30 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX        118      8  ESS 032373 2300    BE 31 16.70 N  45 33.30 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX        119      1  NIS 032573 1018    BE 31 49.00 N  50 53.00 W UNK     0       -9   -9  1405      22 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        119      2  NIS 032573 1621    BE 31 48.80 N  50 53.50 W UNK  5734       -9   -9  5911      22 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        119      3  PMP 032573 1822    BE 31 48.70 N  50 52.80 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX        120      1  NIS 032773 0511    BE 33 16.00 N  56 33.00 W UNK  5511       -9   -9  5677      30 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        120      2  GER 032773 0807    BE 33 15.00 N  56 33.10 W UNK     0       -9   -9    -9       0                                 SHALLOW GERARD, C-14           
+316N19720718 AGSX        120      3  PMP 032773 0000    BE 33 14.00 N  56 34.00 W UNK     0       -9   -9    -9       0                                 SURFACE PUMP, RA-228           
+316N19720718 AGSX        120      4  NIS 032773 1352    BE 33 14.20 N  56 34.80 W UNK     0       -9   -9  1821      22 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        120      5  GER 032773 1642    BE 33 13.80 N  56 34.20 W UNK  5491       -9   -9    -9       0                                 DEEP GERARD, C-14              
+316N19720718 AGSX        120      6  ROS 032773 2228    BE 33 12.50 N  56 32.70 W UNK  5492       -9   -9   251       9 1                               SURFACE RADON                  
+316N19720718 AGSX        120      7  ESS 032773 2315    BE 33 12.50 N  56 32.70 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   
+316N19720718 AGSX        121      1  ROS 033073 1849    BE 35 59.40 N  67 59.00 W UNK  4756       -9   -9   304      10 1-4,6                           SURFACE RADON                  
+316N19720718 AGSX        121      2  NIS 033073 2050    BE 35 59.70 N  67 59.40 W UNK  4758       -9   -9  1881      20 1-4,6                           SHALLOW NISKIN                 
+316N19720718 AGSX        121      3  NIS 033173 0200    BE 35 59.30 N  68  0.80 W UNK  4886       -9   -9  5008      32 1-4,6                           DEEP NISKIN, BOTTOM RADON      
+316N19720718 AGSX        121      4  PMP 033173 0001    BE 36  0.90 N  68  1.00 W UNK     0       -9   -9    -9       0                                 BOW PUMP, RA-228               
+316N19720718 AGSX        121      5  ESS 033173 0402    BE 36  0.90 N  68  1.80 W UNK     0       -9   -9     0       1                                 ESSO, BUCKET                   

@@ -1,0 +1,21 @@
+R.R.S. CHARLES DARWIN   CRUISE 58        04/25/91 TO 05/15/91           20020404SIOWHOIDMB        
+SHIP/CRS  WOCE                 CAST         UTC           POSITION                  COR HT ABOVE  WIRE    MAX  NO. OF
+EXPOCODE  SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE  NAV    DEPTH   BOTTOM   OUT  PRESS BOTTLES PARAMETERS
+-----------------------------------------------------------------------------------------------------------------------------------------------
+74AB58   Dar91   11v03       1  ROS 042791 0314   BE 47 29.96 N  11 59.71 W GPS    ----       -9    -9   4689      21                                  
+74AB58   Dar91   11v04       1  ROS 042891 0410   BE 44 53.45 N  12 16.86 W GPS    ----       -9    -9   2736      20                                  
+74AB58   Dar91   11v05       1  ROS 042991 0636   BE 42  0.09 N  12 44.84 W GPS    ----       -9    -9   5093      21                                  
+74AB58   Dar91   11v06       1  ROS 043091 0306   BE 41 58.55 N  16 22.19 W GPS    ----       -9    -9   5027      20                                  
+74AB58   Dar91   11v07       1  ROS 050191 0655   BE 44 59.30 N  16 11.28 W GPS    ----       -9    -9   4367      20                                  
+74AB58   Dar91   11v08       1  ROS 050291 0847   BE 48  1.41 N  15 59.14 W GPS    ----       -9    -9   4823      21                                  
+74AB58   Dar91   11v09       1  ROS 050391 0927   BE 48  0.51 N  19 59.70 W GPS    ----       -9    -9   4386      22                                  
+74AB58   Dar91   11v10       1  ROS 050491 1320   BE 44 59.67 N  20  0.61 W GPS    ----       -9    -9   4376      20                                  
+74AB58   Dar91   11v11       1  ROS 050591 1617   BE 42  1.38 N  19 56.16 W GPS    ----       -9    -9   2844      19                                  
+74AB58   Dar91   11v12       1  ROS 050691 1853   BE 39  0.26 N  19 57.40 W GPS    ----       -9    -9   4680      19                                  
+74AB58   Dar91   11v13       1  ROS 050791 1925   BE 38 59.20 N  23 28.29 W GPS    3934       -9    -9   3912      23                                  
+74AB58   Dar91   11v14       1  ROS 050891 2125   BE 42  1.11 N  23 37.75 W GPS    ----       -9    -9   3653      24                                  
+74AB58   Dar91   11v15       1  ROS 051091 0039   BE 44 59.69 N  23 48.43 W GPS    ----       -9    -9   3219      24                                  
+74AB58   Dar91   11v16       1  ROS 051191 0231   BE 48  0.07 N  24  1.50 W GPS    ----       -9    -9   4043      24                                  
+74AB58   Dar91   11v17       1  ROS 051391 1115   BE 45  5.55 N  27 38.18 W GPS    ----       -9    -9   2464      24                                  
+74AB58   Dar91   11v18       1  ROS 051491 1331   BE 41 59.05 N  27  5.96 W GPS    ----       -9    -9   2940      24                                  
+74AB58   Dar91   11v19       1  ROS 051591 1413   BE 39 10.12 N  26 43.33 W GPS    ----       -9    -9   2372      18                  

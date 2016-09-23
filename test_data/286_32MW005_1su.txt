@@ -1,0 +1,27 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-5
+SHIP/CRS   WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+32MW005_1  PRS2       1       1   ROS 032689 0406    BE 21 20.40 N 158 16.10 W GPS  1460         461  1008      12  1,2,3,4,5,6    
+32MW005_1  PRS2       2       1   ROS 032689 1910    BE 22 46.10 N 157 54.10 W GPS  4700        4164   540       9  1    
+32MW005_1  PRS2       2       2   ROS 032689 2114    BE 22 45.60 N 157 54.60 W GPS  4675        1155  3572       0  1    
+32MW005_1  PRS2       2       3   ROS 032789 0116    BE 22 46.10 N 157 53.60 W GPS  4675         884  3850       0      
+32MW005_1  PRS2       2       4   ROS 032789 0412    BE 22 46.20 N 157 54.90 W GPS  4750        3176  1590       0      
+32MW005_1  PRS2       2       5   ROS 032789 0729    BE 22 46.80 N 157 55.10 W GPS  4675        3674  1010      12  1,2,3,4,5,6    
+32MW005_1  PRS2       2       6   ROS 032789 1045    BE 22 45.30 N 157 56.20 W GPS  4750        2571  2204       2      
+32MW005_1  PRS2       2       7   ROS 032789 1544    BE 22 47.90 N 157 57.50 W GPS  4750        4541   210       0      
+32MW005_1  PRS2       2       8   ROS 032789 1813    BE 22 47.10 N 157 54.40 W GPS  4750        3733  1026      12  1    
+32MW005_1  PRS2       2       9   ROS 032789 1957    BE 22 47.00 N 157 56.00 W GPS  4750        2910  1860       0      
+32MW005_1  PRS2       2      10   ROS 032789 2216    BE 22 47.20 N 157 54.50 W GPS  4750        4353   400       0      
+32MW005_1  PRS2       2      11   ROS 032889 0428    BE 22 48.00 N 157 55.60 W GPS  4750          -9    -9      11  1,2,3,4,5,6     Applied Micro
+32MW005_1  PRS2       2      12   ROS 032889 0910    BE 22 46.00 N 157 55.60 W GPS  4750          -9    -9       3  1               Applied Micro
+32MW005_1  PRS2       2      13   ROS 032889 1437    BE 22 46.10 N 157 56.10 W GPS  4750          -9    -9       3  1               Internally Recording Mode
+32MW005_1  PRS2       2      14   ROS 032889 1806    BE 22 46.10 N 157 55.60 W GPS  4750          -9    -9       0                  Bottles     Only
+32MW005_1  PRS2       2      15   ROS 032889 1920    BE 22 46.30 N 157 55.20 W GPS  4750          -9    -9       0                  Bottles     Only
+32MW005_1  PRS2       2      16   ROS 032989 0106    BE 22 45.00 N 157 56.60 W GPS  4750        4549   202      12  1,2,3,4,5,6    
+32MW005_1  PRS2       2      17   ROS 032989 0235    BE 22 44.80 N 157 57.60 W GPS  4750        4002   754       0      
+32MW005_1  PRS2       2      18   ROS 032989 0957    BE 22 44.00 N 157 57.90 W GPS  4750        4706    44       0      
+32MW005_1  PRS2       2      19   ROS 032989 1856    BE 22 42.00 N 157 58.40 W GPS  4750        4254   500       0                  CTD     Test
+32MW005_1  PRS2       2      20   ROS 032989 2303    BE 22  2.90 N 158 11.20 W GPS  4750        4242   512       0                  CTD     Test
+32MW005_1  PRS2       2      21   ROS 033089 0002    BE 21 58.20 N 158 12.40 W GPS  4750        4653    98       0                  CTD     Test
+32MW005_1  PRS2       2      22   ROS 033089 0020    BE  0  0.00 N   0 00.00 E GPS  4750        4641   110       0                 CTD Test

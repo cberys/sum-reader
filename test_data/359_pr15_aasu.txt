@@ -1,0 +1,13 @@
+PR15 R/V DISCOVERER CRUISE GP495 LEG 1          20010611WHPOSIOKJU
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF 
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33DSGP495_1 PR15       1      1  ROS 042695 0558    BO  8  0.6  N 165  0.6  E GPS  5189                 1002      12 1
+33DSGP495_1 PR15       2      1  ROS 042795 0556    BO  5  2.4  N 164 58.8  E GPS  4776                 1003      12 1
+33DSGP495_1 PR15       3      1  ROS 042795 1134    BO  4  0.6  N 165  0.0  E GPS  4489                 1003      12 1
+33DSGP495_1 PR15       4      1  ROS 042795 1651    BO  3  0.0  N 165  0.0  E GPS  4263                 1002      12 1
+33DSGP495_1 PR15       5      1  ROS 042795 2331    BO  1 57.0  N 165  2.4  E GPS  4183                 1006      12 1
+33DSGP495_1 PR15       6      1  ROS 042895 0443    BO  1  0.0  N 165  0.0  E GPS  4328                 1003      12 1
+33DSGP495_1 PR15       7      1  ROS 050195 1456    BO  0  0.6  S 164 59.4  E GPS  4380                 1002      12 1
+33DSGP495_1 PR15       8      1  ROS 050295 1300    BO  1 57.6  S 164 22.8  E GPS  4401                 1003      12 1
+33DSGP495_1 PR15       9      1  ROS 050395 0942    BO  4 57.0  S 165 10.2  E GPS  2529                 1002      12 1

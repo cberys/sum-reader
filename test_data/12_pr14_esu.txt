@@ -1,0 +1,140 @@
+R/V VIDAL GORMAZ  WHP-ID PR14                                  19980722WHPOSIOSA 
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX  NO. OF 
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------------------------
+20VGPR1494_1   PR14     01      1  CTD 100694 1906   BE 38 00.00 S  73 40.00 W GPS   100                      77       5 1,2         
+20VGPR1494_1   PR14     01      1  CTD 100694 1930   EN                                                                                
+20VGPR1494_1   PR14     02      1  CTD 100694 2000   BE 38 00.10 S  73 45.10 W GPS   125                     102       6 1,2         
+20VGPR1494_1   PR14     02      1  CTD 100694 2032   EN
+20VGPR1494_1   PR14     03      1  CTD 100694 2108   BE 38 00.00 S  73 54.80 W GPS   168                     154       7 1,2         
+20VGPR1494_1   PR14     03      1  CTD 100694 2140   EN                                                         
+20VGPR1494_1   PR14     04      1  CTD 100694 2250   BE 38 00.00 S  74 10.00 W GPS   600                     500
+20VGPR1494_1   PR14     04      1  CTD 100694 2324   EN                                                                         
+20VGPR1494_1   PR14     05      1  XBT 100794 0126   BE 38 00.00 S  74 37.60 W GPS  4500                                            LAUNCH FAILURE
+20VGPR1494_1   PR14     05      2  XBT 100794 0131   BE 38 00.10 S  74 38.10 W GPS  4500                    1800  
+20VGPR1494_1   PR14     05      3  CTD 100794 0146   BE 38 00.00 S  74 40.20 W GPS  4676                    3508                       
+20VGPR1494_1   PR14     05      3  CTD 100794 0440   EN 
+20VGPR1494_1   PR14     06      1  XBT 102294 2334   BE 37 59.90 S  75 17.50 W GPS  4000                    1800
+20VGPR1494_1   PR14     06      2  CTD 102394 0008   BE 38 00.00 S  75 15.00 W GPS  4135                    3445 
+20VGPR1494_1   PR14     06      2  CTD 102394 0203   EN  
+20VGPR1494_1   PR14     07      1  XBT 102294 1900   BE 38 00.00 S  75 53.20 W GPS  4000                    1800                
+20VGPR1494_1   PR14     07      2  CTD 102294 1922   BE 37 59.80 S  75 50.00 W GPS  3900                    3808                       
+20VGPR1494_1   PR14     07      2  CTD 102294 2110   EN
+20VGPR1494_1   PR14     08      1  XBT 102294 1212   BE 38 00.10 S  77 04.00 W GPS  4000                     760            
+20VGPR1494_1   PR14     08      2  CTD 102294 1226   BE 38 00.00 S  77 00.10 W GPS  4000                    3815                       
+20VGPR1494_1   PR14     08      2  CTD 102294 1409   EN
+20VGPR1494_1   PR14     09      1  XBT 102294 0513   BE 38 00.00 S  78 18.50 W GPS  4281                     760                 
+20VGPR1494_1   PR14     09      2  CTD 102294 0528   BE 38 00.10 S  78 15.00 W GPS  4194                    3922                 
+20VGPR1494_1   PR14     09      2  CTD 102294 0705   EN
+20VGPR1494_1   PR14     10      1  XBT 102194        BE 38 00.00 S  79 28.20 W GPS  3800                    1800 
+20VGPR1494_1   PR14     10      2  CTD 102194 2231   BE 38 00.00 S  79 24.90 W GPS  4146                    3768                    PROBLEMS WITH CTD BATTERIES
+20VGPR1494_1   PR14     10      2  CTD 102294 0010   EN
+20VGPR1494_1   PR14     11      1  XBT 102194 1517   BE 38 02.50 S  80 39.90 W GPS  4000                    1800               
+20VGPR1494_1   PR14     11      2  CTD 102194 1537   BE 38 00.00 S  80 40.20 W GPS  3969                    3808               
+20VGPR1494_1   PR14     11      2  CTD 102194 1715   EN
+20VGPR1494_1   PR14     12      1  XBT 102194 0916   BE 38 51.70 S  80 40.00 W GPS  4000                    1800                
+20VGPR1494_1   PR14     12      2  CTD 102194 0936   BE 38 50.00 S  80 40.10 W GPS  3970                    3809    
+20VGPR1494_1   PR14     12      2  CTD 102194 1115   EN    
+20VGPR1494_1   PR14     13      1  XBT 102194 0323   BE 39 42.50 S  80 40.10 W GPS  3700                    1800                 
+20VGPR1494_1   PR14     13      2  CTD 102194 0341   BE 39 39.90 S  80 40.00 W GPS  3890                    3502 
+20VGPR1494_1   PR14     13      2  CTD 102194 0505   EN
+20VGPR1494_1   PR14     14      1  XBT 102094 2132   BE 40 31.80 S  80 40.10 W GPS  3600                    1800             
+20VGPR1494_1   PR14     14      2  CTD 102094 2147   BE 40 30.10 S  80 40.10 W GPS  4221                    3925     
+20VGPR1494_1   PR14     14      2  CTD 102094 2325   EN
+20VGPR1494_1   PR14     15      1  XBT 102094 1649   BE 41 21.90 S  80 40.00 W GPS  3500                    1800
+20VGPR1494_1   PR14     15      2  CTD 102094 1559   BE 41 20.40 S  80 40.00 W GPS  3640                    3505                    WINCH DISPLAY DOES NOT WORK
+20VGPR1494_1   PR14     15      2  CTD 102094 1720   EN
+20VGPR1494_1   PR14     16      1  XBT 102094 0957   BE 42 07.30 S  80 35.90 W GPS  3500                                            LAUNCH FAILED
+20VGPR1494_1   PR14     16      2  XBT 102094 1002   BE 42 07.30 S  80 35.90 W GPS  3500                    1800             
+20VGPR1494_1   PR14     16      3  CTD 102094 1015   BE 42 09.80 S  80 39.90 W GPS  3589                    3208                    WINCH DISPLAY DOES NOT WORK
+20VGPR1494_1   PR14     16      3  CTD 102094 1135   EN 
+20VGPR1494_1   PR14     17      1  XBT 101394 0410   BE 43 02 35 S  80 39.90 W GPS  3000                    1800                
+20VGPR1494_1   PR14     17      2  CTD 101394 0430   BE 43 00.00 S  80 40.10 W GPS  3141                    3012    
+20VGPR1494_1   PR14     17      2  CTD 101394 0555   EN 
+20VGPR1494_1   PR14     18      1  XBT 101294 2135   BE 43 52.60 S  80 40.10 W GPS  3400                    1800  
+20VGPR1494_1   PR14     18      2  CTD 101294 2200   BE 43 49.90 S  80 39.80 W GPS  3618                    3000  
+20VGPR1494_1   PR14     18      2  CTD 101294 2342   EN 
+20VGPR1494_1   PR14     19      1  XBT 101294 1540   BE                                                     1800  
+20VGPR1494_1   PR14     19      2  CTD 101294 1600   BE 44 39.90 S  80 39.70 W GPS  2900                    2507
+20VGPR1494_1   PR14     19      2  CTD 101294 1708   EN
+20VGPR1494_1   PR14     20      1  XBT 101294 0912   BE 45 32.90 S  80 40.30 W GPS  3400                    1800 
+20VGPR1494_1   PR14     20      2  CTD 101294 0943   BE 45 29.90 S  80 39.70 W GPS  3300                    3016 
+20VGPR1494_1   PR14     20      2  CTD 101294 1105   EN 
+20VGPR1494_1   PR14     21      1  XBT 101294 0150   BE 46 22.40 S  80 40.10 W GPS  3500                    1800        
+20VGPR1494_1   PR14     21      2  CTD 101294 0208   BE 46 19.90 S  80 39.80 W GPS  3600                    3097    
+20VGPR1494_1   PR14     21      2  CTD 101294 0413   EN 
+20VGPR1494_1   PR14     22      1  XBT 101194 1825   BE 47 11.90 S  80 40.00 W GPS  3700                    1800     
+20VGPR1494_1   PR14     22      2  CTD 101194 1840   BE 47 10.00 S  80 39.70 W GPS  3813                          
+20VGPR1494_1   PR14     22      2  CTD 101194 2053   EN 
+20VGPR1494_1   PR14     23      1  XBT 101194 1118   BE 48 00.00 S  80 34.80 W GPS  4100                    1800         
+20VGPR1494_1   PR14     23      2  CTD 101194 1133   BE 47 59.90 S  80 39.90 W GPS  4000                    3809
+20VGPR1494_1   PR14     23      2  CTD 101194 1350   EN
+20VGPR1494_1   PR14     24      1  XBT 101194 0404   BE 47 59.80 S  79 16.70 W GPS  4000                    1800                    DOUBTFUL DEPTH PROBLEMS WITH SEABEAM
+20VGPR1494_1   PR14     24      2  CTD 101194 0430   BE 47 59.80 S  79 25.00 W GPS  4080                    3813                    PROBLEMS WITH SEABEAM FUSES,DEPTH MEASURED WITH ECOSOUNDER
+20VGPR1494_1   PR14     24      2  CTD 101194 0635   EN 
+20VGPR1494_1   PR14     25      1  XBT 101094 1823   BE 48 00.00 S  78 11.60 W GPS  3900                    1800 
+20VGPR1494_1   PR14     25      2  CTD 101094 2126   BE 48 00.00 S  78 15.10 W GPS  3913                            
+20VGPR1494_1   PR14     25      2  CTD 101094 2331   EN 
+20VGPR1494_1   PR14     26      1  CTD 101094 1349   BE 48 00.00 S  77 39.90 W GPS  3644                    2997      17 1,2
+20VGPR1494_1   PR14     26      1  CTD 101094 1558   EN
+20VGPR1494_1   PR14     27      1  XBT 101094 0912   BE 48 00.00 S  77 01.80 W GPS                          1800             
+20VGPR1494_1   PR14     27      2  CTD 101094 0935   BE 47 59.80 S  77 04.90 W GPS  3893                    3510      17 1,2        WINCH POWER OUT AT 2160 M 
+20VGPR1494_1   PR14     27      2  CTD 101094 1125   EN  
+20VGPR1494_1   PR14     28      1  CTD 101094 0515   BE 48 00.10 S  76 30.20 W GPS  2800                    2002      15 1,2        A CURL WAS CREATED AT THE WINCH CABLE, 3 M WERE CUT
+20VGPR1494_1   PR14     28      1  CTD 101094 0650   EN
+20VGPR1494_1   PR14     29      1  CTD 101094 0202   BE 48 00.00 S  75 59.80 W GPS  1276                     994      17 1,2        20 M WICH CABLE WERE CUT
+20VGPR1494_1   PR14     29      1  CTD 101094 0310   EN
+20VGPR1494_1   PR14     30      1  CTD 101094 0002   BE 47 59.90 S  75 50.20 W GPS   317                     223       9 1,2        WINCH CABLE WAS CUT
+20VGPR1494_1   PR14     30      1  CTD 101094 0030   EN
+20VGPR1494_1   PR14     31      1  CTD 100994 1400   BE 46 20.10 S  75 30.10 W GPS  1418                    1003      17 1,2        
+20VGPR1494_1   PR14     31      1  CTD 100994 1458   EN
+20VGPR1494_1   PR14     32      1  CTD 100894 2138   BE 44 30.00 S  75 15.00 W GPS   164                     101       6 1,2
+20VGPR1494_1   PR14     32      1  CTD 100894 2200   EN    
+20VGPR1494_1   PR14     33      1  CTD 100894 2302   BE 44 30.10 S  75 29.70 W GPS  1252                    1002      17 1,2
+20VGPR1494_1   PR14     33      1  CTD 100994 0000   EN
+20VGPR1494_1   PR14     34      1  CTD 100994 0242   BE 44 30.00 S  75 50.00 W GPS  1100                    1002      17 1,2        
+20VGPR1494_1   PR14     34      1  CTD 100994 0350   EN
+20VGPR1494_1   PR14     35      1  XBT 101494        BE                                                     1800 
+20VGPR1494_1   PR14     35      2  CTD 101494 1220   BE 44 30.00 S  76 30.00 W GPS  3266                    3003                  
+20VGPR1494_1   PR14     35      2  CTD 101494 1410   EN
+20VGPR1494_1   PR14     36      1  XBT 101494 0813   BE 44 30.10 S  77 09.60 W GPS  3000                    1800       
+20VGPR1494_1   PR14     36      2  CTD 101494 0837   BE 44 29.80 S  77 05.10 W GPS  3120                    2801 
+20VGPR1494_1   PR14     36      2  CTD 101494 1000   EN 
+20VGPR1494_1   PR14     37      1  XBT 101494 0151   BE 44 29.90 S  78 18.20 W GPS  3600                    1800                 
+20VGPR1494_1   PR14     37      2  CTD 101494 0210   BE 44 30.10 S  78 14.80 W GPS  3300                    3001    
+20VGPR1494_1   PR14     37      2  CTD 101494 0410   EN 
+20VGPR1494_1   PR14     38      1  XBT 101494 1955   BE 44 27.40 S  79 25.00 W GPS  3000                                            LAUNCH FAILURE
+20VGPR1494_1   PR14     38      2  XBT 101394 2000   BE 44 27.40 S  79 25.00 W GPS  3000                    1800
+20VGPR1494_1   PR14     38      3  CTD 101394 2020   BE 44 30.00 S  79 24.90 W GPS  2900                    2500                    COMPUTER FELL DOWN AT CTD LAUNCHING
+20VGPR1494_1   PR14     39      1  XBT 101394 1024   BE 43 00.00 S  79 28.70 W GPS  3500                    1800     
+20VGPR1494_1   PR14     39      2  CTD 101394 1040   BE 43 00.00 S  79 24.90 W GPS  3500                    3002
+20VGPR1494_1   PR14     39      2  CTD 101394 1230   EN
+20VGPR1494_1   PR14     40      1  XBT 102094 0022   BE 41 20.10 S  79 22.90 W GPS  3700                    1800 
+20VGPR1494_1   PR14     40      2  CTD 102094 0040   BE 41 20.00 S  79 25.10 W GPS  3398                    3504                    WINCH DISPLAY FAILURE
+20VGPR1494_1   PR14     40      2  CTD 102094 0215   EN 
+20VGPR1494_1   PR14     41      1  XBT 101994 1703   BE 41 20.30 S  78 13.10 W GPS  3669                    1800
+20VGPR1494_1   PR14     41      2  CTD 101994 1728   BE 41 19.50 S  78 15.20 W GPS  3865                    3617    
+20VGPR1494_1   PR14     41      2  CTD 101994 1904   EN 
+20VGPR1494_1   PR14     42      1  XBT 101994 1005   BE 41 20.20 S  77 01.90 W GPS  3716                    1800 
+20VGPR1494_1   PR14     42      2  CTD 101994 1027   BE 41 20.10 S  77 05.20 W GPS  3771                    3508                       
+20VGPR1494_1   PR14     42      2  CTD 101994 1152   EN
+20VGPR1494_1   PR14     43      1  XBT 101994 0530   BE 41 20.40 S  76 26.20 W GPS  3809                    1800
+20VGPR1494_1   PR14     43      2  CTD 101994 0550   BE 41 20.10 S  76 29.90 W GPS  3738                    3504                      
+20VGPR1494_1   PR14     43      2  CTD 101994 0725   EN
+20VGPR1494_1   PR14     44      1  XBT 101994 0116   BE 41 20.10 S  75 53.10 W GPS  3841                    1800          
+20VGPR1494_1   PR14     44      2  CTD 101994 0132   BE 41 20.10 S  75 55.20 W GPS  3839                    3503                   
+20VGPR1494_1   PR14     44      2  CTD 101994 0300   EN 
+20VGPR1494_1   PR14     45      1  XBT 101894 2106   BE 41 20.80 S  75 22.20 W GPS  3890                    1800     
+20VGPR1494_1   PR14     45      2  CTD 101894 2130   BE 41 20.00 S  75 25.00 W GPS  3897                    3707                     
+20VGPR1494_1   PR14     45      2  CTD 101894 2305   EN 
+20VGPR1494_1   PR14     46      1  CTD 100894 0400   BE 41 20.00 S  74 55.00 W GPS   454                     406      12 1,2         
+20VGPR1494_1   PR14     46      1  CTD 100894 0434   EN 
+20VGPR1494_1   PR14     47      1  CTD 100894 0205   BE 41 20.00 S  74 40.00 W GPS   670                     502      13 1,2
+20VGPR1494_1   PR14     47      1  CTD 100894 0250   EN 
+20VGPR1494_1   PR14     48      1  XBT 100894 0024   BE 41 20.10 S  74 27.50 W GPS   387                           
+20VGPR1494_1   PR14     48      2  CTD 100894 0055   BE 41 20.00 S  74 30.00 W GPS   455                     404      12 1,2       
+20VGPR1494_1   PR14     48      2  CTD 100894 0121   EN
+20VGPR1494_1   PR14     49      1  CTD 100794 2329   BE 41 20.21 S  74 20.07 W GPS   248                     203       8 1,2         
+20VGPR1494_1   PR14     49      1  CTD 100794 2348   EN
+20VGPR1494_1   PR14     50      1  CTD 100794 1405   BE 39 40.20 S  74 00.00 W GPS   197                     150       7 1,2   
+20VGPR1494_1   PR14     50      1  CTD 100794 1425   EN 

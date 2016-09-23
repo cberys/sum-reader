@@ -1,0 +1,21 @@
+R/V ROGER REVELLE LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+33RR149_1      PRS2      1      1  ROS 061803 2327   BE 21 20.52 N 158 16.13 W GPS  1484       471          1022      24 1,2             Dual T, C sensors   
+33RR149_1      PRS2      2      1  ROS 061903 1157   BE 22 44.95 N 157 59.62 W GPS  4723       0            4806      24 1,2,3,4,5,6     Dual T, C sensors   
+33RR149_1      PRS2      2      2  ROS 061903 1802   BE 22 44.50 N 158 00.53 W GPS  4723       3710         1022      24 1,2,3,4,5,6     Dual T, C sensors   
+33RR149_1      PRS2      2      3  ROS 061903 2100   BE 22 46.49 N 157 59.90 W GPS  4715       3662         1062      14 1               Dual T, C sensors   
+33RR149_1      PRS2      2      4  ROS 061903 2359   BE 22 46.73 N 158 00.00 W GPS  4706       3695         1020      14 1               Dual T, C sensors   
+33RR149_1      PRS2      2      5  ROS 062003 0301   BE 22 42.17 N 157 59.47 W GPS  4724       3711         1022      14 1               Dual T, C sensors   
+33RR149_1      PRS2      2      6  ROS 062003 0558   BE 22 42.41 N 157 58.15 W GPS  4724       3711         1022      14 1               Dual T, C sensors   
+33RR149_1      PRS2      2      7  ROS 062003 0857   BE 22 42.63 N 157 57.48 W GPS  4726       3715         1020      19 1,2             Dual T, C sensors   
+33RR149_1      PRS2      2      8  ROS 062003 1148   BE 22 42.61 N 157 56.67 W GPS  4720       3707         1022      22 1               Dual T, C sensors   
+33RR149_1      PRS2      2      9  ROS 062003 1459   BE 22 44.88 N 157 59.67 W GPS  4724       3711         1022       5 1               Dual T, C sensors   
+33RR149_1      PRS2      2     10  ROS 062003 1804   BE 22 44.29 N 157 59.76 W GPS  4731       3720         1020      10 1               Dual T, C sensors   
+33RR149_1      PRS2      2     11  ROS 062003 2102   BE 22 44.03 N 157 58.78 W GPS  4723       3710         1022       4 1               Dual T, C sensors   
+33RR149_1      PRS2      2     12  ROS 062003 2357   BE 22 43.71 N 157 58.79 W GPS  4723       3710         1022      11 1               Dual T, C sensors   
+33RR149_1      PRS2      2     13  ROS 062103 0257   BE 22 41.98 N 157 58.70 W GPS  4721       3708         1022       5 1               Dual T, C sensors   
+33RR149_1      PRS2      2     14  ROS 062103 0604   BE 22 41.13 N 157 57.33 W GPS  4727       3714         1022      24 1               Dual T, C sensors   
+33RR149_1      PRS2      2     15  ROS 062103 0849   BE 22 45.19 N 157 59.95 W GPS  4724       11           4796      11 1,2             Dual T, C sensors   
+33RR149_1      PRS2      6      1  ROS 062203 0603   BE 21 50.81 N 158 21.80 W GPS  2458       41           2446      13 1               Dual T, C sensors   

@@ -1,0 +1,21 @@
+PR15 R/V KA'IMIMOANA CRUISE GP498 LEG 1 20010424WHPOSIOKJU
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF 
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33KMGP498_1 PR15      1      1  ROS 070898 0428    BO  8  1.2  N 165  3.0  E GPS  5215                 1008      12 1
+33KMGP498_1 PR15      2      1  ROS 070898 1210    BO  7  0.0  N 165  0.6  E GPS  5157                 1006      12 1
+33KMGP498_1 PR15      3      1  ROS 070898 1858    BO  6  0.0  N 165  0.6  E GPS  5005                 1004      12 1
+33KMGP498_1 PR15      4      1  ROS 070998 0906    BO  5  0.6  N 165  0.0  E GPS  4780                 1012      12 1
+33KMGP498_1 PR15      5      1  ROS 070998 1622    BO  4  0.0  N 164 58.8  E GPS  4498                 1004      12 1
+33KMGP498_1 PR15      6      1  ROS 070998 2317    BO  3  0.6  N 164 56.4  E GPS  4198                 1006      12 1
+33KMGP498_1 PR15      7      1  ROS 071098 0616    BO  1 59.4  N 164 56.4  E GPS  4189                 1008      12 1
+33KMGP498_1 PR15      8      1  ROS 071098 1348    BO  1  0.0  N 164 59.4  E GPS  4335                 1004      12 1
+33KMGP498_1 PR15      9      1  ROS 071198 0750    BO  0  1.2  N 165  0.0  E GPS  4415                 1010      12 1
+33KMGP498_1 PR15     10      1  ROS 071198 1504    BO  1  0.0  S 164 44.4  E GPS  4428                 1005      12 1
+33KMGP498_1 PR15     11      1  ROS 071198 2202    BO  1 55.8  S 164 25.2  E GPS  4432                 1010      12 1
+33KMGP498_1 PR15     12      1  ROS 071298 1705    BO  2 59.4  S 164 42.0  E GPS  3635                 1017      12 1
+33KMGP498_1 PR15     13      1  ROS 071398 0056    BO  4  0.0  S 164 57.0  E GPS  3249                 1004      12 1
+33KMGP498_1 PR15     14      1  ROS 071398 0920    BO  5  1.8  S 165 11.4  E GPS  2479                 1004      12 1
+33KMGP498_1 PR15     15      1  ROS 071398 1555    BO  6  0.0  S 165  4.8  E GPS  3609                 1003      12 1
+33KMGP498_1 PR15     16      1  ROS 071398 2235    BO  7  0.0  S 164 58.2  E GPS  3727                 1004      12 1
+33KMGP498_1 PR15     17      1  ROS 071498 1050    BO  8  2.4  S 164 49.2  E GPS  3901                 1003      12 1

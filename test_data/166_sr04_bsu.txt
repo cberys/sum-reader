@@ -1,0 +1,90 @@
+   R/V POLARSTERN ANT IX/2                   20010328WHPOSIOKJU                                                           
+SHIP/CRS    WOCE                 CAST         UTC            POSITION                UNC    COR    MAX NO.  OF              
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV  DEPTH CDEPTH  PRESS BOTTLES PARAM    COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------
+06AQANTIX_2 SR04      35       1  ROS 112090 1915   BE  62 12.3 S  58 53.2 W   UN    212    205  215.8                  CTD 
+06AQANTIX_2 SR04      36       1  ROS 112190 0020   BE  62 22.8 S  57 59.8 W   UN   1895   1857 1912.5      24 1-6,27   CTD        
+06AQANTIX_2 SR04      39       1  ROS 112190 2040   BE  63 20.3 S  52 59.1 W   UN    434    418  583.5      12 1-6,27   CTD        
+06AQANTIX_2 SR04      40       1  ROS 112190 2347   BE  63 16.0 S  53 20.1 W   UN    386    372  383.9       9 1-6      CTD        
+06AQANTIX_2 SR04      41       1  ROS 112290 0626   BE  63 25.1 S  52 33.3 W   UN    498    480  498.5      12 1-6,27   CTD        
+06AQANTIX_2 SR04      42       1  ROS 112290 1516   BE  63 29.5 S  52  5.4 W   UN    939    911  942.6      12 1-6,27   CTD        
+06AQANTIX_2 SR04      43       1  ROS 112290 1940   BE  63 37.7 S  51 22.0 W   UN   2110   2061 2133.9      16 1-6,27   CTD        
+06AQANTIX_2 SR04      44       1  ROS 112390 0735   BE  63 45.3 S  50 55.5 W   UN   2404   2352 2431.7      19 1-6,27   CTD        
+06AQANTIX_2 SR04      45       1  ROS 112390 1525   BE  63 52.0 S  50  1.1 W   UN   2828   2774 2871.7      24 1,3-6,27 CTD        
+06AQANTIX_2 SR04      45       2  ROS 112390 1829   BE  63 51.3 S  50  2.0 W   UN   2820   2766  346.3                  CTD        
+06AQANTIX_2 SR04      46       1  ROS 112490 0111   BE  63 57.0 S  49  9.2 W   UN   3422   3367 3478.4      24 1-6      CTD        
+06AQANTIX_2 SR04      47       1  ROS 112490 0937   BE  64 14.0 S  47 33.9 W   UN   4035   3984 4130.0      20 1-6      CTD        
+06AQANTIX_2 SR04      48       1  ROS 112490 2221   BE  64 24.5 S  45 48.6 W   UN   4298   4250 4405.6      24 1-6,27   CTD        
+06AQANTIX_2 SR04      48       2  ROS 112590 0246   BE  64 24.1 S  45 48.3 W   UN   4293   4245  328.5                  CTD        
+06AQANTIX_2 SR04      49       1  ROS 112590 1000   BE  64 37.2 S  44 13.1 W   UN   4439   4393 4556.8      24 1-6,27   CTD        
+06AQANTIX_2 SR04      50       1  ROS 112590 2143   BE  64 49.2 S  42 30.5 W   UN   4535   4491 4657.5      24 1-6,27   CTD        
+06AQANTIX_2 SR04      51       1  ROS 112690 0748   BE  65  2.6 S  40 45.4 W   UN   4589   4546 4713.7      24 1-6,27   CTD        
+06AQANTIX_2 SR04      53       1  ROS 112790 1355   BE  65 54.3 S  40 16.1 W   UN   4459   4414 4583.5      24 3-6,27   CTD        
+06AQANTIX_2 SR04      55       1  ROS 112890 0843   BE  65 40.2 S  37 44.6 W   UN   4582   4539 4707.6      24 1-6,27   CTD        
+06AQANTIX_2 SR04      56       1  ROS 112890 1946   BE  65 16.8 S  39 17.8 W   UN   4665   4623 4727.1      24 1-6,27   CTD        
+06AQANTIX_2 SR04      56       2  ROS 112890 2337   BE  65 11.5 S  39 23.4 W   UN   4589   4546  294.9                  CTD        
+06AQANTIX_2 SR04      57       1  ROS 112990 0540   BE  65 24.8 S  37 55.3 W   UN   4584   4541 4692.2      24 1-6,27   CTD        
+06AQANTIX_2 SR04      58       1  ROS 112990 1859   BE  65 38.3 S  36 28.6 W   UN   4638   4595 4723.1      24 1-6,27   CTD        
+06AQANTIX_2 SR04      59       1  ROS 113090 0146   BE  65 43.3 S  35 26.8 W   UN   4664   4622 4728.9      24 1-6,27   CTD        
+06AQANTIX_2 SR04      60       1  ROS 113090 0718   BE  65 49.8 S  34 21.0 W   UN   4673   4631 4742.4         1-6,27   CTD        
+06AQANTIX_2 SR04      61       1  ROS 120190 0136   BE  65 55.3 S  33 34.4 W   UN   4593   4550 4742.4         1-6,27   CTD        
+06AQANTIX_2 SR04      62       1  ROS 120190 1137   BE  66  3.3 S  32 32.8 W   UN   4601   4558 4746.2         1-6,27   CTD        
+06AQANTIX_2 SR04      63       1  ROS 120190 1647   BE  66  7.3 S  31 46.9 W   UN   4618   4575 4744.3         1-6,27   CTD        
+06AQANTIX_2 SR04      63       2  ROS 120190 2043   BE  66  7.3 S  31 48.1 W   UN   4610   4567  308.7                  CTD        
+06AQANTIX_2 SR04      64       1  ROS 120290 0015   BE  66 11.0 S  31  8.7 W   UN   4648   4605 4765.6         2-6,27   CTD        
+06AQANTIX_2 SR04      65       1  ROS 120290 0525   BE  66 16.8 S  30 17.6 W   UN   4633   4590 4763.6         1-6,27   CTD        
+06AQANTIX_2 SR04      66       1  ROS 120290 1303   BE  66 21.7 S  29 32.1 W   UN   4645   4602 4767.5         1-6,27   CTD        
+06AQANTIX_2 SR04      67       1  ROS 120290 1748   BE  66 27.8 S  28 43.8 W   UN   4681   4639 4798.4         1-4,6,27 CTD        
+06AQANTIX_2 SR04      68       1  ROS 120290 2335   BE  66 31.0 S  27 58.9 W   UN   4686   4644 4804.2         1-6,27   CTD        
+06AQANTIX_2 SR04      69       1  ROS 120390 0524   BE  66 37.2 S  27  7.2 W   UN   4690   4648 4821.6         1-6,27   CTD        
+06AQANTIX_2 SR04      70       1  ROS 120490 0012   BE  66 13.8 S  27 43.6 W   UN   4712   4670 4831.4         1-6,27   CTD        
+06AQANTIX_2 SR04      71       1  ROS 120490 0611   BE  65 49.8 S  28 22.9 W   UN   4717   4675 4848.9         1-6,27   CTD        
+06AQANTIX_2 SR04      72       1  ROS 120490 1127   BE  65 27.4 S  28 58.0 W   UN   4749   4708 4870.4         1-6,27   CTD        
+06AQANTIX_2 SR04      73       1  ROS 120490 1803   BE  65  5.2 S  29 30.7 W   UN   4757   4716 4886.0         1-6,27   CTD        
+06AQANTIX_2 SR04      74       1  ROS 120590 0138   BE  65 28.1 S  29 50.8 W   UN   4724   4682 4845.2         1-6,27   CTD        
+06AQANTIX_2 SR04      75       1  ROS 120590 0911   BE  65 57.3 S  30  4.4 W   UN   4678   4636 4806.3         1-6,27   CTD        
+06AQANTIX_2 SR04      75       2  ROS 120590 1339   BE  65 57.7 S  30  3.4 W   UN   4683   4641  308.7                  CTD        
+06AQANTIX_2 SR04      76       1  ROS 120590 1658   BE  66 17.4 S  30 17.8 W   UN   4635   4592 4761.7         1-6,27   CTD        
+06AQANTIX_2 SR04      77       1  ROS 120590 2222   BE  66 41.5 S  30 35.6 W   UN   4571   4527 4693.7         1-6,27   CTD        
+06AQANTIX_2 SR04      78       1  ROS 120690 0325   BE  67  4.9 S  30 51.8 W   UN   4525   4481 4645.2         1-6,27   CTD        
+06AQANTIX_2 SR04      79       1  ROS 120690 0842   BE  67 28.6 S  31  5.7 W   UN   4453   4408 4573.4         1-6,27   CTD        
+06AQANTIX_2 SR04      80       1  ROS 120690 1452   BE  67 19.0 S  29 57.3 W   UN   4509   4464 4623.8         1-6,27   CTD        
+06AQANTIX_2 SR04      81       1  ROS 120690 2118   BE  67  8.6 S  28 47.0 W   UN   4588   4545 4711.0         1-6,27   CTD        
+06AQANTIX_2 SR04      82       1  ROS 120790 0354   BE  66 57.4 S  27 36.8 W   UN   4651   4609 4775.0         1-6,27   CTD        
+06AQANTIX_2 SR04      83       1  ROS 120790 1021   BE  66 45.4 S  26 23.6 W   UN   4685   4643 4815.7         1-6      CTD        
+06AQANTIX_2 SR04      84       1  ROS 120790 1617   BE  66 53.4 S  25 33.4 W   UN   4672   4630 4798.3         1-5,27   CTD        
+06AQANTIX_2 SR04      85       1  ROS 120790 2359   BE  67  2.8 S  24  9.1 W   UN   4691   4649 4809.8         1-6,27   CTD        
+06AQANTIX_2 SR04      86       1  ROS 120890 0559   BE  67 13.6 S  24  9.1 W   UN   4688   4646 4817.5         1-6,27   CTD        
+06AQANTIX_2 SR04      87       1  ROS 120890 1213   BE  67 21.9 S  23 19.4 W   UN   4716   4674 4834.9         1-6,27   CTD        
+06AQANTIX_2 SR04      88       1  ROS 120890 2008   BE  67 30.7 S  22 31.4 W   UN   4709   4667 4854.2         1-6,27   CTD        
+06AQANTIX_2 SR04      89       1  ROS 120990 0242   BE  67 39.9 S  21 39.7 W   UN   4746   4705 4867.7         1-6,27   CTD        
+06AQANTIX_2 SR04      90       1  ROS 120990 0844   BE  67 50.6 S  20 51.0 W   UN   4748   4707 4879.3         1-6,27   CTD        
+06AQANTIX_2 SR04      91       1  ROS 120990 1759   BE  67 59.3 S  19 58.2 W   UN   4726   4685 4861.8         2-6,27   CTD        
+06AQANTIX_2 SR04      92       1  ROS 120990 2344   BE  68 16.9 S  19 20.3 W   UN   4692   4650 4809.4         2-6,27   CTD        
+06AQANTIX_2 SR04      93       1  ROS 121090 0511   BE  68 33.2 S  18 37.1 W   UN   4610   4567 4735.8         1-6,27   CTD        
+06AQANTIX_2 SR04      94       1  ROS 121090 1437   BE  68 50.0 S  17 54.0 W   UN   4629   4586 4739.6         1-6,27   CTD        
+06AQANTIX_2 SR04      94       2  ROS 121090 1918   BE  68 52.3 S  17 50.4 W   UN   4610   4567  310.6                  CTD        
+06AQANTIX_2 SR04      95       1  ROS 121090 2208   BE  69  4.6 S  17 15.8 W   UN   4598   4555 4722.1         1-6,27   CTD        
+06AQANTIX_2 SR04      96       1  ROS 121190 0338   BE  69 21.7 S  16 29.6 W   UN   4572   4528 4692.9         1-6,27   CTD        
+06AQANTIX_2 SR04      97       1  ROS 121190 0926   BE  69 39.5 S  15 43.6 W   UN   4595   4552 4716.1         1-6,27   CTD        
+06AQANTIX_2 SR04      98       1  ROS 121290 0130   BE  69 48.2 S  15 14.7 W   UN   4598   4555 4712.2         1-6      CTD        
+06AQANTIX_2 SR04      99       1  ROS 121290 0601   BE  69 58.1 S  14 42.2 W   UN   4570   4526 4694.7         1-6      CTD        
+06AQANTIX_2 SR04     100       1  ROS 121290 1047   BE  70  7.5 S  14 15.4 W   UN   4371   4324 4491.2         1-6,27   CTD        
+06AQANTIX_2 SR04     101       1  ROS 121290 1854   BE  70 18.5 S  13 42.2 W   UN   4214   4165 4339.9         1-6,27   CTD        
+06AQANTIX_2 SR04     102       1  ROS 122390 0146   BE  70 23.0 S  13 32.5 W   UN   2867   2812 2911.5         1-6,27   CTD        
+06AQANTIX_2 SR04     103       1  ROS 121390 0442   BE  70 25.2 S  13 17.7 W   UN   2637   2584 2675.1         1-6,27   CTD        
+06AQANTIX_2 SR04     104       1  ROS 121390 0741   BE  70 29.7 S  13  8.2 W   UN   2325   2274 2354.3         1-6,27   CTD        
+06AQANTIX_2 SR04     105       1  ROS 121390 1223   BE  70 38.3 S  12 44.1 W   UN   2166   2116 2193.7         1-5,27   CTD        
+06AQANTIX_2 SR04     106       1  ROS 121390 1613   BE  70 47.6 S  12 21.7 W   UN   2003   1956 2021.2         1-5,27   CTD        
+06AQANTIX_2 SR04     108       1  ROS 121490 0006   BE  70 59.5 S  11 50.2 W   UN   1093   1061 1085.9         1-6,27   CTD        
+06AQANTIX_2 SR04     108       2  ROS 121490 0311   BE  70 59.8 S  11 53.0 W   UN   1186   1152  298.7         1-6,27   CTD        
+06AQANTIX_2 SR04     109       1  ROS 121490 0513   BE  70 54.4 S  11 56.5 W   UN   1518   1479 1526.6         1-6,27   CTD        
+06AQANTIX_2 SR04     112       1  ROS 121590 0737   BE  70 59.6 S  11 44.9 W   UN    759    735  760.7         1-6,27   CTD113     
+06AQANTIX_2 SR04     113       1  ROS 121590 1144   BE  71  3.0 S  11 42.4 W   UN    358    345  356.0         1-6,27   CTD114     
+06AQANTIX_2 SR04     114       1  ROS 121590 1414   BE  71  5.0 S  11 33.9 W   UN    262    252  241.4         1-6,27   CTD HYDRO ONLY
+06AQANTIX_2 SR04     114       2  CTD 121590 1550   BE  71  5.0 S  11 33.9 W  INT                                       CTD ONLY ?  
+06AQANTIX_2 SR04     115       1  ROS 121590 1754   BE  71  6.8 S  11 23.2 W   UN    461    444  462.7         3-5,27   CTD        
+06AQANTIX_2 SR04     115       2  ROS 121590 2007   BE  71  6.8 S  11 23.2 W   UN    461    444  460.7         1-6,27   CTD        
+06AQANTIX_2 SR04     117       1  ROS 122090 0609   BE  68  0.5 S   3 57.9 W   UN   4103   4053  314.6                  CTD120     
+06AQANTIX_2 SR04     118       1  ROS 122390 1450   BE  54 21.1 S   3 20.7 W   UN   2629   2585 1016.3         1-6,27   CTD121     
+06AQANTIX_2 SR04     118       2  ROS 122390 1711   BE  54 20.0 S   3 24.1 W   UN   2639   2595 2701.8         1-6,27   CTD121      

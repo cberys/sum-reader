@@ -1,0 +1,223 @@
+                                      R/V MARION DUFRESNE cruise 68 -SUZIL                                                         
+SHIP/CRS    WOCE                 CAST         UTC            POSITION                  UNC    COR   WIRE    MAX  NO. OF            
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE     NAV  DEPTH CDEPTH    OUT  PRESS BOTTLES PARAMETER C
+-----------------------------------------------------------------------------------------------------------------------------------
+35MF68SUZIL ISS1       1       1  CTD 041591  830   BE 36 58.06 S   55  0.46 E  TRS   4350   4362                                          
+35MF68SUZIL ISS1       1       1  CTD 041591  947   BO 36 59.78 S   55  0.47 E  TRS   4350   4362   4227   4289                            
+35MF68SUZIL ISS1       1       1  CTD 041591 1224   NE 37  0.08 S   55  1.87 E  TRS   4350   4362                                          
+35MF68SUZIL ISS1       2       1  ROS 041591 1737   BE 38  0.18 S   54 33.72 E  TRS   4087   4095                                          
+35MF68SUZIL ISS1       2       1  ROS 041591 1900   BO 37 59.96 S   54 33.85 E  TRS   4087   4095   4001   4078       2 1-2                
+35MF68SUZIL ISS1       2       1  ROS 041591 2100   NE 38  0.64 S   54 33.39 E  TRS   4087   4095                                          
+35MF68SUZIL ISS1       3       1  CTD 041691  233   BE 38 59.99 S   54  5.77 E  TRS   4860   4883                                          
+35MF68SUZIL ISS1       3       1  CTD 041691  406   BO 39  0.15 S   54  4.54 E  TRS   4860   4883   4804   4886                            
+35MF68SUZIL ISS1       3       1  CTD 041691  632   NE 39  0.25 S   54  3.70 E  TRS   4860   4883                                          
+35MF68SUZIL ISS1       4       1  CTD 041691 1145   BE 39 55.04 S   53 41.56 E  TRS   4072   4079                                          
+35MF68SUZIL ISS1       4       1  CTD 041691 1300   BO 40  0.23 S   53 39.25 E  TRS   3983   3989   4000   4053                            
+35MF68SUZIL ISS1       4       1  CTD 041691 1601   NE 40  1.28 S   53 37.89 E  TRS   3983   3989                                          
+35MF68SUZIL ISS1       5       1  ROS 041691 1939   BE 40 30.23 S   53 26.05 E  TRS   3920   3925                                          
+35MF68SUZIL ISS1       5       1  ROS 041691 2109   BO 40 30.53 S   53 26.32 E  TRS   3920   3925   3888   3878       8 1-2                
+35MF68SUZIL ISS1       5       1  ROS 041691 2341   NE 40 31.23 S   53 25.61 E  TRS   3920   3917                                          
+35MF68SUZIL ISS1       6       1  ROS 041791  220   BE 40 56.48 S   53 14.29 E  TRS   3742   3736                                          
+35MF68SUZIL ISS1       6       1  ROS 041791  357   BO 41  1.02 S   53 12.96 E  TRS   3705   3699   3864   3687      11 1-2                
+35MF68SUZIL ISS1       6       1  ROS 041791  548   NE 41  2.22 S   53 15.09 E  TRS   3705   3699                                          
+35MF68SUZIL ISS1       7       1  ROS 041791 1637   BE 41 30.02 S   52 57.74 E  TRS   3397   3388                                          
+35MF68SUZIL ISS1       7       1  ROS 041791 1750   BO 41 30.19 S   52 59.74 E  TRS   3600   3593   3606   3571      11 1-2                
+35MF68SUZIL ISS1       7       1  ROS 041791 1929   NE 41 30.59 S   53  1.22 E  TRS   3600   3593                                          
+35MF68SUZIL ISS1       8       1  ROS 041791 2237   BE 41 57.28 S   52 48.22 E  TRS   3940   3930                                          
+35MF68SUZIL ISS1       8       1  ROS 041791 2346   BO 41 59.40 S   52 48.41 E  TRS   3863   3852   4007   3664       8 1-2                
+35MF68SUZIL ISS1       8       1  ROS 041891  158   NE 42  2.69 S   52 52.45 E  TRS   3863   3852                                          
+35MF68SUZIL ISS1       9       1  ROS 041891  613   BE 42 29.72 S   52 30.48 E  TRS   3675   3662                                          
+35MF68SUZIL ISS1       9       1  ROS 041891  720   BO 42 30.40 S   52 30.89 E  TRS   3608   3594   3608   3594      11 1-2                
+35MF68SUZIL ISS1       9       1  ROS 041891  914   NE 42 31.65 S   52 33.32 E  TRS   3608   3586                                          
+35MF68SUZIL ISS1      10       1  ROS 041891 1553   BE 43  0.07 S   52 30.55 E  TRS   3307   3283                                          
+35MF68SUZIL ISS1      10       1  ROS 041891 1654   BO 43  0.81 S   52 31.55 E  TRS   3300   3276   3340   3164      10 1-2                
+35MF68SUZIL ISS1      10       1  ROS 041891 1856   NE 43  1.57 S   52 32.54 E  TRS   3300   3276                                          
+35MF68SUZIL ISS1      11       1  ROS 041991   23   BE 43 30.11 S   52  2.09 E  TRS   3375   3351                                          
+35MF68SUZIL ISS1      11       1  ROS 041991  123   BO 43 29.49 S   52  2.64 E  TRS   3375   3351   3305   3347       8 1-2                
+35MF68SUZIL ISS1      11       1  ROS 041991  312   NE 43 29.64 S   52  3.79 E  TRS   3375   3351                                          
+35MF68SUZIL ISS1      12       1  ROS 041991  652   BE 44  0.04 S   51 47.32 E  TRS   3320   3289                                          
+35MF68SUZIL ISS1      12       1  ROS 041991  752   BO 44  0.80 S   51 46.82 E  TRS   3320   3289   3341   3279      10 1-2                
+35MF68SUZIL ISS1      12       1  ROS 041991  920   NE 44  1.04 S   51 46.62 E  TRS   3320   3289                                          
+35MF68SUZIL ISS1      13       1  ROS 041991 1912   BE 45  0.07 S   51 17.20 E  TRS   3075   3043                                          
+35MF68SUZIL ISS1      13       1  ROS 041991 2004   BO 45  0.19 S   51 16.91 E  TRS   3075   3043   3000   3053      10 1-2                
+35MF68SUZIL ISS1      13       1  ROS 041991 2135   NE 45  0.02 S   51 16.32 E  TRS   3075   3043                                          
+35MF68SUZIL ISS1      14       1  ROS 042091  654   BE 45 50.01 S   51  4.38 E  TRS    652    639                                          
+35MF68SUZIL ISS1      14       1  ROS 042091  707   BO 45 50.65 S   51  4.55 E  TRS    645    632    576    565       9 1-2                
+35MF68SUZIL ISS1      14       1  ROS 042091  741   NE 45 50.66 S   51  3.92 E  TRS    645    632                                          
+35MF68SUZIL ISS1      15       1  ROS 042291 1400   BE 46 59.68 S   52 19.40 E  TRS   3233   3202                                          
+35MF68SUZIL ISS1      15       1  ROS 042291 1504   BO 46 59.70 S   52 18.73 E  TRS   3233   3202   3141   3199       9 1-2                
+35MF68SUZIL ISS1      15       1  ROS 042291 1702   NE 46 59.51 S   52 18.54 E  TRS   3233   3202                                          
+35MF68SUZIL ISS1      16       1  ROS 042391  234   BE 47 59.71 S   53  5.44 E  TRS   3975   3942                                          
+35MF68SUZIL ISS1      16       1  ROS 042391  349   BO 48  0.32 S   53  5.77 E  TRS   3975   3942   3919   3973      10 1-2                
+35MF68SUZIL ISS1      16       1  ROS 042391  549   NE 48  1.04 S   53  4.75 E  TRS   3975   3942                                          
+35MF68SUZIL ISS1      17       1  ROS 042391 1117   BE 48 59.58 S   53 54.22 E  TRS   4117   4085                                          
+35MF68SUZIL ISS1      17       1  ROS 042391 1230   BO 49  0.12 S   53 55.13 E  TRS   4117   4085   4121   4100      10 1-2                
+35MF68SUZIL ISS1      17       1  ROS 042391 1513   NE 49  0.83 S   53 55.57 E  TRS   4117   4085                                          
+35MF68SUZIL ISS1      18       1  ROS 042391 2151   BE 49 59.71 S   54 41.09 E  TRS   4390   4364                                          
+35MF68SUZIL ISS1      18       1  ROS 042391 2316   BO 49 59.83 S   54 41.36 E  TRS   4390   4364   4322   4399      10 1-2                
+35MF68SUZIL ISS1      18       1  ROS 042491  132   NE 50  0.02 S   54 41.36 E  TRS   4390   4364                                          
+35MF68SUZIL ISS1      19       1  ROS 042491  744   BE 50 59.32 S   55 28.68 E  TRS   3935   3901                                          
+35MF68SUZIL ISS1      19       1  ROS 042491  850   BO 51  0.31 S   55 29.30 E  TRS   3900   3866   3882   3903      10 1-2                
+35MF68SUZIL ISS1      19       1  ROS 042491 1035   NE 51  0.44 S   55 28.97 E  TRS   3900   3866                                          
+35MF68SUZIL ISS1      20       1  ROS 042491 1729   BE 50  0.84 S   56 19.18 E  TRS   4490   4466                                          
+35MF68SUZIL ISS1      20       1  ROS 042491 1850   BO 50  0.74 S   56 17.96 E  TRS   4470   4445   4500   4484      10 1-2                
+35MF68SUZIL ISS1      20       1  ROS 042491 2112   NE 50  1.24 S   56 16.49 E  TRS   4470   4445                                          
+35MF68SUZIL ISS1      21       1  ROS 042591  354   BE 49  0.37 S   57  6.80 E  TRS   4462   4437                                          
+35MF68SUZIL ISS1      21       1  ROS 042591  518   BO 49  0.19 S   57  7.07 E  TRS   4350   4323   4314   4357      10 1-2                
+35MF68SUZIL ISS1      21       1  ROS 042591  719   NE 49  0.82 S   57  5.08 E  TRS   4350   4323                                          
+35MF68SUZIL ISS1      22       1  ROS 042591 1403   BE 47 59.91 S   57 54.14 E  TRS   4365   4347                                          
+35MF68SUZIL ISS1      22       1  ROS 042591 1515   BO 48  0.53 S   57 54.43 E  TRS   4275   4256   4284   4275      10 1-2                
+35MF68SUZIL ISS1      22       1  ROS 042591 1703   NE 48  2.00 S   57 54.37 E  TRS   4275   4256                                          
+35MF68SUZIL ISS1      23       1  ROS 042591 2310   BE 47  0.03 S   58 41.08 E  TRS   4425   4415                                          
+35MF68SUZIL ISS1      23       1  ROS 042691   10   BO 47  0.40 S   58 42.62 E  TRS   4425   4415   4363   4429       7 1-2                
+35MF68SUZIL ISS1      23       1  ROS 042691  219   NE 47  0.74 S   58 42.88 E  TRS   4425   4415                                          
+35MF68SUZIL ISS1      24       1  ROS 042691  916   BE 46  1.12 S   59 27.59 E  TRS   4425   4415                                          
+35MF68SUZIL ISS1      24       1  ROS 042691 1032   BO 46  1.80 S   59 28.40 E  TRS   4425   4415   4476   4411      12 1-2                
+35MF68SUZIL ISS1      24       1  ROS 042691 1256   NE 46  1.61 S   59 29.00 E  TRS   4425   4415                                          
+35MF68SUZIL ISS1      25       1  ROS 042691 1741   BE 45 15.50 S   60  3.29 E  TRS   4725   4729                                          
+35MF68SUZIL ISS1      25       1  ROS 042691 1859   BO 45 16.62 S   60  3.30 E  TRS   4725   4729   4805   4747      12 1-2                
+35MF68SUZIL ISS1      25       1  ROS 042691 2148   NE 45 18.11 S   60  2.84 E  TRS   4725   4729                                          
+35MF68SUZIL ISS1      26       1  ROS 042791  244   BE 44 28.97 S   60 39.01 E  TRS   4860   4866                                          
+35MF68SUZIL ISS1      26       1  ROS 042791  403   BO 44 28.82 S   60 41.20 E  TRS   4808   4813   4738   4769      11 1-2                
+35MF68SUZIL ISS1      26       1  ROS 042791  609   NE 44 27.92 S   60 43.69 E  TRS   4808   4813                                          
+35MF68SUZIL ISS1      27       1  ROS 042791 1051   BE 43 44.97 S   61 10.33 E  TRS   5077   5088                                          
+35MF68SUZIL ISS1      27       1  ROS 042791 1204   BO 43 44.30 S   61 11.17 E  TRS   5055   5066   5055   5059      11 1-2                
+35MF68SUZIL ISS1      27       1  ROS 042791 1502   NE 43 43.11 S   61 13.66 E  TRS   5055   5066                                          
+35MF68SUZIL ISS1      28       1  ROS 042791 1904   BE 42 59.96 S   61 42.37 E  TRS   4835   4848                                          
+35MF68SUZIL ISS1      28       1  ROS 042791 2025   BO 42 59.12 S   61 41.84 E  TRS   4875   4889   4865   4879      11 1-2                
+35MF68SUZIL ISS1      28       1  ROS 042791 2243   NE 42 59.20 S   61 39.51 E  TRS   4875   4889                                          
+35MF68SUZIL ISS1      29       1  ROS 042891  413   BE 42  0.62 S   62 26.36 E  TRS   5100   5129                                          
+35MF68SUZIL ISS1      29       1  ROS 042891  530   BO 41 59.20 S   62 27.23 E  TRS   5085   5114   5053   5140      12 1-2                
+35MF68SUZIL ISS1      29       1  ROS 042891  747   NE 41 57.93 S   62 28.75 E  TRS   5085   5114                                          
+35MF68SUZIL ISS1      30       1  ROS 042891 1301   BE 41  0.84 S   63  8.65 E  TRS   5060   5088                                          
+35MF68SUZIL ISS1      30       1  ROS 042891 1417   BO 41  1.31 S   63 10.25 E  TRS   5060   5088   5091   5059      12 1-2                
+35MF68SUZIL ISS1      30       1  ROS 042891 1654   NE 41  2.28 S   63 12.04 E  TRS   5060   5088                                          
+35MF68SUZIL ISS1      31       1  ROS 042891 2255   BE 40  0.18 S   63 52.68 E  TRS   4950   4976                                          
+35MF68SUZIL ISS1      31       1  ROS 042991   47   BO 39 59.85 S   63 52.01 E  TRS   4950   4976   4881   4970      12 1-2                
+35MF68SUZIL ISS1      31       1  ROS 042991  316   NE 39 59.63 S   63 51.46 E  TRS   4950   4976                                          
+35MF68SUZIL ISS1      32       1  ROS 042991  846   BE 39  0.50 S   64 38.89 E  TRS   5025   5053                                          
+35MF68SUZIL ISS1      32       1  ROS 042991 1006   BO 38 59.19 S   64 40.10 E  TRS   4988   5015   5006   5053      12 1-2                
+35MF68SUZIL ISS1      32       1  ROS 042991 1258   NE 38 58.65 S   64 41.51 E  TRS   4988   5015                                          
+35MF68SUZIL ISS1      33       1  ROS 042991 1845   BE 39 59.96 S   65 12.79 E  TRS   4492   4507                                          
+35MF68SUZIL ISS1      33       1  ROS 042991 2001   BO 40  0.11 S   65 11.00 E  TRS   4523   4538   4658   4516      12 1-2                
+35MF68SUZIL ISS1      33       1  ROS 042991 2206   NE 40  0.00 S   65  8.51 E  TRS   4523   4538                                          
+35MF68SUZIL ISS1      34       1  ROS 043091  355   BE 41  0.37 S   65 47.11 E  TRS   4560   4567                                          
+35MF68SUZIL ISS1      34       1  ROS 043091  507   BO 41  0.29 S   65 47.08 E  TRS   4560   4567   4351   4363      12 1-2                
+35MF68SUZIL ISS1      34       1  ROS 043091  701   NE 40 59.39 S   65 47.14 E  TRS   4560   4567                                          
+35MF68SUZIL ISS1      35       1  ROS 043091 1234   BE 41 58.48 S   66 22.02 E  TRS   4500   4506                                          
+35MF68SUZIL ISS1      35       1  ROS 043091 1339   BO 41 57.65 S   66 21.62 E  TRS   4370   4373   4403   4359      12 1-2                
+35MF68SUZIL ISS1      35       1  ROS 043091 1539   NE 41 56.04 S   66 21.52 E  TRS   4370   4373                                          
+35MF68SUZIL ISS1      36       1  ROS 043091 2212   BE 42 59.86 S   66 56.74 E  TRS   4410   4414                                          
+35MF68SUZIL ISS1      36       1  ROS 043091 2320   BO 42 59.43 S   66 56.68 E  TRS   4395   4399   4331   4388      12 1-2                
+35MF68SUZIL ISS1      36       1  ROS 043191  125   NE 42 58.29 S   66 57.32 E  TRS   4395   4399                                          
+35MF68SUZIL ISS1      37       1  ROS 050191  614   BE 43 45.08 S   67 24.90 E  TRS   4425   4423                                          
+35MF68SUZIL ISS1      37       1  ROS 050191  729   BO 43 46.81 S   67 23.72 E  TRS   4440   4438   4773   4428      11 1-2                
+35MF68SUZIL ISS1      37       1  ROS 050191  932   NE 43 49.01 S   67 23.72 E  TRS   4440   4438                                          
+35MF68SUZIL ISS1      38       1  ROS 050191 1515   BE 44 30.10 S   67 55.32 E  TRS   3817   3805                                          
+35MF68SUZIL ISS1      38       1  ROS 050191 1620   BO 44 31.06 S   67 56.42 E  TRS   3743   3722   3820   3720       7 1-2                
+35MF68SUZIL ISS1      38       1  ROS 050191 1819   NE 44 32.93 S   67 59.19 E  TRS   3743   3722                                          
+35MF68SUZIL ISS1      39       1  ROS 050291   56   BE 45 14.90 S   68 19.63 E  TRS   3465   3442                                          
+35MF68SUZIL ISS1      39       1  ROS 050291  208   BO 45 15.55 S   68 22.53 E  TRS   3473   3450   3865   3396       1 1-2                
+35MF68SUZIL ISS1      39       1  ROS 050291  406   NE 45 16.34 S   68 27.11 E  TRS   3473   3450                                          
+35MF68SUZIL ISS1      40       1  ROS 050291  839   BE 45 59.87 S   68 45.64 E  TRS   3225   3194                                          
+35MF68SUZIL ISS1      40       1  ROS 050291  931   BO 46  0.68 S   68 45.41 E  TRS   3188   3157   3193   3203      10 1-2                
+35MF68SUZIL ISS1      40       1  ROS 050291 1054   NE 46  1.37 S   68 44.39 E  TRS   3188   3157                                          
+35MF68SUZIL ISS1      41       1  ROS 050291 2045   BE 47  0.59 S   69 25.85 E  TRS    760    745                                          
+35MF68SUZIL ISS1      41       1  ROS 050291 2057   BO 47  0.69 S   69 25.86 E  TRS    750    736    740    740      10 1-2                
+35MF68SUZIL ISS1      41       1  ROS 050291 2129   NE 47  0.90 S   69 25.49 E  TRS    750    736                                          
+35MF68SUZIL ISS1      42       1  ROS 050391  555   BE 48  0.07 S   70  2.54 E  TRS    150    150                                          
+35MF68SUZIL ISS1      42       1  ROS 050391  558   BO 48  0.06 S   70  2.41 E  TRS    150    150    130   10           1-2                
+35MF68SUZIL ISS1      42       1  ROS 050391  611   NE 48  0.02 S   70  1.89 E  TRS    150    150                                          
+35MF68SUZIL ISS1      43       1  ROS 050391 1033   BE 48 44.87 S   70 28.73 E  TRS    107    107                                          
+35MF68SUZIL ISS1      43       1  ROS 050391 1035   BO 48 44.89 S   70 28.61 E  TRS    107    107    103    130      10 1-2                
+35MF68SUZIL ISS1      43       1  ROS 050391 1049   NE 48 44.80 S   70 27.72 E  TRS    107    107                                          
+35MF68SUZIL ISS1      44       1  ROS 050591 1043   BE 48 59.59 S   71  9.77 E  TRS    870    850                                          
+35MF68SUZIL ISS1      44       1  ROS 050591 1057   BO 48 59.53 S   71  9.68 E  TRS    874    854    822    833      10 1-2                
+35MF68SUZIL ISS1      44       1  ROS 050591 1134   NE 48 59.33 S   71  9.24 E  TRS    874    854                                          
+35MF68SUZIL ISS1      45       1  ROS 050591 1658   BE 48  0.40 S   71 30.10 E  TRS    465    453                                          
+35MF68SUZIL ISS1      45       1  ROS 050591 1707   BO 48  0.28 S   71 30.19 E  TRS    465    453    375    404       9 1-2                
+35MF68SUZIL ISS1      45       1  ROS 050591 1728   NE 47 59.99 S   71 30.20 E  TRS    465    453                                          
+35MF68SUZIL ISS1      46       1  ROS 050591 2309   BE 47 14.94 S   72  5.36 E  TRS    772    757                                          
+35MF68SUZIL ISS1      46       1  ROS 050591 2323   BO 47 14.79 S   72  5.46 E  TRS    780    765    708    736       9 1-2                
+35MF68SUZIL ISS1      46       1  ROS 050691    2   NE 47 14.11 S   72  5.40 E  TRS    780    765                                          
+35MF68SUZIL ISS1      47       1  ROS 050691  442   BE 46 29.95 S   72 39.85 E  TRS   3405   3375                                          
+35MF68SUZIL ISS1      47       1  ROS 050691  536   BO 46 30.75 S   72 39.83 E  TRS   3405   3375   3397   3391      10 1-2                
+35MF68SUZIL ISS1      47       1  ROS 050691  656   NE 46 30.64 S   72 40.61 E  TRS   3405   3375                                          
+35MF68SUZIL ISS1      48       1  ROS 050691 1022   BE 46  0.32 S   73  1.09 E  TRS   3675   3655                                          
+35MF68SUZIL ISS1      48       1  ROS 050691 1118   BO 46  0.72 S   73  0.50 E  TRS   3645   3624   3650   3653      10 1-2                
+35MF68SUZIL ISS1      48       1  ROS 050691 1324   NE 46  1.37 S   73  0.74 E  TRS   3645   3624                                          
+35MF68SUZIL ISS1      49       1  ROS 050691 1654   BE 45 30.30 S   73 24.44 E  TRS   3562   3541                                          
+35MF68SUZIL ISS1      49       1  ROS 050691 1756   BO 45 29.46 S   73 23.92 E  TRS   3637   3616   3580   3635      10 1-2                
+35MF68SUZIL ISS1      49       1  ROS 050691 1932   NE 45 29.02 S   73 22.63 E  TRS   3637   3616                                          
+35MF68SUZIL ISS1      50       1  ROS 050691 2305   BE 45  0.08 S   73 51.03 E  TRS   3720   3700                                          
+35MF68SUZIL ISS1      50       1  ROS 050691 2355   BO 44 59.60 S   73 52.21 E  TRS   3690   3670   3759   3693       8 1-2                
+35MF68SUZIL ISS1      50       1  ROS 050791  145   NE 44 58.43 S   73 54.58 E  TRS   3690   3670                                          
+35MF68SUZIL ISS1      51       1  ROS 050791  450   BE 44 30.46 S   74 10.27 E  TRS   3787   3775                                          
+35MF68SUZIL ISS1      51       1  ROS 050791  551   BO 44 29.60 S   74 11.52 E  TRS   3787   3775   3800   3751      10 1-2                
+35MF68SUZIL ISS1      51       1  ROS 050791  725   NE 44 25.37 S   74 15.47 E  TRS   3787   3775                                          
+35MF68SUZIL ISS1      52       1  ROS 050791 1132   BE 43 45.95 S   74 40.24 E  TRS   3600   3586                                          
+35MF68SUZIL ISS1      52       1  ROS 050791 1232   BO 43 44.66 S   74 41.50 E  TRS   3563   3549   3497   3550      10 1-2                
+35MF68SUZIL ISS1      52       1  ROS 050791 1410   NE 43 44.04 S   74 42.04 E  TRS   3563   3549                                          
+35MF68SUZIL ISS1      53       1  ROS 050891  257   BE 43  0.10 S   75 14.95 E  TRS   3410   3394                                          
+35MF68SUZIL ISS1      53       1  ROS 050891  354   BO 42 59.84 S   75 15.16 E  TRS   3410   3394   3312   3373      10 1-2                
+35MF68SUZIL ISS1      53       1  ROS 050891  534   NE 42 58.88 S   75 14.38 E  TRS   3410   3394                                          
+35MF68SUZIL ISS1      54       1  ROS 050891 1117   BE 42  0.57 S   75 57.85 E  TRS   3240   3228                                          
+35MF68SUZIL ISS1      54       1  ROS 050891 1214   BO 42  0.48 S   75 58.69 E  TRS   3248   3236   3220   3221      10 1-2                
+35MF68SUZIL ISS1      54       1  ROS 050891 1349   NE 42  0.70 S   75 59.86 E  TRS   3248   3236                                          
+35MF68SUZIL ISS1      55       1  ROS 050891 2014   BE 41  0.25 S   76 40.27 E  TRS   3185   3173                                          
+35MF68SUZIL ISS1      55       1  ROS 050891 2104   BO 41  0.14 S   76 40.67 E  TRS   3240   3228   3194   3223      10 1-2                
+35MF68SUZIL ISS1      55       1  ROS 050891 2224   NE 41  0.22 S   76 40.37 E  TRS   3240   3228                                          
+35MF68SUZIL ISS1      56       1  ROS 050991  342   BE 40  0.38 S   77 21.34 E  TRS   1785   1776                                          
+35MF68SUZIL ISS1      56       1  ROS 050991  411   BO 39 59.49 S   77 20.51 E  TRS   1740   1732   1653   1692      10 1-2                
+35MF68SUZIL ISS1      56       1  ROS 050991  503   NE 39 59.35 S   77 20.21 E  TRS   1740   1732                                          
+35MF68SUZIL ISS1      57       1  ROS 050991 1026   BE 39  0.40 S   78  3.71 E  TRS   1900   1890                                          
+35MF68SUZIL ISS1      57       1  ROS 050991 1055   BO 39  0.67 S   78  3.94 E  TRS   1988   1977   1918   1875      10 1-2                
+35MF68SUZIL ISS1      57       1  ROS 050991 1149   NE 39  1.04 S   78  4.44 E  TRS   1988   1977                                          
+35MF68SUZIL ISS1      58       1  ROS 050991 1733   BE 38  0.22 S   78 44.37 E  TRS   1612   1605                                          
+35MF68SUZIL ISS1      58       1  ROS 050991 1806   BO 38  0.16 S   78 44.84 E  TRS   1605   1598   1548   1551      10 1-2                
+35MF68SUZIL ISS1      58       1  ROS 050991 1854   NE 38  0.44 S   78 44.73 E  TRS   1605   1598                                          
+35MF68SUZIL ISS1      59       1  ROS 051191  631   BE 38  0.48 S   77 35.97 E  TRS   1650   1643                                          
+35MF68SUZIL ISS1      59       1  ROS 051191  656   BO 38  0.20 S   77 35.68 E  TRS   1725   1717   1662   1694      10 1-2                
+35MF68SUZIL ISS1      59       1  ROS 051191  755   NE 38  0.31 S   77 35.48 E  TRS   1725   1717                                          
+35MF68SUZIL ISS1      60       1  ROS 051191 1840   BE 38  0.19 S   76  0.53 E  TRS   3360   3355                                          
+35MF68SUZIL ISS1      60       1  ROS 051191 1935   BO 38  0.09 S   76  0.53 E  TRS   3593   3590   3597   3564      10 1-2                
+35MF68SUZIL ISS1      60       1  ROS 051191 2124   NE 37 59.82 S   76  2.08 E  TRS   3593   3590                                          
+35MF68SUZIL ISS1      61       1  ROS 051291  128   BE 37 59.74 S   75  0.37 E  TRS   4065   4068                                          
+35MF68SUZIL ISS1      61       1  ROS 051291  234   BO 37 59.36 S   75  0.83 E  TRS   4095   4099   4039   4000      10 1-2                
+35MF68SUZIL ISS1      61       1  ROS 051291  421   NE 37 58.81 S   75  1.52 E  TRS   4095   4099                                          
+35MF68SUZIL ISS1      62       1  ROS 051291  822   BE 38  0.43 S   74  0.24 E  TRS   3940   3941                                          
+35MF68SUZIL ISS1      62       1  ROS 051291  918   BO 38  0.32 S   74  0.14 E  TRS   3940   3941   3884   3937      10 1-2                
+35MF68SUZIL ISS1      62       1  ROS 051291 1104   NE 37 59.89 S   73 59.73 E  TRS   3940   3941                                          
+35MF68SUZIL ISS1      63       1  ROS 051291 1458   BE 38  0.19 S   73  1.09 E  TRS   4215   4220                                          
+35MF68SUZIL ISS1      63       1  ROS 051291 1607   BO 38  0.34 S   72 59.98 E  TRS   4200   4205   4187   4219      10 1-2                
+35MF68SUZIL ISS1      63       1  ROS 051291 1754   NE 38  0.58 S   72 59.61 E  TRS   4200   4205                                          
+35MF68SUZIL ISS1      64       1  ROS 051291 2204   BE 38  0.03 S   71 59.91 E  TRS   4460   4470                                          
+35MF68SUZIL ISS1      64       1  ROS 051291 2320   BO 37 59.81 S   71 59.35 E  TRS   4418   4427   4423   4420      10 1-2                
+35MF68SUZIL ISS1      64       1  ROS 051391  135   NE 37 59.86 S   71 57.68 E  TRS   4418   4427                                          
+35MF68SUZIL ISS1      65       1  ROS 051391  529   BE 38  0.25 S   71  0.82 E  TRS   4200   4205                                          
+35MF68SUZIL ISS1      65       1  ROS 051391  637   BO 38  0.50 S   71  0.14 E  TRS   4193   4198   4227   4201      10 1-2                
+35MF68SUZIL ISS1      65       1  ROS 051391  834   NE 38  0.89 S   70 58.45 E  TRS   4193   4198                                          
+35MF68SUZIL ISS1      66       1  ROS 051391 1433   BE 38  0.17 S   70  0.59 E  TRS   4275   4282                                          
+35MF68SUZIL ISS1      66       1  ROS 051391 1542   BO 38  0.97 S   70  1.11 E  TRS   4238   4244   4401   4252      10 1-2                
+35MF68SUZIL ISS1      66       1  ROS 051391 1737   NE 38  0.52 S   69 59.79 E  TRS   4238   4244                                          
+35MF68SUZIL ISS1      67       1  ROS 051491  228   BE 38  0.83 S   68 30.50 E  TRS   4215   4220                                          
+35MF68SUZIL ISS1      67       1  ROS 051491  338   BO 38  1.25 S   68 29.98 E  TRS   4215   4220   4209   4227      10 1-2                
+35MF68SUZIL ISS1      67       1  ROS 051491  539   NE 38  1.97 S   68 30.59 E  TRS   4215   4220                                          
+35MF68SUZIL ISS1      68       1  ROS 051491 1218   BE 38  0.31 S   67  1.64 E  TRS   4425   4435                                          
+35MF68SUZIL ISS1      68       1  ROS 051491 1331   BO 37 59.60 S   67  0.20 E  TRS   4448   4458   4451   4464      10 1-2                
+35MF68SUZIL ISS1      68       1  ROS 051491 1540   NE 37 59.45 S   67  0.95 E  TRS   4448   4458                                          
+35MF68SUZIL ISS1      69       1  ROS 051491 2211   BE 37 59.81 S   65 31.01 E  TRS   4860   4879                                          
+35MF68SUZIL ISS1      69       1  ROS 051491 2327   BO 38  0.17 S   65 31.25 E  TRS   4748   4764   4738   4778      10 1-2                
+35MF68SUZIL ISS1      69       1  ROS 051591  148   NE 38  0.56 S   65 32.03 E  TRS   4748   4764                                          
+35MF68SUZIL ISS1      70       1  ROS 051591  818   BE 37 59.45 S   64  3.11 E  TRS   4800   4818                                          
+35MF68SUZIL ISS1      70       1  ROS 051591  937   BO 37 59.78 S   64  2.26 E  TRS   4748   4764   4883   4788      10 1-2                
+35MF68SUZIL ISS1      70       1  ROS 051591 1206   NE 37 59.98 S   64  3.76 E  TRS   4748   4764                                          
+35MF68SUZIL ISS1      71       1  ROS 051591 1829   BE 37 59.37 S   62 29.96 E  TRS   5130   5160                                          
+35MF68SUZIL ISS1      71       1  ROS 051591 1949   BO 37 58.97 S   62 28.70 E  TRS   5130   5160   5068   5154      10 1-2                
+35MF68SUZIL ISS1      71       1  ROS 051691   20   NE 37 58.36 S   62 19.93 E  TRS   5130   5160                                          
+35MF68SUZIL ISS1      72       1  ROS 051691  834   BE 38  0.16 S   60 31.41 E  TRS   5220   5253                                          
+35MF68SUZIL ISS1      72       1  ROS 051691  957   BO 38  0.88 S   60 31.17 E  TRS   5190   5222   5176   5221      10 1-2                
+35MF68SUZIL ISS1      72       1  ROS 051691 1240   NE 38  2.11 S   60 30.97 E  TRS   5190   5222                                          
+35MF68SUZIL ISS1      73       1  ROS 051691 2020   BE 38  0.28 S   58 30.31 E  TRS   5100   5129                                          
+35MF68SUZIL ISS1      73       1  ROS 051691 2144   BO 38  0.29 S   58 30.23 E  TRS   5100   5129   5080   5136      10 1-2                
+35MF68SUZIL ISS1      73       1  ROS 051791   13   NE 37 59.89 S   58 31.15 E  TRS   5100   5129                                          

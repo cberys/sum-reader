@@ -1,0 +1,23 @@
+R/V MELVILLE LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+318M171_1      PRS2      1      1  ROS 071505 2329   BE 21 20.59 N 158 16.40 W GPS  1561       532          1038      24 1,2             Dual T, C sensors   
+318M171_1      PRS2      2      1  ROS 071605 1018   BE 22 45.01 N 157 59.71 W GPS  4727       4628          100      23 1               Dual T, C sensors   
+318M171_1      PRS2      2      2  ROS 071605 1212   BE 22 45.68 N 157 59.57 W GPS  4717       4518          200      23 1               Dual T, C sensors   
+318M171_1      PRS2      2      3  ROS 071605 1335   BE 22 44.99 N 158 00.00 W GPS  4724       3493         1242       2 Dual            T, C sensors        
+318M171_1      PRS2      2      4  ROS 071605 1806   BE 22 45.01 N 157 57.10 W GPS  4711       3700         1020      19 1               Dual T, C sensors   
+318M171_1      PRS2      2      5  ROS 071605 2057   BE 22 45.76 N 157 57.60 W GPS  4710       3699         1020      18 1               Dual T, C sensors   
+318M171_1      PRS2      2      6  ROS 071705 0006   BE 22 46.66 N 157 57.95 W GPS  4700       3689         1020      16 1               Dual T, C sensors   
+318M171_1      PRS2      2      7  ROS 071705 0256   BE 22 46.66 N 157 57.95 W GPS  4704       3693         1020      19 1               Dual T, C sensors   
+318M171_1      PRS2      2      8  ROS 071705 0558   BE 22 44.63 N 158 04.19 W GPS  4750       3648         1112      22 1               Dual T, C sensors   
+318M171_1      PRS2      2      9  ROS 071705 0929   BE 22 45.18 N 158 02.75 W GPS  4738       3725         1022      22 1,2             Dual T, C sensors   
+318M171_1      PRS2      2     10  ROS 071705 1223   BE 22 45.24 N 158 01.86 W GPS  4745       3732         1022      22 1               Dual T, C sensors   
+318M171_1      PRS2      2     11  ROS 071705 1434   BE 22 45.81 N 158 01.30 W GPS  4725       3714         1020      15 1               Dual T, C sensors   
+318M171_1      PRS2      2     12  ROS 071705 1825   BE 22 46.27 N 158 01.12 W GPS  4711       3700         1020      19 1               Dual T, C sensors   
+318M171_1      PRS2      2     13  ROS 071705 2100   BE 22 47.05 N 158 02.00 W GPS  4732       3721         1020      22 1               Dual T, C sensors   
+318M171_1      PRS2      2     14  ROS 071805 0024   BE 22 47.49 N 158 02.95 W GPS  4735       3724         1020      24 1               Dual T, C sensors   
+318M171_1      PRS2      2     15  ROS 071805 0255   BE 22 47.71 N 158 03.47 W GPS  4728       3717         1020      21 1,2,3,4,5,6     Dual T, C sensors   
+318M171_1      PRS2      2     16  ROS 071805 0739   BE 22 45.15 N 158 00.04 W GPS  4733       16           4800      24 1,2,3,4,5,6     Dual T, C sensors   
+318M171_1      PRS2      6      1  ROS 071905 0758   BE 21 50.81 N 158 21.80 W GPS  2450       27           2452      19 1               Dual T, C sensors   
+318M171_1      PRS2     51      1  ROS 071805 2029   BE 22 46.73 N 158 07.71 W GPS  4771       4572          200      24 1               Dual T, C sensors   

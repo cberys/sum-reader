@@ -1,0 +1,102 @@
+R/V VIDAL GORMAZ   WHP-ID PR14                                   19980723WHPOSIOSA 
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX  NO. OF 
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------------------
+20VGPR1493_1   PR14    001      1  CTD 100793 0500   BE 37 59.60 S  74 06.40 W GPS  1155                    1000      16 1,2        
+20VGPR1493_1   PR14    001      1  CTD 100793 0610   EN                                                                              
+20VGPR1493_1   PR14    002      1  CTD 100793 0803   BE 37 59.80 S  74 26.00 W GPS  3812                    1500      18 1,2         
+20VGPR1493_1   PR14    002      1  CTD 100793 0947   EN
+20VGPR1493_1   PR14    003      1  CTD 100793 1905   BE 37 59.95 S  75 06.40 W GPS  4300                    1500                     
+20VGPR1493_1   PR14    004      1  CTD 100793 2230   BE 38 00.00 S  75 36.00 W GPS  3966                    1500
+20VGPR1493_1   PR14    005      1  CTD 100893 0141   BE 37 59.90 S  75 57.00 W GPS  4765                    1500                     
+20VGPR1493_1   PR14    005      1  CTD 100893 0240   EN 
+20VGPR1493_1   PR14    006      1  XBT 100893 0511   BE 37 59.80 S  76 33.00 W GPS  4040                         
+20VGPR1493_1   PR14    006      2  CTD 100893 0535   BE 37 59.90 S  76 35.00 W GPS  4078                    1500 
+20VGPR1493_1   PR14    006      2  CTD 100893 0620   EN  
+20VGPR1493_1   PR14    007      1  CTD 100893 0913   BE 38 00.00 S  77 14.00 W GPS  4145                    1500                    
+20VGPR1493_1   PR14    007      1  CTD 100893 0955   EN
+20VGPR1493_1   PR14    008      1  CTD 100893 1243   BE 38 00.00 S  77 50.50 W GPS  4131                    1500                      
+20VGPR1493_1   PR14    008      1  CTD 100893 1347   EN
+20VGPR1493_1   PR14    009      1  CTD 100893 1624   BE 38 00.00 S  78 27.50 W GPS  4155                    1500                 
+20VGPR1493_1   PR14    009      1  CTD 100893 1718   EN
+20VGPR1493_1   PR14    010      1  XBT 100893        BE 37 58.80 S  79 03.20 W GPS                               
+20VGPR1493_1   PR14    010      1  CTD 100893 2002   BE 38 00.00 S  79 05.30 W GPS  4327                    1500                      
+20VGPR1493_1   PR14    010      1  CTD 100893 2057   EN
+20VGPR1493_1   PR14    011      1  CTD 100893 2348   BE 38 00.00 S  79 42.90 W GPS  4060                    1500               
+20VGPR1493_1   PR14    011      1  CTD 100993 0035   EN
+20VGPR1493_1   PR14    012      1  CTD 100993 0326   BE 38 00.00 S  80 21.50 W GPS  3960                    1500    
+20VGPR1493_1   PR14    012      1  CTD 100993 0412   EN    
+20VGPR1493_1   PR14    013      1  CTD 100993 0706   BE 38 00.00 S  81 00.10 W GPS  4091                    1500 
+20VGPR1493_1   PR14    013      1  CTD 100993 0753   EN
+20VGPR1493_1   PR14    014      1  CTD 100993 1052   BE 37 59.80 S  81 38.30 W GPS  3907                    1500     
+20VGPR1493_1   PR14    014      1  CTD 100993 1138   EN
+20VGPR1493_1   PR14    015      1  XBT 100993        BE 38 00.00 S  82 13.00 W GPS                               
+20VGPR1493_1   PR14    015      2  CTD 100993 1426   BE 38 00.00 S  82 15.00 W GPS  4612                    1500                  
+20VGPR1493_1   PR14    015      2  CTD 100993 1512   EN
+20VGPR1493_1   PR14    016      1  CTD 100993 1800   BE 38 30.00 S  82 15.10 W GPS  4042                    1500 
+20VGPR1493_1   PR14    016      1  CTD 100993 1844   EN 
+20VGPR1493_1   PR14    017      1  CTD 100993 2138   BE 39 00.10 S  82 15.30 W GPS  3825                    1500    
+20VGPR1493_1   PR14    017      1  CTD 100993 2225   EN 
+20VGPR1493_1   PR14    018      1  CTD 101093 0105   BE 39 30.00 S  82 15.00 W GPS  3922                    1500  
+20VGPR1493_1   PR14    018      1  CTD 101093 0153   EN 
+20VGPR1493_1   PR14    019      1  CTD 101093 0449   BE 39 59.60 S  82 15.10 W GPS  4055                    1500
+20VGPR1493_1   PR14    019      1  CTD 101093 0530   EN
+20VGPR1493_1   PR14    020      1  XBT 101093        BE 40 28.70 S  82 15.00 W GPS                               
+20VGPR1493_1   PR14    020      1  CTD 101093 0833   BE 40 30.00 S  82 15.00 W GPS  4011                    1500 
+20VGPR1493_1   PR14    020      1  CTD 101093 0915   EN 
+20VGPR1493_1   PR14    021      1  CTD 101093 1203   BE 41 00.00 S  82 15.20 W GPS  3534                    1500    
+20VGPR1493_1   PR14    021      1  CTD 101093 1245   EN 
+20VGPR1493_1   PR14    022      1  CTD 101093 1538   BE 41 29.80 S  82 14.90 W GPS  3441                    1500  
+20VGPR1493_1   PR14    022      1  CTD 101093 1623   EN 
+20VGPR1493_1   PR14    023      1  CTD 101093 1920   BE 42 00.00 S  82 15.00 W GPS  3206                    1500
+20VGPR1493_1   PR14    023      1  CTD 101093 2010   EN
+20VGPR1493_1   PR14    024      1  CTD 101093 2254   BE 42 30.00 S  82 15.00 W GPS  3355                    1500 
+20VGPR1493_1   PR14    024      1  CTD 101093 2338   EN 
+20VGPR1493_1   PR14    025      1  XBT 101193        BE 42 58.40 S  82 14.90 W GPS                               
+20VGPR1493_1   PR14    025      2  CTD 101193 0240   BE 42 59.90 S  82 15.10 W GPS  2848                    1500    
+20VGPR1493_1   PR14    025      2  CTD 101193 0324   EN 
+20VGPR1493_1   PR14    026      1  CTD 101193 0620   BE 43 30.00 S  82 15.00 W GPS  2874               
+20VGPR1493_1   PR14    026      1  CTD 101193 0708   EN
+20VGPR1493_1   PR14    027      1  CTD 101193 1010   BE 44 00.00 S  82 15.00 W GPS  3183                    1500 
+20VGPR1493_1   PR14    027      1  CTD 101193 1053   EN  
+20VGPR1493_1   PR14    028      1  CTD 101193 1355   BE 44 29.70 S  82 15.10 W GPS  3638                    1500                    
+20VGPR1493_1   PR14    028      1  CTD 101193 1438   EN
+20VGPR1493_1   PR14    029      1  CTD 101193 1748   BE 44 59.90 S  82 15.50 W GPS  3853                    1500                      
+20VGPR1493_1   PR14    029      1  CTD 101193 1851   EN
+20VGPR1493_1   PR14    030      1  XBT 101193        BE 45 27.90 S  82 14.50 W GPS                               
+20VGPR1493_1   PR14    030      2  XBT 101193        BE 45 31.40 S  82 15.10 W GPS
+20VGPR1493_1   PR14    030      3  CTD 101193 2237   BE 45 29.60 S  82 15.70 W GPS  3525                    1500                      
+20VGPR1493_1   PR14    030      3  CTD 101193 2340   EN
+20VGPR1493_1   PR14    031      1  CTD 101293 0311   BE 45 59.80 S  82 14.90 W GPS  3881                    1500               
+20VGPR1493_1   PR14    031      1  CTD 101293 0358   EN
+20VGPR1493_1   PR14    032      1  CTD 101293 0725   BE 46 29.80 S  82 14.80 W GPS  4046                    1500    
+20VGPR1493_1   PR14    032      1  CTD 101293 0833   EN    
+20VGPR1493_1   PR14    033      1  CTD 101293 1211   BE 46 59.90 S  82 15.00 W GPS  3588                    1500 
+20VGPR1493_1   PR14    033      1  CTD 101293 1259   EN
+20VGPR1493_1   PR14    034      1  CTD 101293 1628   BE 47 30.30 S  82 14.60 W GPS  3962                    1500     
+20VGPR1493_1   PR14    034      1  CTD 101293 1725   EN
+20VGPR1493_1   PR14    035      1  XBT 101293        BE 48 00.00 S  82 15.00 W GPS                               
+20VGPR1493_1   PR14    035      2  CTD 101293 2142   BE 48 00.00 S  82 15.00 W GPS  4143                    1500                  
+20VGPR1493_1   PR14    035      2  CTD 101293 2248   EN
+20VGPR1493_1   PR14    036      1  CTD 101393 0120   BE 47 59.70 S  81 29.20 W GPS  4031                    1500 
+20VGPR1493_1   PR14    036      1  CTD 101393 0217   EN 
+20VGPR1493_1   PR14    037      1  CTD 101393 0452   BE 47 59.80 S  80 45.50 W GPS  4165                    1500    
+20VGPR1493_1   PR14    037      1  CTD 101393 0605   EN 
+20VGPR1493_1   PR14    038      1  XBT 101393        BE 48 00.00 S  80 00.50 W GPS
+20VGPR1493_1   PR14    038      2  CTD 101393 0845   BE 47 59.80 S  79 59.80 W GPS  3945                    1500  
+20VGPR1493_1   PR14    038      2  CTD 101393 0927   EN 
+20VGPR1493_1   PR14    039      1  CTD 101493 0513   BE 48 00.00 S  79 15.00 W GPS  4005                    1500
+20VGPR1493_1   PR14    039      1  CTD 101493 0613   EN
+20VGPR1493_1   PR14    040      1  CTD 101493 0858   BE 47 59.80 S  78 30.20 W GPS  3900                    1500 
+20VGPR1493_1   PR14    040      1  CTD 101493 0948   EN 
+20VGPR1493_1   PR14    041      1  XBT 101493        BE 47 59.90 S  77 50.30 W GPS
+20VGPR1493_1   PR14    041      2  CTD 101493 1240   BE 48 00.30 S  77 45.00 W GPS  3840                    1500    
+20VGPR1493_1   PR14    041      2  CTD 101493 1320   EN 
+20VGPR1493_1   PR14    042      1  CTD 101493        BE 47 59.90 S  76 59.90 W GPS  3908                    1500                    CTD IN SELFCONTAINED MODE
+20VGPR1493_1   PR14    043      1  XBT 101493        BE 48 01.20 S  76 14.80 W GPS   
+20VGPR1493_1   PR14    043      2  CTD 101493 2128   BE 48 01.20 S  76 14.80 W GPS   816                                            CTD IN SELFCONTAINED MODE
+20VGPR1493_1   PR14    043      2  CTD 101493 2155   EN
+20VGPR1493_1   PR14    044      1  CTD 101593 1630   BE 45 00.00 S  76 00.00 W GPS  3443                    1500                    CTD IN SELFCONTAINED MODE
+20VGPR1493_1   PR14    044      1  CTD 101593 1721   EN 
+20VGPR1493_1   PR14    045      1  CTD 101693 1045   BE 42 00.00 S  75 09.80 W GPS  2132                    1800                    CTD IN SELFCONTAINED MODE
+20VGPR1493_1   PR14    045      1  CTD 101693 1155   EN 

@@ -1,0 +1,28 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-55
+           WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+-------------------------------------------------------------------------------------------------------------------------------------------
+32MW055_1  PRS2       1       1   ROS 072394 2315    BE 21 22.59 N 158 16.47 W GPS  1465         452  1022      20  1,2,3,4,5,6   Dual T, C sensors
+32MW055_1  PRS2       2       1   ROS 072494 1744    BE 22 44.96 N 157 59.93 W GPS  4725           2  4806      24  1,2,3,4,5,6   Dual T, C sensors
+32MW055_1  PRS2       2       2   ROS 072594 0017    BE 22 44.80 N 157 59.68 W GPS  4725        3712  1022      23  1,2,3,4,5,6   Dual T, C sensors
+32MW055_1  PRS2       2       3   ROS 072594 0339    BE 22 45.16 N 157 59.32 W GPS  2710        1695  1024      24  1,2,3,4,5,6   Dual T, C sensors
+32MW055_1  PRS2       2       4   ROS 072594 0643    BE 22 44.97 N 157 59.90 W GPS  4725        3698  1036      24  1,2,3,4,5,6   Dual T, C sensors
+32MW055_1  PRS2       2       5   ROS 072594 1001    BE 22 44.71 N 157 57.95 W GPS  2710        1697  1022       4  1             Dual T, C sensors
+32MW055_1  PRS2       2       6   ROS 072594 1358    BE 22 44.51 N 157 59.77 W GPS  4725        3712  1022      12  1             Dual T, C sensors
+32MW055_1  PRS2       2       7   ROS 072594 1706    BE 22 45.95 N 157 58.70 W GPS  4725        3714  1020      15  1             Dual T, C sensors
+32MW055_1  PRS2       2       8   ROS 072594 2012    BE 22 44.84 N 158 00.37 W GPS  4725        3712  1022      15  1             Dual T, C sensors
+32MW055_1  PRS2       2       9   ROS 072594 2306    BE 22 44.57 N 158 00.01 W GPS  4750        3735  1024      19  1             Dual T, C sensors
+32MW055_1  PRS2       2      10   ROS 072694 0203    BE 22 45.17 N 157 59.11 W GPS  4715        3700  1024      18  1             Dual T, C sensors
+32MW055_1  PRS2       2      11   ROS 072694 0551    BE 22 45.74 N 157 59.57 W GPS  2715        1702  1022      24  1             Dual T, C sensors
+32MW055_1  PRS2       2      12   ROS 072694 0824    BE 22 46.47 N 157 58.35 W GPS  5700        4689  1020      12  1             Dual T, C sensors
+32MW055_1  PRS2       2      13   ROS 072694 1101    BE 22 45.53 N 157 59.80 W GPS  4716        3697  1028      12  1             Dual T, C sensors
+32MW055_1  PRS2       2      14   ROS 072694 1359    BE 22 45.48 N 157 59.51 W GPS  4725        3712  1022       9  1             Dual T, C sensors
+32MW055_1  PRS2       2      15   ROS 072694 1721    BE 22 45.07 N 157 59.98 W GPS  4725        3692  1042      15  1             Dual T, C sensors
+32MW055_1  PRS2       2      16   ROS 072694 2033    BE 22 46.67 N 157 58.42 W GPS  4750        3737  1022      15  1             Dual T, C sensors
+32MW055_1  PRS2       2      17   ROS 072694 2332    BE 22 45.65 N 157 59.27 W GPS  4725        3712  1022      10  1             Dual T, C sensors
+32MW055_1  PRS2       2      18   ROS 072794 0204    BE 22 46.19 N 157 58.24 W GPS  4705        3690  1024      23  1             Dual T, C sensors
+32MW055_1  PRS2       2      19   ROS 072794 0501    BE 22 45.13 N 158 00.02 W GPS  4725        3712  1022      19  1             Dual T, C sensors
+32MW055_1  PRS2       2      20   ROS 072794 0759    BE 22 45.69 N 157 57.78 W GPS  4705        3692  1022       6  1             Dual T, C sensors
+32MW055_1  PRS2       2      21   ROS 072794 1104    BE 22 45.03 N 158 00.16 W GPS  4725           2  4806      24  1,2           Dual T, C sensors
+32MW055_1  PRS2       3       1   ROS 072894 0039    BE 23 25.06 N 157 59.94 W GPS  4510        3493  1026      13  1,2           Dual T, C sensors
+32MW055_1  PRS2       6       1   ROS 072494 0430    BE 21 50.90 N 158 21.84 W GPS  2440          -4  2474      10  1,2           Dual T, C sensors

@@ -1,0 +1,5 @@
+PR16 R/V NOAA SHIP MALCOLM BALDRIGE CRUISE GP8-95-MB LEG 2  19991130WHPOSIOLMH
+SHIP/CRS    WOCE                 CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE    MAX NO. OF 
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+3175GP895_2 PR16      35       1  ROS 011096 0457    BO  2 02.60 N 110 08.20 W GPS

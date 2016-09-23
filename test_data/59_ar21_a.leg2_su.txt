@@ -1,0 +1,9 @@
+MALCOLM BALDRIGE  AR21_a Leg 2      Aug 13 - Sept 2, 1991      20110304CCHDOSIODM    
+SHIP/CRS     WOCE               CAST         UTC EVENT         POSITION             UNC    WIRE   MAX  NO. OF
+EXPOCODE     SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH     OUT PRESS  BOTTLES PARAMETERS COMMENTS
+-----------------------------------------------------------------------------------------------------------------------------------------------
+3175MB91_2   AR21      1      1  ROS 081891 1337    UN 24 07.68 S  33 27.30 W UNK  4613
+3175MB91_2   AR21      2      2  ROS 082091 1330    UN 19  0.36 S  25  0.30 W UNK  5652
+3175MB91_2   AR21      3      3  ROS 082591 1553    UN  2  0.00 S   4 30.00 W UNK  4967
+3175MB91_2   AR21      4      4  ROS 082991 0551    UN  0  5.64 S  17 39.00 W UNK  5908
+3175MB91_2   AR21      5      5  ROS 083091 2119    UN  3  0.00 S  25  0.00 W UNK  5023

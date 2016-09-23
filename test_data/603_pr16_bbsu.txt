@@ -1,0 +1,25 @@
+PR16 R/V RONALD H. BROWN CRUISE GP700 LEG 1                             20010621SIOWHPODMB
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33RBGP700_1 PR16      1      1  ROS 102200 0806    BO  8  3.20 N 110 10.20 W GPS  4280                 4002
+33RBGP700_1 PR16      2      1  ROS 102300 0416    BO  7  0.00 N 111 38.90 W GPS  4285                 1002
+33RBGP700_1 PR16      3      1  ROS 102300 1327    BO  6  0.00 N 112 59.00 W GPS  4007                 1002
+33RBGP700_1 PR16      4      1  ROS 102300 2325    BO  5 10.60 N 113 54.30 W GPS  3914                 1001
+33RBGP700_1 PR16      5      1  ROS 102400 0916    BO  4  0.00 N 112 27.40 W GPS  3922                 1002
+33RBGP700_1 PR16      6      1  ROS 102400 1801    BO  3  0.00 N 111 13.60 W GPS  3790                 1003
+33RBGP700_1 PR16      7      1  ROS 102400 2311    BO  2 29.80 N 110 37.20 W GPS  3726                 1000
+33RBGP700_1 PR16      8      1  ROS 102500 1049    BO  2  0.90 N 110  2.20 W GPS  3718                 3002
+33RBGP700_1 PR16      9      1  ROS 102500 1505    BO  1 30.00 N 110  0.00 W GPS  3778                 1001
+33RBGP700_1 PR16     10      1  ROS 102500 1840    BO  1  0.10 N 110  0.00 W GPS  3811                 1008
+33RBGP700_1 PR16     11      1  ROS 102500 2210    BO  0 29.60 N 110  2.00 W GPS  3807                 1002
+33RBGP700_1 PR16     12      1  ROS 102600 0714    BO  0  8.00 N 110  3.50 W GPS  3815                 3252
+33RBGP700_1 PR16     13      1  ROS 102700 0544    BO  0 30.00 S 110  0.20 W GPS  3801                 1002
+33RBGP700_1 PR16     14      1  ROS 102800 0137    BO  1 59.40 S 110  0.80 W GPS  3964                 3252
+33RBGP700_1 PR16     15      1  ROS 102800 0541    BO  2 30.00 S 110  0.40 W GPS  3930                 1003
+33RBGP700_1 PR16     16      1  ROS 102800 0909    BO  2 59.90 S 110  0.20 W GPS  3783                 1004
+33RBGP700_1 PR16     17      1  ROS 102800 1458    BO  4  0.00 S 110  0.10 W GPS  3824                 1002
+33RBGP700_1 PR16     18      1  ROS 102800 2152    BO  5  1.20 S 109 59.90 W GPS  3578                 3251
+33RBGP700_1 PR16     19      1  ROS 102900 0349    BO  6  0.00 S 109 58.60 W GPS  3801                 1000
+33RBGP700_1 PR16     20      1  ROS 102900 0929    BO  7  0.00 S 109 57.00 W GPS  3512                 1001
+33RBGP700_1 PR16     21      1  ROS 103000 0630    BO  8  0.00 S 109 58.80 W GPS  3422                 3154

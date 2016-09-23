@@ -1,0 +1,49 @@
+R/V FRANKLIN     CRUISE FR06/96    WHP-ID ISS03     20030929WHPOSIODMB
+SHIP/CRS    WOCE                 CAST         UTC EVENT         POSITION                     HT ABOVE WIRE    MAX  NO. OF                       
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE  LATITUDE   LONGITUDE   NAV  DEPTH     BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS   
+------------------------------------------------------------------------------------------------------------------------------------------------   
+09FA9606    ISS3       1       1  UNK 060296 0038    BE  22 07.55 S 113 05.86 E UNK   1348                   1073      23
+09FA9606    ISS3       1       1  UNK 060296 0101    BO  22 07.47 S 113 05.96 E UNK    
+09FA9606    ISS3       1       1  UNK 060296 0139    EN  22 07.58 S 113 06.02 E UNK    
+09FA9606    ISS3       2       1  UNK 060296 1018    BE  22 13.55 S 113 45.33 E UNK    172                    160       3
+09FA9606    ISS3       2       1  UNK 060296 1025    BO  22 13.62 S 113 45.38 E UNK    
+09FA9606    ISS3       2       1  UNK 060296 1035    EN  22 13.77 S 113 45.48 E UNK    
+09FA9606    ISS3       3       1  UNK 060296 1112    BE  22 13.03 S 113 41.64 E UNK    416                    408       9
+09FA9606    ISS3       3       1  UNK 060296 1122    BO  22 13.19 S 113 41.63 E UNK    
+09FA9606    ISS3       3       1  UNK 060296 1145    EN  22 13.33 S 113 41.43 E UNK    
+09FA9606    ISS3       4       1  UNK 060296 1237    BE  22 12.10 S 113 35.65 E UNK    868                    863      15
+09FA9606    ISS3       4       1  UNK 060296 1255    BO  22 12.09 S 113 35.58 E UNK    
+09FA9606    ISS3       4       1  UNK 060296 1331    EN  22 12.01 S 113 35.48 E UNK    
+09FA9606    ISS3       5       1  UNK 060296 1438    BE  22 10.77 S 113 26.31 E UNK   1280                   1301      14
+09FA9606    ISS3       5       1  UNK 060296 1504    BO  22 10.40 S 113 26.42 E UNK    
+09FA9606    ISS3       5       1  UNK 060296 1553    EN  22 09.51 S 113 26.57 E UNK   
+09FA9606    ISS3       6       1  UNK 060296 1733    BE  22 08.32 S 113 10.23 E UNK   1314                   1319      16
+09FA9606    ISS3       6       1  UNK 060296 1756    BO  22 08.33 S 113 10.54 E UNK    
+09FA9606    ISS3       6       1  UNK 060296 1838    EN  22 08.45 S 113 10.96 E UNK    
+09FA9606    ISS3       7       1  UNK 060396 1458    BE  22 04.81 S 112 49.06 E UNK   2215                   2202      20
+09FA9606    ISS3       7       1  UNK 060396 1539    BO  22 04.64 S 112 49.27 E UNK    
+09FA9606    ISS3       7       1  UNK 060396 1642    EN  22 04.47 S 112 50.21 E UNK    
+09FA9606    ISS3       8       1  UNK 060396 1924    BE  21 59.98 S 112 23.01 E UNK   4244                   4291      22
+09FA9606    ISS3       8       1  UNK 060396 2043    BO  21 59.28 S 112 23.85 E UNK    
+09FA9606    ISS3       8       1  UNK 060396 2232    EN  21 58.36 S 112 24.60 E UNK    
+09FA9606    ISS3       9       1  UNK 060496 1354    BE  22 13.58 S 113 45.56 E UNK    150                    135       3
+09FA9606    ISS3       9       1  UNK 060496 1359    BO  22 13.53 S 113 45.56 E UNK    
+09FA9606    ISS3       9       1  UNK 060496 1408    EN  22 13.55 S 113 45.55 E UNK    
+09FA9606    ISS3      10       1  UNK 060496 1502    BE  22 12.96 S 113 41.62 E UNK    428                    429       7
+09FA9606    ISS3      10       1  UNK 060496 1512    BO  22 12.98 S 113 41.57 E UNK    
+09FA9606    ISS3      10       1  UNK 060496 1532    EN  22 13.06 S 113 41.54 E UNK    
+09FA9606    ISS3      11       1  UNK 060496 1619    BE  22 12.28 S 113 35.89 E UNK    859                    853      11
+09FA9606    ISS3      11       1  UNK 060496 1634    BO  22 12.44 S 113 36.02 E UNK    
+09FA9606    ISS3      11       1  UNK 060496 1702    EN  22 12.32 S 113 35.93 E UNK    
+09FA9606    ISS3      12       1  UNK 060496 1811    BE  22 10.82 S 113 26.53 E UNK   1266                   1264      16
+09FA9606    ISS3      12       1  UNK 060496 1833    BO  22 10.75 S 113 26.81 E UNK   
+09FA9606    ISS3      12       1  UNK 060496 1910    EN  22 10.52 S 113 26.91 E UNK    
+09FA9606    ISS3      13       1  UNK 060496 2053    BE  22 08.13 S 113 10.14 E UNK   1312                   1312      17
+09FA9606    ISS3      13       1  UNK 060496 2119    BO  22 07.95 S 113 10.43 E UNK    
+09FA9606    ISS3      13       1  UNK 060496 2204    EN  22 07.61 S 113 10.81 E UNK    
+09FA9606    ISS3      14       1  UNK 060596 1428    BE  22 05.18 S 112 49.18 E UNK   2208                   2195      20
+09FA9606    ISS3      14       1  UNK 060596 1509    BO  22 05.09 S 112 49.43 E UNK    
+09FA9606    ISS3      14       1  UNK 060596 1613    EN  22 05.16 S 112 49.81 E UNK    
+09FA9606    ISS3      15       1  UNK 060696 1453    BE  22 00.30 S 112 22.93 E UNK   4265                   4320      24
+09FA9606    ISS3      15       1  UNK 060696 1611    BO  22 00.17 S 112 23.69 E UNK    
+09FA9606    ISS3      15       1  UNK 060696 1746    EN  22 00.63 S 112 25.01 E UNK    

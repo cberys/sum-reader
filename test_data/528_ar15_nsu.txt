@@ -1,0 +1,30 @@
+R/V METEOR CRUISE 41 LEG 3  WHP-ID AR15                         20040217WHPOSIOSA
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC  ABOVE WIRE   MAX  NO. OF              
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+------------------------------------------------------------------------------------------------------------------------------------
+06MT41_3       AR15    208      1  ROS 042098 1644   UN 28 26.25 S  40 54.59 W GPS  4388              4421                    Test station 
+06MT41_3       AR15    210      1  ROS 042198 1742   UN 31 11.84 S  39 23.86 W GPS  4614              4666                    Vema Channel 
+06MT41_3       AR15    211      1  ROS 042198 2159   UN 31 12.04 S  39 21.02 W GPS  4574              4630       
+06MT41_3       AR15    212      1  ROS 042298 0142   UN 31 12.02 S  39 18.90 W GPS  4475              4510       
+06MT41_3       AR15    213      1  ROS 042298 0556   UN 31 12.03 S  39 16.02 W GPS  4066              4098       
+06MT41_3       AR15    214      1  ROS 042398 1916   UN 26 53.99 S  33 54.96 W GPS  3798              3812                    Vema Extension 
+06MT41_3       AR15    215      1  ROS 042398 2353   UN 26 41.97 S  34 14.02 W GPS  4783              4862       
+06MT41_3       AR15    216      1  ROS 042498 0706   UN 26 17.99 S  34 56.16 W GPS  4341              4388       
+06MT41_3       AR15    217      1  ROS 042498 1645   UN 25 53.88 S  35 38.89 W GPS  4215              4241       
+06MT41_3       AR15    218      1  ROS 042898 1014   UN 23 48.81 S  20 00.03 W GPS  5215              5284                    24S 
+06MT41_3       AR15    219      1  ROS 042998 1007   UN 23 49.59 S  16 16.34 W GPS  3874              3901       
+06MT41_3       AR15    220      1  ROS 043098 0258   UN 23 40.12 S  15 00.02 W GPS  3853              3885       
+06MT41_3       AR15    221      1  ROS 043098 1146   UN 24 09.95 S  13 59.86 W GPS  3171              3204       
+06MT41_3       AR15    225      1  ROS 050198 0817   UN 24 10.81 S  13 23.07 W GPS  2741              2778       
+06MT41_3       AR15    226      1  ROS 050198 1557   UN 24 10.08 S  12 18.11 W GPS  3910              4008       
+06MT41_3       AR15    229      1  ROS 050298 1056   UN 24 10.25 S  11 07.95 W GPS  3737              3760       
+06MT41_3       AR15    231      1  ROS 050298 2335   UN 24 09.96 S  09 53.92 W GPS  4322              4375       
+06MT41_3       AR15    232      1  ROS 050398 0655   UN 24 09.91 S  09 00.19 W GPS  4462              4523                    9W 
+06MT41_3       AR15    233      1  ROS 050398 1900   UN 22 23.96 S  08 59.96 W GPS  4192              4231       
+06MT41_3       AR15    234      1  ROS 050498 0351   UN 21 12.10 S  09 00.15 W GPS  3941              3878       
+06MT41_3       AR15    235      1  ROS 050498 1303   UN 20 00.03 S  09 00.09 W GPS  3959              3951       
+06MT41_3       AR15    236      1  ROS 050498 2148   UN 18 59.98 S  09 46.23 W GPS  3838              3857                    19S 
+06MT41_3       AR15    236      2  ROS 050598 0057   UN 18 59.98 S  09 46.20 W GPS  3840              2501       
+06MT41_3       AR15    243      1  ROS 050798 2222   UN 19 22.00 S  12 42.67 W GPS  4536              1500       
+06MT41_3       AR15    248      1  ROS 050998 1830   UN 19 05.75 S  17 15.12 W GPS  3453              1502       
+

@@ -1,0 +1,47 @@
+           R/V SHUMPU MARU  WOCE LINE PR17       20010327WHPOSIOKJU                                                              
+SHIP/CRS    WOCE                 CAST         UTC          POSITION                    UNC    COR  NO. OF                
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE    NAV  DEPTH CDEPTH  BOTTLES  PARAMATER  CO
+-------------------------------------------------------------------------------------------------------------------------
+49SU9107_2  PR17  SH4502       1  BUC 071891 1155                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4502       2  ROS 071891 1149   BE 31 09.81 N  131 29.32 E  GPS    230    231                                
+49SU9107_2  PR17  SH4502       2  ROS 071891 1157   BO                                                   8  2,4-6                
+49SU9107_2  PR17  SH4502       2  ROS 071891 1205   EN 31 10.67 N  131 30.48 E  GPS                                              
+49SU9107_2  PR17  SH4503       1  BUC 071891 1500                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4503       2  ROS 071891 1345   BE 30 59.80 N  131 43.00 E  GPS   1400   1388                                
+49SU9107_2  PR17  SH4503       2  ROS 071891 1408   BO                                                   9  2,4-6                
+49SU9107_2  PR17  SH4503       2  ROS 071891        EN                                                                           
+49SU9107_2  PR17  SH4503       3  ROS 071891        BE 30 59.80 N  131 43.00 E  GPS                                              
+49SU9107_2  PR17  SH4503       3  ROS 071891 1456   BO                                                  10  2,4-6                
+49SU9107_2  PR17  SH4503       3  ROS 071891 1505   EN 31 02.27 N  131 45.74 E  GPS                                              
+49SU9107_2  PR17   TH111       1  XBT 071891 1715   DE 30 48.38 N  131 57.68 E  GPS   1800   1785                                
+49SU9107_2  PR17  SH4504       1  BUC 071891 2025                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4504       2  ROS 071891 1846   BE 30 36.79 N  132 09.22 E  GPS   2480   2469                                
+49SU9107_2  PR17  SH4504       2  ROS 071891 1922   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4504       2  ROS 071891        EN                                                                           
+49SU9107_2  PR17  SH4504       3  ROS 071891        BE 30 36.79 N  132 09.22 E  GPS                                              
+49SU9107_2  PR17  SH4504       3  ROS 071891 2018   BO                                                  10  2,4-6                
+49SU9107_2  PR17  SH4504       3  ROS 071891 2028   EN 30 39.46 N  132 11.20 E  GPS                                              
+49SU9107_2  PR17   TH112       1  XBT 071891 2220   DE 30 26.85 N  132 21.25 E  GPS   3770   3767                                
+49SU9107_2  PR17  SH4505       1  BUC 071991 0146                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4505       2  ROS 071891 2340   BE 30 17.12 N  132 33.45 E  GPS   3900   3898                                
+49SU9107_2  PR17  SH4505       2  ROS 071991 0029   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4505       2  ROS 071991        EN                                                                           
+49SU9107_2  PR17  SH4505       3  ROS 071991        BE 30 17.12 N  132 33.45 E  GPS                                              
+49SU9107_2  PR17  SH4505       3  ROS 071991 0138   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4505       3  ROS 071991 0150   EN 30 18.26 N  132 34.12 E  GPS                                              
+49SU9107_2  PR17   TH113       1  XBT 071991 0330   DE 30 06.85 N  132 46.08 E  GPS   3150   3141                                
+49SU9107_2  PR17  SH4506       1  BUC 071991 0715                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4506       2  ROS 071991 0451   BE 29 57.29 N  132 57.16 E  GPS   3750   3747                                
+49SU9107_2  PR17  SH4506       2  ROS 071991 0550   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4506       2  ROS 071991        EN                                                                           
+49SU9107_2  PR17  SH4506       3  ROS 071991        BE 29 57.29 N  132 57.16 E  GPS                                              
+49SU9107_2  PR17  SH4506       3  ROS 071991 0711   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4506       3  ROS 071991 0722   EN 29 59.60 N  132 57.40 E  GPS                                              
+49SU9107_2  PR17   TH114       1  XBT 071991 0955   DE 29 43.87 N  133 14.41 E  GPS   2920   2910                                
+49SU9107_2  PR17  SH4507       1  BUC 071991 1315                                                           2,4-6       bucket   
+49SU9107_2  PR17  SH4507       2  ROS 071991 1139   BE 29 30.41 N  133 29.35 E  GPS   2700   2689                                
+49SU9107_2  PR17  SH4507       2  ROS 071991 1220   BO                                                  11  2,4-6                
+49SU9107_2  PR17  SH4507       2  ROS 071991        EN                                                                           
+49SU9107_2  PR17  SH4507       3  ROS 071991        BE 29 30.41 N  133 29.35 E  GPS                                              
+49SU9107_2  PR17  SH4507       3  ROS 071991 1311   BO                                                  10  2,4-6                
+49SU9107_2  PR17  SH4507       3  ROS 071991 1321   EN 29 31.08 N  133 28.90 E  GPS                                              

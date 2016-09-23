@@ -1,0 +1,61 @@
+R/V VALDIVIA CRUISE   06AZ161_2    WHP-ID  AR07E                         20020402WHPOSIOAH
+SHIP/CRS     WOCE                CAST         UTC            POSITION                    ABOVE  NO.  OF
+EXPOCODE     SECT  STNNBR CASTNO TYPE DATE   TIME  CODE  LATITUDE  LONGITUDE  NAV  DEPTH BOTTOM BOTTLES PARAMETERS  COMMENTS
+----------------------------------------------------------------------------------------------------------------------------
+06AZ161_2   AR07E       1      1 ROS  082196 1432    BE  53 26.9 N 47 54.0 W  GPS   3860     10       4             CTD test
+06AZ161_2   AR07E       2      1 ROS  082296 0944    BE  56 06.0 N 45 40.7 W  GPS   3436              4             CTD test
+06AZ161_2   AR07E       2      2 ROS  082296 1201    BE  56 07.3 N 45 41.0 W  GPS   3407              8          1  CTD test
+06AZ161_2   AR07E       3      1 ROS  082396 1230    BE  59 59.0 N 42 28.9 W  GPS    187     25       3          1  CTD  3
+06AZ161_2   AR07E       4      1 ROS  082396 1355    BE  59 56.5 N 42 09.6 W  GPS    515     30       4          1  CTD  4
+06AZ161_2   AR07E       5      1 ROS  082396 1532    BE  59 55.7 N 41 51.6 W  GPS   1799     30      10          1  CTD  5
+06AZ161_2   AR07E       6      1 ROS  082396 1831    BE  59 53.8 N 41 31.2 W  GPS   1869     22      11          1  CTD  6
+06AZ161_2   AR07E       7      1 ROS  082396 2051    BE  59 52.1 N 41 12.3 W  GPS   2013     27      11          1  CTD  7
+06AZ161_2   AR07E       8      1 ROS  082396 2335    BE  59 50.2 N 40 51.8 W  GPS   2310     25      12          1  CTD  8
+06AZ161_2   AR07E       9      1 ROS  082496 0320    BE  59 47.4 N 40 13.3 W  GPS   2594     35      12          1  CTD  9
+06AZ161_2   AR07E      10      1 ROS  082496 0714    BE  59 42.7 N 39 34.6 W  GPS   2777     24      12          1  CTD 10
+06AZ161_2   AR07E      11      1 ROS  082496 1202    BE  59 35.5 N 38 34.3 W  GPS   2989     35      12          1  CTD 11
+06AZ161_2   AR07E      12      1 ROS  082496 1638    BE  59 30.7 N 37 37.7 W  GPS   3127     25      12          1  CTD 12
+06AZ161_2   AR07E      13      1 ROS  082496 2148    BE  59 24.8 N 36 37.8 W  GPS   3097     31      12          1  CTD 13
+06AZ161_2   AR07E      14      1 ROS  082596 0155    BE  59 20.4 N 35 57.2 W  GPS   3089     40      12          1  CTD 14
+06AZ161_2   AR07E      15      1 ROS  082596 0654    BE  59 14.4 N 34 58.5 W  GPS   2757     20      12          1  CTD 15
+06AZ161_2   AR07E      16      1 ROS  082596 1155    BE  59 08.8 N 33 58.9 W  GPS   2696     40      12          1  CTD 16
+06AZ161_2   AR07E      17      1 ROS  082596 1542    BE  59 04.3 N 33 23.3 W  GPS   2436     20      12          1  CTD 17
+06AZ161_2   AR07E      18      1 ROS  082596 1953    BE  59 00.7 N 32 45.3 W  GPS   1976     28      11          1  CTD 18
+06AZ161_2   AR07E      19      1 ROS  082596 2329    BE  58 56.4 N 32 07.1 W  GPS   1739     33      12          1  CTD 19 
+06AZ161_2   AR07E      20      1 ROS  082696 0248    BE  58 52.4 N 31 29.6 W  GPS   1512     50       9          1  CTD 20
+06AZ161_2   AR07E      21      1 ROS  082696 0556    BE  58 47.7 N 30 49.8 W  GPS   1260     25       9          1  CTD 21
+06AZ161_2   AR07E      22      1 ROS  082696 0933    BE  58 30.2 N 30 23.2 W  GPS   1973     25      11          1  CTD 22
+06AZ161_2   AR07E      23      1 ROS  082696 1250    BE  58 19.2 N 29 56.0 W  GPS   2334     30      12          1  CTD 23
+06AZ161_2   AR07E      24      1 ROS  082696 1625    BE  58 05.2 N 29 29.7 W  GPS   2232     26      12          1  CTD 24
+06AZ161_2   AR07E      25      1 ROS  082696 2001    BE  57 50.7 N 29 03.9 W  GPS   2339     25      12          1  CTD 25
+06AZ161_2   AR07E      26      1 ROS  082696 2351    BE  57 36.6 N 28 37.1 W  GPS   2403     28      12          1  CTD 26
+06AZ161_2   AR07E      27      1 ROS  082796 0335    BE  57 22.2 N 28 08.9 W  GPS   2631     30      12          1  CTD 27
+06AZ161_2   AR07E      28      1 ROS  082796 0811    BE  56 54.6 N 27 49.0 W  GPS   2896     30      12          1  CTD 28
+06AZ161_2   AR07E      29      1 ROS  082796 1302    BE  56 27.2 N 27 29.6 W  GPS   2753     30      12          1  CTD 29
+06AZ161_2   AR07E      30      1 ROS  082796 1746    BE  55 59.1 N 27 08.8 W  GPS   2789     27      12          1  CTD 30
+06AZ161_2   AR07E      31      1 ROS  082796 2235    BE  55 31.7 N 26 48.1 W  GPS   3170     30      12          1  CTD 31
+06AZ161_2   AR07E      32      1 ROS  082896 0339    BE  55 04.4 N 26 27.8 W  GPS   3363     23      12          1  CTD 32
+06AZ161_2   AR07E      33      1 ROS  082896 0900    BE  54 36.6 N 26 07.6 W  GPS   3414     25      12          1  CTD 33
+06AZ161_2   AR07E      34      1 ROS  082896 1301    BE  54 22.9 N 25 56.7 W  GPS   3213     30      12          1  CTD 34
+06AZ161_2   AR07E      35      1 ROS  082896 1646    BE  54 08.5 N 25 46.2 W  GPS   3150     23      12          1  CTD 35
+06AZ161_2   AR07E      36      1 ROS  082896 2026    BE  53 55.1 N 25 38.2 W  GPS   3610     30      12          1  CTD 36 
+06AZ161_2   AR07E      37      1 ROS  082996 0036    BE  53 40.5 N 25 25.6 W  GPS   3589     30      12          1  CTD 37
+06AZ161_2   AR07E      38      1 ROS  082996 0548    BE  53 28.6 N 24 40.6 W  GPS   3557     24      12          1  CTD 38
+06AZ161_2   AR07E      39      1 ROS  082996 1116    BE  53 16.2 N 23 53.6 W  GPS   3698     25      12          1  CTD 39
+06AZ161_2   AR07E      40      1 ROS  082996 1631    BE  53 04.8 N 23 07.6 W  GPS   3887     25      12          1  CTD 40
+06AZ161_2   AR07E      41      1 ROS  082996 2215    BE  52 51.9 N 22 21.7 W  GPS   4013     25      12          1  CTD 41
+06AZ161_2   AR07E      42      1 ROS  083096 0340    BE  52 40.3 N 21 36.7 W  GPS   3978     22      12          1  CTD 42
+06AZ161_2   AR07E      43      1 ROS  083096 0907    BE  52 28.2 N 20 51.2 W  GPS   3727     25      12          1  CTD 43
+06AZ161_2   AR07E      44      1 ROS  083096 1308    BE  52 21.8 N 20 27.5 W  GPS   3580     25      12          1  CTD 44
+06AZ161_2   AR07E      45      1 ROS  083096 1706    BE  52 20.8 N 19 59.0 W  GPS   3151     24      12          1  CTD 45
+06AZ161_2   AR07E      46      1 ROS  083096 2121    BE  52 20.3 N 19 23.7 W  GPS   3620     30      12          1  CTD 46 
+06AZ161_2   AR07E      47      1 ROS  083196 0222    BE  52 20.4 N 18 37.9 W  GPS   4323     30      12          1  CTD 47
+06AZ161_2   AR07E      48      1 ROS  083196 0758    BE  52 18.9 N 17 50.3 W  GPS   4330     26      12          1  CTD 48
+06AZ161_2   AR07E      49      1 ROS  083196 1406    BE  52 19.6 N 16 59.7 W  GPS   3927     25      12          1  CTD 49
+06AZ161_2   AR07E      50      1 ROS  083196 1929    BE  52 20.2 N 16 12.2 W  GPS   3447     25      12          1  CTD 50
+06AZ161_2   AR07E      51      1 ROS  083196 2334    BE  52 19.6 N 15 46.3 W  GPS   3245     30      12          1  CTD 51
+06AZ161_2   AR07E      52      1 ROS  090196 0247    BE  52 19.8 N 15 30.0 W  GPS   2782     24      12          1  CTD 52
+06AZ161_2   AR07E      53      1 ROS  090196 0604    BE  52 20.0 N 15 13.3 W  GPS   1280     24       8          1  CTD 53
+06AZ161_2   AR07E      54      1 ROS  090196 0816    BE  52 19.7 N 14 56.2 W  GPS    847     23       5          1  CTD 54
+06AZ161_2   AR07E      55      1 ROS  090196 1006    BE  52 19.8 N 14 38.9 W  GPS    406     20       3          1  CTD 55
+06AZ161_2   AR07E      56      1 ROS  090196 1212    BE  52 19.9 N 14 15.2 W  GPS    331     25       3          1  CTD 56  

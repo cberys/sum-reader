@@ -1,0 +1,24 @@
+R/V Knorr LEG 1 WHP-ID PRS2 20110408CCHSIOMYS
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+316N20090427   PRS2      1      1  ROS 042709 2335   BE 21 20.58 N 158 16.36 W GPS  1507       496          1020      24 1,2             Dual T, C sensors   
+316N20090427   PRS2      2      1  ROS 042809 1015   BE 22 44.99 N 157 59.95 W GPS  4728       4529          200      23 Dual            T, C sensors        
+316N20090427   PRS2      2      2  ROS 042809 1125   BE 22 44.99 N 157 59.96 W GPS  4728       3717         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2      3  ROS 042809 1454   BE 22 45.00 N 158 00.00 W GPS  4727       4            4806      24 1,2,3,4,5,6     Dual T, C sensors   
+316N20090427   PRS2      2      4  ROS 042809 2102   BE 22 45.02 N 157 59.97 W GPS  4727       3716         1020      24 1,2,3,4,5,6     Dual T, C sensors   
+316N20090427   PRS2      2      5  ROS 042809 2358   BE 22 44.97 N 157 59.98 W GPS  4728       3717         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2      6  ROS 042909 0339   BE 22 43.35 N 158 01.87 W GPS  4739       3726         1022      14 1               Dual T, C sensors   
+316N20090427   PRS2      2      7  ROS 042909 0610   BE 22 45.02 N 158 00.10 W GPS  4728       3715         1022      23 1,2             Dual T, C sensors   
+316N20090427   PRS2      2      8  ROS 042909 0900   BE 22 44.99 N 157 59.98 W GPS  4727       3712         1024      24 1               Dual T, C sensors   
+316N20090427   PRS2      2      9  ROS 042909 1158   BE 22 44.98 N 157 59.99 W GPS  4728       3717         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     10  ROS 042909 1505   BE 22 44.91 N 158 00.03 W GPS  4728       3715         1022      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     11  ROS 042909 1755   BE 22 44.98 N 157 59.94 W GPS  4727       3714         1022      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     12  ROS 042909 2100   BE 22 44.99 N 158 00.13 W GPS  4727       3714         1022      17 1               Dual T, C sensors   
+316N20090427   PRS2      2     13  ROS 043009 0002   BE 22 45.51 N 157 59.73 W GPS  4722       3711         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     14  ROS 043009 0302   BE 22 45.00 N 158 00.00 W GPS  4728       3717         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     15  ROS 043009 0558   BE 22 45.02 N 157 59.94 W GPS  4727       3716         1020      24 1               Dual T, C sensors   
+316N20090427   PRS2      2     16  ROS 043009 0907   BE 22 44.92 N 157 59.84 W GPS  4727       0            4810      21 1,2             Dual T, C sensors   
+316N20090427   PRS2      6      1  ROS 050109 0647   BE 21 50.80 N 158 21.87 W GPS  2436       -4           2470      13 1               Dual T, C sensors   
+316N20090427   PRS2     50      1  ROS 043009 1833   BE 22 44.40 N 157 55.10 W GPS  4708       4501          208      24 Dual            T, C sensors        
+316N20090427   PRS2     50      2  ROS 050109 0016   BE 22 44.83 N 157 55.28 W GPS  4703       4504          200       0 Dual            T, C sensors        

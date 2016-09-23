@@ -1,0 +1,11 @@
+PR15 R/V KA'IMIMOANA CRUISE GP396 LEG 1     20010611WHPOSIOKJU
+SHIP/CRS    WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF 
+EXPOCODE    SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33KMGP396_1 PR15      18      1  ROS 070696 1536    BO  7 58.8  S 165  6.0  E GPS  3900                 1006       6 1
+33KMGP396_1 PR15      18      2  ROS 070696 2350    BO  8  2.4  S 164 48.6  E GPS  3900                  503       6 1
+33KMGP396_1 PR15      19      1  ROS 070996 0523    BO  4 59.4  S 165 11.4  E GPS  2580                 1003       6 1
+33KMGP396_1 PR15      20      1  ROS 071096 1021    BO  1 54.6  S 164 19.2  E GPS  4440                 1006       6 1
+33KMGP396_1 PR15      21      1  ROS 071196 1322    BO  0  0.0  N 165  3.0  E GPS  4371                 4104       6 1
+33KMGP396_1 PR15      22      1  ROS 071496 0647    BO  5  3.6  N 164 58.8  E GPS  5376                 1006       6 1
+33KMGP396_1 PR15      23      1  ROS 071596 0759    BO  7 59.4  N 164 57.0  E GPS  5190                 4960       6 1

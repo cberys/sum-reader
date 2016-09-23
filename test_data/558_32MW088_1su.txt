@@ -1,0 +1,15 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-88
+SHIP/CRS   WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+32MW088_1  PRS2       1       1   ROS 120397 2244    BE 21 21.23 N 158 16.29 W GPS  1425         408  1026      24  1,2,3,4,5,6   Dual T, C sensors
+32MW088_1  PRS2       2       1   ROS 120597 0030    BE 22 44.82 N 158 00.19 W GPS  4725        3712  1022      20  1,2,3,4,5,6   Dual T, C sensors
+32MW088_1  PRS2       2       2   ROS 120597 0356    BE 22 45.43 N 157 59.52 W GPS  4715        3700  1024      21  1,2,3,4,5,6   Dual T, C sensors
+32MW088_1  PRS2       2       3   ROS 120597 0656    BE 22 44.36 N 158 00.59 W GPS  4720        3705  1024      16  1             Dual T, C sensors
+32MW088_1  PRS2       2       4   ROS 120597 0958    BE 22 45.62 N 157 59.94 W GPS  4717        3706  1020      12  1             Dual T, C sensors
+32MW088_1  PRS2       2       5   ROS 120597 1257    BE 22 46.73 N 157 58.68 W GPS  4705        3688  1026      24  1             Dual T, C sensors
+32MW088_1  PRS2       2       6   ROS 120597 1556    BE 22 44.84 N 158 00.20 W GPS  4725        3708  1026      24  1             Dual T, C sensors
+32MW088_1  PRS2       2       7   ROS 120697 0100    BE 22 49.18 N 158 00.25 W GPS  4695        3680  1024      24  1,2,3,4,5,6   Dual T, C sensors
+32MW088_1  PRS2       2       8   ROS 120697 0456    BE 22 48.98 N 157 59.99 W GPS  4695           3  4774      24  1,2,3,4,5,6   Dual T, C sensors
+32MW088_1  PRS2       2       9   ROS 120697 1159    BE 22 49.13 N 158 00.39 W GPS  4697        3682  1024      12  1             Dual T, C sensors
+32MW088_1  PRS2       8       1   ROS 120697 2011    BE 22 28.91 N 158 08.70 W GPS  4820        3807  1022      24  1,2           Dual T, C sensors

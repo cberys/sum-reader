@@ -1,0 +1,59 @@
+	R/V SHUMPU MARU                                                                    20010806WHPOSIOKJU        
+SHIP/CRS   WOCE                 CAST         UTC           POSITION                    UNC    MAX    NO. OF                                            
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE   NAV    DEPTH  PRESS   BOTTLES PARAMETER COMMENTS  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+49SU9207_2 PR17  SU4708       1  ROS 071992  1225  BE 31 10.08 N  131 29.69 E GPS                                                                       
+49SU9207_2 PR17  SU4708       1  ROS 071992  1234  BO                                  250    233         9     2,4-6,26              
+49SU9207_2 PR17  SU4708       1  ROS 071992  1244  EN 31 10.52 N  131 31.13 E GPS                                                                       
+49SU9207_2 PR17  SU4708       2  BOT 071992  1231                                                                                            bucket    
+49SU9207_2 PR17  SU4709       1  ROS 071992  1422  BE 31 00.10 N  131 42.41 E GPS                                                                       
+49SU9207_2 PR17  SU4709       1  ROS 071992  1431  BO                                                    10     2,4-6                 
+49SU9207_2 PR17  SU4709       1  ROS 071992  1441  EN                                                                                                  
+49SU9207_2 PR17  SU4709       2  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4709       2  ROS 071992  1515  BO                                 1480   1416         9     2,4-6                 
+49SU9207_2 PR17  SU4709       2  ROS 071992  1535  EN 31 00.63 N  131 44.19 E GPS                                                                       
+49SU9207_2 PR17  SU4709       3  BOT 071992  1456                                                                                            bucket    
+49SU9207_2 PR17  TH086        1  XBT 071992  1725  DE 30 48.65 N  131 57.60 E GPS     1830                                                               
+49SU9207_2 PR17  SU4710       1  ROS 071992  1858  BE 30 37.49 N  132 09.74 E GPS                                                                       
+49SU9207_2 PR17  SU4710       1  ROS 071992  1927  BO                                 2570   2531        11     1,2,4-6,26            
+49SU9207_2 PR17  SU4710       1  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4710       2  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4710       2  ROS 071992  2039  BO                                                     9     1,2,4-6,26            
+49SU9207_2 PR17  SU4710       2  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4710       3  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4710       3  ROS 071992  2131  BO                                                     5     1,2,4-6,26            
+49SU9207_2 PR17  SU4710       3  ROS 071992  2135  EN 30 40.35 N  132 14.38 E GPS                                                                       
+49SU9207_2 PR17  SU4710       4  BOT 071992  2131                                                                                            bucket    
+49SU9207_2 PR17   TH087       1  XBT 071992  2330  DE 30 27.04 N  132 23.04 E GPS    3560                                                               
+49SU9207_2 PR17  SU4711       1  ROS 072092  0050  BE 30 16.69 N  132 33.73 E GPS                                                                       
+49SU9207_2 PR17  SU4711       1  ROS 072092  0133  BO                                4070    3991        11     2,4-6                 
+49SU9207_2 PR17  SU4711       1  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4711       2  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4711       2  ROS 072092  0302  BO                                                    11     2,4-6                 
+49SU9207_2 PR17  SU4711       2  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4711       3  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4711       3  ROS 072092  0357  BO                                                    10     2,4-6                 
+49SU9207_2 PR17  SU4711       3  ROS 072092  0408  EN 30 17.83 N  132 37.03 E GPS                                                                       
+49SU9207_2 PR17  SU4711       4  BOT 072092  0351                                                                                           bucket    
+49SU9207_2 PR17   TH088       1  XBT 072092  0540  DE 30 07.39 N  132 47.15 E GPS    3460                                                               
+49SU9207_2 PR17  SU4712       1  ROS 072092  0659  BE 29 56.86 N  132 57.54 E GPS                                                                       
+49SU9207_2 PR17  SU4712       1  ROS 072092  0748  BO                                3820    3793        11     1,2,4-6               
+49SU9207_2 PR17  SU4712       1  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4712       2  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4712       2  ROS 072092  0920  BO                                                    10     1,2,4-6               
+49SU9207_2 PR17  SU4712       2  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4712       3  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4712       3  ROS 072092  1003  BO                                                    10     1,2,4-6               
+49SU9207_2 PR17  SU4712       3  ROS 072092  1012  EN 29 56.81 N  132 59.60 E GPS                                                                       
+49SU9207_2 PR17  SU4712       4  BOT 072092  1003                                                                                           bucket    
+49SU9207_2 PR17   TH089       1  XBT 072092  1210  DE 29 43.31 N  133 13.08 E GPS    2990                                                               
+49SU9207_2 PR17  SU4713       1  ROS 072092  1405  BE 29 30.18 N  133 30.12 E GPS                                                                       
+49SU9207_2 PR17  SU4713       1  ROS 072092  1439  BO                                2780    2742         5     2,4-6,26              
+49SU9207_2 PR17  SU4713       1  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4713       2  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4713       2  ROS 072092  1549  BO                                                    11     2,4-6,26              
+49SU9207_2 PR17  SU4713       2  ROS               EN                                                                                                  
+49SU9207_2 PR17  SU4713       3  ROS               BE                                                                                                  
+49SU9207_2 PR17  SU4713       3  ROS 072092  1704  BO                                                    10     2,4-6,26              
+49SU9207_2 PR17  SU4713       3  ROS 072092  1714  EN 29 30.34 N  133 30.39 E GPS                                                                       
+49SU9207_2 PR17  SU4713       4  BOT 072092  1701                                                                                           bucket    

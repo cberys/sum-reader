@@ -1,0 +1,10 @@
+R/V Ka'Imikai-O-Kanaloa LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+33KI161_1      PRS2      1      1  ROS 071304 0036   BE 21 20.70 N 158 16.14 W GPS  1482       467          1024      24 1,2             Dual T, C sensors   
+33KI161_1      PRS2      2      1  ROS 071304 1752   BE 22 45.08 N 158 00.04 W GPS  4728       4032          702      24 1               Dual T, C sensors   
+33KI161_1      PRS2      2      2  ROS 071304 1914   BE 22 44.95 N 157 59.71 W GPS  4728       5            4806      24 1,2,3,4,5,6     Dual T, C sensors   
+33KI161_1      PRS2      2      3  ROS 071304 2356   BE 22 44.95 N 158 00.02 W GPS  4722       4521          202      24 1,2,3,4,5,6     Dual T, C sensors   
+33KI161_1      PRS2      2      4  ROS 071404 0127   BE 22 45.12 N 157 59.07 W GPS  4715       4540          176      24 1               Dual T, C sensors   
+33KI161_1      PRS2      2      5  ROS 071404 0256   BE 22 44.91 N 157 59.99 W GPS  4715       4514          202      24 1               Dual T, C sensors   

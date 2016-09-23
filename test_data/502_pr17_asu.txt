@@ -1,0 +1,42 @@
+R/V SHUMPU MARU  WOCE LINE PR17      20010327WHPOSIOKJU                                                                                        
+SHIP/CRS    WOCE                 CAST         UTC          POSITION                    UNC    COR NO. OF                                      
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE    NAV  DEPTH CDEPTH BOTTLES  PARAMATER  COMMENTS                
+----------------------------------------------------------------------------------------------------------------------------------------------
+49SU9102_3  PR17  SH4414       2  ROS 022491 1905   BE 31 09.82 N  131 29.59 E  GPS    220    221                                                     
+49SU9102_3  PR17  SH4414       2  ROS 022491 1919   BO                                                  8  2,4-6                                      
+49SU9102_3  PR17  SH4414       2  ROS 022491 1928   EN 31 08.91 N  131 29.38 E  GPS                                                                   
+49SU9102_3  PR17  SH4415       2  ROS 022491 2109   BE 31 00.16 N  131 42.62 E  GPS   1410   1398                                                     
+49SU9102_3  PR17  SH4415       2  ROS 022491 2136   BO                                                  8  2,4-6                                      
+49SU9102_3  PR17  SH4415       2  ROS 022491        EN                                                                                                
+49SU9102_3  PR17  SH4415       3  ROS 022491        BE 31 00.16 N  131 42.62 E  GPS                                                                   
+49SU9102_3  PR17  SH4415       3  ROS 022491 2215   BO                                                 10  2,4-6                                      
+49SU9102_3  PR17  SH4415       3  ROS 022491 2224   EN 30 59.22 N  131 42.59 E  GPS                                                                   
+49SU9102_3  PR17   TH025       1  XBT 022591 0005   DE 30 49.09 N  131 56.08 E  GPS   1720   1705                                                     
+49SU9102_3  PR17  SH4416       2  ROS 022591 0140   BE 30 37.24 N  132 08.94 E  GPS   2400   2389                                                     
+49SU9102_3  PR17  SH4416       2  ROS 022591 0216   BO                                                  9  2,4-6                                      
+49SU9102_3  PR17  SH4416       2  ROS 022591        EN                                                                                                
+49SU9102_3  PR17  SH4416       3  ROS 022591        BE 30 37.24 N  132 08.94 E  GPS                                                                   
+49SU9102_3  PR17  SH4416       3  ROS 022591 0317   BO                                                  9  2,4-6                                      
+49SU9102_3  PR17  SH4416       3  ROS 022591 0327   EN 30 39.82 N  132 09.93 E  GPS                                                                   
+49SU9102_3  PR17   TH026       1  XBT 022591 0530   DE 30 27.71 N  132 22.61 E  GPS   3430   3423                                                     
+49SU9102_3  PR17  SH4417       2  ROS 022591 0649   BE 30 16.75 N  132 32.66 E  GPS   3970   3969                                                     
+49SU9102_3  PR17  SH4417       2  ROS 022591 0750   BO                                                 11  2,4-6                                      
+49SU9102_3  PR17  SH4417       2  ROS 022591        EN                                                                                                
+49SU9102_3  PR17  SH4417       3  ROS 022591        BE 30 16.75 N  132 32.66 E  GPS                                                                   
+49SU9102_3  PR17  SH4417       3  ROS 022591 0919   BO                                                 11  2,4-6                                      
+49SU9102_3  PR17  SH4417       3  ROS 022591 0931   EN 30 15.57 N  132 35.88 E  GPS                                                                   
+49SU9102_3  PR17   TH027       1  XBT 022591 1050   DE 30 06.73 N  132 45.47 E  GPS   3100   3090                                                     
+49SU9102_3  PR17  SH4418       2  ROS 022591 1206   BE 29 57.10 N  132 56.62 E  GPS   3810   3807                                                     
+49SU9102_3  PR17  SH4418       2  ROS 022591 1259   BO                                                 10  2,4-6                                      
+49SU9102_3  PR17  SH4418       2  ROS 022591        EN                                                                                                
+49SU9102_3  PR17  SH4418       3  ROS 022591        BE 29 57.10 N  132 56.62 E  GPS                                                                   
+49SU9102_3  PR17  SH4418       3  ROS 022591 1432   BO                                                 11  2,4-6                                      
+49SU9102_3  PR17  SH4418       3  ROS 022591 1443   EN 29 55.85 N  132 57.80 E  GPS                                                                   
+49SU9102_3  PR17   TH028       1  XBT 022591 1640   DE 29 44.10 N  133 13.86 E  GPS   2930   2920                                                     
+49SU9102_3  PR17  SH4419       2  ROS 022591 1830   BE 29 29.73 N  133 29.37 E  GPS   2720   2709                                                     
+49SU9102_3  PR17  SH4419       2  ROS 022591 1907   BO                                                 10  2,4-6                                      
+49SU9102_3  PR17  SH4419       2  ROS 022591        EN                                                                                                
+49SU9102_3  PR17  SH4419       3  ROS 022591        BE 29 29.73 N  133 29.37 E  GPS                                                                   
+49SU9102_3  PR17  SH4419       3  ROS 022591 2007   BO                                                 10  2,4-6                                      
+49SU9102_3  PR17  SH4419       3  ROS 022591 2019   EN 29 28.02 N  133 29.28 E  GPS                                                                   
+ 

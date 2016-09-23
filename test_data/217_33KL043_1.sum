@@ -1,0 +1,12 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-43
+           WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+33KL043_1  PRS2       2       2   HYD 121592 2200    BE 22 45.00 N 158 00.00 W GPS  4750        4486  266        7  1             Internally Recording Mode
+33KL043_1  PRS2       2       3   HYD 121592 2348    BE 22 45.00 N 158 00.00 W GPS  4750        4492  260        0                Internally Recording Mode
+33KL043_1  PRS2       2       4   HYD 121692 0015    BE 22 45.00 N 158 00.00 W GPS  4750        4486  266        0                Internally Recording Mode
+33KL043_1  PRS2       2       5   HYD 121692 0330    BE 22 45.00 N 158 00.00 W GPS  4750        4484  268        3  1,2           Internally Recording Mode
+33KL043_1  PRS2       2       6   HYD 121692 0630    BE 22 45.00 N 158 00.00 W GPS  4750        4486  266       12  1,2,3,4,5,6   Internally Recording Mode
+33KL043_1  PRS2       2       7   HYD 121692 1000    BE 22 45.00 N 158 00.00 W GPS  4750        4482  270       12  1,2,3,4,5,6   Internally Recording Mode
+33KL043_1  PRS2       2       8   HYD 121692 1200    BE 22 45.00 N 158 00.00 W GPS  4750        4486  266        8  1             Internally Recording Mode
+33KL043_1  PRS2       2       9   HYD 121692 1600    BE 22 45.00 N 158 00.00 W GPS  4750        4490  262        0                Internally Recording Mode

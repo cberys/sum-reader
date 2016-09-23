@@ -1,0 +1,43 @@
+                                Ocean Researcher 1 Cruise # 334 Along WHP Section PR20  20000614WHPOSIOLMH
+SHIP/CRS  WOCE                 CAST         UTC          POSITION                    COR    MAX NO. OF
+EXPOCODE  SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE    NAV  CDEPTH  PRESS BOTTLES  PARAMETER COMMENTS
+-----------------------------------------------------------------------------------------------------------------------------------
+21OR334_1 PR20       1       1  CTD 110392 0510   BE 21 54.16 N 120 53.64 E  GPS     170    155
+21OR334_1 PR20       1       1  CTD 110392 0520   EN                         GPS  
+21OR334_1 PR20       2       1  CTD 110392 0435   BE 21 54.94 N 120 54.78 E  GPS     364    313
+21OR334_1 PR20       2       1  CTD 110392 0455   EN                         GPS  
+21OR334_1 PR20       3       1  CTD 110392 0147   BE 21 53.57 N 121 00.33 E  GPS    1323   1003
+21OR334_1 PR20       3       1  CTD 110392 0305   EN                         GPS  
+21OR334_1 PR20       4       1  CTD 110292 2215   BE 21 52.23 N 121 09.91 E  GPS     883    795
+21OR334_1 PR20       4       1  CTD 110292 2307   EN                         GPS  
+21OR334_1 PR20       5       1  CTD 110292 1807   BE 21 50.58 N 121 19.99 E  GPS    2873   2003
+21OR334_1 PR20       5       1  CTD 110292 1851   EN                         GPS  
+21OR334_1 PR20       6       1  CTD 110292 1740   BE 21 49.45 N 121 29.93 E  GPS     973   1031
+21OR334_1 PR20       6       1  CTD 110292 1805   EN                         GPS  
+21OR334_1 PR20       7       1  CTD 110292 1612   BE 21 48.19 N 121 40.04 E  GPS    1144   1025
+21OR334_1 PR20       7       1  CTD 110292 1655   EN                         GPS  
+21OR334_1 PR20       8       1  CTD 110292 1303   BE 21 46.27 N 121 49.95 E  GPS    3904   2005
+21OR334_1 PR20       8       1  CTD 110292 1428   EN                         GPS  
+21OR334_1 PR20       9       1  CTD 110292 0945   BE 21 45.59 N 122 00.03 E  GPS    4666   1999
+21OR334_1 PR20       9       1  CTD 110292 1110   EN                         GPS  
+21OR334_1 PR20      10       1  CTD 110292 0651   BE 21 45.10 N 122 14.99 E  GPS    4888   2005
+21OR334_1 PR20      10       1  CTD 110292 0752   EN                         GPS  
+21OR334_1 PR20      11       1  CTD 110292 0438   BE 21 45.22 N 122 29.93 E  GPS    4924   2005
+21OR334_1 PR20      11       1  CTD 110292 0535   EN                         GPS  
+21OR334_1 PR20      12       1  CTD 110292 0113   BE 21 45.67 N 122 39.89 E  GPS    4289   2001
+21OR334_1 PR20      12       1  CTD 110292 0243   EN                         GPS  
+21OR334_1 PR20      13       1  CTD 110192 2238   BE 21 45.15 N 122 49.91 E  GPS    4948   1999
+21OR334_1 PR20      13       1  CTD 110192 2400   EN                         GPS  
+21OR334_1 PR20      14       1  CTD 110192 2022   BE 21 45.03 N 122 59.91 E  GPS    4000   2003
+21OR334_1 PR20      14       1  CTD 110192 2122   EN                         GPS  
+21OR334_1 PR20      15       1  CTD 110192 1725   BE 21 45.21 N 123 14.97 E  GPS    5576   2011
+21OR334_1 PR20      15       1  CTD 110192 1830   EN                         GPS  
+21OR334_1 PR20      16       1  CTD 110192 1406   BE 21 44.97 N 123 34.94 E  GPS    5044   2003
+21OR334_1 PR20      16       1  CTD 110192 1510   EN                         GPS  
+21OR334_1 PR20      17       1  CTD 110192 1025   BE 21 45.10 N 123 59.77 E  GPS    5556   2009
+21OR334_1 PR20      17       1  CTD 110192 1135   EN                         GPS  
+21OR334_1 PR20      18       1  CTD 110192 0640   BE 21 45.27 N 124 29.73 E  GPS    5869   2005
+21OR334_1 PR20      18       1  CTD 110192 0748   EN                         GPS  
+21OR334_1 PR20      19       1  CTD 110192 0240   BE 21 45.27 N 124 59.87 E  GPS    5229   1999
+21OR334_1 PR20      19       1  CTD 110192 0420   EN                         GPS  
+

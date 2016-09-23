@@ -1,0 +1,11 @@
+R/V Kilo-Moana LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+33KB192_1      PRS2      1      1  ROS 060807 2250   BE 21 20.61 N 158 16.38 W GPS  1559       546          1022      24 1,2             Dual T, C sensors   
+33KB192_1      PRS2      2      1  ROS 060907 0918   BE 22 45.03 N 158 00.02 W GPS  4743       4542          202      24 Dual            T, C sensors        
+33KB192_1      PRS2      2      2  ROS 060907 1107   BE 22 44.99 N 158 00.01 W GPS  4743       4542          202      24 Dual            T, C sensors        
+33KB192_1      PRS2      2      3  ROS 060907 1405   BE 22 45.01 N 158 00.02 W GPS  4738       19           4802      24 1,2,3,4,5,6     Dual T, C sensors   
+33KB192_1      PRS2      2      4  ROS 060907 2103   BE 22 45.01 N 158 00.00 W GPS  4748       3735         1022      24 1,2,3,4,5,6     Dual T, C sensors   
+33KB192_1      PRS2      2      5  ROS 061007 0204   BE 22 44.98 N 158 00.00 W GPS  4743       3730         1022      20 1               Dual T, C sensors   
+33KB192_1      PRS2      2      6  ROS 061007 0447   BE 22 44.94 N 158 00.04 W GPS  4744       3731         1022      24 1               Dual T, C sensors   

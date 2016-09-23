@@ -1,0 +1,63 @@
+ AR7E   R/V VALDIVIA  Cruise 152                        20010228WHPOSIODMB
+SHP/CRS   WOCE               CAST          UTC EVENT       POSITION           BOTTOM  HT ABOVE    NO. OF
+EXPOCODE  SECT STNNBR CASTNO TYPE  DATE   TIME  CODE LATITUDE  LONGITUDE  NAV  DEPTH    BOTTOM   BOTTLES PARAMETERS  COMMENTS
+-------------------------------------------------------------------------------------------------------------------------
+06AZ152   AR7E      1         MOR  053195 0600       52 23.2 N 15 26.5 W  GPS   2554                                MOR F4 rec.
+06AZ152   AR7E      2      1  ROS  053195 1349    BE 52 23.0 N 16 29.9 W  GPS   3548        20        12 1-4,6      CTD 1, test
+06AZ152   AR7E      3      1  ROS  060195 0043    BE 52 19.8 N 14 15.4 W  GPS    333        15        12 1-4,6      CTD  2
+06AZ152   AR7E      4      1  ROS  060195 0311    BE 52 19.8 N 14 38.6 W  GPS    413        20         5 1-4,6      CTD  3
+06AZ152   AR7E      5      1  ROS  060195 0507    BE 52 19.8 N 14 55.6 W  GPS    828        20        10 1-4,6      CTD  4
+06AZ152   AR7E      6      1  ROS  060195 0734    BE 52 19.8 N 15 13.1 W  GPS   1284        15        11 1-4,6      CTD  5
+06AZ152   AR7E      7      1  ROS  060195 1029    BE 52 20.0 N 15 30.0 W  GPS   2837        20        12 1-4,6      CTD  6
+06AZ152   AR7E      8      1  ROS  060195 1506    BE 52 19.6 N 15 46.9 W  GPS   3247        18        12 1-4,6      CTD  7
+06AZ152   AR7E      9      1  ROS  060195 2037    BE 52 19.9 N 16 11.3 W  GPS   3451        14        12 1-4,6      CTD  8
+06AZ152   AR7E     10      1  ROS  060295 0318    BE 52 20.1 N 16 59.8 W  GPS   3934        20        12 1-4,6      CTD  9
+06AZ152   AR7E     11      1  ROS  060295 1033    BE 52 19.6 N 17 49.4 W  GPS   4334        14        12 1-4,6      CTD 10
+06AZ152   AR7E     12      1  ROS  060295 1733    BE 52 19.4 N 18 37.6 W  GPS   4339        20        12 1-4,6      CTD 11
+06AZ152   AR7E     13      1  ROS  060395 0201    BE 52 19.9 N 19 24.6 W  GPS   3601        18        12 1-4,6      CTD 12
+06AZ152   AR7E     14      1  ROS  060395 0703    BE 52 20.1 N 20 00.2 W  GPS   3207        15        12 1-4,6      CTD 13
+06AZ152   AR7E     15      1  ROS  060395 1143    BE 52 21.9 N 20 28.2 W  GPS   3586        17        12 1-4,6      CTD 14
+06AZ152   AR7E     16      1  ROS  060395 1536    BE 52 27.6 N 20 51.9 W  GPS   3754        12        12 1-4,6      CTD 15
+06AZ152   AR7E     17      1  ROS  060395 2303    BE 52 40.0 N 21 36.7 W  GPS   3985        20        12 1-4,6      CTD 16
+06AZ152   AR7E     18      1  ROS  060495 0440    BE 52 51.7 N 22 23.1 W  GPS   4021        20        12 1-4,6      CTD 17
+06AZ152   AR7E     19      1  ROS  060495 1119    BE 53 03.5 N 23 07.5 W  GPS   3880        19        12 1-4,6      CTD 18
+06AZ152   AR7E     20      1  ROS  060495 1751    BE 53 15.5 N 23 52.9 W  GPS   3689        18        12 1-4,6      CTD 19
+06AZ152   AR7E     21      1  ROS  060595 0024    BE 53 27.6 N 24 40.8 W  GPS   3562        18        12 1-4,6      CTD 20
+06AZ152   AR7E     22      1  ROS  060595 0612    BE 53 40.1 N 25 24.8 W  GPS   3586        15        12 1-4,6      CTD 21
+06AZ152   AR7E     23      1  ROS  060595 1225    BE 53 54.9 N 25 37.6 W  GPS   3601        21        12 1-4,6      CTD 22
+06AZ152   AR7E     24      1  ROS  060595 2057    BE 54 08.5 N 25 45.9 W  GPS   3129        15        12 1-4,6      CTD 23
+06AZ152   AR7E     25      1  ROS  060695 0120    BE 54 22.6 N 25 57.2 W  GPS   3217        20        12 1-4,6      CTD 24
+06AZ152   AR7E     26         MOR  060695 0614       54 25.3 N 25 53.5 W  GPS   3262                                MOR E4 rec.
+06AZ152   AR7E     27      1  ROS  060695 1032    BE 54 36.3 N 26 07.8 W  GPS   3424        17        12 1-4,6      CTD 25
+06AZ152   AR7E     28      1  ROS  060695 1557    BE 55 04.3 N 26 27.5 W  GPS   3365        15        12 1-4,6      CTD 26
+06AZ152   AR7E     29      1  ROS  060695 2122    BE 55 31.7 N 26 47.6 W  GPS   3192        15        12 1-4,6      CTD 27
+06AZ152   AR7E     30      1  ROS  060795 0251    BE 55 59.2 N 27 09.0 W  GPS   2794        16        12 1-4,6      CTD 28
+06AZ152   AR7E     31      1  ROS  060795 0809    BE 56 27.1 N 27 29.6 W  GPS   2751        15        12 1-4,6      CTD 29
+06AZ152   AR7E     31      2  ROS  060795 1152    BE 56 27.3 N 27 30.0 W  GPS   2751                  12 1-4,6      CTD calib.
+06AZ152   AR7E     32      1  ROS  060795 1626    BE 56 54.7 N 27 50.2 W  GPS   2894        15        12 1-4,6      CTD 30
+06AZ152   AR7E     33      1  ROS  060795 2152    BE 57 22.1 N 28 09.5 W  GPS   2639        15        12 1-4,6      CTD 31
+06AZ152   AR7E     34      1  ROS  060895 0204    BE 57 36.9 N 28 37.9 W  GPS   2411        19        12 1-4,6      CTD 32
+06AZ152   AR7E     35         MOR  060895 0613       57 34.0 N 28 09.6 W  GPS   2293                                MOR D4 rec.
+06AZ152   AR7E     36      1  ROS  060895 1117    BE 57 51.1 N 29 04.2 W  GPS   2328        20        12 1-4,6      CTD 33
+06AZ152   AR7E     37      1  ROS  060895 1458    BE 58 05.2 N 29 30.3 W  GPS   2231        10        12 1-4,6      CTD 34
+06AZ152   AR7E     38      1  ROS  060895 1845    BE 58 19.4 N 29 56.6 W  GPS   2347        18        12 1-4,6      CTD 35
+06AZ152   AR7E     39      1  ROS  060895 2240    BE 58 30.6 N 30 23.4 W  GPS   1983        15        12 1-4,6      CTD 36
+06AZ152   AR7E     40      1  ROS  060995 0237    BE 58 47.8 N 30 49.7 W  GPS   1268        17        12 1-4,6      CTD 37
+06AZ152   AR7E     41      1  ROS  060995 0559    BE 58 52.5 N 31 30.0 W  GPS   1530        20        12 1-4,6      CTD 38
+06AZ152   AR7E     42      1  ROS  060995 0926    BE 58 56.6 N 32 08.6 W  GPS   1772        18        12 1-4,6      CTD 39
+06AZ152   AR7E     43      1  ROS  060995 1357    BE 59 00.6 N 32 46.1 W  GPS   2048        20        12 1-4,6      CTD 40
+06AZ152   AR7E     44      1  ROS  060995 1800    BE 59 04.3 N 33 24.1 W  GPS   2473        19        12 1-4,6      CTD 41
+06AZ152   AR7E     45      1  ROS  060995 2238    BE 59 08.3 N 33 59.4 W  GPS   2709        18        12 1-4,6      CTD 42
+06AZ152   AR7E     46         MOR  061095 0705       59 09.1 N 34 00.0 W  GPS   2847                                MOR A4 rec.
+06AZ152   AR7E     47      1  ROS  061095 1339    BE 59 14.2 N 34 59.1 W  GPS   2757        18        12 1-4,6      CTD 43
+06AZ152   AR7E     48      1  ROS  061095 1904    BE 59 20.1 N 35 57.8 W  GPS   3098        17        12 1-4,6      CTD 44
+06AZ152   AR7E     49      1  ROS  061195 0000    BE 59 24.5 N 36 39.3 W  GPS   3098        18        12 1-4,6      CTD 45
+06AZ152   AR7E     50      1  ROS  061195 0534    BE 59 30.2 N 37 37.9 W  GPS   3106        18        12 1-4,6      CTD 46
+06AZ152   AR7E     51      1  ROS  061195 1143    BE 59 35.4 N 38 36.2 W  GPS   2985        18        12 1-4,6      CTD 47
+06AZ152   AR7E     51      2  ROS  061195 1524    BE 59 35.3 N 38 36.7 W  GPS   2985                  12 1-4,6      CTD calib.
+06AZ152   AR7E     52      1  ROS  061195 2036    BE 59 42.0 N 39 35.3 W  GPS   2787        14        12 1-4,6      CTD 48
+06AZ152   AR7E     53      1  ROS  061295 0114    BE 59 47.0 N 40 13.0 W  GPS   2605        18        12 1-4,6      CTD 49
+06AZ152   AR7E     54      1  ROS  061295 0551    BE 59 49.8 N 40 52.2 W  GPS   2308        14        12 1-4,6      CTD 50
+06AZ152   AR7E     55      1  ROS  061295 0916    BE 59 47.6 N 41 12.2 W  GPS   2056        15        11 1-4,6      CTD 51
+06AZ152   AR7E     56      1  ROS  061295 1210    BE 59 44.1 N 41 30.2 W  GPS   1977        18        11 1-4,6      CTD 52
+06AZ152   AR7E     57      1  ROS  061295 1507    BE 59 39.6 N 41 50.9 W  GPS   1860        16        10 1-4,6      CTD 53

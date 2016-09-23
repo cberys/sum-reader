@@ -1,0 +1,160 @@
+R/V MELVILLE  CR HYDROS LEG 4     WHP-ID A16C      13 MAR 1989 - 19 APR 1989     20110630CCHDOSIODM
+SHIP/CRS     WOCE                 CAST         UTC EVENT         POSITION             UNC     COR HT ABOVE WIRE   MAX  NO. OF                                                              
+EXPOCODE     SECT   STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   DEPTH   BOTTOM  OUT PRESS BOTTLES PARAMETERS                      COMMENTS                     
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+318MHYDROS4  A16C      309      1  ROS 031489 1747    BO 34 43.70 S  52  0.90 W GPS   256     261        8  249   256      12 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      309      9  LVS 031489    0    UN 34 43.68 S  52 00.9  W GPS   256                                                                     Surface radium pump sample
+318MHYDROS4  A16C      310      1  ROS 031489 1958    BO 34 51.40 S  51 55.40 W GPS  1019    1018        9 1028  1023      17 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      310      2  LVS 031489 2250    MR 34 54.60 S  51 56.70 W GPS  1093    1091       21 1089  1081      18 1,12,18-19,23,39                Deep, 9 barrels
+318MHYDROS4  A16C      310      9  LVS 031489    0    UN 34 51.42 S  51 55.38 W GPS  1072                                                                     Surface radium pump sample
+318MHYDROS4  A16C      311      1  ROS 031589 0245    BO 35  3.90 S  51 42.40 W GPS  1809    1801       11 1770  1819      17 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      311      9  LVS 031589    0    UN 35  3.9  S  51 42.42 W GPS  1801                                                                     Surface radium pump sample
+318MHYDROS4  A16C      312      1  ROS 031589 0659    BO 35 10.00 S  51 27.00 W GPS  2344    2335        8 2296  2363      20 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      312      9  LVS 031589    0    UN 35 10.02 S  51 27    W GPS  2335                                                                     Surface radium pump sample
+318MHYDROS4  A16C      313      1  LVS 031589 1339    MR 35 13.30 S  50 51.40 W GPS  3071    3066       18 3115  3087      18 1,7-8,12,16,18-19,23            Deep, 9 barrels
+318MHYDROS4  A16C      313      2  ROS 031589 1715    BO 35 12.90 S  50 48.00 W GPS  3135    3130       10 3110  3171      24 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      313      3  LVS 031589 2020    MR 35 12.70 S  50 43.50 W GPS  3184    3179       -9 1678  1676      10 1,7-8,12,14,18-19,23            Interm., 5 barrels           
+318MHYDROS4  A16C      313      4  LVS 031589 2229    MR 35 11.70 S  50 40.00 W GPS  3229    3224       -9  358   354       8 1,7-8,12,14,18-19,23            Shallow, 4 barrels           
+318MHYDROS4  A16C      313      9  LVS 031589    0    UN 35 12.9  S  50 48    W GPS  3130                                                                     Surface radium pump sample
+318MHYDROS4  A16C      314      1  ROS 032189 0609    BO 32  0.00 S  24 59.60 W GPS  4290    4296        8 4137  4380      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      314      9  LVS 032189    0    UN 32  0    S  24 59.58 W GPS  4309                                                                     Surface radium pump sample
+318MHYDROS4  A16C      315      1  ROS 032189 1304    BO 31 23.50 S  24 59.90 W GPS  4566    4581        8 4505  4655      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      315      9  LVS 032189    0    UN 31 23.52 S  24 59.88 W GPS  4581                                                                     Surface radium pump sample
+318MHYDROS4  A16C      316      1  LVS 032189 2112    MR 30 49.50 S  24 58.70 W GPS  4691    4709       20 4735  4786      18 1,12,18-19,23                   Deep, 9 barrels
+318MHYDROS4  A16C      316      2  ROS 032289 0116    BO 30 47.80 S  24 57.20 W GPS  4625    4642        7 4622  4771      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      316      3  LVS 032289 0514    MR 30 45.80 S  24 58.40 W GPS  4621    4637       -9 1473  1463      18 1,7-8,12,14,18-19,23            Shallow, 9 barrels           
+318MHYDROS4  A16C      316      9  LVS 032289    0    UN 30 47.82 S  24 57.18 W GPS  4704                                                                     Surface radium pump sample
+318MHYDROS4  A16C      317      1  ROS 032289 1112    BO 30 13.20 S  25  2.80 W GPS  4339    4350       11 4285  4382      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      317      9  LVS 032289    0    UN 30 13.2  S  25  2.82 W GPS  4350                                                                     Surface radium pump sample
+318MHYDROS4  A16C      318      1  ROS 032289 1819    BO 29 38.40 S  25  2.10 W GPS  5323    5358        9 5271  5460      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      318      9  LVS 032289    0    UN 29 38.4  S  25  2.1  W GPS  5358                                                                     Surface radium pump sample
+318MHYDROS4  A16C      319      1  ROS 032389 0154    BO 29  3.20 S  25  1.90 W GPS  5224    5256        9 5165  5348      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      319      9  LVS 032389    0    UN 29  3.18 S  25  1.92 W GPS  5256                                                                     Surface radium pump sample
+318MHYDROS4  A16C      320      1  ROS 032389 0923    BO 28 29.40 S  25  2.30 W GPS  4919    4943       10 4961  5130      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      320      9  LVS 032389    0    UN 28 29.4  S  25  2.28 W GPS  5039                                                                     Surface radium pump sample
+318MHYDROS4  A16C      321      1  ROS 032389 1655    BO 27 54.00 S  25  2.80 W GPS  5288    5322       10 5247  5423      36 1-8                             CTD#1
+318MHYDROS4  A16C      321      9  LVS 032389    0    UN 27 54    S  25  2.82 W GPS  5323                                                                     Surface radium pump sample
+318MHYDROS4  A16C      322      1  ROS 032489 0005    BO 27 17.60 S  24 59.30 W GPS  4828    4850        8 4808  4970      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      322      9  LVS 032489    0    UN 27 17.58 S  24 59.28 W GPS  4884                                                                     Surface radium pump sample
+318MHYDROS4  A16C      323      1  ROS 032489 0708    BO 26 43.10 S  25  0.00 W GPS  4839    4861       10 4793  4948      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      324      1  ROS 032489 1356    BO 26  8.60 S  25  2.40 W GPS  4886    4909        8 4844  5007      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      324      9  LVS 032489    0    UN 26  8.58 S  25  2.4  W GPS  4920                                                                     Surface radium pump sample
+318MHYDROS4  A16C      325      1  ROS 032489 2041    BO 25 34.10 S  25  0.20 W GPS  4960    4985       15 4924  5086      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      325      9  LVS 032489    0    UN 25 34.08 S  25  0.18 W GPS  4997                                                                     Surface radium pump sample
+318MHYDROS4  A16C      326      1  ROS 032589 0339    BO 24 59.70 S  24 58.60 W GPS  5359    5395       10 5320  5505      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      326      9  LVS 032589    0    UN 24 59.7  S  24 58.62 W GPS  5404                                                                     Surface radium pump sample
+318MHYDROS4  A16C      327      1  ROS 032589 1104    BO 24 24.00 S  25  0.10 W GPS  5666    5711       10 5628  5824      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      327      9  LVS 032589    0    UN 24 24    S  25  0.12 W GPS  5713                                                                     Surface radium pump sample
+318MHYDROS4  A16C      328      2  ROS 032589 1835    BO 23 48.80 S  25  0.00 W GPS  5526    5266       10 5468  5662      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      328      9  LVS 032589    0    UN 23 48.78 S  25  0    W GPS  5567                                                                     Surface radium pump sample
+318MHYDROS4  A16C      329      1  ROS 032689 0112    BO 23 14.30 S  25  0.80 W GPS  4997    5266       13 4961  5134      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      329      9  LVS 032689    0    UN 23 14.28 S  25  0.78 W GPS  5045                                                                     Surface radium pump sample
+318MHYDROS4  A16C      330      1  ROS 032689 0758    BO 22 38.50 S  25  0.40 W GPS  5459    5023        8 5377  5556      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      330      9  LVS 032689    0    UN 22 38.52 S  25  0.42 W GPS  5498                                                                     Surface radium pump sample
+318MHYDROS4  A16C      331      1  ROS 032689 1447    BO 22  2.90 S  25  0.50 W GPS  5156    5498        8 5110  5276      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      331      9  LVS 032689    0    UN 22  2.88 S  25  0.48 W GPS  5186                                                                     Surface radium pump sample
+318MHYDROS4  A16C      332      1  LVS 032689 2236    MR 21 29.20 S  25  0.90 W GPS  5189    5186       18 5355  5417      18 1,12,18-19,23                   Deep, 9 barrels
+318MHYDROS4  A16C      332      2  ROS 032789 0258    BO 21 30.50 S  25  0.80 W GPS  5323    5220        8 5264  5450      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      332      3  LVS 032789 0638    MR 21 30.00 S  25  1.80 W GPS  4969    5358       -9 1943  1943      18 1,7-8,12,14,18-19,23            Shallow, 9 barrels           
+318MHYDROS4  A16C      332      9  LVS 032789    0    UN 21 30.48 S  25  0.78 W GPS  5358                                                                     Surface radium pump sample
+318MHYDROS4  A16C      333      1  ROS 032789 1314    BO 20 53.60 S  24 59.90 W GPS  4939    4994       10 4901  5071      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      333      9  LVS 032789    0    UN 20 53.58 S  24 59.88 W GPS  4984                                                                     Surface radium pump sample
+318MHYDROS4  A16C      334      1  ROS 032789 2008    BO 20 19.10 S  25  1.70 W GPS  5147    4963        8 5109  5280      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      334      9  LVS 032789    0    UN 20 19.08 S  25  1.68 W GPS  5187                                                                     Surface radium pump sample
+318MHYDROS4  A16C      335      1  ROS 032889 0325    BO 19 45.00 S  25  0.50 W GPS  5564    5176        7 5520  5710      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      335      9  LVS 032889    0    UN 19 45    S  25  0.48 W GPS  5606                                                                     Surface radium pump sample
+318MHYDROS4  A16C      336      1  ROS 032889 1025    BO 19  9.70 S  25  0.40 W GPS  5024    5606        7 4980  5151      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      336      9  LVS 032889    0    UN 19  9.72 S  25  0.42 W GPS  5063                                                                     Surface radium pump sample
+318MHYDROS4  A16C      337      1  ROS 032889 1717    BO 18 31.90 S  25  0.40 W GPS  5369    5050        6 5337  5520      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      337      9  LVS 032889    0    UN 18 31.92 S  25  0.42 W GPS  5421                                                                     Surface radium pump sample
+318MHYDROS4  A16C      338      1  ROS 032989 0015    BO 17 56.50 S  25  1.70 W GPS  5459    5405        7 5450  5641      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      338      9  LVS 032989    0    UN 17 56.52 S  25  1.68 W GPS  5539                                                                     Surface radium pump sample
+318MHYDROS4  A16C      339      1  ROS 032989 0700    BO 17 22.80 S  24 59.70 W GPS  5075    5498        8 5017  5189      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      339      9  LVS 032989    0    UN 17 22.8  S  24 59.7  W GPS  5102                                                                     Surface radium pump sample
+318MHYDROS4  A16C      340      1  LVS 032989 1427    MR 16 48.60 S  25  0.40 W GPS  5721    5102       -9 4596  4628      18 1,12,18-19,23                   Interm., 9 barrels           
+318MHYDROS4  A16C      340      2  ROS 032989 1841    BO 16 46.80 S  25  0.40 W GPS  5704    5768        8 5666  5861      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      340      3  LVS 033089 0006    MR 16 46.60 S  25  0.70 W GPS  5715    5750       18 5785  5857      18 1,12,16,18-19,23                Deep,
+318MHYDROS4  A16C      340      9  LVS 032989    0    UN 16 46.8  S  25  0.42 W GPS  5752                                                                     Surface radium pump sample
+318MHYDROS4  A16C      341      1  ROS 033089 0806    BO 16 13.70 S  25  1.00 W GPS  5124    5761        9 5060  5234      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      341      9  LVS 033089    0    UN 16 13.68 S  25  1.02 W GPS  5153                                                                     Surface radium pump sample
+318MHYDROS4  A16C      342      1  ROS 033089 1458    BO 15 39.60 S  25  0.40 W GPS  5373    5153       23 5270  5449      36 1-6,9-10,23,25                  CTD#1
+318MHYDROS4  A16C      342      9  LVS 033089    0    UN 15 39.6  S  25  0.42 W GPS  5409                                                                     Surface radium pump sample
+318MHYDROS4  A16C      343      1  ROS 033089 2203    BO 15  3.40 S  24 59.70 W GPS  4978    5409        8 4996  5166      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      343      9  LVS 033089    0    UN 15  3.42 S  24 59.7  W GPS  5078                                                                     Surface radium pump sample
+318MHYDROS4  A16C      344      1  ROS 033189 0434    BO 14 29.40 S  24 59.10 W GPS  5529    5003        7 5486  5676      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      344      9  LVS 033189    0    UN 14 29.4  S  24 59.1  W GPS  5573                                                                     Surface radium pump sample
+318MHYDROS4  A16C      345      1  ROS 033189 1144    BO 13 53.30 S  25  0.00 W GPS  5850    5570       11 5760  5969      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      345      9  LVS 033189    0    UN 13 53.28 S  25  0    W GPS  5857                                                                     Surface radium pump sample
+318MHYDROS4  A16C      346      1  ROS 033189 1841    BO 13 18.80 S  25  1.00 W GPS  5484    5523        8 5531  5722      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      346      9  LVS 033189    0    UN 13 18.78 S  25  1.02 W GPS  5617                                                                     Surface radium pump sample
+318MHYDROS4  A16C      347      1  ROS 040189 0143    BO 12 43.80 S  25  1.50 W GPS  5569    5611        6 5438  5620      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      347      9  LVS 040189    0    UN 12 43.8  S  25  1.5  W GPS  5611                                                                     Surface radium pump sample
+318MHYDROS4  A16C      348      1  ROS 040189 0848    BO 12  8.80 S  25  0.60 W GPS  5509    5549        7 5485  5672      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      348      9  LVS 040189    0    UN 12  8.82 S  25  0.6  W GPS  5570                                                                     Surface radium pump sample
+318MHYDROS4  A16C      349      1  LVS 040189 1612    MR 11 33.40 S  24 58.70 W GPS  5285    5319       09 2818  2817      18 1,7-8,12,16,18-19,23            Interm., 9 barrels           
+318MHYDROS4  A16C      349      2  ROS 040189 1943    BO 11 33.90 S  25  0.30 W GPS  5318    5352        8 5341  5530      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      349      3  LVS 040289 0047    MR 11 34.60 S  25  1.40 W GPS  5569    5611       20 5682  5737      14 1,12,18-19,23                   Deep, 7 barrels
+318MHYDROS4  A16C      349      4  LVS 040289 0524    MR 11 33.60 S  25  1.60 W GPS  5334    5369       -9 1585  1574      18 1,7-8,12,14,18-19,23            Shallow, 9 barrels           
+318MHYDROS4  A16C      349      9  LVS 040189    0    UN 11 33.9  S  25  0.3  W GPS  5633                                                                     Surface radium pump sample
+318MHYDROS4  A16C      350      1  ROS 040289 1141    BO 10 59.20 S  24 59.20 W GPS  5570    5612        9 5529  5720      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      350      9  LVS 040289    0    UN 10 59.22 S  24 59.22 W GPS  5616                                                                     Surface radium pump sample
+318MHYDROS4  A16C      351      1  ROS 040289 1826    BO 10 24.00 S  24 59.60 W GPS  5200    5231        9 5152  5332      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      351      9  LVS 040289    0    UN 10 24    S  24 59.58 W GPS  5240                                                                     Surface radium pump sample
+318MHYDROS4  A16C      352      1  ROS 040389 0133    BO  9 49.40 S  24 59.90 W GPS  5830    5882       10 5780  5986      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      352      9  LVS 040389    0    UN 09 49.38 S  24 59.88 W GPS  5882                                                                     Surface radium pump sample
+318MHYDROS4  A16C      353      1  ROS 040389 0846    BO  9 13.30 S  24 59.10 W GPS  5699    5747       10 5645  5846      36 1-6,23,25                       CTD#1
+318MHYDROS4  A16C      353      9  LVS 040389    0    UN 09 13.32 S  24 59.1  W GPS  5747                                                                     Surface radium pump sample
+318MHYDROS4  A16C      354      1  ROS 040389 1537    BO  8 38.80 S  24 59.00 W GPS  5687    5734        8 5653  5838      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      354      9  LVS 040389    0    UN 08 38.82 S  24 58.98 W GPS  5734                                                                     Surface radium pump sample
+318MHYDROS4  A16C      355      1  ROS 040389 2229    BO  8  4.10 S  25  0.30 W GPS  5682    5729        9 5631  5832      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      355      9  LVS 040389    0    UN 08  4.08 S  25  0.3  W GPS  5729                                                                     Surface radium pump sample
+318MHYDROS4  A16C      356      1  ROS 040489 0526    BO  7 29.20 S  25  0.30 W GPS  5739    5788        8 5682  5884      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      356      9  LVS 040489    0    UN 07 29.22 S  25  0.3  W GPS  5788                                                                     Surface radium pump sample
+318MHYDROS4  A16C      357      1  ROS 040489 1244    BO  6 55.20 S  24 59.10 W GPS  5780    5830        6 5742  5948      36 1-8                             CTD#1
+318MHYDROS4  A16C      357      9  LVS 040489    0    UN 06 55.2  S  24 59.1  W GPS  5838                                                                     Surface radium pump sample
+318MHYDROS4  A16C      358      1  ROS 040489 1958    BO  6 19.20 S  25  0.40 W GPS  5611    5655        8 5568  5765      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      358      9  LVS 040489    0    UN 06 19.2  S  25  0.42 W GPS  5661                                                                     Surface radium pump sample
+318MHYDROS4  A16C      359      1  ROS 040589 0304    BO  5 43.30 S  24 59.70 W GPS  5438    5476        7 5395  5582      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      359      9  LVS 040589    0    UN 05 43.32 S  24 59.7  W GPS  5483                                                                     Surface radium pump sample
+318MHYDROS4  A16C      360      1  ROS 040589 0946    BO  5  9.10 S  25  0.80 W GPS  5484    5524        6 5446  5637      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      360      9  LVS 040589    0    UN 05  9.12 S  25  0.78 W GPS  5536                                                                     Surface radium pump sample
+318MHYDROS4  A16C      361      1  ROS 040589 1641    BO  4 32.10 S  25  0.60 W GPS  5424    5462        7 5396  5572      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      361      9  LVS 040589    0    UN 04 32.1  S  25  0.6  W GPS  5474                                                                     Surface radium pump sample
+318MHYDROS4  A16C      362      1  ROS 040589 2309    BO  3 58.00 S  24 58.40 W GPS  5302    5336        8 5241  5422      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      362      9  LVS 040589    0    UN 03 58.02 S  24 58.38 W GPS  5336                                                                     Surface radium pump sample
+318MHYDROS4  A16C      363      1  ROS 040689 0510    BO  3 29.20 S  25  0.30 W GPS  5509    5550        7 5458  5649      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      363      9  LVS 040689    0    UN 03 29.22 S  25  0.3  W GPS  5550                                                                     Surface radium pump sample
+318MHYDROS4  A16C      364      1  ROS 040689 1116    BO  3  0.40 S  24 59.50 W GPS  5329    5364        7 5275  5458      36 1-9,23,25                       CTD#1
+318MHYDROS4  A16C      364      9  LVS 040689    0    UN 03  0.42 S  24 59.52 W GPS  5364                                                                     Surface radium pump sample
+318MHYDROS4  A16C      365      1  ROS 040689 1746    BO  2 28.90 S  24 58.90 W GPS  5574    5617        7 5535  5715      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      365      9  LVS 040689    0    UN 02 28.92 S  24 58.92 W GPS  5617                                                                     Surface radium pump sample
+318MHYDROS4  A16C      366      1  ROS 040789 0008    BO  1 58.20 S  24 59.00 W GPS  4915    4938        7 4852  5015      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      366      9  LVS 040789    0    UN 01 58.2  S  24 58.98 W GPS  4938                                                                     Surface radium pump sample
+318MHYDROS4  A16C      367      1  ROS 040789 0624    BO  1 29.60 S  24 59.40 W GPS  4735    4753        7 4693  4843      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      367      9  LVS 040789    0    UN 01 29.58 S  24 59.4  W GPS  4766                                                                     Surface radium pump sample
+318MHYDROS4  A16C      368      1  ROS 040789 1214    BO  1  1.20 S  24 59.70 W GPS  3229    3223       10 3170  3265      36 1-9,23,25                       CTD#1
+318MHYDROS4  A16C      368      9  LVS 040789    0    UN 01  1.2  S  24 59.7  W GPS  3225                                                                     Surface radium pump sample
+318MHYDROS4  A16C      369      1  ROS 040789 1700    BO  0 39.10 S  24 59.60 W GPS  3359    3354       10 3274  3368      33 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      369      9  LVS 040789    0    UN 00 39.12 S  24 59.58 W GPS  3354                                                                     Surface radium pump sample
+318MHYDROS4  A16C      370      1  ROS 040789 2133    BO  0 20.00 S  24 59.60 W GPS  3300    3296        7 3242  3339      33 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      370      9  LVS 040789    0    UN 00 19.98 S  24 59.58 W GPS  3297                                                                     Surface radium pump sample
+318MHYDROS4  A16C      371      1  ROS 040889 0204    BO  0  0.70 N  25  1.30 W GPS  3262    3258       10 3190  3285      32 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      371      9  LVS 040889    0    UN 00  0.72 S  25  1.32 W GPS  3258                                                                     Surface radium pump sample
+318MHYDROS4  A16C      372      1  ROS 040889 0646    BO  0 20.60 N  25  0.00 W GPS  3493    3492        8 3488  3588      33 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      372      9  LVS 040889    0    UN 00 20.58 S  25  0    W GPS  3540                                                                     Surface radium pump sample
+318MHYDROS4  A16C      373      1  ROS 040889 1130    BO  0 39.60 N  25  0.10 W GPS  4259    4271       10 4250  4386      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      373      9  LVS 040889    0    UN 00 39.6  S  25  0.12 W GPS  4321                                                                     Surface radium pump sample
+318MHYDROS4  A16C      374      1  ROS 041189 1025    BO  0 39.40 S  36 28.90 W GPS  4464    4480       10 4405  4542      36 1-9,23,25                       CTD#1
+318MHYDROS4  A16C      374      9  LVS 041189    0    UN 00 39.42 S  36 28.92 W GPS  4480                                                                     Surface radium pump sample
+318MHYDROS4  A16C      375      1  ROS 041189 1540    BO  0 20.40 S  36 31.80 W GPS  4486    4503        8 4424  4567      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      375      9  LVS 041189    0    UN 00 20.4  S  36 31.8  W GPS  4503                                                                     Surface radium pump sample
+318MHYDROS4  A16C      376      1  LVS 041189 2218    MR  0  0.20 S  36 28.50 W GPS  4505    4522       18 4540  4569      18 1,7-8,12,14,18-19,23            Deep, 9 barrels
+318MHYDROS4  A16C      376      2  ROS 041289 0209    BO  0  0.60 N  36 29.60 W GPS  4505    4522       11 4438  4583      36 1-10,23,25                      CTD#1
+318MHYDROS4  A16C      376      3  LVS 041289 0551    MR  0  0.10 N  36 29.80 W GPS  4501    4518       -9 1660  1648      18 1,7-8,12,14,18-19,23            Shallow, 9 barrels           
+318MHYDROS4  A16C      376      9  LVS 041289    0    UN 00  0.6  S  36 29.58 W GPS  4522                                                                     Surface radium pump sample
+318MHYDROS4  A16C      377      1  ROS 041289 1055    BO  0 19.70 N  36 30.00 W GPS  4506    4523        9 4440  4586      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      377      9  LVS 041289    0    UN 00 19.68 S  36 30    W GPS  4523                                                                     Surface radium pump sample
+318MHYDROS4  A16C      378      1  ROS 041289 1619    BO  0 38.90 N  36 30.20 W GPS  4508    4525        8 4443  4589      36 1-9,23,25                       CTD#1
+318MHYDROS4  A16C      378      9  LVS 041289    0    UN 00 38.88 S  36 30.18 W GPS  4525                                                                     Surface radium pump sample
+318MHYDROS4  A16C      379      1  ROS 041289 2254    BO  1 10.80 N  36 29.10 W GPS  3944    3949        7 3885  4005      36 1-8,23,25                       CTD#1
+318MHYDROS4  A16C      379      9  LVS 041289    0    UN 01 10.8  S  36 29.1  W GPS  3949                                                                     Surface radium pump sample

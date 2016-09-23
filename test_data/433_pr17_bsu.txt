@@ -1,0 +1,41 @@
+R/V SHUMPU MARU  WOCE LINE PR17         20010327WHPOSIOKJU                                                                   
+SHIP/CRS    WOCE                 CAST         UTC          POSITION                    UNC    COR  NO. OF                
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE    NAV  DEPTH CDEPTH  BOTTLES  PARAMETER  CO
+-------------------------------------------------------------------------------------------------------------------------
+49SU9104_2  PR17  SH4453       2  ROS 050391 1242   BE 31 10.18 N  131 30.46 E  GPS    270    271                                
+49SU9104_2  PR17  SH4453       2  ROS 050391 1256   BO                                                   9  2,4-6                
+49SU9104_2  PR17  SH4453       2  ROS 050391 1306   EN 31 10.56 N  131 32.26 E  GPS                                              
+49SU9104_2  PR17  SH4454       2  ROS 050391 1502   BE 31 00.51 N  131 43.66 E  GPS   1440   1428                                
+49SU9104_2  PR17  SH4454       2  ROS 050391 1525   BO                                                   9  2,4-6                
+49SU9104_2  PR17  SH4454       2  ROS 050391        EN                                                                           
+49SU9104_2  PR17  SH4454       3  ROS 050391        BE 31 00.51 N  131 43.66 E  GPS                                              
+49SU9104_2  PR17  SH4454       3  ROS 050391 1622   BO                                                  10  2,4-6                
+49SU9104_2  PR17  SH4454       3  ROS 050391 1632   EN 31 02.28 N  131 46.08 E  GPS                                              
+49SU9104_2  PR17   TH067       1  XBT 050391 1825   DE 30 48.54 N  131 55.43 E  GPS   1730   1715                                
+49SU9104_2  PR17   TH068       1  XBT 050391 2026   DE 30 37.31 N  132 09.27 E  GPS   2350   2340                                
+49SU9104_2  PR17  SH4455       2  ROS 050391 2154   BE 30 26.95 N  132 20.16 E  GPS   3680   3676                                
+49SU9104_2  PR17  SH4455       2  ROS 050391 2251   BO                                                  11  2,4-6                
+49SU9104_2  PR17  SH4455       2  ROS 050391        EN                                                                           
+49SU9104_2  PR17  SH4455       3  ROS 050491        BE 30 26.95 N  132 20.16 E  GPS                                              
+49SU9104_2  PR17  SH4455       3  ROS 050491 0027   BO                                                  10  2,4-6                
+49SU9104_2  PR17  SH4455       3  ROS 050491 0040   EN 30 28.78 N  132 19.72 E  GPS                                              
+49SU9104_2  PR17  SH4456       2  ROS 050491 0221   BE 30 17.35 N  132 33.16 E  GPS   3890   3888                                
+49SU9104_2  PR17  SH4456       2  ROS 050491 0306   BO                                                  12  2,4-6                
+49SU9104_2  PR17  SH4456       2  ROS 050491        EN                                                                           
+49SU9104_2  PR17  SH4456       3  ROS 050491        BE 30 17.35 N  132 33.16 E  GPS                                              
+49SU9104_2  PR17  SH4456       3  ROS 050491 0420   BO                                                  10  2,4-6                
+49SU9104_2  PR17  SH4456       3  ROS 050491 0431   EN 30 17.09 N  132 33.80 E  GPS                                              
+49SU9104_2  PR17   TH069       1  XBT 050491 0610   DE 30 06.83 N  132 45.56 E  GPS   3300   3292                                
+49SU9104_2  PR17  SH4457       2  ROS 050491 0725   BE 29 57.27 N  132 56.20 E  GPS   3830   3827                                
+49SU9104_2  PR17  SH4457       2  ROS 050491 0819   BO                                                  11  2,4-6                
+49SU9104_2  PR17  SH4457       2  ROS 050491        EN                                                                           
+49SU9104_2  PR17  SH4457       3  ROS 050491        BE 29 57.27 N  132 56.20 E  GPS                                              
+49SU9104_2  PR17  SH4457       3  ROS 050491 0933   BO                                                  11  2,4-6                
+49SU9104_2  PR17  SH4457       3  ROS 050491 0944   EN 29 57.39 N  132 55.39 E  GPS                                              
+49SU9104_2  PR17   TH070       1  XBT 050491 1205   DE 29 43.10 N  133 13.65 E  GPS   2920   2910                                
+49SU9104_2  PR17  SH4458       2  ROS 050491 1352   BE 29 30.60 N  133 30.25 E  GPS   2650   2639                                
+49SU9104_2  PR17  SH4458       2  ROS 050491 1431   BO                                                  10  2,4-6                
+49SU9104_2  PR17  SH4458       2  ROS 050491        EN                                                                           
+49SU9104_2  PR17  SH4458       3  ROS 050491        BE 29 30.60 N  133 30.25 E  GPS                                              
+49SU9104_2  PR17  SH4458       3  ROS 050491 1535   BO                                                  10  2,4-6                
+49SU9104_2  PR17  SH4458       3  ROS 050491 1544   EN 29 31.31 N  133 31.03 E  GPS                                              

@@ -1,0 +1,40 @@
+ARKTIS IV/3      RV POLARSTERN     July 4 - Sept 2, 1987            20090409CCDHOSIODM                                                                     
+SHIP/CRS      WOCE                   CAST         UTC EVENT         POSITION             UNC HT ABOVE WIRE   MAX  NO. OF                                                                
+EXPOCODE      SECT     STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT PRESS BOTTLES PARAMETERS                      COMMENTS                       
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+06AQ19870704   NAO        269      1  ROS 070787 1730    BE 81 16.30 N  31 24.20 E GPS   199       -9   -9   190      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        274      1  ROS 070887 0045    BE 81 26.20 N  31 20.50 E GPS   251       -9   -9   242      17 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        276      1  ROS 070887 0440    BE 81 31.40 N  31 27.40 E GPS   571       -9   -9   557      23 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        278      1  ROS 070887 1232    BE 81 32.10 N  31 32.90 E GPS   749       -9   -9   730      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        280      1  ROS 070887 2155    BE 81 34.50 N  31 32.60 E GPS  1028       -9   -9   962      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        282      1  ROS 070987 1038    BE 81 34.90 N  31 36.90 E GPS  1393       -9   -9  1373      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        285      1  ROS 070987 2125    BE 81 38.70 N  31 30.10 E GPS  1927       -9   -9  1907      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        287      1  ROS 071087 0930    BE 81 41.00 N  31 10.20 E GPS  2795       -9   -9  2621      24 1-6                             DHI CTD, DAB 10m, Hit Bottom   
+06AQ19870704   NAO        287      2  ROS 071087 1914    BE 81 41.00 N  30 59.90 E GPS  2724       -9   -9   703      24 1-6                             DHI CTD, Shallow cast          
+06AQ19870704   NAO        296      1  ROS 071287 1400    BE 81 49.20 N  31 35.10 E GPS  3014       -9   -9   702      24 1-6                             DHI CTD, Shallow cast          
+06AQ19870704   NAO        296      2  ROS 071287 1836    BE 81 48.20 N  31 35.10 E GPS  3007       -9   -9  3001      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        310      1  ROS 071387 1402    BE 82  9.50 N  31 52.80 E GPS  3056       -9   -9  3060      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        310      2  ROS 071387 1951    BE 82  5.40 N  32  2.20 E GPS  3012       -9   -9  1003      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        340      1  ROS 071787 1005    BE 82 59.30 N  31 58.90 E GPS  3784       -9   -9  1002      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        340      2  ROS 071787 1421    BE 82 58.80 N  32  0.40 E GPS  3775       -9   -9  3802      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        340      3  ROS 071887 1014    BE 82 56.50 N  32  9.40 E GPS  3743       -9   -9  3737      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        340      4  ROS 071987 0059    BE 82 55.40 N  32  8.60 E GPS  3726       -9   -9  2006      22 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        358      1  ROS 072087 2310    BE 84  1.60 N  30 37.20 E GPS  4045       -9   -9  4075      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        358      2  ROS 072187 1635    BE 84  1.50 N  30 30.10 E GPS  4044       -9   -9  1002      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        362      1  ROS 072687 0400    BE 85  4.20 N  29 17.80 E GPS  4037       -9   -9  1251      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        362      2  ROS 072687 1210    BE 85  5.00 N  29 19.80 E GPS  4037       -9   -9  4064      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        364      1  ROS 072787 1630    BE 85 22.10 N  26  8.50 E GPS  3667       -9   -9  1254      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        365      1  ROS 072887 1545    BE 85 31.40 N  25 17.50 E GPS  3177       -9   -9  3174      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        370      1  ROS 073087 1442    BE 85 53.80 N  22 45.80 E GPS  4536       -9   -9  4526      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        370      2  ROS 080187 1210    BE 85 55.70 N  22 46.30 E GPS  5142       -9   -9  2506      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        371      1  ROS 080387 1716    BE 86  3.40 N  21 56.70 E GPS  3324       -9   -9  3225      24 1-6                             DHI CTD, DAB 10m, Hit Bottom.  
+06AQ19870704   NAO        371      2  ROS 080487 0635    BE 86  6.50 N  22  1.60 E GPS  3769       -9   -9   855      24 1-6                             DHI CTD, Shallow Cast          
+06AQ19870704   NAO        371      3  GER 080487 0000    BE 86  7.60 N  22  3.80 E GPS  3940       -9   -9  3871      10 1-6                             O2, Alk, S & N fr Dp Ger Cast  
+06AQ19870704   NAO        372      1  ROS 080687 1527    BE 86  8.30 N  23  1.40 E GPS  3986       -9   -9  2006      24 1-6                             DHI CTD, Shal Cast, No DSRTs.  
+06AQ19870704   NAO        376      1  ROS 081087 1302    BE 85 22.90 N  21 53.90 E GPS  2874       -9   -9  2845      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        382      1  ROS 081387 2210    BE 83 25.40 N  20  1.60 E GPS  4064       -9   -9  4101      24 1-6                             DHI CTD, DAB 10m, Mud on frame 
+06AQ19870704   NAO        393      1  ROS 081487 2323    BE 82 51.00 N  17 15.80 E GPS  3411       -9   -9  3470      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        396      1  ROS 081587 1453    BE 82 48.10 N  15 59.90 E GPS  1387       -9   -9  1369      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        412      1  ROS 081687 0434    BE 82  1.60 N  15 11.40 E GPS  2043       -9   -9  2046      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        423      1  ROS 081687 2120    BE 81 19.60 N  15 20.70 E GPS  2299       -9   -9  2273      24 1-6                             DHI CTD, DAB 10m               
+06AQ19870704   NAO        430      1  ROS 082487 0000    BE 78 47.60 N   1 41.20 E GPS  2555       -9   -9  2553      24 1-2                             DHI CTD, Q-cast, Hit bottom.   

@@ -1,0 +1,432 @@
+   R/V MARION DUFRESNE CRUISE 75  PROJECT: ANTARES 1                               20010823WHPOSIOKJU                                                                
+SHIP/CRS  WOCE                 CAST         UTC          POSITION                    UNC HT ABOVE WIRE NO. OF                     
+EXPOCODE  SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE    NAV  DEPTH BOTTOM    OUT BOTTLES PARAMETER  COMMENTS   
+----------------------------------------------------------------------------------------------------------------------------------
+35MF75_1  ISS1       1       1  ROS 040493 0904   BE 49 04.142 S  67 01.001 E GPS   1260                    12            CTD01 110
+35MF75_1  ISS1       1       1  ROS 040493 0928   BO 49 04.247 S  67 01.137 E GPS   1260     20   1220                    CTD01 110
+35MF75_1  ISS1       1       1  ROS 040493 1010   EN 49 04.591 S  67 01.317 E GPS   1260                                  CTD01 110
+35MF75_1  ISS1       2       1  COR 040493 1055   BE 49 05.275 S  67 00.970 E GPS   1235                                  KTB01 
+35MF75_1  ISS1       2       1  COR 040493 1119   BO 49 05.591 S  67 00.930 E GPS   1235          1232                    KTB01 
+35MF75_1  ISS1       2       1  COR 040493 1155   EN 49 05.899 S  67 01.038 E GPS   1235                     1            M,G KTB01 
+35MF75_1  ISS1       3       1  COR 040693 0229   BE 50 40.140 S  68 25.640 E GPS   1680                                  KGL01 
+35MF75_1  ISS1       3       1  COR 040693 0249   MR 50 40.230 S  68 25.540 E GPS   1680                                  KGL01 
+35MF75_1  ISS1       3       1  COR 040693 0258   BO 50 40.360 S  68 25.526 E GPS                 1648                    G L =1390 cm  COR01 
+35MF75_1  ISS1       3       1  COR 040693 0358   EN                                                                      0,4+0,7+8x1.5m COR01 
+35MF75_1  ISS1       4       1  ROS 040693 0508   BE 50 40.797 S  68 26.006 E GPS   1695                                  CTD02  210
+35MF75_1  ISS1       4       1  ROS 040693 0537   BO 50 41.081 S  68 26.191 E GPS   1690     20                           CTD02  210
+35MF75_1  ISS1       4       1  ROS 040693 0644   EN 50 41.815 S  68 26.636 E GPS                           12            CTD02  210
+35MF75_1  ISS1       5       1  BIO 040693 0953   BE 50 40.966 S  68 26.907 E GPS   1695                                  PPS01 
+35MF75_1  ISS1       5       1  BIO 040693 1001   EN 50 41.171 S  68 27.055 E GPS   1702                                  Cancelled PPS01 
+35MF75_1  ISS1       6       1  CTD 040693 1205   BE 50 42.374 S  68 25.395 E GPS   1725                                  CTD03 
+35MF75_1  ISS1       6       1  CTD 040693 1215   EN                                                                      Cancelled CTD03 
+35MF75_1  ISS1       7       1  COR 040693 1533   BE 50 39.624 S  68 25.368 E GPS   1685                                  KBE01 
+35MF75_1  ISS1       7       1  COR 040693 1557   BO 50 39.881 S  68 25.978 E GPS   1685                                  KBE01 
+35MF75_1  ISS1       7       1  COR 040693 1631   EN                          GPS                                         Void KBE01 
+35MF75_1  ISS1       8       1  COR 040793 0512   BE 50 40.038 S  68 24.973 E GPS   1687                                  KBE02 
+35MF75_1  ISS1       8       1  COR 040793 0536   BO 50 40.156 S  68 25.328 E GPS                                         KBE02 
+35MF75_1  ISS1       8       1  COR 040793 0612   EN                                                                      Void KBE02 
+35MF75_1  ISS1       9       1  COR 040793 0925   BE 50 40.026 S  68 24. 816 EGPS   1688                                  KGS01 
+35MF75_1  ISS1       9       1  COR 040793 0948   BO 50 40.154 S  68 24.678 E GPS                                         Void KGS01 
+35MF75_1  ISS1       9       1  COR 040793 1027   EN                                                                      KGS01 
+35MF75_1  ISS1      10       1  BOT 040793 1135   BE 50 40.278 S  68 24.368 E GPS   1687                                  PBH01 
+35MF75_1  ISS1      10       1  BOT 040793 1141   MR 50 40.310 S  68 24.240 E GPS   1687            40       1            PBH01 
+35MF75_1  ISS1      10       1  BOT 040793 1145   EN                                                                      PBH01 
+35MF75_1  ISS1      10       2  BOT 040793 1147   BE 50 40.390 S  68 24.170 E GPS                                         PBH01 
+35MF75_1  ISS1      10       2  BOT 040793 1149   MR                          GPS                   30       1            PBH01 
+35MF75_1  ISS1      10       2  BOT 040793 1152   EN 50 40.440 S  68 24.030 E GPS                                         PBH01 
+35MF75_1  ISS1      10       3  BOT 040793 1155   BE 50 40.520 S  68 23.970 E GPS                                         PBH01 
+35MF75_1  ISS1      10       3  BOT 040793 1157   MR 50 40.530 S  68 23.940 E GPS                   20       1            PBH01 
+35MF75_1  ISS1      10       3  BOT 040793 1159   EN                          GPS                                         PBH01 
+35MF75_1  ISS1      10       4  BOT 040793 1201   BE 50 40.550 S  68 23.910 E GPS                                         PBH01 
+35MF75_1  ISS1      10       4  BOT 040793 1202   MR 50 40.560 S  68 23.900 E GPS                   10       1            PBH01 
+35MF75_1  ISS1      10       4  BOT 040793 1203   EN                          GPS                                         PBH01 
+35MF75_1  ISS1      10       5  BOT 040793 1206   BE 50 40.620 S  68 23.870 E GPS                            4            PBH01 
+35MF75_1  ISS1      10       5  BOT 040793 1207   EN 50 40.620 S  68 23.820 E GPS   1695                                  PBH01
+35MF75_1  ISS1      11       1  CTD 040793 1241   BE 50 39.931 S  68 24.966 E GPS   1680                                  CTD04 220
+35MF75_1  ISS1      11       1  CTD 040793 1246   BO 50 39.946 S  68 24.963 E GPS                                         CTD04 220
+35MF75_1  ISS1      11       1  CTD 040793 1321   EN 50 40.056 S  68 24.737 E GPS                                         CTD04 220
+35MF75_1  ISS1      12       1  COR 040893 0051   BE 50 40.000 S  68 25.070 E GPS   1685                                  KTB02 
+35MF75_1  ISS1      12       1  COR 040893 0116   BO 50 39.880 S  68 24.960 E GPS   1690   1658                           KTB02 
+35MF75_1  ISS1      12       1  COR 040893 0142   EN 50 39.840 S  68 24.960 E GPS   1690                                  Void KTB02 
+35MF75_1  ISS1      13       1  BIO 040893 0314   BE 50 43.088 S  68 26.991 E GPS   1730                                  PPS01 
+35MF75_1  ISS1      13       1  BIO 040893 0529   DE 50 43.545 S  68 25.804 E GPS   1755                                  PPS01 
+35MF75_1  ISS1      14       1  COR 040893 0627   BE 50 41.603 S  68 25.157 E GPS   1720                                  KTB03 
+35MF75_1  ISS1      14       1  COR 040893 0651   BO 50 41.785 S  68 25.107 E GPS   1720   1678                           KTB03 
+35MF75_1  ISS1      14       1  COR 040893 0724   EN 50 42.247 S  68 24.881 E GPS                            1            GC,P,G  KTB03 
+35MF75_1  ISS1      15       1  COR 040993 0640   BE 54 21.265 S  74 00.443 E GPS   1580                                  KGL02 
+35MF75_1  ISS1      15       1  COR 040993 0710   BO 54 21.680 S  74 00.297 E GPS   1580   1535                           L = 1540 cm KGL02 
+35MF75_1  ISS1      15       1  COR 040993 0739   EN 54 21.938 S  74 00.019 E GPS                                         0.45 + 10x1 KGL02 
+35MF75_1  ISS1      16       1  COR 040993 0845   BE 54 19.997 S  73 59.978 E GPS   1605                                  KTB04 
+35MF75_1  ISS1      16       1  COR 040993 0852   BO                                        300                           KTB04 
+35MF75_1  ISS1      16       1  COR 040993 0903   EN                                                                      Void KTB04 
+35MF75_1  ISS1      17       1  COR 040993 1631   BE 54 24.913 S  72 41.370 E GPS                                         KGL03 
+35MF75_1  ISS1      17       1  COR 040993 1705   MR                                       2625   2564                    L=1430 KGL03 
+35MF75_1  ISS1      17       1  COR 040993 1720   BO 54 24.601 S  72 40.935 E GPS                                         G 9x1,5m+1m KGL03 
+35MF75_1  ISS1      17       1  COR 040993 1808   EN                                                                      KGL03 
+35MF75_1  ISS1      18       1  COR 041093 0113   BE 54 59.966 S  71 50.058 E GPS   3570                                  L = 970 cm  KGL04 
+35MF75_1  ISS1      18       1  COR 041093 0155   MR                                       3542                           0,7 + 6 x  KGL04 
+35MF75_1  ISS1      18       1  COR 041093 0229   BO 55 00.436 S  71 49.471 E GPS                                         Messenger S KGL04 
+35MF75_1  ISS1      18       1  COR 041093 0253   BO                                                                      G KGL04 
+35MF75_1  ISS1      18       1  COR 041093 0352   EN                                                                      3 entries KGL04 
+35MF75_1  ISS1      19       1  COR 041093 0502   BE                                       3600                           Pb  KTB05 
+35MF75_1  ISS1      19       1  COR 041093 0536   BE                                                                      KTB05 
+35MF75_1  ISS1      19       1  COR 041093 0645   BO 55 01.820 S  71 48.020 E GPS   3600   3760                           KTB05 
+35MF75_1  ISS1      19       1  COR 041093 0759   EN 55 01.671 S  71 46.830 E GPS                           10            M,B,P,GC,G KTB05 
+35MF75_1  ISS1      20       1  ROS 041193 0359   BE 59 23.113 S  71 11.962 E GPS   4425                                  CTD05 310
+35MF75_1  ISS1      20       1  ROS 041193 0516   BO 59 23.904 S  71 11.756 E GPS           110                           CTD05 310
+35MF75_1  ISS1      20       1  ROS 041193 0702   EN 59 24.401 S  71 11.595 E GPS                           12            Wave > 17 m CTD05 310
+35MF75_1  ISS1      21       1  BIO 041493 0623   BE 51 58.540 S  61 08.052 E GPS   4728                                  PPS02 
+35MF75_1  ISS1      21       1  BIO 041493 0828   EN 51 57.180 S  61 05.703 E GPS   4781                                  PPS02 
+35MF75_1  ISS1      22       1  COR 041493 1018   BE 51 59.389 S  61 09.231 E GPS   4700                                  KGL05 
+35MF75_1  ISS1      22       1  COR 041493 1054   MR                          GPS                                         KGL05 
+35MF75_1  ISS1      22       1  COR 041493 1122   BO 51 58.815 S  61 08.131 E GPS   4703          4670                    G 1100 cm KGL05 
+35MF75_1  ISS1      22       1  COR 041493 1225   EN                                                                      7x13X m+ 0.7 m KGL05 
+35MF75_1  ISS1      23       1      041493                                                                                    
+35MF75_1  ISS1      24       1  COR 041493 1912   BE 51 58.948 S  61 08.299 E GPS   4710                                  KTB06 
+35MF75_1  ISS1      24       1  COR 041493 2038   BO 51 58.529 S  61 07.841 E GPS   4710          4750                    G KTB06 
+35MF75_1  ISS1      24       1  COR 041493 2218   EN 51 58.482 S  61 07.299 E GPS   4710                    10            M,B,P,GC KTB06 
+35MF75_1  ISS1      25       1  COR 041493 2314   BE 51 58.770 S  61 07.760 E GPS   4710                                  KGS02 
+35MF75_1  ISS1      25       1  COR 041593 0038   BO 51 58.490 S  61 07.660 E GPS   4710                                  G  KGS02 
+35MF75_1  ISS1      25       1  COR 041593 0223   EN 51 58.800 S  61 07.940 E GPS                                         B  KGS02 
+35MF75_1  ISS1      26       1      041593 0230   BE                                                                            
+35MF75_1  ISS1      26       1      041593 0514   EN                                                                                 
+35MF75_1  ISS1      27       1  ROS 041593 0648   BE 51 59.050 S  61 08.187 E GPS   4703                                  CTD06 410
+35MF75_1  ISS1      27       1  ROS 041593 0805   BO 51 59.300 S  61 08.620 E GPS   4695     20   4710      12            CTD06 410
+35MF75_1  ISS1      27       1  ROS 041593 1051   EN 51 59.820 S  61 07.806 E GPS                                         CTD06 410
+35MF75_1  ISS1      28       1      041593 1224   BE 51 49.286 S  61 07.036 E GPS                                         Mooring spo       
+35MF75_1  ISS1      29       1  COR 041593 1447   BE 51 49.077 S  61 04.884 E GPS   4985                                  KGS03 
+35MF75_1  ISS1      29       1  COR 041593 1618   BO 51 49.521 S  61 04.470 E GPS   4985          4980                    KGS03 
+35MF75_1  ISS1      29       1  COR 041593 1804   EN 51 49.407 S  61 03.878 E GPS                                         Void KGS03 
+35MF75_1  ISS1      30       1  COR 041693 1557   BE 51 58.530 S  61 07.840 E GPS   4695                                  KTB07 
+35MF75_1  ISS1      30       1  COR 041693 1759   BO 51 57.750 S  61 07.480 E GPS   4724          4770                    KTB07 
+35MF75_1  ISS1      30       1  COR 041693 1910   EN                                                         5            M,GC       KTB07 
+35MF75_1  ISS1      31       1  ROS 041693 2023   BE 51 59.366 S  61 08.790 E GPS   4690                                  CTD07 420
+35MF75_1  ISS1      31       1  ROS 041693 2117   BO 52 00.086 S  61 08.313 E GPS   4690                                  CTD07 420
+35MF75_1  ISS1      31       1  ROS 041693 2246   EN 52 00.937 S  61 08 044 E GPS   4690                    12            CTD07 420
+35MF75_1  ISS1      32       1  ROS 041793 0004   BE 51 58.492 S  61 08.125 E GPS   4720                                  M CTD08 430
+35MF75_1  ISS1      32       1  ROS 041793 0017   BO 51 58.574 S  61 08.181 E GPS   4680                                  CTD08 430
+35MF75_1  ISS1      32       1  ROS 041793 0103   EN 51 59.152 S  61 08.238 E GPS   4690                    12            CTD08 430
+35MF75_1  ISS1      33       1  COR 041793 0150   BE 51 58.470 S  61 07.930 E GPS   4710                                  KTB08 
+35MF75_1  ISS1      33       1  COR 041793 0314   BO 51 59.107 S  61 07.389 E GPS   4710          4748                    KTBT8 
+35MF75_1  ISS1      33       1  COR 041793 0455   EN 51 59.120 S  61 06.870 E GPS                           10            B,P,M,G KTB08 
+35MF75_1  ISS1      34       1  BOT 041793 0550   BE 51 58.910 S  61 06.870 E GPS   4710                                  PBH02 
+35MF75_1  ISS1      34       1  BOT 041793 0652   EN 51 58.950 S  61 06.380 E GPS   4710            40       8            G PBH02 
+35MF75_1  ISS1      35       1  COR 041793 0726   BE 51 58.705 S  61 07.854 E GPS                                         KTB09 
+35MF75_1  ISS1      35       1  COR 041793 0850   BO 51 58.860 S  61 06.627 E GPS   4705                                  KTB09 
+35MF75_1  ISS1      35       1  COR 041793 1038   EN 51 58.638 S  61 05.510 E GPS   4705                                  Void KTB09 
+35MF75_1  ISS1      36       1  ROS 041793 1140   BE 51 58.714 S  61 07.451 E GPS   4695                                  CTD09 440
+35MF75_1  ISS1      36       1  ROS 041793 1301   BO 51 59.211 S  61 06 808 E GPS   4725      40   4727                   CTD09 440
+35MF75_1  ISS1      36       1  ROS 041793 1522   EN 52 00.462 S  61 05.862 E GPS                           12            CTD09 440
+35MF75_1  ISS1      37       1  COR 041793 1617   BE 51 58.610 S  61 07.660 E GPS   4720                                  KTB10 
+35MF75_1  ISS1      37       1  COR 041793 1742   BO 51 58.780 S  61 07.120 E GPS   4720          4780                    KTB10 
+35MF75_1  ISS1      37       1  COR 041793 1726   EN 51 58.613 S  61 06.839 E GPS   4720                     3            M KTB10 
+35MF75_1  ISS1      38       1  COR 041993 0846   BE 48 59.895 S  57 59.680 E GPS   4395                                  KTB11 
+35MF75_1  ISS1      38       1  COR 041993 1004   BO 48 59.589 S  57 59.158 E GPS   4395          4450                    KTB11 
+35MF75_1  ISS1      38       1  COR 041993 1133   EN 48 59.462 S  57 58.489 E GPS   4395                    11            M,GC KTB11 
+35MF75_1  ISS1      39       1  ROS 041993 1214   BE 48 59.301 S  57 59.649 E GPS   4395                                  CTD10 510
+35MF75_1  ISS1      39       1  ROS 041993 1328   BO 48 59.405 S  58 00.000 E GPS   4395     40   4440                    CTD10 510
+35MF75_1  ISS1      39       1  ROS 041993 1556   EN 48 59.841 S  58 00.062 E GPS   4395                    12            leakage B5 CTD10  510
+35MF75_1  ISS1      40       1  COR 041993 1620   BE 48 59.880 S  57 59.720 E GPS   4395                                  KTB12 
+35MF75_1  ISS1      40       1  COR 041993 1740   BO 49 00.118 S  57 59.840 E GPS   4390          4450                    KTB12 
+35MF75_1  ISS1      40       1  COR 041993 1707   EN                                                        10            B,P,GC,G KTB12 
+35MF75_1  ISS1      41       1  ROS 041993 1933   BE 48 59.917 S  58 00.043 E GPS   4395                                  CTD11 520
+35MF75_1  ISS1      41       1  ROS 041993 2001   BO 49 00.069 S  57 59.799 E GPS   4405                                  CTD11 520
+35MF75_1  ISS1      41       1  ROS 041993 2047   EN 49 00.160 S  57 59.958 E GPS                           12            CTD11 520
+35MF75_1  ISS1      42       1  BOT 041993 2000   BE 48 59.920 S  58 00.040 E GPS   4395                                  PBH03 
+35MF75_1  ISS1      42       1  BOT 041993 2042   EN 49 00.164 S  57 59.880 E GPS   4395                     3            PBH03 
+35MF75_1  ISS1      43       1  COR 041993 2108   BE 48 59.976 S  58 00.051 E GPS   4395                                  KGS04 
+35MF75_1  ISS1      43       1  COR 041993 2226   BO 48 59.840 S  57 59.903 E GPS   4395          4420                    KGS04 
+35MF75_1  ISS1      43       1  COR 041993 2352   EN 48 59.835 S  57 59.690 E GPS   4395                                  B KGS04 
+35MF75_1  ISS1      44       1  COR 042093 0048   BE 48 59.926 S  58 00.300 E GPS   4395                                  KBE03 
+35MF75_1  ISS1      44       1  COR 042093 0208   BO 48 59.868 S  58 00.208 E GPS   4395                                  KBE03 
+35MF75_1  ISS1      44       1  COR 042093 0338   EN 48 59.989 S  58 00.056 E GPS   4395                                  GC,B,M,G KBE03 
+35MF75_1  ISS1      45       1  BIO 042093 0412   BE 49 00.180 S  58 00.126 E GPS                                         PKS01 
+35MF75_1  ISS1      45       1  BIO 042093 0450   EN 48 59.370 S  57 59.500 E GPS                                         PKS01 
+35MF75_1  ISS1      46       1  LVS 042093 1059   BE 49 59.905 S  57 59.938 E GPS   4605                                  BGV01 
+35MF75_1  ISS1      46       1  LVS 042093 1106   EN                                                                      BGV01 
+35MF75_1  ISS1      47       1  COR 042093 1217   BE 50 00.614 S  58 00.136 E GPS   4590                    10            M,GC KTB13 
+35MF75_1  ISS1      47       1  COR 042093 1339   BO 50 00.913 S  57 59.605 E GPS   4600          4660                    KTB13 
+35MF75_1  ISS1      47       1  COR 042093 1510   EN 50 01.220 S  57 59.510 E GPS                                         KTB13 
+35MF75_1  ISS1      48       1  ROS 042093 1559   BE 50 01.189 S  57 59.409 E GPS   4635                                  CTD12  610
+35MF75_1  ISS1      48       1  ROS 042093 1721   BO 50 01.301 S  57 59.408 E GPS   4635     20   4626                    CTD12  610
+35MF75_1  ISS1      48       1  ROS 042093 1911   EN 50 01.386 S  57 59.236 E GPS   4635                    12            CTD12  610
+35MF75_1  ISS1      49       1  COR 042093 1950   BE 50 00.031 S  57 59.916 E GPS   4610                                  KTB14 
+35MF75_1  ISS1      49       1  COR 042093 2119   BO 50 00.245 S  57 59.579 E GPS   4610          4656                    KTB14 
+35MF75_1  ISS1      49       1  COR 042093 2248   EN 50 00.750 S  57 58.885 E GPS                            9            B,P,GC,2G KTB14 
+35MF75_1  ISS1      50       1  ROS 042093 2328   BE 49 59.756 S  58 00.275 E GPS   4600                                  CTD13 620
+35MF75_1  ISS1      50       1  ROS 042093 2345   BO 49 59.834 S  58 00.325 E GPS                           12            CTD13 620
+35MF75_1  ISS1      50       1  ROS 042193 0040   EN 50 00.176 S  58 00.561 E GPS                                         CTD13 620
+35MF75_1  ISS1      51       1  BOT 042193 0029   BE 50 00.116 S  58 00.530 E GPS   4590                                  PBH04 
+35MF75_1  ISS1      51       1  BOT 042193 0100   EN 50 00.346 S  58 00.661 E GPS                    25      3            PBH04 
+35MF75_1  ISS1      51       2  COR 042193 0138   BE 49 59.863 S  57 59.667 E GPS   4590                                  KGS05 
+35MF75_1  ISS1      51       2  COR 042193 0259   BO 50 00.063 S  58 00.027 E GPS   4590          4585                    KGS05 
+35MF75_1  ISS1      51       2  COR 042193 0435   EN 50 00.027 S  57 59.510 E GPS                                         B,G KGS05 
+35MF75_1  ISS1      52       1  COR 042193 0955   BE 50 59.565 S  57 59.610 E GPS   4630                                  KTBT5 
+35MF75_1  ISS1      52       1  COR 042193 1125   BO 50 59.257 S  57 58.801 E GPS   4630          4625                    CKTB5 
+35MF75_1  ISS1      52       1  COR 042193 1310   EN 50 58.863 S  57 58.926 E GPS   4630                                  Void KTB15 
+35MF75_1  ISS1      53       1  ROS 042193 1344   BE 51 00.458 S  58 00.752 E GPS   4650                                  CTD14 710
+35MF75_1  ISS1      53       1  ROS 042193 1459   BO 51 00.740 S  58 00.240 E GPS   4650     20   4647                    CTD14 710
+35MF75_1  ISS1      53       1  ROS 042193 1717   EN 51 02.211 S  58 00.310 E GPS                           12            CTD14 710
+35MF75_1  ISS1      54       1  COR 042393 0402   BE 47 59.981 S  55 59.740 E GPS   4240                                  KTB16 
+35MF75_1  ISS1      54       1  COR 042393 0518   BO 48 00.100 S  55 59.836 E GPS   4240          4290                    KTB16 
+35MF75_1  ISS1      54       1  COR 042393 0748   EN 48 00.432 S  55 59.163 E GPS                           10            M,B,GC KTB16 
+35MF75_1  ISS1      55       1  ROS 042393 0829   BE 47 59.987 S  55 59.893 E GPS   4260                                  S1 CTD15  810
+35MF75_1  ISS1      55       1  ROS 042393 0935   BO 48 00.324 S  55 59.731 E GPS   4260     20   4258                    CTD15 810
+35MF75_1  ISS1      55       1  ROS 042393 1144   EN 48 00.844 S  55 59.646 E GPS   4240                    12            CTD15 810
+35MF75_1  ISS1      56       1  COR 042393 1223   BE 47 59.882 S  56 00.023 E GPS   4240                                  S1  KTB17 
+35MF75_1  ISS1      56       1  COR 042393 1338   BO 47 59.939 S  56 00.008 E GPS                 4280                    KTB17 
+35MF75_1  ISS1      56       1  COR 042393 1502   EN 48 00.099 S  56 00.011 E GPS                                         Void KTB17 
+35MF75_1  ISS1      57       1  ROS 042393 1550   BE 47 59.962 S  56 00.029 E GPS                                         CTD16  820
+35MF75_1  ISS1      57       1  ROS 042393 1605   BO 48 00.077 S  56 00.023 E GPS   4237                                  M CTD16 820
+35MF75_1  ISS1      57       1  ROS 042393 1653   EN 48 00.508 S  55 59.704 E GPS                               7         5 Bottles b CTD16 820 
+35MF75_1  ISS1      58       1  BOT 042393 1606   BE 48 00.076 S  56 00.022 E GPS                                         PBH05   
+35MF75_1  ISS1      58       1  BOT 042393 1643   EN 48 00.337 S  55 59.847 E GPS                            3            PBH05 
+35MF75_1  ISS1      59       1  COR 042493 0309   BE 48 00.020 S  56 00.108 E GPS   4235                                  KTB18 
+35MF75_1  ISS1      59       1  COR 042493 0310   BO 48 00.558 S  55 59.076 E GPS   4245          4293                    KTB18 
+35MF75_1  ISS1      59       1  COR 042493 1220   EN 48 00.794 S  55 58.739 E GPS                           10            B,P,2G,GC KTB18 
+35MF75_1  ISS1      60       1  COR 042493 1256   BE 47 59.959 S  56 00.127 E GPS   4240                                  KGS06 
+35MF75_1  ISS1      60       1  COR 042493 1412   BO 48 00.034 S  56 00.014 E GPS   4240          4300                    KGS06 
+35MF75_1  ISS1      60       1  COR 042493 1541   EN 48 00.255 S  56 00.058 E GPS   4240                                  B,G KGS06 
+35MF75_1  ISS1      61       1  ROS 042493 1607   BE 48 00.220 S  56 00.012 E GPS   4240                                  CTD17 830
+35MF75_1  ISS1      61       1  ROS 042493 1625   BO 48 00.271 S  55 59.984 E GPS                                         CTD17 830
+35MF75_1  ISS1      61       1  ROS 042493 1708   EN 48 00.797 S  56 00.065 E GPS                           12            CTD17 830
+35MF75_1  ISS1      62       1  LVS 042493 1807   BE 48 00.708 S  55 59.811 E GPS   4250                                  BGV02 
+35MF75_1  ISS1      62       1  LVS 042493 1909   MR 48 01.211 S  55 59.646 E GPS   4250   3750                           BGV02 
+35MF75_1  ISS1      62       1  LVS 042493 1947   BO 48 01.425 S  55 59.536 E GPS   4250                                  BGV02 
+35MF75_1  ISS1      62       1  LVS 042493 2125   EN 48 02.108 S  55 59.384 E GPS                                         BGV02 
+35MF75_1  ISS1      63       1  COR 042493 2213   BE 47 59.964 S  56 00.013 E GPS   4240                                  KBE04 
+35MF75_1  ISS1      63       1  COR 042493 2332   BO 48 00.650 S  55 59.767 E GPS   4240          4250                    sed.disturb KBE04 
+35MF75_1  ISS1      63       1  COR 042593 0056   EN 48 01.293 S  55 59.552 E GPS                                         GC,B no overlyin KBE04 
+35MF75_1  ISS1      64       1  COR 042593 0900   BE 46 59.900 S  58 00.081 E GPS   4520                                  KTB19 
+35MF75_1  ISS1      64       1  COR 042593 1028   BO 47 00.473 S  58 00.757 E GPS   4540          4590                    KTB19 
+35MF75_1  ISS1      64       1  COR 042593 1158   EN 47 01.188 S  58 01.051 E GPS   4540                     9            M,GC,B KTB19 
+35MF75_1  ISS1      65       1  ROS 042593 1240   BE 46 59.914 S  58 00.004 E GPS   4520                                  CTD18 910 
+35MF75_1  ISS1      65       1  ROS 042593 1356   BO 46 59.960 S  58 00.332 E GPS            35   4518                    CTD18 910
+35MF75_1  ISS1      65       1  ROS 042593 1611   EN 47 00.250 S  58 00.951 E GPS   4520                    12            CTD18 910
+35MF75_1  ISS1      66       1  COR 042593 1632   BE 47 00.002 S  58 00.528 E GPS   4535                                  KTB20 
+35MF75_1  ISS1      66       1  COR 042593 1752   BO 47 00.120 S  58 00.391 E GPS                 4550                    KTB20 
+35MF75_1  ISS1      66       1  COR 042593 1928   EN 47 00.150 S  58 00.424 E GPS                           10            G,GC,P,B KTB20 
+35MF75_1  ISS1      67       1  ROS 042593 1951   BE 47 00.122 S  58 00.093 E GPS   4540                                  CTD19 920
+35MF75_1  ISS1      67       1  ROS 042593 2008   BO 47 00.208 S  58 00.352 E GPS                                         CTD19 920
+35MF75_1  ISS1      67       1  ROS 042593 2048   EN 47 00.300 S  58 00.998 E GPS                           12            CTD19 920
+35MF75_1  ISS1      67       2  BOT 042593 1930   BE 47 00.122 S  58 00.093 E GPS                                         PBH6  
+35MF75_1  ISS1      67       2  BOT 042593 2000   EN 47 00.122 S  58 00.093 E GPS                            3            PBH6  
+35MF75_1  ISS1      68       1  COR 042593 2115   BE 47 00.036 S  58 00.610 E GPS   4525                                  KGS07 
+35MF75_1  ISS1      68       1  COR 042593 2237   BO 47 00.673 S  58 00.740 E GPS                 4580                    KGS07 
+35MF75_1  ISS1      68       1  COR 042593 2357   EN 47 01.166 S  58 01.166 E GPS                                         Void KGS07 
+35MF75_1  ISS1      69       1  ROS 042693 0048   BE 46 59.819 S  57 59.867 E GPS   4515                                  CTD20 930
+35MF75_1  ISS1      69       1  ROS 042693 0209   BO 46 59.910 S  58 00.442 E GPS   4540                                  CTD20 930
+35MF75_1  ISS1      69       1  ROS 042693 0455   EN 47 00.035 S  58 01.048 E GPS   4540                    12            CTD20 930
+35MF75_1  ISS1      70       1  COR 042693 1041   BE 46 37.786 S  57 13.596 E GPS   4425          4430                    KGL06 
+35MF75_1  ISS1      70       1  COR 042693 1200   BO 46 37.205 S  57 13.204 E GPS                                         KGL06 
+35MF75_1  ISS1      70       1  COR 042693 1306   EN 46 38.864 S  57 12.728 E GPS                                         KGL06 
+35MF75_1  ISS1      71       1  LVS 042693 1904   BE 45 59.820 S  55 59.854 E GPS                                         BGV03 
+35MF75_1  ISS1      71       1  LVS 042693 1907   EN 45 59.792 S  55 59.923 E GPS                                         BGV03 
+35MF75_1  ISS1      72       1  COR 042693 2121   BE 45 58.684 S  55 59.466 E GPS   4210                                  KTB21 
+35MF75_1  ISS1      72       1  COR 042693 2239   BO 45 58.162 S  55 59.080 E GPS   4200          4195                    KTB21 
+35MF75_1  ISS1      72       1  COR 042793 0001   BE 45 57.391 S  55 59.168 E GPS   4160                     9            M,GC,B KTB21 
+35MF75_1  ISS1      73       1  ROS 042793 0106   BE 46 00.041 S  55 59.992 E GPS   4275                                  CTD21 1010
+35MF75_1  ISS1      73       1  ROS 042793 0219   BO 45 59.627 S  55 59.531 E GPS   4275          4264                    CTD21 1010
+35MF75_1  ISS1      73       1  ROS 042793 0500   EN 45 58.299 S  55 58.991 E GPS                           12            CTD21 1010
+35MF75_1  ISS1      74       1  COR 042793 0539   BE 45 59.952 S  56 00.073 E GPS   4275                                  KTB22 
+35MF75_1  ISS1      74       1  COR 042793 0655   BO 45 59.672 S  55 59.976 E GPS                 4260                    KTB22 
+35MF75_1  ISS1      74       1  COR 042793 0820   EN 45 58.699 S  55 59.844 E GPS                           12            G,GC,B,P KTB22 
+35MF75_1  ISS1      75       1  ROS 042793 0937   BE 45 59.567 S  55 59.039 E GPS                                         CTD22 1020
+35MF75_1  ISS1      75       1  ROS 042793 0955   BO 45 59.522 S  55 58.543 E GPS                 4250                    CTD22 1020
+35MF75_1  ISS1      75       1  ROS 042793 1043   EN 45 59.558 S  55 57.918 E GPS                           12            M CTD22 1020
+35MF75_1  ISS1      76       1  BOT 042793 0907   BE 45 59.888 S  55 59.538 E GPS                                         BOT7  
+35MF75_1  ISS1      76       1  BOT 042793 0949   EN                                                         3            BOT7  
+35MF75_1  ISS1      77       1  COR 042793 1118   BE 45 59.993 S  55 59.774 E GPS   4275                                  KGS08 
+35MF75_1  ISS1      77       1  COR 042793 1234   BO 46 00.208 S  55 58.617   GPS                 4302                    KGS08 
+35MF75_1  ISS1      77       1  COR 042793 1358   EN 46 00.143 S  55 57.382 E GPS                                         Void KGS08 
+35MF75_1  ISS1      78       1  COR 042793 1446   BE 46 00.062 S  56 00.105 E GPS   4275                                  KBE05 
+35MF75_1  ISS1      78       1  COR 042793 1603   BO 46 00.256 S  55 59.089 E GPS                 4276                    KBE05 
+35MF75_1  ISS1      78       1  COR 042793 1729   EN 46 00.103 S  55 58.092 E GPS                                         Void KBE05 
+35MF75_1  ISS1      79       1  ROS 042893 0306   BE 47 00.081 S  54 29.850 E GPS   3890                                  CTD23 1110
+35MF75_1  ISS1      79       1  ROS 042893 0429   BO 47 00.897 S  54 28.998 E GPS                 3962                    CTD23 1110
+35MF75_1  ISS1      79       1  ROS 042893 0655   EN 47 02.132 S  54 27.857 E GPS                           12            CTD23 1110
+35MF75_1  ISS1      80       1  ROS 042893 0745   BE 46 59.977 S  54 29.979 E GPS   3900                                  CTD24 1120
+35MF75_1  ISS1      80       1  ROS 042893 0801   BO 47 00.045 S  54 30.031 E GPS                  915                    CTD24 1120
+35MF75_1  ISS1      80       1  ROS 042893 0843   EN 47 00.239 S  54 30.031 E GPS                           12            CTD24 1120
+35MF75_1  ISS1      81       1  BOT 042893 0745   BE 46 59.977 S  54 29.979 E GPS                                         PBH08 
+35MF75_1  ISS1      81       1  BOT 042893 0820   EN 47 00.131 S  54 30.054 E GPS                   25       3            PBH08 
+35MF75_1  ISS1      82       1  ROS 042893 1513   BE 46 30.008 S  52 59.601 E GPS   3075                                  CTD25 1210
+35MF75_1  ISS1      82       1  ROS 042893 1615   BO 46 30.047 S  52 59.420 E GPS                 3110                    Hit Bottom CTD25 1210
+35MF75_1  ISS1      82       1  ROS 042893 1749   EN 46 30.487 S  52 59.787 E GPS                                         CTD25 1210
+35MF75_1  ISS1      83       1  ROS 042993 1650   BE 46 29.893 S  52 59.896 E GPS   3075                                  CTD26 1220
+35MF75_1  ISS1      83       1  ROS 042993 1702   BO 46 29.905 S  52 59.772 E GPS                  714                    CTD26 1220
+35MF75_1  ISS1      83       1  ROS 042993 1743   EN 46 30.107 S  52 59.224 E GPS                           12            CTD26 1220
+35MF75_1  ISS1      84       1  COR 043093 0323   BE 45 55.719 S  54 54.887 E GPS   3950                                  KGL07 
+35MF75_1  ISS1      84       1  COR 043093 0400   MR 45 55.659 S  54 54.208 E GPS                                         KGL07 
+35MF75_1  ISS1      84       1  COR 043093 0425   BO 45 55.668 S  54 53.931 E GPS   3950          3910                    KGL07 
+35MF75_1  ISS1      84       1  COR 043093 0513   EN 45 55.597 S  54 53.715 E GPS                                         Void KGL07 
+35MF75_1  ISS1      85       1  LVS 043093 1706   BE 45 00.162 S  57 59.919 E GPS   4570                                  BGV04 
+35MF75_1  ISS1      85       1  LVS 043093 1709   MR 45 00.239 S  57 59.862 E GPS                                         BGV04 
+35MF75_1  ISS1      85       1  LVS 043093 1713   EN 45 00.298 S  57 59.733 E GPS                                         BGV04 
+35MF75_1  ISS1      86       1  COR 043093 1739   BE 45 00.226 S  57 59.694 E GPS   4550                                  KTB23 
+35MF75_1  ISS1      86       1  COR 043093 1900   BO 45 00.098 S  57 59.694 E GPS   4555          4565                    KTB23 
+35MF75_1  ISS1      86       1  COR 043093 2036   EN 45 00.315 S  57 57.294 E GPS                 4600       9            M,GC KTB23 
+35MF75_1  ISS1      87       1  ROS 043093 2109   BE 45 00.014 S  57 59.987 E GPS   4550                                  CTD27 1310
+35MF75_1  ISS1      87       1  ROS 043093 2242   BO 45 00.757 S  57 57.495 E GPS                                         CTD27 1310
+35MF75_1  ISS1      87       1  ROS 050193 0206   EN 45 02.188 S  57 53.602 E GPS                           12            M CTD27 1310
+35MF75_1  ISS1      88       1  COR 050193 0326   BE 45 00.025 S  57 59.713 E GPS   4560                                  KTB24 
+35MF75_1  ISS1      88       1  COR 050193 0451   BO 45 00.163 S  57 56.940 E GPS   4560          4570                    void open KTB24 
+35MF75_1  ISS1      88       1  COR 050193 0619   EN 45 00.801 S  57 53.423 E GPS                                         KTB24 
+35MF75_1  ISS1      89       1  ROS 050193 0732   BE 45 00.200 S  58 00.149 E GPS   4560                                  CTD28 1320
+35MF75_1  ISS1      89       1  ROS 050193 0750   BO 45 00.577 S  57 59.453 E GPS                                         CTD28 1320
+35MF75_1  ISS1      89       1  ROS 050193 0831   EN 45 01.325 S  57 58.266 E GPS                           12            M CTD28 1320
+35MF75_1  ISS1      90       1  BOT 050193 0736   BE 45 00.381 S  57 59.960 E GPS   4560                                  PBH09 
+35MF75_1  ISS1      90       1  BOT 050193 0804   EN 45 00.867 S  57 59.011 E GPS                            3            M PBH09 
+35MF75_1  ISS1      91       1  COR 050193 0907   BE 45 00.019 S  57 59.859 E GPS   4560                                  KTB25 
+35MF75_1  ISS1      91       1  COR 050193 1029   BO 45 00.841 S  57 57.756 E GPS   4560          4680                    KTB25 
+35MF75_1  ISS1      91       1  COR 050193 1201   EN 45 01.758 S  57 55.305 E GPS   4560                    12            G,GC,P,B KTB25 
+35MF75_1  ISS1      92       1  BIO 050193 1221   BE 45 01.597 S  57 55.903 E GPS   4560                                  PKS02 
+35MF75_1  ISS1      92       1  BIO 050193 1300   EN 45 00.658 S  57 55.419 E GPS                                         PKS02 
+35MF75_1  ISS1      93       1  ROS 050193 1633   BE 45 00.075 S  57 59.812 E GPS   4550                                  CTD29 1330
+35MF75_1  ISS1      93       1  ROS 050193 1753   BO 45 00.725 S  57 58.559 E GPS   4550   4617                           CTD29 1330
+35MF75_1  ISS1      93       1  ROS 050193 1949   EN 45 02.116 S  57 56.861 E GPS                           12            CTD29 1330
+35MF75_1  ISS1      94       1  COR 050493 1225   BE 45 00.272 S  58 00.048 E GPS   4550                                  KGL08 
+35MF75_1  ISS1      94       1  COR 050493 1333   BO 45 01.222 S  58 00.621 E GPS   4550          4490                    not trigger KGL08 
+35MF75_1  ISS1      94       1  COR 050493 1442   EN 45 02.532 S  58 00.991 E GPS                                         3.4m sample KGL08 
+35MF75_1  ISS1      95       1  CTD 050493 1542   BE 44 59.987 S  57 59.994 E GPS   4550                                  CTD30 1340
+35MF75_1  ISS1      95       1  CTD 050493 1603   BO 45 00.258 S  58 00.278 E GPS   4560                                  CTD30 1340
+35MF75_1  ISS1      95       1  CTD 050493 1619   EN 45 00.324 S  58 00.489 E GPS                                         no sampling CTD30 1340
+35MF75_1  ISS1      96       1  COR 050493 1645   BE 45 00.028 S  58 00.156 E GPS   4560                                  KGS09
+35MF75_1  ISS1      96       1  COR 050493 1805   BO 44 59.883 S  57 59.542 E GPS                 4640                    KGS09
+35MF75_1  ISS1      96       1  COR 050493 1943   EN 44 59.923 S  57 58.363 E GPS                                         Void KGS09
+35MF75_1  ISS1      97       1  LVS 050493 2027   BE 44 59.975 S  58 00.220 E GPS   4575                                  BGV05
+35MF75_1  ISS1      97       1  LVS 050493 2038   MR 44 59.950 S  58 00.370 E GPS                  565                    BGV05
+35MF75_1  ISS1      97       1  LVS 050493 2054   EN 45 00.110 S  58 00.480 E GPS                                         BGV05
+35MF75_1  ISS1      98       1  COR 050493 2118   BE 44 59.961 S  57 59.854 E GPS   4560                                  KGS10
+35MF75_1  ISS1      98       1  COR 050493 2237   BO 45 00.003 S  57 59.573 E GPS   4550          4565                    KGS10
+35MF75_1  ISS1      98       1  COR 050493 2342   EN 45 00.255 S  57 59.243 E GPS   4550                                  B KGS10
+35MF75_1  ISS1      99       1  COR 050593 0000   BE 45 00.040 S  57 59.040 E GPS   4550                                  KBE06
+35MF75_1  ISS1      99       1  COR 050593 0152   BO 45 00.671 S  57 59.647 E GPS   4550          4560                    KBE06
+35MF75_1  ISS1      99       1  COR 050593 0324   EN 45 01.428 S  57 58.996 E GPS                                         Void KBE06
+35MF75_1  ISS1     100       1  LVS 050593 1222   BE 43 59.741 S  55 59.491 E GPS                                         BGV06
+35MF75_1  ISS1     100       1  LVS 050593 1225   MR 43 59.733 S  55 59.405 E GPS                                         BGV06
+35MF75_1  ISS1     100       1  LVS 050593 1229   EN 43 59.664 S  55 59.367 E GPS                                         BGV06
+35MF75_1  ISS1     101       1  COR 050593 1250   BE 43 59.328 S  55 58.797 E GPS   4460                                  KTB26
+35MF75_1  ISS1     101       1  COR 050593 1408   BO 43 58.338 S  55 58.348 E GPS                 4477                    KTB26
+35MF75_1  ISS1     101       1  COR 050593 1537   EN 43 57.857 S  55 56.190 E GPS                           12            GC,M KTB26
+35MF75_1  ISS1     102       1  ROS 050593 1637   BE 44 00.031 S  55 59.992 E GPS   4460                                  CTD31 1410
+35MF75_1  ISS1     102       1  ROS 050593 1747   BO 43 59.668 S  55 59.491 E GPS                 4461                    CTD31 1410
+35MF75_1  ISS1     102       1  ROS 050593 1924   EN 43 58.905 S  55 59.463 E GPS                           12            CTD31 1410
+35MF75_1  ISS1     103       1  COR 050593 1959   BE 44 00.091 S  56 00.141 E GPS   4460                                  KTB27
+35MF75_1  ISS1     103       1  COR 050593 2126   BO 43 58.866 S  55 59.688 E GPS   4460          4458                    KTB27
+35MF75_1  ISS1     103       1  COR 050593 2302   EN 43 57.204 S  55 59.076 E GPS                           11            G,GC,BP KTB27
+35MF75_1  ISS1     104       1  ROS 050593 2341   BE 43 59.987 S  55 59.972 E GPS   4460                                  CTD32 1420
+35MF75_1  ISS1     104       1  ROS 050693 0001   BO 43 59.774 S  55 59.862 E GPS                 1000                    CTD32 1420
+35MF75_1  ISS1     104       1  ROS 050693 0047   EN 43 59.288 S  55 59.895 E GPS                           12            M CTD32 1420
+35MF75_1  ISS1     105       1  BOT 050693 0029   BE 43 59.461 S  55 59.850 E GPS                   25/0                  PBH10
+35MF75_1  ISS1     105       1  BOT 050693 0045   EN                          GPS                            3            PBH10
+35MF75_1  ISS1     106       1  COR 050693 0125   BE 43 59.930 S  55 59.932 E GPS   4460                                  KGS11
+35MF75_1  ISS1     106       1  COR 050693 0245   BO 43 58.934 S  55 59.514 E GPS   4460          4470                    KGS11
+35MF75_1  ISS1     106       1  COR 050693 0405   EN 43 57.899 S  55 59.040 E GPS                                         Void KGS11
+35MF75_1  ISS1     107       1  ROS 050693 0451   BE 43 59.984 S  55 59.973 E GPS   4460                                  CTD33 1430
+35MF75_1  ISS1     107       1  ROS 050693 0602   BO 43 59.312 S  55 59.509 E GPS   4460     45                           CTD33 1430
+35MF75_1  ISS1     107       1  ROS 050693 0817   EN 43 58.151 S  55 58.687 E GPS                           12            CTD33 1430
+35MF75_1  ISS1     108       1  COR 050693 0852   BE 43 59.872 S  55 59.790 E GPS   4460                                  KGS12
+35MF75_1  ISS1     108       1  COR 050693 1013   BO 43 59.050 S  55 58.190 E GPS   4460          4490                    KGS12
+35MF75_1  ISS1     108       1  COR 050693 1122   EN 43 58.241 S  55 56.928 E GPS                                         Void KGS12
+35MF75_1  ISS1     109       1  LVS 050693 1222   BE 43 59.938 S  55 59.695 E GPS   4460                                  BGV07
+35MF75_1  ISS1     109       1  LVS 050693 1235   MR 43 59.909 S  55 59.519 E GPS   4460    540                           BGV07
+35MF75_1  ISS1     109       1  LVS 050693 1253   EN 43 59.812 S  55 59.204 E GPS                                         BGV07
+35MF75_1  ISS1     110       1  COR 050693 1359   BE 44 00.056 S  55 59.944 E GPS   4460                                  KGL09
+35MF75_1  ISS1     110       1  COR 050693 1439   MR 43 59.895 S  55 59.597 E GPS                                         KGL09
+35MF75_1  ISS1     110       1  COR 050693 1506   BO 43 59.674 S  55 59.474 E GPS   4460          4435                    KGL09
+35MF75_1  ISS1     110       1  COR 050693 1558   EN 43 59.363 S  55 59.501 E GPS                                         Void KGL09
+35MF75_1  ISS1     111       1  BIO 050693 1632   BE 43 58.782 S  55 59.396 E GPS                                         PKS03
+35MF75_1  ISS1     111       1  BIO 050693 1716   EN 43 57.158 S  55 58.596 E GPS                                         PKS03
+35MF75_1  ISS1     112       1  COR 050693 1813   BE 43 59.874 S  56 00.093 E GPS   4460                                  pinger KBE07
+35MF75_1  ISS1     112       1  COR 050693 1934   BO 43 58.699 S  55 59.702 E GPS   4460          4452                    KBE07
+35MF75_1  ISS1     112       1  COR 050693 2037   EN 43 57.899 S  55 59.229 E GPS                                         Void KBE77
+35MF75_1  ISS1     113       1  LVS 050793 0513   BE 43 00.124 S  58 00.163 E GPS                                         BGV08
+35MF75_1  ISS1     113       1  LVS 050793 0516   MR 43 00.185 S  58 00.190 E GPS                   85                    BGV08
+35MF75_1  ISS1     113       1  LVS 050793 0521   EN 43 00.235 S  58 00.180 E GPS                                         BGV08
+35MF75_1  ISS1     114       1  COR 050793 0543   BE 43 00.026 S  58 00.010 E GPS   4730                                  KTB28
+35MF75_1  ISS1     114       1  COR 050793 0709   BO 43 00.732 S  58 00.495 E GPS   4730          4770                    KTB28
+35MF75_1  ISS1     114       1  COR 050793 0859   EN 43 01.214 S  58 00.900 E GPS                           11            M,GC KTB28
+35MF75_1  ISS1     115       1  ROS 050793 0926   BE 43 00.073 S  58 00.009 E GPS   4747                                  CTD34 1510
+35MF75_1  ISS1     115       1  ROS 050793 1046   BO 43 01.026 S  58 00.341 E GPS   4747     60                           CTD34 1510
+35MF75_1  ISS1     115       1  ROS 050793 1308   EN 43 02.730 S  58 00.771 E GPS                           12            CTD34 1510
+35MF75_1  ISS1     116       1  COR 050793 1413   BE 43 00.017 S  57 59.987 E GPS   4750                                  KTB29
+35MF75_1  ISS1     116       1  COR 050793 1537   BO 43 00.485 S  58 00.725 E GPS   4750          4765                    KTB29
+35MF75_1  ISS1     116       1  COR 050793 1721   EN 43 01.230 S  58 01.410 E GPS                           10            GC,B,GP KTB29
+35MF75_1  ISS1     117       1  LVS 050993 1014   BE 41 00.054 S  57 59.889 E GPS   4930                                  BGV09
+35MF75_1  ISS1     117       1  LVS 050993 1019   MR 41 00.066 S  57 59.827 E GPS                   85                    BGV09
+35MF75_1  ISS1     117       1  LVS 050993        EN 41 00.089 S  57 59.758 E GPS                                         BGV09
+35MF75_1  ISS1     118       1  COR 050993 1050   BE 41 00.147 S  57 59.369 E GPS   4930                                  KTB30
+35MF75_1  ISS1     118       1  COR 050993 1220   BO 40 59.970 S  57 58.185 E GPS   4920          5035                    KTB30
+35MF75_1  ISS1     118       1  COR 050993 1514   EN 40 59.128 S  57 56.330 E GPS                                         Void KTB30
+35MF75_1  ISS1     119       1  ROS 050993 1615   BE 40 59.972 S  57 59.977 E GPS   4910                                  CTD35 1610
+35MF75_1  ISS1     119       1  ROS 050993 1741   BO 40 59.050 S  57 58.772 E GPS   4910     75   5235                    CTD35 1610
+35MF75_1  ISS1     119       1  ROS 050993 1938   EN 40 58.934 S  57 58.631 E GPS                           12            CTD35 1610
+35MF75_1  ISS1     120       1  COR 050993 2012   BE 40 59.913 S  57 59.873 E GPS   4925                                  KTB31
+35MF75_1  ISS1     120       1  COR 050993 2144   BO 40 58.661 S  57 59.161 E GPS   4920          5030                    KTB31
+35MF75_1  ISS1     120       1  COR 050993 2341   EN 40 57.725 S  57 58.257 E GPS                           12            GC,B,G,P KTB31
+35MF75_1  ISS1     121       1  ROS 051093 0018   BE 41 00.013 S  57 59.831 E GPS   4920                                  CTD36 1620
+35MF75_1  ISS1     121       1  ROS 051093 0051   BO 40 59.752 S  57 59.048 E GPS                 1000                    CTD36 1620
+35MF75_1  ISS1     121       1  ROS 051093 0205   EN 40 59.240 S  57 57.687 E GPS                           12            M CTD36 1620
+35MF75_1  ISS1     121       2  BOT 051093 0020   BE                          GPS                                         PBH11
+35MF75_1  ISS1     121       2  BOT 051093 0102   EN                          GPS                            3            M PBH11
+35MF75_1  ISS1     122       1  COR 051093 0247   BE 41 00.055 S  57 59.780 E GPS   4925                                  KTB32
+35MF75_1  ISS1     122       1  COR 051093 0424   BO 40 59.478 S  57 57.964 E GPS   4920          5040                    KTB32
+35MF75_1  ISS1     122       1  COR 051093 0611   EN 40 58.562 S  57 56.319 E GPS                                         Void KTB32
+35MF75_1  ISS1     123       1  LVS 051093 0717   BE 41 00.053 S  57 59.875 E GPS                                         BGV10
+35MF75_1  ISS1     123       1  LVS 051093 0735   MR 40 59.880 S  57 59.549 E GPS                 1150                    BGV10
+35MF75_1  ISS1     123       1  LVS 051093 0757   EN 40 59.725 S  57 59.112 E GPS                                         BGV10
+35MF75_1  ISS1     124       1  COR 051093 0841   BE 40 58.535 S  57 58.817 E GPS   4920                                  1/4 m2 Taaf KGS13
+35MF75_1  ISS1     124       1  COR 051093 0928   MR 40 58.347 S  57 58.935 E GPS                 4838                    KGS13
+35MF75_1  ISS1     124       1  COR 051093 1002   BO 40 58.231 S  57 57.515 E GPS                 5063                    KGS13
+35MF75_1  ISS1     124       1  COR 051093 1108   EN 40 57.663 S  57 56.801 E GPS                                         Void KGS13
+35MF75_1  ISS1     125       1  ROS 051093 2034   BE 43 00.252 S  58 00.347 E GPS   4747                                  CTD37 1720
+35MF75_1  ISS1     125       1  ROS 051093 2102   BO 43 00.878 S  58 01.049 E GPS                 1000                    CTD37 1720
+35MF75_1  ISS1     125       1  ROS 051093 2205   EN 43 02.620 S  58 02.079 E GPS                           12            CTD37 1720
+35MF75_1  ISS1     126       1  BOT 051093 2040   BE 43 00.440 S  58 00.488 E GPS                                         PBH12
+35MF75_1  ISS1     126       1  BOT 051093 2110   EN                          GPS                            3            PBH12
+35MF75_1  ISS1     127       1  COR 051093 2247   BE 43 00.090 S  57 59.961 E GPS   4747                                  KGS14
+35MF75_1  ISS1     127       1  COR 051193 0010   BO 43 01.711 S  58 00.731 E GPS                 4799                    KGS14
+35MF75_1  ISS1     127       1  COR 051193 0124   EN 43 03.104 S  58 00.953 E GPS                                         Void KGS14
+35MF75_1  ISS1     128       1  ROS 051193 0740   BE 41 59.983 S  58 00.112 E GPS   4795                                  CTD38 1810
+35MF75_1  ISS1     128       1  ROS 051193 0910   BO 41 59.939 S  58 00.612 E GPS                 1008                    CTD38 1810
+35MF75_1  ISS1     128       1  ROS 051193 0945   EN 42 00.014 S  58 00.884 E GPS                           12            CTD38 1810
+35MF75_1  ISS1     129       1  BOT 051193 0910   BE 41 59.939 S  58 00.612 E GPS                   25                    PBH13
+35MF75_1  ISS1     129       1  BOT 051193 0933   EN 41 59.993 S  58 00.655 E GPS                            3            PBH13
+35MF75_1  ISS1     130       1  COR 051193 1002   BE 41 59.794 S  58 00.812 E GPS   4795                                  KTB33
+35MF75_1  ISS1     130       1  COR 051193 1131   BO 42 00.260 S  58 02.383 E GPS   4795          4870                    KTB33
+35MF75_1  ISS1     130       1  COR 051193 1317   EN 42 01.123 S  58 04.058 E GPS                            8            M,GC KTB33
+35MF75_1  ISS1     131       1  ROS 051193 1402   BE 41 59.971 S  57 59.933 E GPS   4793                                  CTD39 1820
+35MF75_1  ISS1     131       1  ROS 051193 1521   BO 41 59.980 S  58 00.368 E GPS            30   4812                    CTD39 1820
+35MF75_1  ISS1     131       1  ROS 051193 1741   EN 42 00.438 S  58 01.863 E GPS                           12            CTD39 1820
+35MF75_1  ISS1     132       1  BIO 051193 1751   BE 42 00.504 S  58 01.794 E GPS                  150                    PKS04
+35MF75_1  ISS1     132       1  BIO 051193 1825   EN 42 00.137 S  58 00.501 E GPS                                         PKS04
+35MF75_1  ISS1     133       1  COR 051193 1838   BE 42 00.015 S  58 00.274 E GPS   4795                                  KTB34
+35MF75_1  ISS1     133       1  COR 051193 2005   BO 41 59.948 S  58 01.458 E GPS   4795          4800                    KTB34
+35MF75_1  ISS1     133       1  COR 051193 2127   EN 42 00.075 S  58 02.603 E GPS                           12            G,GC,P KTB34
+35MF75_1  ISS1     134       1  LVS 051193 2204   BE 42 00.174 S  58 00.064 E GPS                                         BGV11
+35MF75_1  ISS1     134       1  LVS 051193 2211   MR 42 00.206 S  58 00.265 E GPS                                         BGV11
+35MF75_1  ISS1     134       1  LVS 051193 2214   BO 42 00.213 S  58 00.344 E GPS                                         BGV11
+35MF75_1  ISS1     135       1  ROS 051293 0559   BE 42 00.009 S  56 00.029 E GPS   4550                                  CTD40 1910
+35MF75_1  ISS1     135       1  ROS 051293 0722   BO 42 01.226 S  56 02.229 E GPS   4510     60                           CTD40 1910
+35MF75_1  ISS1     135       1  ROS 051293 0922   EN 42 02.156 S  56 04.915 E GPS   4540                    12            CTD40 1910
+35MF75_1  ISS1     136       1  LVS 051393 0121   BE 38 59.952 S  58 00.466 E GPS                                         BGV12
+35MF75_1  ISS1     136       1  LVS 051393 0123   MR 38 59.946 S  58 00.479 E GPS                   90                    BGV12
+35MF75_1  ISS1     136       1  LVS 051393 0127   EN 38 59.948 S  58 00.527 E GPS                                         BGV12
+35MF75_1  ISS1     137       1  COR 051393 0202   BE 39 00.160 S  58 00.091 E GPS   5130                                  KTB35
+35MF75_1  ISS1     137       1  COR 051393 0330   BO 39 00.537 S  58 00.547 E GPS                 5150                    KTB35
+35MF75_1  ISS1     137       1  COR 051393 0453   EN 39 00.740 S  58 01.450 E GPS                                         Void KTB35
+35MF75_1  ISS1     138       1  ROS 051393 0540   BE 39 00.101 S  57 59.985 E GPS   5115                                  CTD41 2010
+35MF75_1  ISS1     138       1  ROS 051393 0711   BO 39 00.138 S  58 01.347 E GPS   5080    125   5244                    CTD41 2010
+35MF75_1  ISS1     138       1  ROS 051393 0931   EN 38 59.951 S  58 02.895 E GPS   5080                    12            M CTD41 2010
+35MF75_1  ISS1     139       1  COR 051393 1011   BE 39 00.011 S  57 59.923 E GPS   5120                                  KTB36
+35MF75_1  ISS1     139       1  COR 051393 1141   BO 39 00.186 S  58 01.180 E GPS   5100          5200                    winch block KTB36
+35MF75_1  ISS1     139       1  COR 051393 1408   EN 39 00.332 S  58 02.425 E GPS                            1            GC not relia KTB36
+35MF75_1  ISS1     140       1  ROS 051393 1445   BE 39 00.043 S  57 59.821 E GPS   5130                                  CTD42 2020
+35MF75_1  ISS1     140       1  ROS 051393 1511   BO 38 59.987 S  58 00.150 E GPS                 1500                    CTD42 2020
+35MF75_1  ISS1     140       1  ROS 051393 1607   EN 38 59.808 S  58 00.619 E GPS                           12            M CTD42 2020
+35MF75_1  ISS1     141       1  BOT 051393 1450   BE 39 00.086 S  57 59.880 E GPS                                         PBH14
+35MF75_1  ISS1     141       1  BOT 051393 1506   EN 39 00.010 S  58 00.072 E GPS                                         M PBH14
+35MF75_1  ISS1     142       1  LVS 051393 1633   BE 39 00.028 S  58 00.040 E GPS                                         BGV13
+35MF75_1  ISS1     142       1  LVS 051393 1644   MR 38 59.916 S  58 00.241 E GPS                  550                    BGV13
+35MF75_1  ISS1     142       1  LVS 051393 1704   EN 38 59.770 S  58 00.540 E GPS                                         BGV13

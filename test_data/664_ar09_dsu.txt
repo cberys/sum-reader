@@ -1,0 +1,32 @@
+R/V AFRICANA	CRUISE  105  LEG  1        20030303WHPOSIODMB
+SHIP/CRS   WOCE               CAST         UTC EVENT         POSITION                  HT ABOVE WIRE   MAX  NO. OF
+EXPOCODE   SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV  DEPTH   BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+-------------------------------------------------------------------------------------------------------------------------------------
+91AF105    AR09      1      1  CTD 061792 1010    UN 30 26.79 S  17 19.08 E UNK    999                  -9
+91AF105    AR09      2      1  CTD 061792 1157    UN 30 26.92 S  17 14.20 E UNK      0                  -9
+91AF105    AR09      3      1  CTD 061792 1413    UN 30 26.89 S  16 56.07 E UNK    298                  -9
+91AF105    AR09      4      1  CTD 061792 1757    UN 30 26.92 S  16 34.30 E UNK    207                  -9
+91AF105    AR09      5      1  CTD 061792 2237    UN 30  2.69 S  15 40.69 E UNK    265                  -9
+91AF105    AR09      7      1  CTD 061892 1434    UN 30 23.25 S  14 40.07 E UNK    985                  -9
+91AF105    AR09      6      1  CTD 061892 1714    UN 30 25.85 S  14 52.63 E UNK    743                  -9
+91AF105    AR09      8      1  CTD 061992 0446    UN 30 27.77 S  14  2.49 E UNK  10000                  -9
+91AF105    AR09      9      1  CTD 061992 1700    UN 30  1.47 S  13  7.96 E UNK   3111                  -9
+91AF105    AR09     10      1  CTD 062092 1510    UN 29 57.21 S  12  0.44 E UNK   3926                  -9
+91AF105    AR09     11      1  CTD 062192 1125    UN 29 59.81 S  10  1.41 E UNK   4852                  -9
+91AF105    AR09     12      1  CTD 062292 0404    UN 30  0.07 S   8 50.32 E UNK   4979                  -9
+91AF105    AR09     13      1  CTD 062392 0113    UN 30  0.14 S   7 30.27 E UNK   5172                  -9
+91AF105    AR09     14      1  CTD 062392 1824    UN 30  0.33 S   5 54.33 E UNK   5128                  -9
+91AF105    AR09     15      1  CTD 062492 1225    UN 29 59.21 S   4 31.87 E UNK   4908                  -9
+91AF105    AR09     16      1  CTD 062592 0441    UN 29 47.17 S   2 52.30 E UNK   2617                  -9
+91AF105    AR09     22      1  CTD 062992 0758    UN 37 24.70 S  12 21.22 E UNK   4993                  -9
+91AF105    AR09     25      1  CTD 063092 0952    UN 36 36.64 S  13 39.98 E UNK   4835                  -9
+91AF105    AR09     27      1  CTD 070192 0638    UN 35 46.17 S  14 57.64 E UNK   4754                  -9
+91AF105    AR09     29      1  CTD 070192 1658    UN 34  5.80 S  16 12.73 E UNK      0                  -9
+91AF105    AR09     31      1  CTD 070292 0742    UN 36 43.33 S  15 53.12 E UNK   4668                  -9
+91AF105    AR09     32      1  CTD 070292 1347    UN 35 46.64 S  14 57.47 E UNK   4757                  -9
+91AF105    AR09     32      2  CTD 070292 2018    UN 35 16.31 S  14 25.49 E UNK   4700                  -9
+91AF105    AR09     33      1  CTD 070392 0016    UN 35  0.74 S  13 51.57 E UNK   4687                  -9
+91AF105    AR09     35      1  CTD 070492 0316    UN 34 15.13 S  17 21.15 E UNK      0                  -9
+
+
+

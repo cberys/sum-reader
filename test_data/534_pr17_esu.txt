@@ -1,0 +1,47 @@
+R/V  SHUMPU MARU    WHP-ID  PR17   02/25/1992 - 02/29/1992              20000816WHPOSIODMB
+SHIP/CRS    WOCE                 CAST         UTC EVENT       POSITION                BOTTOM  ABOVE METER   MAX  NO.  OF                         
+EXPOCODE    SECT  STNNBR  CASTNO TYPE DATE   TIME  CODE  LATITUDE   LONGITUDE   NAV    DEPTH BOTTOM WHEEL PRESS  BOTTLES  PARAMETERS  COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+49SU9202_4  PR17  SU4617       1  ROS 022692 1030    BE  31 10.88 N 131 30.27 E GPS                                                                     
+49SU9202_4  PR17  SU4617       1  ROS 022692 1039    BO                                  250                232        9  2,4-6               
+49SU9202_4  PR17  SU4617       1  ROS 022692 1048    EN  31 12.07 N 131 31.54 E GPS                                                                         
+49SU9202_4  PR17  SU4617       2  BOT 022692 1036                                                                                     bucket  
+49SU9202_4  PR17  SU4618       1  ROS 022692 1241    BE  31 00.16 N 131 42.27 E GPS                                                                     
+49SU9202_4  PR17  SU4618       1  ROS 022692 1304    BO                                 1420               1352        9  1,2,4-6,26            
+49SU9202_4  PR17  SU4618       1  ROS                EN                                                                                                 
+49SU9202_4  PR17  SU4618       2  ROS                BE                                                                                               
+49SU9202_4  PR17  SU4618       2  ROS 022692 1350    BO                                                               10  1,2,4-6,26          
+49SU9202_4  PR17  SU4618       2  ROS 022692 1400    EN  31 01.04 N 131 44.29 E GPS                                                                      
+49SU9202_4  PR17  SU4618       3  BOT 022692 1400        31 01.04 N 131 44.29 E GPS                                                   bucket  
+49SU9202_4  PR17   TH017       1  XBT 022692 1605    DE  30 47.75 N 131 56.80 E GPS     1880                                                             
+49SU9202_4  PR17  SU4619       1  ROS 022692 1739    BE  30 37.35 N 132 09.68 E GPS                                                                     
+49SU9202_4  PR17  SU4619       1  ROS 022692 1813    BO                                 2510               2442       10  2,4-6               
+49SU9202_4  PR17  SU4619       1  ROS                EN                                                                                                  
+49SU9202_4  PR17  SU4619       2  ROS                BE                                                                                                  
+49SU9202_4  PR17  SU4619       2  ROS 022692 1907    BO                                                               10  2,4-6               
+49SU9202_4  PR17  SU4619       2  ROS 022692 1918    EN  30 39.09 N 132 10.94 E GPS                                                                     
+49SU9202_4  PR17  SU4619       3  BOT 022692 1917                                                                                     bucket  
+49SU9202_4  PR17   TH018       1  XBT 022692 2105    DE  30 26.65 N 132 21.31 E GPS     3650                                                             
+49SU9202_4  PR17  SU4620       1  ROS 022692 2224    BE  30 17.41 N 132 33.20 E GPS                                                                     
+49SU9202_4  PR17  SU4620       1  ROS 022692 2311    BO                                 3890               3876       10  2,4-6,26            
+49SU9202_4  PR17  SU4620       1  ROS                EN                                                                                               
+49SU9202_4  PR17  SU4620       2  ROS                BE                                                                                               
+49SU9202_4  PR17  SU4620       2  ROS 022792 0031    BO                                                               10  2,4-6,26            
+49SU9202_4  PR17  SU4620       2  ROS 022792 0039    EN  30 18.45 N 132 34.17 E GPS                                                                     
+49SU9202_4  PR17  SU4620       3  BOT 022792 0039        30 18.45 N 132 34.17 E GPS                                                   bucket  
+49SU9202_4  PR17   TH019       1  XBT 022792 0230    DE  30 06.83 N 132 45.00 E GPS     3690                                                             
+49SU9202_4  PR17  SU4621       1  ROS 022792 0359    BE  29 56.76 N 132 57.25 E GPS                                                                     
+49SU9202_4  PR17  SU4621       1  ROS 022792 0445    BO                                 3800               3783       11  1,2,4-6             
+49SU9202_4  PR17  SU4621       1  ROS                EN                                                                                               
+49SU9202_4  PR17  SU4621       2  ROS                BE                                                                                               
+49SU9202_4  PR17  SU4621       2  ROS 022792 0556    BO                                                               10  1,2,4-6             
+49SU9202_4  PR17  SU4621       2  ROS 022792 0604    EN  29 57.17 N 132 57.82 E GPS                                                                     
+49SU9202_4  PR17  SU4621       3  BOT 022792 0608                                                                                     bucket  
+49SU9202_4  PR17   TH020       1  XBT 022792 0825    DE  29 43.89 N 133 14.02 E GPS     2930                                                             
+49SU9202_4  PR17  SU4622       1  ROS 022792 1008    BE  29 30.32 N 133 29.50 E GPS                                                                     
+49SU9202_4  PR17  SU4622       1  ROS 022792 1050    BO                                 2740               2637       11  2,4-6,26           
+49SU9202_4  PR17  SU4622       1  ROS                EN                                                                                               
+49SU9202_4  PR17  SU4622       2  ROS                BE                                                                                               
+49SU9202_4  PR17  SU4622       2  ROS 022792 1148    BO                                                               10  2,4-6,26            
+49SU9202_4  PR17  SU4622       2  ROS 022792 1157    EN  29 27.95 N 133 29.41 E GPS                                                                     
+49SU9202_4  PR17  SU4622       3  BOT 022792 1157        29 27.95 N 133 29.41 E GPS                                                   bucket  

@@ -1,0 +1,186 @@
+PR06   JOHN P. TULLY   CRUISE 9512   LEG 1    20011206WHPOSIODMB                                                                    
+SHIP/CRS      WOCE               CAST         UTC EVENT       POSITION               UNC   MAX  NO. OF                        
+EXPOCODE      SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH PRESS BOTTLES PARAMETERS                  COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18DD9512_1    PR06   JF03      1  USW 082395         BE 48 27.00 N 124 30.00 W  DR           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   JF04      1  USW 082395  406    BE 48 32.23 N 125  0.01 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP01      1  USW 082395  553    BE 48 34.67 N 125 30.33 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP01      2  CTD 082395  553    BE 48 34.67 N 125 30.33 W GPS   140   135                                     TIME ZONE, POSITION WRONG 
+18DD9512_1    PR06   MP01      2  CTD 082395  602    EN 48 34.67 N 125 30.30 W GPS   140   135                                     IN HEADER - NO GPS
+18DD9512_1    PR06   MP02      1  USW 082395  759    BE 48 36.04 N 126  0.00 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP02      2  CTD 082395  759    BE 48 36.04 N 126  0.00 W GPS   110   100                                     
+18DD9512_1    PR06   MP02      2  CTD 082395  804    EN 48 36.00 N 126  0.00 W GPS                                                 NO LOGGING UP CAST
+18DD9512_1    PR06   MP03      1  CTD 082395  919    BE 48 37.00 N 126 19.00 W GPS   842   830                                     NO UPCAST
+18DD9512_1    PR06   MP03      2  USW 082395 1003    BE 48 36.76 N 126 20.46 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP03      1  CTD 082395 1003    EN 48 36.76 N 126 20.46 W GPS                                                 
+18DD9512_1    PR06   MP04      1  ROS 082495 2230    BE 48 38.91 N 126 39.99 W GPS                                                 DOWNCAST
+18DD9512_1    PR06   MP04      1  ROS 082495 2256    BO 48 38.79 N 126 39.76 W GPS                                                 END OF DOWN CAST
+18DD9512_1    PR06   MP04      2  ROS 082495 2336    BE 48 38.53 N 126 39.73 W GPS  1318  1300                                     UPCAST IOS
+18DD9512_1    PR06   MP04      2  ROS 082495 2359    EN 48 38.45 N 126 39.46 W GPS                  18 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   MP04      3  USW 082595  112    BE 48 39.00 N 126 40.00 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP05      1  CTD 082595  407    BE 48 41.64 N 127  9.89 W GPS  2109                                           CTD ONLY 
+18DD9512_1    PR06   MP05      2  USW 082595  417    BE 48 41.64 N 127  9.89 W GPS           5       1 1,3,6,34,NO3+NO2            LOOPS
+18DD9512_1    PR06   MP05      3  CTD 082595  449    BO 48 41.67 N 127  9.58 W GPS                                                 UPCAST
+18DD9512_1    PR06   MP05      3  CTD 082595  522    EN 48 41.58 N 127  9.30 W GPS                                                 
+18DD9512_1    PR06   MP06      1  CTD 082595  738    BE 48 44.50 N 127 39.95 W GPS  2575  2560                                     LOOPS
+18DD9512_1    PR06   MP06      2  USW 082595  738    BE 48 44.50 N 127 39.95 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP06      1  CTD 082595  823    BO 48 44.45 N 127 40.06 W GPS                                                 
+18DD9512_1    PR06   MP06      3  CTD 082595  823    BE 48 44.45 N 127 40.06 W GPS                                                 UPCAST
+18DD9512_1    PR06   MP06      3  CTD 082595  858    EN 48 44.62 N 127 39.95 W GPS   2580 2573                                     
+18DD9512_1    PR06   MP07      1  CTD 082595 1112    BE 48 46.69 N 128  9.90 W GPS   2533                                          DOWN WITH CTD
+18DD9512_1    PR06   MP07      1  CTD 082595         BO 48 46.46 N 128 10.05 W GPS   2530 2530                                     
+18DD9512_1    PR06   MP07      2  USW 082595 1118    BE 48 46.70 N 128 10.08 W GPS           5       1 1,3,6,34,NO3+NO2            LOOPS
+18DD9512_1    PR06   MP07      3  CTD 082595         BE 48 46.36 N 128  9.83 W GPS                                                 UPCAST
+18DD9512_1    PR06   MP07      3  CTD 082595 1225    EN 48 46.36 N 128  9.83 W GPS        2536                                     ON DECK
+18DD9512_1    PR06   MP08      1  CTD 082595 1436    BE 48 50.09 N 128 39.97 W GPS   2537                                          CTD ONLY & CTD
+18DD9512_1    PR06   MP08      2  USW 082595 1436    BE 48 50.09 N 128 39.97 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP08      1  CTD 082595 1513    BO 48 50.10 N 128 39.69 W GPS                                                 
+18DD9512_1    PR06   MP08      3  CTD 082595         BE 48 50.02 N 128 37.42 W GPS                                                 
+18DD9512_1    PR06   MP08      3  CTD 082595 1549    EN 48 50.02 N 128 37.42 W GPS                                                 
+18DD9512_1    PR06   MP09      1  CTD 082595 1756    BE 48 51.26 N 129  9.03 W GPS   2376                                          CTD ONLY & LOOPS @ 1801
+18DD9512_1    PR06   MP09      2  USW 082595 1801    BE 48 51.26 N 129  9.03 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP09      1  CTD 082595 1832    BO 48 51.28 N 129 10.00 W GPS        2390                                     UPCAST
+18DD9512_1    PR06   MP09      3  CTD 082595         BE 48 51.28 N 129 10.04 W GPS                                                 
+18DD9512_1    PR06   MP09      3  CTD 082595 1904    EN 48 51.28 N 129 10.04 W GPS                                                 
+18DD9512_1    PR06   MP10      1  CTD 082595 2111    BE 48 53.53 N 129 39.71 W GPS   2680                                          
+18DD9512_1    PR06   MP10      1  CTD 082595 2156    BO 48 53.68 N 129 39.82 W GPS                                                 
+18DD9512_1    PR06   MP10      2  USW 082595 2111    BE 48 53.53 N 129 39.71 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP10      3  CTD 082595 2156    BE 48 53.67 N 129 39.82 W GPS                                                 
+18DD9512_1    PR06   MP10      3  CTD 082595 2236    EN 48 53.55 N 129 39.59 W GPS                                                 
+18DD9512_1    PR06   MP11      1  CTD 082695   50    BE 48 55.95 N 130 10.07 W GPS   2781                                          
+18DD9512_1    PR06   MP11      1  CTD 082695  128    BO 48 55.99 N 130  9.74 W GPS                                                 
+18DD9512_1    PR06   MP11      2  USW 082695   50    BE 48 55.95 N 130 10.07 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP11      3  CTD 082695  129    BE 48 55.99 N 130  9.74 W GPS                                                
+18DD9512_1    PR06   MP11      3  CTD 082695  158    EN 48 55.97 N 130  9.50 W GPS                                                 
+18DD9512_1    PR06   MP12      1  ROS 082795  204    BE 48 58.42 N 130 39.85 W GPS   3263                                          
+18DD9512_1    PR06   MP12      1  ROS 082795  248    BO 48 58.34 N 130 40.38 W GPS        3000                                     
+18DD9512_1    PR06   MP12      2  ROS 082795  252    BE 48 58.32 N 130 40.40 W GPS                                                 
+18DD9512_1    PR06   MP12      2  ROS 082795  406    EN 48 58.00 N 130 41.28 W GPS                  23 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   MP12      3  USW 082795  204    BE 48 58.42 N 130 39.85 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP12      4  CTD 082795  435    BE 48 58.30 N 130 40.15 W GPS   3263 2988                                     
+18DD9512_1    PR06   MP12      4  CTD 082795  519    BO 48 58.27 N 130 40.73 W GPS   3000                                          
+18DD9512_1    PR06   MP12      5  CTD 082795  520    BE 48 58.27 N 130 40.76 W GPS        2988                                     
+18DD9512_1    PR06   MP12      5  CTD 082795  600    EN 48 58.17 N 130 41.20 W GPS   2990                                          
+18DD9512_1    PR06   MP13      1  CTD 082795  959    BE 49  2.69 N 131 39.89 W GPS   3012 3000                                     
+18DD9512_1    PR06   MP13      1  CTD 082795         BO 49  2.69 N 131 39.89 W GPS                                                 
+18DD9512_1    PR06   MP13      2  USW 082795 1011    BE 49  2.69 N 131 39.89 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP13      3  CTD 082795 1044    BE 49  2.56 N 131 40.29 W GPS                                                 
+18DD9512_1    PR06   MP13      3  CTD 082795 1117    EN 49  2.70 N 131 40.81 W GPS                                                 
+18DD9512_1    PR06   MP14      1  CTD 082795 1520    BE 49  7.48 N 132 40.02 W GPS   3341 3000                                     
+18DD9512_1    PR06   MP14      2  USW 082795 1520    BE 49  7.48 N 132 40.02 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP14      1  CTD 082795 1609    BO 49  7.70 N 132 40.60 W GPS                                                 
+18DD9512_1    PR06   MP14      3  CTD 082795 1610    BE 49  7.73 N 132 40.61 W GPS   3360 3000                                     
+18DD9512_1    PR06   MP14      3  CTD 082795 1651    EN 49  8.15 N 132 40.70 W GPS   3365                                          
+18DD9512_1    PR06   MP15      1  CTD 082795 2043    BE 49 12.10 N 133 40.05 W GPS   3438 3000                                     
+18DD9512_1    PR06   MP15      1  CTD 082795 2134    BO 49 12.40 N 133 40.85 W GPS   3441 3005                                     
+18DD9512_1    PR06   MP15      2  USW 082795 2043    BE 49 12.10 N 133 40.05 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP15      3  CTD 082795 2134    BE 49 12.40 N 133 40.85 W GPS   3441 3005                                     
+18DD9512_1    PR06   MP15      3  CTD 082795 2211    EN 49 12.56 N 133 40.92 W GPS   3441 3000                                     
+18DD9512_1    PR06   MP16      1  ROS 082995  136    BE 49 17.06 N 134 40.30 W GPS   3657 3000                                     
+18DD9512_1    PR06   MP16      2  USW 082995  148    BE 49 17.13 N 134 40.27 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP16      1  ROS 082995  226    BO 49 17.02 N 134 40.47 W GPS        3675                                     
+18DD9512_1    PR06   MP16      3  ROS 082995  228    BE 49 17.03 N 134 40.45 W GPS        3675                                     
+18DD9512_1    PR06   MP16      3  ROS 082995  440    EN 49 16.20 N 134 41.34 W GPS                  23 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   MP16      4  CTD 082995  535    BE 49 15.40 N 134 42.07 W GPS   3664                                          
+18DD9512_1    PR06   MP16      4  CTD 082995  620    BO 49 15.08 N 134 43.49 W GPS        3000                                     
+18DD9512_1    PR06   MP16      5  CTD 082995  621    BE 49 15.08 N 134 43.55 W GPS        3000                                     
+18DD9512_1    PR06   MP16      5  CTD 082995  705    EN 49 14.86 N 134 44.72 W GPS                                                 
+18DD9512_1    PR06   MP17      1  CTD 082995 1054    BE 49 20.89 N 135 39.92 W GPS        3000                                     
+18DD9512_1    PR06   MP17      2  USW 082995 1054    BE 49 20.89 N 135 39.92 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP17      1  CTD 082995 1136    BO 49 20.63 N 135 39.83 W GPS                                                 
+18DD9512_1    PR06   MP17      3  CTD 082995 1137    BE 49 20.64 N 135 39.81 W GPS                                                 
+18DD9512_1    PR06   MP17      3  CTD 082995 1207    EN 49 20.68 N 135 39.48 W GPS                                                 
+18DD9512_1    PR06   MP18      1  CTD 082995 1630    BE 49 26.06 N 136 40.11 W GPS   3856                                          
+18DD9512_1    PR06   MP18      1  CTD 082995 1719    BO 49 25.11 N 136 39.36 W GPS        3007                                     
+18DD9512_1    PR06   MP18      2  CTD 082995 1720    BE 49 25.44 N 136 39.35 W GPS        3000                                     
+18DD9512_1    PR06   MP18      2  CTD 082995 1806    EN 49 24.97 N 136 39.36 W GPS                                                 
+18DD9512_1    PR06   MP18      3  USW 082995 1635    BE 49 25.86 N 136 40.25 W GPS   3865    5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP19      1  CTD 082995 2245    BE 49 29.96 N 137 39.92 W GPS   3953                                          
+18DD9512_1    PR06   MP19      1  CTD 082995 2324    BO 49 29.80 N 137 40.06 W GPS        3000                                     
+18DD9512_1    PR06   MP19      2  USW 082995 2245    BE 49 29.96 N 137 39.92 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP19      3  CTD 082995 2324    BE 49 29.80 N 137 40.06 W GPS                                                 
+18DD9512_1    PR06   MP19      3  CTD 082995 2353    EN 49 29.59 N 137 40.12 W GPS                                                 
+18DD9512_1    PR06   MP20      1  ROS 083195  149    BE 49 33.81 N 138 40.44 W GPS   3837                                          
+18DD9512_1    PR06   MP20      2  USW 083195  149    BE 49 33.81 N 138 40.44 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP20      1  ROS 083195  241    BO 49 33.47 N 138 41.23 W GPS        3862                                     
+18DD9512_1    PR06   MP20      3  ROS 083195  241    BE 49 33.47 N 138 41.24 W GPS                                                 
+18DD9512_1    PR06   MP20      3  ROS 083195  449    EN 49 34.12 N 138 39.95 W GPS                  21 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   NEW S     1  CTD 083195  920    BE 49 40.39 N 138 50.47 W GPS   3963                                          
+18DD9512_1    PR06   NEW S     1  CTD 083195  925    BO 49 40.40 N 138 50.54 W GPS         200                                     
+18DD9512_1    PR06   NEW S     2  CTD 083195  925    BE 49 40.40 N 138 50.54 W GPS                                                 
+18DD9512_1    PR06   NEW S     2  CTD 083195  941    EN 49 39.35 N 138 50.55 W GPS                                                 
+18DD9512_1    PR06   NEW SW    1  CTD 083195 1102    BE 49 27.05 N 138 50.40 W GPS   3992                                          
+18DD9512_1    PR06   NEW SW    1  CTD 083195 1106    BO 49 27.02 N 138 50.34 W GPS         200                                     
+18DD9512_1    PR06   NEW SW    2  CTD 083195 1106    BE 49 27.02 N 138 50.34 W GPS                                                 
+18DD9512_1    PR06   NEW SW    2  CTD 083195 1110    EN 49 27.05 N 138 50.33 W GPS                                                 
+18DD9512_1    PR06   NEW NE    1  CTD 083195 1325    BE 49 42.02 N 138 27.97 W GPS                                                 
+18DD9512_1    PR06   NEW NE    1  CTD 083195 1329    BO 49 42.02 N 138 27.98 W GPS                                                 
+18DD9512_1    PR06   NEW NE    2  CTD 083195 1329    BE 49 42.02 N 138 27.98 W GPS                                                 
+18DD9512_1    PR06   NEW NE    2  CTD 083195 1333    EN 49 42.04 N 138 27.96 W GPS                                                 
+18DD9512_1    PR06   NEW SE    1  CTD 083195 1514    BE 49 26.99 N 138 27.99 W GPS                                                 
+18DD9512_1    PR06   NEW SE    1  CTD 083195 1520    BO 49 27.04 N 138 28.07 W GPS                                                 
+18DD9512_1    PR06   NEW SE    2  CTD 083195 1521    BE 49 27.04 N 138 28.07 W GPS                                                 
+18DD9512_1    PR06   NEW SE    2  CTD 083195 1525    EN 49 27.08 N 138 28.04 W GPS                                                 
+18DD9512_1    PR06   MP21      1  CTD 090195  627    BE 49 38.05 N 139 39.95 W GPS   3980                                          
+18DD9512_1    PR06   MP21      1  CTD 090195  716    BO 49 37.67 N 139 39.43 W GPS        3000                                     
+18DD9512_1    PR06   MP21      2  CTD 090195  716    BE 49 37.67 N 139 39.43 W GPS                                                 
+18DD9512_1    PR06   MP21      2  CTD 090195  800    EN 49 37.35 N 139 39.39 W GPS                                                 
+18DD9512_1    PR06   MP21      3  USW 090195  656    BE 49 37.89 N 140 39.55 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP22      1  CTD 090195 1314    BE 49 42.13 N 140 39.78 W GPS                                                 
+18DD9512_1    PR06   MP22      1  CTD 090195 1352    BO 49 42.06 N 140 39.92 W GPS                                                 
+18DD9512_1    PR06   MP22      2  USW 090195  903    BE 49 38.75 N 139 50.33 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP22      3  CTD 090195 1354    BE 49 42.11 N 140 39.90 W GPS                                                 
+18DD9512_1    PR06   MP22      3  CTD 090195 1424    EN 49 41.66 N 140 39.99 W GPS                                                 
+18DD9512_1    PR06   MP23      1  CTD 090195 1852    BE 49 46.01 N 141 40.31 W GPS   4070                                          
+18DD9512_1    PR06   MP23      1  CTD 090195 1938    BO 49 45.70 N 141 40.55 W GPS        3000                                     
+18DD9512_1    PR06   MP23      2  USW 090195 1900    BE 49 45.98 N 141 40.43 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP23      3  CTD 090195 1938    BE 49 45.70 N 141 40.55 W GPS                                                 
+18DD9512_1    PR06   MP23      3  CTD 090195 2017    EN 49 45.43 N 141 40.44 W GPS                                                 
+18DD9512_1    PR06   MP24      1  ROS 090295  112    BE 49 50.08 N 142 40.22 W GPS   4008                                          
+18DD9512_1    PR06   MP24      2  USW 090295  112    BE 49 50.08 N 142 40.22 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP24      1  ROS 090295  202    BO 49 49.85 N 142 41.40 W GPS        3800                                     
+18DD9512_1    PR06   MP24      3  ROS 090295  203    BE 49 49.86 N 142 41.38 W GPS                                                 
+18DD9512_1    PR06   MP24      3  ROS 090295  329    EN 49 49.23 N 142 41.74 W GPS                  23 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   MP24      4  CTD 090295  404    BE 49 49.07 N 142 42.01 W GPS                                                 
+18DD9512_1    PR06   MP24      4  CTD 090295  449    BO 49 48.82 N 142 42.29 W GPS        3000                                     
+18DD9512_1    PR06   MP24      5  CTD 090295  449    BE 49 48.82 N 142 42.29 W GPS                                                 
+18DD9512_1    PR06   MP24      5  CTD 090295  533    EN 49 48.74 N 142 42.69 W GPS                                                 
+18DD9512_1    PR06   MP25      1  CTD 090295  930    BE 50  0.00 N 143 36.28 W GPS   4167                                          
+18DD9512_1    PR06   MP25      2  USW 090295  930    BE 50  0.00 N 143 36.28 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP25      1  CTD 090295 1015    BO 50  0.00 N 143 36.53 W GPS        3000                                     
+18DD9512_1    PR06   MP25      3  CTD 090295 1015    BE 50  0.00 N 143 36.53 W GPS                                                 
+18DD9512_1    PR06   MP25      3  CTD 090295 1053    EN 50  1.32 N 143 36.49 W GPS                                                 
+18DD9512_1    PR06   MP35      1  CTD 090295 1444    BE 49 59.90 N 144 18.21 W GPS                                                 
+18DD9512_1    PR06   MP35      1  CTD 090295 1524    BO 49 59.95 N 144 18.52 W GPS                                                 
+18DD9512_1    PR06   MP35      2  USW 090295 1444    BE 49 59.9  N 144 18.21 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   MP35      3  CTD 090295 1525    BE 49 59.95 N 144 18.52 W GPS                                                 
+18DD9512_1    PR06   MP35      3  CTD 090295 1603    EN 49 59.98 N 144 19.07 W GPS                                                 
+18DD9512_1    PR06   FDSTAR    1  ROS 090295 1807    BE 50  0.20 N 144 44.68 W GPS                                                 
+18DD9512_1    PR06   FDSTAR    1  ROS 090295 1824    BO 50  0.38 N 144 44.76 W GPS   4107                                          
+18DD9512_1    PR06   FDSTAR    2  ROS 090295 1825    BE 50  0.39 N 144 44.78 W GPS        1000                                     
+18DD9512_1    PR06   FDSTAR    2  ROS 090295 1941    EN 49 49.81 N 144 44.24 W GPS                                                 
+18DD9512_1    PR06   PRS1      1  ROS 090295 2257    BE 50  0.06 N 145  0.81 W GPS   4269                                          
+18DD9512_1    PR06   PRS1      1  ROS 090295 2344    BO 50  0.00 N 145  2.06 W GPS        3700                                     
+18DD9512_1    PR06   PRS1      2  USW 090295 2257    BE 50  0.06 N 145  0.81 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   PRS1      3  ROS 090295 2345    BE 50  0.19 N 145  2.16 W GPS                                                 
+18DD9512_1    PR06   PRS1      3  ROS 090395  101    EN 50  0.18 N 145  2.19 W GPS                  23 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   PRS1      4  CTD 090395  200    BE 50  0.06 N 145  0.03 W GPS                                                 
+18DD9512_1    PR06   PRS1      4  CTD 090395  234    BO 50  0.21 N 145  0.23 W GPS                                                 
+18DD9512_1    PR06   PRS1      5  CTD 090395  234    BE 50  0.21 N 145  0.23 W GPS                                                 
+18DD9512_1    PR06   PRS1      5  CTD 090395  305    EN 50  0.25 N 145  0.50 W GPS                                                 
+18DD9512_1    PR06   PRS1      6  ROS 090395  437    BE 50  0.65 N 145  0.54 W GPS   4269                                          
+18DD9512_1    PR06   PRS1      6  ROS 090395  537    BO 50  1.07 N 145  0.85 W GPS                                                 
+18DD9512_1    PR06   PRS1      7  USW 090395  512    BE 50  0.91 N 145  0.76 W GPS           5       1 1,3,6,34,NO3+NO2            
+18DD9512_1    PR06   PRS1      8  ROS 090395  539    BE 50  1.08 N 145  0.85 W GPS        3845                                     
+18DD9512_1    PR06   PRS1      8  ROS 090395  927    EN 49 59.53 N 144 58.77 W GPS                  23 1,2,3,6,13,20,23,24,NO3+NO2 
+18DD9512_1    PR06   PRS1      9  BOT 090595 1259    BE 49 59.49 N 144 59.30 W GPS         100                                     PRIMARY PRODUCTIVITY CAST
+18DD9512_1    PR06   PRS1     10  DRF 090595 1451    BE 49 59.49 N 144 59.30 W GPS                                                 P.P. DEPLOYMENT
+18DD9512_1    PR06   PRS1     10  DRF 090595 2140    RE 50  0.27 N 144 59.27 W GPS                                                 P.P. RECOVERY
+18DD9512_1    PR06   PRS1     11  ROS 090795 1325    BE 50  7.23 N 144 45.19 W GPS   4306                                          
+18DD9512_1    PR06   PRS1     11  ROS 090795 1348    BO 50  7.07 N 144 45.22 W GPS        1500                                     
+18DD9512_1    PR06   PRS1     12  ROS 090795 1348    BE 50  7.07 N 144 45.22 W GPS                                                 
+18DD9512_1    PR06   PRS1     12  ROS 090795 1424    EN 50  6.94 N 144 45.45 W GPS                  21 1,2,3,6,NO3+NO2             
+18DD9512_1    PR06   MP12      6  ROS 091295  557    BE 48 58.22 N 130 40.03 W GPS                                                 
+18DD9512_1    PR06   MP12      6  ROS 091295  613    BO 48 58.28 N 130 39.94 W GPS         200                                     
+18DD9512_1    PR06   MP12      7  ROS 091295  613    BE 48 58.28 N 130 39.94 W GPS                                                 
+18DD9512_1    PR06   MP12      7  ROS 091295  622    EN 48 58.29 N 130 39.86 W GPS                   6 1,3,6,34,NO3+NO2             

@@ -1,0 +1,13 @@
+BOSEI-MARU                                             20010918WHPOSIOAH
+SHIP/CRS     WOCE                                           POSITION              UNC   MAX
+EXPOCODE     SECT STNNBR CASTNO TYPE DATE   TIME CODE  LATITUDE  LONGITUDE  NAV DEPTH PRESS  PARAMMETER COMMENTS
+-----------------------------------------------------------------------------------------------------------------
+49EWBO9411_1 PR27     23      1  ROS 111794 0046   BE  29.999 N  147.416  E GPS  6176 5640   1-6,23,13  compliment
+49EWBO9411_1 PR27     21      1  ROS 111794 1057   BE  29.998 N  146.253  E GPS  6060 5796   1-6        compliment
+49EWBO9411_1 PR27     19      1  ROS 111894 0145   BE  30.000 N  145.083  E GPS  5902 5657   1-6,23,13  compliment
+49EWBO9411_1 PR27     17      1  ROS 111894 1011   BE  30.001 N  143.920  E GPS  5680 5818   1-6        compliment
+49EWBO9411_1 PR27     13      1  ROS 111994 0055   BE  30.000 N  141.581  E GPS  4167 4238   1-6,23,13  compliment
+49EWBO9411_1 PR27     11      1  ROS 111994 1014   BE  30.001 N  140.416  E GPS  2440 2425   1-6,23,13  compliment
+49EWBO9411_1 PR27      3      1  ROS 112094 0730   BE  29.998 N  135.749  E GPS  4310 4374   1-6,23,13  compliment
+49EWBO9411_1 PR27    a11      1  ROS 112094 2220   BE  30.997 N  134.064  E GPS  4447 4440   1-6        compliment
+49EWBO9411_1 PR27    a07      1  ROS 112194 0645   BE  31.918 N  133.568  E GPS  3000 3014   1-6        compliment

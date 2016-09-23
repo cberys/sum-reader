@@ -1,0 +1,23 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-127
+           WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+----------------------------------------------------------------------------------------------------------------------------------------------------
+33KI127_1  PRS2       1       1   ROS 061301 0016    BE 21 20.62 N 158 16.24 W GPS  1480         469  1020      16  1,2           Dual T, C sensors
+33KI127_1  PRS2       2       1   ROS 061301 1254    BE 22 44.95 N 158 00.01 W GPS  4724           3  4804      24  1,2           Dual T, C sensors
+33KI127_1  PRS2       2       2   ROS 061301 1909    BE 22 45.05 N 158 00.27 W GPS  4723        3712  1020      24  1,2           Dual T, C sensors
+33KI127_1  PRS2       2       3   ROS 061301 2123    BE 22 45.88 N 157 58.74 W GPS  4712        3701  1020      16  1             Dual T, C sensors
+33KI127_1  PRS2       2       4   ROS 061401 0007    BE 22 46.44 N 158 00.59 W GPS  4713        3702  1020      17  1             Dual T, C sensors
+33KI127_1  PRS2       2       5   ROS 061401 0255    BE 22 44.95 N 158 00.25 W GPS  4724        3713  1020      17  1             Dual T, C sensors
+33KI127_1  PRS2       2       6   ROS 061401 0555    BE 22 45.01 N 157 59.96 W GPS  4723        3712  1020      20  1,2           Dual T, C sensors
+33KI127_1  PRS2       2       7   ROS 061401 0850    BE 22 45.01 N 158 00.64 W GPS  4725        3712  1022      20  1             Dual T, C sensors
+33KI127_1  PRS2       2       8   ROS 061401 1158    BE 22 44.98 N 158 00.50 W GPS  4725        3698  1036      22  1             Dual T, C sensors
+33KI127_1  PRS2       2       9   ROS 061401 1441    BE 22 45.78 N 157 57.03 W GPS  4698        3689  1018       4  1             Dual T, C sensors
+33KI127_1  PRS2       2      10   ROS 061401 1753    BE 22 45.88 N 157 57.88 W GPS  4704        3693  1020      24  1,2           Dual T, C sensors
+33KI127_1  PRS2       2      11   ROS 061401 2051    BE 22 46.21 N 157 56.92 W GPS  4694        3681  1022      19  1             Dual T, C sensors
+33KI127_1  PRS2       2      12   ROS 061401 2355    BE 22 45.85 N 157 59.01 W GPS  4711        3700  1020      19  1             Dual T, C sensors
+33KI127_1  PRS2       2      13   ROS 061501 0246    BE 22 46.15 N 157 59.26 W GPS  4704        3693  1020      16  1             Dual T, C sensors
+33KI127_1  PRS2       2      14   ROS 061501 0553    BE 22 45.04 N 158 00.11 W GPS  4724        3711  1022      22  1             Dual T, C sensors
+33KI127_1  PRS2       2      15   ROS 061501 0854    BE 22 44.88 N 158 00.20 W GPS  4724           7  4800      22  1,2           Dual T, C sensors
+33KI127_1  PRS2       6       1   ROS 061601 0416    BE 21 50.76 N 158 21.82 W GPS  2414        1336  1088       0                Dual T, C sensors
+33KI127_1  PRS2       6       2   ROS 061601 0549    BE 21 50.86 N 158 21.91 W GPS  2475          19  2486       6  1             Dual T, C sensors
+33KI127_1  PRS2       8       1   ROS 061501 2156    BE 22 20.10 N 158 10.71 W GPS  4851        3842  1018      13  1,2           Dual T, C sensors

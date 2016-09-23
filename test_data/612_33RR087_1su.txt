@@ -1,0 +1,13 @@
+                                      Hawaiian Ocean Time-Series   Cruise HOT-87
+SHIP/CRS   WOCE                               UTC EVENT         POSITION                    HT ABOVE   MAX  NO. OF
+EXPOCODE   SECT  STNNBR  CASTNO  TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH      BOTTOM PRESS BOTTLES  PARAMETERS    COMMENTS
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+33RR087_1  PRS2       1       1   ROS 092497 1531    BE 21 20.64 N 158 16.38 W GPS  1512         499  1022       4  2             Dual T, C sensors
+33RR087_1  PRS2       2       1   ROS 092597 0449    BE 22 45.01 N 158 00.00 W GPS  4725        3712  1022      24  1,2,3,4,5,6   Dual T, C sensors
+33RR087_1  PRS2       2       2   ROS 092597 0802    BE 22 44.99 N 158 00.00 W GPS  4725        3712  1022      23  1,2,3,4,5,6   Dual T, C sensors
+33RR087_1  PRS2       2       3   ROS 092597 1107    BE 22 45.16 N 157 57.87 W GPS  4725        3712  1022      23  1             Dual T, C sensors
+33RR087_1  PRS2       2       4   ROS 092597 1359    BE 22 45.16 N 157 57.86 W GPS  4725        3712  1022      23  1             Dual T, C sensors
+33RR087_1  PRS2       2       5   ROS 092597 1800    BE 22 44.65 N 157 59.91 W GPS  4740        3719  1030      13  1             Dual T, C sensors
+33RR087_1  PRS2       2       6   ROS 092597 2049    BE 22 45.28 N 157 59.69 W GPS  4741        3726  1024      24  1,2,3,4,5,6   Dual T, C sensors
+33RR087_1  PRS2       2       7   ROS 092697 0033    BE 22 46.42 N 157 59.03 W GPS  4725          16  4792      24  1,2,3,4,5,6   Dual T, C sensors
+33RR087_1  PRS2       8       1   ROS 092697 0654    BE 22 28.93 N 158 08.86 W GPS  4830        3817  1022      14  1,2           Dual T, C sensors

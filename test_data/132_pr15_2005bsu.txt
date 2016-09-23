@@ -1,0 +1,14 @@
+PR15 R/V KA'IMIMOANA CRUISE GP805 LEG 1               20060426CCHDOSIOSA  
+SHIP/CRS       WOCE               CAST         UTC EVENT         POSITION             COR HT ABOVE WIRE    MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME  CODE LATITUDE   LONGITUDE   NAV DEPTH   BOTTOM  OUT  PRESS BOTTLES PARAMETERS COMMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+33KM200511     PR15      1      1  ROS 112705 1943    BO  8  3.40 N 165  4.10 E GPS  5222                 1006
+33KM200511     PR15      2      1  ROS 112805 0342    BO  7  0.70 N 165  3.30 E GPS  5171                 1001
+33KM200511     PR15      3      1  ROS 112805 1127    BO  6  0.00 N 165  1.30 E GPS  5008                 1002
+33KM200511     PR15      4      1  ROS 112905 0228    BO  5  1.20 N 165  0.80 E GPS  4775                 1004
+33KM200511     PR15      5      1  ROS 112905 0924    BO  4  0.00 N 164 59.70 E GPS  4492                 1002
+33KM200511     PR15      6      1  ROS 112905 1543    BO  3  0.20 N 164 58.80 E GPS  4210                 1002
+33KM200511     PR15      7      1  ROS 112905 2221    BO  2  0.60 N 164 58.40 E GPS  4170                 1003
+33KM200511     PR15      8      1  ROS 113005 0533    BO  1  0.40 N 164 59.50 E GPS  4331                 1002
+33KM200511     PR15      9      1  ROS 113005 1332    BO  0  2.50 N 164 58.80 E GPS  4404                 4101
+33KM200511     PR15     10      1  ROS 120105 1733    BO  1 59.90 S 165  0.00 E GPS  4404                 3003

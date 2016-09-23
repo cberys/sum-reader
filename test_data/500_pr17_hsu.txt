@@ -1,0 +1,59 @@
+        R/V SHUMPU MARU                                                            20010806WHPOSIOKJU        
+SHIP/CRS   WOCE                 CAST         UTC           POSITION                     UNC    MAX  NO. OF                                            
+EXPOCODE   SECT  STNNBR  CASTNO TYPE DATE   TIME CODE LATITUDE    LONGITUDE     NAV    DEPTH  PRESS   BOTTLES PARAMETER COMMENTS  
+--------------------------------------------------------------------------------------------------------------------------------------------------  
+49SU9209_2 PR17  SU4748       1  ROS 093092 1802   BE 29 29.95 N  133 30.05 E   GPS                                                                       
+49SU9209_2 PR17  SU4748       1  ROS 093092 1842   BO                                   2800   2794      11     2,4-6,26              
+49SU9209_2 PR17  SU4748       1  ROS               EN                                                                                                  
+49SU9209_2 PR17  SU4748       2  ROS               BE                                                                                    
+49SU9209_2 PR17  SU4748       2  ROS 093092 1955   BO                                                     5     2,4-6,26              
+49SU9209_2 PR17  SU4748       2  ROS               EN                                                                                                  
+49SU9209_2 PR17  SU4748       3  ROS               BE                                                                                       
+49SU9209_2 PR17  SU4748       3  ROS 093092 2048   BO                                                    10     2,4-6,26              
+49SU9209_2 PR17  SU4748       3  ROS 093092 2057   EN 29 28.96 N  133 29.19 E   GPS                                                                       
+49SU9209_2 PR17  SU4748       4  BOT 093092 2055                                                                                           bucket    
+49SU9209_2 PR17  TH113        1  XBT 093092 2310   DE 29 42.30 N  133 12.40 E   GPS     3020                                                               
+49SU9209_2 PR17  SU4749       1  ROS 100192 0119   BE 29 56.66 N  132 57.92 E   GPS                                                                       
+49SU9209_2 PR17  SU4749       1  ROS 100192 0157   BO                                   3830   3795      11     1,2,4-6               
+49SU9209_2 PR17  SU4749       1  ROS               EN                                                                                                   
+49SU9209_2 PR17  SU4749       2  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4749       2  ROS 100192 0314   BO                                                    10     1,2,4-6               
+49SU9209_2 PR17  SU4749       2  ROS 100192 0322   EN                                                                                                  
+49SU9209_2 PR17  SU4749       3  ROS               BE                                                                                                   
+49SU9209_2 PR17  SU4749       3  ROS 100192 0405   BO                                                    10     1,2,4-6               
+49SU9209_2 PR17  SU4749       3  ROS 100192 0430   EN 29 56.79 N  132 58.68 E   GPS                                                                       
+49SU9209_2 PR17  SU4749       4  BOT 100192 0310                                                                                           bucket    
+49SU9209_2 PR17  TH114        1  XBT 100192 0610   DE 30 07.12 N  132 45.13 E   GPS     3900                                                               
+49SU9209_2 PR17  SU4750       1  ROS 100192 0737   BE 30 16.64 N  132 33.36 E   GPS                                                                       
+49SU9209_2 PR17  SU4750       1  ROS 100192 0818   BO                                   3800   3817      11     2,4-6                 
+49SU9209_2 PR17  SU4750       1  ROS               EN                                                                                                  
+49SU9209_2 PR17  SU4750       2  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4750       2  ROS 100192 0943   BO                                                    10     2,4-6                 
+49SU9209_2 PR17  SU4750       2  ROS               EN                                                                                                  
+49SU9209_2 PR17  SU4750       3  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4750       3  ROS 100192 1023   BO                                                    10     2,4-6                 
+49SU9209_2 PR17  SU4750       3  ROS 100192 1031   EN 30 15.26 N  132 31.85 E   GPS                                                                       
+49SU9209_2 PR17  SU4750       4  BOT 100192 1028                                                                                           bucket    
+49SU9209_2 PR17  TH115        1  XBT 100192 1205   DE 30 26.50 N  132 21.91 E   GPS     3760                                                               
+49SU9209_2 PR17  SU4751       1  ROS 100192 1333   BE 30 36.33 N  132 09.47 E   GPS                                                                       
+49SU9209_2 PR17  SU4751       1  ROS 100192 1356   BO                                   2400   2329      11     2,4-6,26              
+49SU9209_2 PR17  SU4751       1  ROS               EN                                                                                                  
+49SU9209_2 PR17  SU4751       2  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4751       2  ROS 100192 1451   BO                                                    10     2,4-6,26              
+49SU9209_2 PR17  SU4751       2  ROS 100192 1501   EN                                                                                                  
+49SU9209_2 PR17  SU4751       3  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4751       3  ROS 100192 1529   BO                                                     3     2,4-6,26              
+49SU9209_2 PR17  SU4751       3  ROS 100192 1542   EN 30 36.27 N  132 07.49 E   GPS                                                                       
+49SU9209_2 PR17  SU4751       4  BOT 100192 1455                                                                                           bucket    
+49SU9209_2 PR17  TH116        1  XBT 100192 1710   DE 30 48.16 N  131 55.98 E   GPS     1790                                                               
+49SU9209_2 PR17  SU4752       1  ROS 100192 1840   BE 30 59.70 N  131 42.88 E   GPS                                                                       
+49SU9209_2 PR17  SU4752       1  ROS 100192 1904   BO                                   1470   1414       9     1,2,4-6               
+49SU9209_2 PR17  SU4752       1  ROS               EN                                                                                                   
+49SU9209_2 PR17  SU4752       2  ROS               BE                                                                                                  
+49SU9209_2 PR17  SU4752       2  ROS 100192 1949   BO                                                    10     1,2,4-6               
+49SU9209_2 PR17  SU4752       2  ROS 100192 1959   EN 31 01.02 N  131 42.74 E   GPS                                                                       
+49SU9209_2 PR17  SU4752       3  BOT 100192 1953                                                                                           bucket    
+49SU9209_2 PR17  SU4753       1  ROS 100192 2126   BE 31 09.92 N  131 30.33 E   GPS                                                                       
+49SU9209_2 PR17  SU4753       1  ROS 100192 2132   BO                                    275    235       9     2,4-6,26              
+49SU9209_2 PR17  SU4753       1  ROS 100192 2143   EN 31 10.78 N  131 30.38 E   GPS                                                                       
+49SU9209_2 PR17  SU4753       2  BOT 100192 2128                                                                                           bucket    

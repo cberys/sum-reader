@@ -1,0 +1,24 @@
+R/V WECOMA LEG 1 WHP-ID PRS2 20090923SIOCCHDOLIB
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR ABOVE  WIRE   MAX  NO. OF
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS      COMMENTS            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+32WC167_1      PRS2      1      1  ROS 013105 2331   BE 21 20.62 N 158 16.41 W GPS  1020       7            1022      24 1,2             Dual T, C sensors   
+32WC167_1      PRS2      2      1  ROS 020105 0947   BE 22 44.99 N 158 00.00 W GPS   700       -313         1022      24 1               Dual T, C sensors   
+32WC167_1      PRS2      2      2  ROS 020105 1329   BE 22 45.00 N 158 00.04 W GPS  4800       81           4802      24 1,2,3,4,5,6     Dual T, C sensors   
+32WC167_1      PRS2      2      3  ROS 020105 1900   BE 22 44.98 N 157 59.96 W GPS  1020       7            1022      24 1,2,3,4,5,6     Dual T, C sensors   
+32WC167_1      PRS2      2      4  ROS 020105 2129   BE 22 44.99 N 157 59.99 W GPS  1020       5            1024      20 1               Dual T, C sensors   
+32WC167_1      PRS2      2      5  ROS 020105 2359   BE 22 44.96 N 158 03.00 W GPS  1020       7            1022      11 1               Dual T, C sensors   
+32WC167_1      PRS2      2      6  ROS 020205 0302   BE 22 44.99 N 157 59.99 W GPS  1020       7            1022      17 1               Dual T, C sensors   
+32WC167_1      PRS2      2      7  ROS 020205 0558   BE 22 44.97 N 158 00.01 W GPS  1020       7            1022      22 1               Dual T, C sensors   
+32WC167_1      PRS2      2      8  ROS 020205 0901   BE 22 44.99 N 158 00.05 W GPS  1020       7            1022      20 1,2             Dual T, C sensors   
+32WC167_1      PRS2      2      9  ROS 020205 1157   BE 22 46.00 N 158 00.62 W GPS  1020       7            1022      22 1               Dual T, C sensors   
+32WC167_1      PRS2      2     10  ROS 020205 1504   BE 22 45.48 N 158 00.86 W GPS  1020       7            1022      12 1               Dual T, C sensors   
+32WC167_1      PRS2      2     11  ROS 020205 1846   BE 22 46.06 N 158 00.61 W GPS  1020       7            1022      14 1               Dual T, C sensors   
+32WC167_1      PRS2      2     12  ROS 020205 2126   BE 22 45.19 N 157 59.87 W GPS   175       -838         1022      24 1               Dual T, C sensors   
+32WC167_1      PRS2      2     13  ROS 020305 0006   BE 22 44.91 N 157 59.41 W GPS  1020       5            1024      18 1               Dual T, C sensors   
+32WC167_1      PRS2      2     14  ROS 020305 0300   BE 22 43.81 N 157 58.90 W GPS  1020       7            1022       4 1               Dual T, C sensors   
+32WC167_1      PRS2      2     15  ROS 020305 0553   BE 22 44.99 N 157 59.98 W GPS  1020       7            1022      12 1               Dual T, C sensors   
+32WC167_1      PRS2      2     16  ROS 020305 0909   BE 22 44.99 N 157 59.99 W GPS  4800       81           4802      17 1,2             Dual T, C sensors   
+32WC167_1      PRS2      6      1  ROS 020405 0728   BE 21 50.77 N 158 21.80 W GPS  2500       83           2446      13 1               Dual T, C sensors   
+32WC167_1      PRS2     50      1  ROS 020305 2027   BE 22 44.61 N 157 53.34 W GPS   200       -1            202       0 Dual            T, C sensors        
+32WC167_1      PRS2     51      1  ROS 020405 0205   BE 22 44.45 N 158 04.39 W GPS    90       -111          202       9 1               Dual T, C sensors   

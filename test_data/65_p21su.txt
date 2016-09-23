@@ -1,0 +1,958 @@
+R/V MELVILLE              WHP-ID P21E, P21W                    19981117WHPOSIOSA
+SHIP/CRS       WOCE               CAST         UTC           POSITION                UNC   COR  ABOVE WIRE   MAX  NO. OF              
+EXPOCODE       SECT STNNBR CASTNO TYPE DATE   TIME CODE LATITUDE   LONGITUDE   NAV DEPTH DEPTH BOTTOM  OUT PRESS BOTTLES PARAMETERS COMMENTS
+--------------------------------------------------------------------------------------------------------------------------
+318MWESTW_4    P21E      1      1  ROS 032894 2205   BE 16 53.25 S  74 08.00 W GPS        5979                                   
+318MWESTW_4    P21E      1      1  ROS 032894 2353   BO 16 52.83 S  74 08.67 W GPS                          5863      36 1,3-6,23   CTD10     
+318MWESTW_4    P21E      1      1  ROS 032994 0202   EN 16 52.00 S  74 08.33 W GPS                                  
+318MWESTW_4    P21E      2      1  ROS 032994 0439   BE 16 51.83 S  74 08.60 W GPS        5693                                   
+318MWESTW_4    P21E      2      1  ROS 032994 0630   BO 16 51.50 S  74 09.33 W GPS                          5762      18 1,3-8      CTD09     
+318MWESTW_4    P21E      2      1  ROS 032994 0913   EN 16 51.20 S  74 09.38 W GPS                              
+318MWESTW_4    P21E      3      1  ROS 032994 1104   BE 16 50.67 S  74 10.50 W GPS        5665                                   
+318MWESTW_4    P21E      3      1  ROS 032994 1258   BO 16 50.12 S  74 10.92 W GPS                          5403      36 1-8        CTD08     
+318MWESTW_4    P21E      3      1  ROS 032994 1535   EN 16 49.83 S  74 10.83 W GPS                              
+318MWESTW_4    P21E      4      1  ROS 033094 0553   BE 14 30.00 S  76 09.78 W GPS         134                                   
+318MWESTW_4    P21E      4      1  ROS 033094 0603   BO 14 30.00 S  76 09.78 W GPS                           118       5 1-6,9-11   CTD10     
+318MWESTW_4    P21E      4      1  ROS 033094 0623   EN 14 30.00 S  76 10.00 W GPS                                  
+318MWESTW_4    P21E      5      1  ROS 033094 0811   BE 14 37.48 S  76 14.88 W GPS         200                                   
+318MWESTW_4    P21E      5      1  ROS 033094 0829   BO 14 37.33 S  76 14.90 W GPS                           200       6 1-11       CTD10     
+318MWESTW_4    P21E      5      1  ROS 033094 0854   EN 14 37.33 S  76 14.90 W GPS                              
+318MWESTW_4    P21E      6      1  ROS 033094 1013   BE 14 45.00 S  76 19.98 W GPS        1879                                   
+318MWESTW_4    P21E      6      1  ROS 033094 1055   BO 14 44.88 S  76 19.50 W GPS                          1766      22 1-8,23     CTD10     
+318MWESTW_4    P21E      6      1  ROS 033094 1204   EN 14 44.87 S  76 19.00 W GPS                              
+318MWESTW_4    P21E      7      1  ROS 033094 1334   BE 14 52.50 S  76 24.83 W GPS        3342                                   
+318MWESTW_4    P21E      7      1  ROS 033094 1447   BO 14 52.50 S  76 24.50 W GPS                          3319      33 1-6,23     CTD10     
+318MWESTW_4    P21E      7      1  ROS 033094 1622   EN 14 52.17 S  76 24.10 W GPS                              
+318MWESTW_4    P21E      8      1  ROS 033094 1742   BE 15 00.00 S  76 30.00 W GPS        4385                                   
+318MWESTW_4    P21E      8      1  ROS 033094 1908   BO 14 54.67 S  76 30.17 W GPS                          4435      36 1-11,23    CTD10     
+318MWESTW_4    P21E      8      1  ROS 033094 2116   EN 14 58.83 S  76 31.17 W GPS                                  
+318MWESTW_4    P21E      9      1  ROS 033094 2323   BE 15 07.33 S  76 34.83 W GPS        4203                                   
+318MWESTW_4    P21E      9      1  ROS 033194 0049   BO 15 07.17 S  76 34.67 W GPS                          4249      36 1-6        CTD10     
+318MWESTW_4    P21E      9      1  ROS 033194 0310   EN 15 07.83 S  76 34.33 W GPS                              
+318MWESTW_4    P21E     10      1  ROS 033194 0457   BE 15 14.50 S  76 40.00 W GPS        3699                                   
+318MWESTW_4    P21E     10      1  ROS 033194 0616   BO 15 14.67 S  76 40.33 W GPS                          3707      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     10      1  ROS 033194 0806   EN 15 14.00 S  76 40.67 W GPS                                  
+318MWESTW_4    P21E     11      1  ROS 033194 0958   BE 15 22.40 S  76 45.08 W GPS        3135                                   
+318MWESTW_4    P21E     11      1  ROS 033194 1106   BO 15 22.47 S  76 45.23 W GPS                          3122      36 1-6        CTD10     
+318MWESTW_4    P21E     11      1  ROS 033194 1250   EN 15 22.40 S  76 45.48 W GPS                              
+318MWESTW_4    P21E     12      1  ROS 033194 1413   BE 15 30.00 S  76 49.83 W GPS        2975                                   
+318MWESTW_4    P21E     12      1  ROS 033194 1516   BO 15 30.00 S  76 50.17 W GPS                          2987      36 1-11       CTD10     
+318MWESTW_4    P21E     12      1  ROS 033194 1712   EN 15 30.00 S  76 50.17 W GPS                              
+318MWESTW_4    P21E     13      1  ROS 033194 1917   BE 15 37.33 S  76 55.00 W GPS        2927                                   
+318MWESTW_4    P21E     13      1  ROS 033194 2021   BO 15 36.50 S  76 55.33 W GPS                          2937      35 1-8,23     CTD10     
+318MWESTW_4    P21E     13      1  ROS 033194 2214   EN 15 36.33 S  76 55.50 W GPS                              
+318MWESTW_4    P21E    913      1  ROS 040194 0301   BE 15 33.67 S  76 07.00 W GPS        4740                                   
+318MWESTW_4    P21E    913      1  ROS 040194 0436   BO 15 33.83 S  76 06.50 W GPS                          4797      36 1,2,7,8,24 CTD09     
+318MWESTW_4    P21E    913      1  ROS 040194 0611   EN 15 34.00 S  76 06.00 W GPS                                 
+318MWESTW_4    P21E     14      1  ROS 040194 1049   BE 15 30.00 S  75 10.00 W GPS         737                                   
+318MWESTW_4    P21E     14      1  ROS 040194 1124   BO 15 30.00 S  75 10.00 W GPS                           756      13 1-6        CTD10     
+318MWESTW_4    P21E     14      1  ROS 040194 1200   EN 15 30.25 S  75 10.50 W GPS                              
+318MWESTW_4    P21E     15      1  ROS 040194 1305   BE 15 37.67 S  75 15.00 W GPS        1210                                   
+318MWESTW_4    P21E     15      1  ROS 040194 1337   BO 15 37.67 S  75 15.33 W GPS                          1178      18 1-8,23,24  CTD10     
+318MWESTW_4    P21E     15      1  ROS 040194 1433   EN 15 38.00 S  75 14.83 W GPS                                  
+318MWESTW_4    P21E     16      1  ROS 040194 1545   BE 15 44.83 S  75 19.83 W GPS        2280                                   
+318MWESTW_4    P21E     16      1  ROS 040194 1633   BO 15 45.17 S  75 19.33 W GPS                          2235      28 1-6        CTD10     
+318MWESTW_4    P21E     16      1  ROS 040194 1803   EN 15 45.17 S  75 19.17 W GPS                              
+318MWESTW_4    P21E     17      1  ROS 040194 1951   BE 15 52.50 S  75 24.83 W GPS        3773                                   
+318MWESTW_4    P21E     17      1  ROS 040194 2111   BO 15 53.00 S  75 24.67 W GPS                          3853      36 1-8,23     CTD10     
+318MWESTW_4    P21E     17      1  ROS 040194 2315   EN 15 53.17 S  75 25.00 W GPS                              
+318MWESTW_4    P21E     18      1  ROS 040294 0121   BE 16 00.00 S  75 30.00 W GPS        5689                                   
+318MWESTW_4    P21E     18      1  ROS 040294 0314   BO 16 00.67 S  75 26.67 W GPS                          5880      36 1-8        CTD10     
+318MWESTW_4    P21E     18      1  ROS 040294 0549   EN 16 00.88 S  75 29.50 W GPS                              
+318MWESTW_4    P21E     19      1  ROS 040294 0729   BE 16 07.50 S  75 35.50 W GPS        5231                                   
+318MWESTW_4    P21E     19      1  ROS 040294 0909   BO 16 07.67 S  75 35.33 W GPS                          5307      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     19      1  ROS 040294 1122   EN 16 07.67 S  75 35.00 W GPS                                  
+318MWESTW_4    P21E     20      1  ROS 040294 1411   BE 16 07.50 S  75 35.00 W GPS        5242                                   
+318MWESTW_4    P21E     20      1  ROS 040294 1553   BO 16 07.50 S  75 35.00 W GPS                          5323      36 1-8        CTD10     
+318MWESTW_4    P21E     20      1  ROS 040294 1821   EN 16 07.67 S  75 34.50 W GPS                              
+318MWESTW_4    P21E     21      1  ROS 040294 1959   BE 16 14.67 S  75 39.83 W GPS        4295                                   
+318MWESTW_4    P21E     21      1  ROS 040294 2126   BO 16 14.67 S  75 40.00 W GPS                          4405      35 1-8        CTD10     
+318MWESTW_4    P21E     21      1  ROS 040294 2344   EN 16 13.83 S  75 40.33 W GPS                              
+318MWESTW_4    P21E     22      1  ROS 040394 0114   BE 16 22.33 S  75 42.17 W GPS        4266                                   
+318MWESTW_4    P21E     22      1  ROS 040394 0240   BO 16 22.50 S  75 45.17 W GPS                          4321      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     22      1  ROS 040394 0456   EN 16 23.00 S  75 45.33 W GPS                                  
+318MWESTW_4    P21E     23      1  ROS 040394 0633   BE 16 29.67 S  75 50.50 W GPS        4389                                   
+318MWESTW_4    P21E     23      1  ROS 040394 0800   BO 16 29.00 S  75 51.33 W GPS                          4419      36 1-11       CTD10     
+318MWESTW_4    P21E     23      1  ROS 040394 1002   EN 16 28.67 S  75 52.00 W GPS                              
+318MWESTW_4    P21E     24      1  ROS 040394 1134   BE 16 37.33 S  75 55.00 W GPS        4252                                   
+318MWESTW_4    P21E     24      1  ROS 040394 1302   BO 16 37.50 S  75 55.50 W GPS                          4279      36 1-8        CTD10     
+318MWESTW_4    P21E     24      1  ROS 040394 1529   EN 16 38.00 S  75 55.67 W GPS                              
+318MWESTW_4    P21E     25      1  ROS 040394 1657   BE 16 44.83 S  76 00.17 W GPS        4117                                   
+318MWESTW_4    P21E     25      1  ROS 040394 1818   BO 16 44.02 S  76 00.83 W GPS                          4160      36 1-8,23     CTD10     
+318MWESTW_4    P21E     25      1  ROS 040394 2024   EN 16 44.17 S  76 01.00 W GPS                              
+318MWESTW_4    P21E     26      1  ROS 040394 0007   BE 16 45.00 S  76 40.00 W GPS        3410                                   
+318MWESTW_4    P21E     26      1  ROS 040394 0114   BO 16 44.67 S  76 40.33 W GPS                          3425      36 1-11       CTD10     
+318MWESTW_4    P21E     26      1  ROS 040394 0310   EN 16 44.67 S  76 39.83 W GPS                              
+318MWESTW_4    P21E     27      1  ROS 040494 0647   BE 16 44.83 S  77 20.17 W GPS        2917                                   
+318MWESTW_4    P21E     27      1  ROS 040494 0749   BO 16 45.00 S  77 20.17 W GPS                          2878      36 1-8        CTD10     
+318MWESTW_4    P21E     27      1  ROS 040494 0911   EN 16 45.17 S  77 20.17 W GPS                              
+318MWESTW_4    P21E     28      1  ROS 040494 1219   BE 16 44.83 S  78 00.00 W GPS        2811                                   
+318MWESTW_4    P21E     28      1  ROS 040494 1317   BO 16 44.83 S  77 59.83 W GPS                          2801      34 1-11,23,24 CTD10     
+318MWESTW_4    P21E     28      1  ROS 040494 1501   EN 16 45.00 S  78 00.00 W GPS                                  
+318MWESTW_4    P21E     29      1  ROS 040494 1814   BE 16 45.00 S  78 40.00 W GPS        3814                                   
+318MWESTW_4    P21E     29      1  ROS 040494 1931   BO 16 45.33 S  78 40.00 W GPS                          3837      36 1-8        CTD10     
+318MWESTW_4    P21E     29      1  ROS 040494 2132   EN 16 45.33 S  78 40.33 W GPS                              
+318MWESTW_4    P21E     30      1  ROS 040594 0049   BE 16 45.17 S  79 20.17 W GPS        4453                                   
+318MWESTW_4    P21E     30      1  ROS 040594 0216   BO 16 44.83 S  79 20.50 W GPS                          4510      36 1-8        CTD10     
+318MWESTW_4    P21E     30      1  ROS 040594 0429   EN 16 44.67 S  79 20.83 W GPS                              
+318MWESTW_4    P21E     31      1  ROS 040594 0749   BE 16 45.00 S  80 00.00 W GPS        4444                                   
+318MWESTW_4    P21E     31      1  ROS 040594 0914   BO 16 44.67 S  79 59.83 W GPS                          4493      36 1-11,23,24 CTD10    
+318MWESTW_4    P21E     31      1  ROS 040594 1112   EN 16 44.83 S  79 59.33 W GPS                                     
+318MWESTW_4    P21E     32      1  ROS 040594 1447   BE 16 44.83 S  80 39.83 W GPS        4706                                   
+318MWESTW_4    P21E     32      1  ROS 040594 1616   BO 16 44.50 S  80 40.17 W GPS                          4789      36 1-8        CTD10     
+318MWESTW_4    P21E     32      1  ROS 040594 1838   EN 16 44.33 S  80 40.33 W GPS                              
+318MWESTW_4    P21E     33      1  ROS 040594 2207   BE 16 45.00 S  81 20.00 W GPS        4437                                   
+318MWESTW_4    P21E     33      1  ROS 040594 2331   BO 16 44.83 S  81 20.00 W GPS                          4497      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     33      1  ROS 040694 0136   EN 16 44.83 S  81 20.00 W GPS                                  
+318MWESTW_4    P21E     34      2  ROS 040694 0722   BE 16 44.67 S  82 00.00 W GPS        4532                                   
+318MWESTW_4    P21E     34      2  ROS 040694 0846   BO 16 44.50 S  82 00.17 W GPS                          4605      36 1,2,7-9    CTD10     
+318MWESTW_4    P21E     34      2  ROS 040694 1034   EN 16 44.50 S  82 00.33 W GPS                                  
+318MWESTW_4    P21E     35      1  ROS 040694 1350   BE 16 45.00 S  82 40.00 W GPS        4714                                   
+318MWESTW_4    P21E     35      1  ROS 040694 1520   BO 16 45.00 S  82 40.17 W GPS                          4773      36 1-8,23,25  CTD10     
+318MWESTW_4    P21E     35      1  ROS 040694 1732   EN 16 45.00 S  82 40.33 W GPS                                  
+318MWESTW_4    P21E     36      1  ROS 040694 2047   BE 16 45.00 S  83 19.83 W GPS        4672                                   
+318MWESTW_4    P21E     36      1  ROS 040694 2216   BO 16 45.17 S  83 20.00 W GPS                          4768      36 1-11       CTD10     
+318MWESTW_4    P21E     36      1  ROS 040794 0020   EN 16 45.00 S  83 19.83 W GPS                              
+318MWESTW_4    P21E     37      1  ROS 040794 0338   BE 16 45.00 S  84 00.00 W GPS        4642                                   
+318MWESTW_4    P21E     37      1  ROS 040794 0512   BO 16 45.00 S  84 00.17 W GPS                          4700      35 1-8,23,24  CTD10     
+318MWESTW_4    P21E     37      1  ROS 040794 0652   EN 16 44.83 S  84 00.17 W GPS                                  
+318MWESTW_4    P21E     38      1  ROS 040794 1019   BE 16 45.17 S  84 40.17 W GPS        4602                                   
+318MWESTW_4    P21E     38      1  ROS 040794 1148   BO 16 45.17 S  84 40.00 W GPS                          4661      36 1-8        CTD10     
+318MWESTW_4    P21E     38      1  ROS 040794 1403   EN 16 45.17 S  84 40.17 W GPS                              
+318MWESTW_4    P21E     39      1  ROS 040794 1721   BE 16 45.00 S  85 19.67 W GPS        4579                                   
+318MWESTW_4    P21E     39      1  ROS 040794 1850   BO 16 45.00 S  85 20.17 W GPS                          4651      36 1-8,24,25  CTD10     
+318MWESTW_4    P21E     39      1  ROS 040794 2124   EN 16 45.00 S  85 20.33 W GPS                                  
+318MWESTW_4    P21E     40      1  ROS 040894 1812   BE 16 44.83 S  81 00.17 W GPS        4569                                   
+318MWESTW_4    P21E     40      1  ROS 040894 1942   BO 16 44.83 S  81 00.17 W GPS                          4642      36 1-8        CTD09     
+318MWESTW_4    P21E     40      1  ROS 040894 2329   EN 16 44.33 S  81 00.33 W GPS                              
+318MWESTW_4    P21E     41      1  ROS 040994 0301   BE 16 45.00 S  81 40.17 W GPS        4633                                   
+318MWESTW_4    P21E     41      1  ROS 040994 0436   BO 16 45.00 S  81 40.17 W GPS                          4714      36 1-8,23,24  CTD09     
+318MWESTW_4    P21E     41      1  ROS 040994 0702   EN 16 45.00 S  81 40.17 W GPS                                  
+318MWESTW_4    P21E     42      1  ROS 040994 1051   BE 16 45.00 S  82 20.17 W GPS        4562                                   
+318MWESTW_4    P21E     42      1  ROS 040994 1223   BO 16 45.00 S  82 20.17 W GPS                          4619      36 1-8        CTD09     
+318MWESTW_4    P21E     42      1  ROS 040994 1509   EN 16 45.17 S  82 20.17 W GPS                              
+318MWESTW_4    P21E     43      1  ROS 040994 1849   BE 16 45.00 S  82 59.83 W GPS        4630                                   
+318MWESTW_4    P21E     43      1  ROS 040994 2017   BO 16 45.00 S  83 00.00 W GPS                          4705      36 1-8        CTD09     
+318MWESTW_4    P21E     43      1  ROS 040994 2322   EN 16 45.33 S  83 00.00 W GPS                              
+318MWESTW_4    P21E     44      1  ROS 041094 0325   BE 16 45.00 S  83 40.00 W GPS        4701                                   
+318MWESTW_4    P21E     44      1  ROS 041094 0455   BO 16 45.00 S  83 40.00 W GPS                          4758      36 1-8        CTD09     
+318MWESTW_4    P21E     44      1  ROS 041094 0725   EN 16 45.00 S  83 40.00 W GPS                              
+318MWESTW_4    P21E     45      1  ROS 041094 1123   BE 16 45.17 S  84 20.17 W GPS        4869                                   
+318MWESTW_4    P21E     45      1  ROS 041094 1311   BO 16 45.00 S  84 20.33 W GPS                          4933      36 1-8,23,24  CTD09     
+318MWESTW_4    P21E     45      1  ROS 041094 1556   EN 16 45.17 S  84 20.67 W GPS                                  
+318MWESTW_4    P21E     46      1  ROS 041094 1940   BE 16 45.00 S  85 00.00 W GPS        4785                                   
+318MWESTW_4    P21E     46      1  ROS 041094 2105   BO 16 45.00 S  85 00.17 W GPS                          4438      36 1-8        CTD09     
+318MWESTW_4    P21E     46      1  ROS 041094 2346   EN 16 45.00 S  85 00.50 W GPS                              
+318MWESTW_4    P21E     47      1  ROS 041194 0324   BE 16 45.00 S  85 40.17 W GPS        4522                                   
+318MWESTW_4    P21E     47      1  ROS 041194 0451   BO 16 45.00 S  85 40.00 W GPS                          4597      36 1-8,23,24  CTD09     
+318MWESTW_4    P21E     47      1  ROS 041194 0720   EN 16 45.00 S  85 40.00 W GPS                                  
+318MWESTW_4    P21E     48      1  ROS 041194 1110   BE 16 45.17 S  86 20.00 W GPS        4500                                   
+318MWESTW_4    P21E     48      1  ROS 041194 1243   BO 16 45.00 S  86 20.17 W GPS                          4548      36 1-11       CTD09     
+318MWESTW_4    P21E     48      1  ROS 041194 1516   EN 16 45.17 S  86 20.00 W GPS                              
+318MWESTW_4    P21E     49      1  ROS 041194 1854   BE 16 45.00 S  86 59.83 W GPS        4449                                   
+318MWESTW_4    P21E     49      1  ROS 041194 2022   BO 16 45.00 S  87 00.00 W GPS                          4525      36 1-8,23,24  CTD09     
+318MWESTW_4    P21E     49      1  ROS 041194 2256   EN 16 44.50 S  87 00.17 W GPS                                  
+318MWESTW_4    P21E     50      1  ROS 041294 0229   BE 16 45.00 S  87 40.17 W GPS        4400                                   
+318MWESTW_4    P21E     50      1  ROS 041294 0353   BO 16 45.00 S  87 40.17 W GPS                          4453      36 1-8        CTD09     
+318MWESTW_4    P21E     50      1  ROS 041294 0606   EN 16 45.00 S  87 40.67 W GPS                               
+318MWESTW_4    P21E     51      1  ROS 041294 0941   BE 16 45.00 S  88 20.00 W GPS        4300                                   
+318MWESTW_4    P21E     51      1  ROS 041294 1116   BO 16 45.00 S  88 20.00 W GPS                          4343      36 1-8,24,25  CTD09     
+318MWESTW_4    P21E     51      1  ROS 041294 1407   EN 16 44.83 S  88 20.17 W GPS                                  
+318MWESTW_4    P21E     52      1  ROS 041294 1743   BE 16 45.00 S  89 00.17 W GPS        4342                                   
+318MWESTW_4    P21E     52      1  ROS 041294 1907   BO 16 45.17 S  89 00.00 W GPS                          4400      36 1-8        CTD09     
+318MWESTW_4    P21E     52      1  ROS 041294 2130   EN 16 45.17 S  89 00.17 W GPS                              
+318MWESTW_4    P21E     53      1  ROS 041394 0114   BE 16 45.17 S  89 40.00 W GPS        4503                                   
+318MWESTW_4    P21E     53      1  ROS 041394 0241   BO 16 45.33 S  89 40.00 W GPS                          4564      36 1-8,23     CTD09     
+318MWESTW_4    P21E     53      1  ROS 041394 0501   EN 16 45.33 S  89 40.00 W GPS                              
+318MWESTW_4    P21E     54      1  ROS 041394 1310   BE 16 45.00 S  88 00.00 W GPS        4508                                   
+318MWESTW_4    P21E     54      1  ROS 041394 1440   BO 16 45.00 S  88 00.00 W GPS                          4591      36 1-8        CTD10     
+318MWESTW_4    P21E     54      1  ROS 041394 1657   EN 16 45.17 S  88 00.17 W GPS                              
+318MWESTW_4    P21E     55      1  ROS 041394 2030   BE 16 45.00 S  88 39.83 W GPS        4372                                   
+318MWESTW_4    P21E     55      1  ROS 041394 2157   BO 16 45.00 S  88 40.17 W GPS                          4368      36 1-8,23     CTD10     
+318MWESTW_4    P21E     55      1  ROS 041494 0004   EN 16 45.00 S  88 40.17 W GPS                              
+318MWESTW_4    P21E     56      1  ROS 041494 0346   BE 16 45.00 S  89 20.00 W GPS        4576                                   
+318MWESTW_4    P21E     56      1  ROS 041494 0515   BO 16 45.00 S  89 20.17 W GPS                          4623      36 1-8        CTD10     
+318MWESTW_4    P21E     56      1  ROS 041494 0717   EN 16 45.00 S  89 20.17 W GPS                              
+318MWESTW_4    P21E     57      1  ROS 041494 1105   BE 16 45.17 S  90 00.00 W GPS        4322                                    
+318MWESTW_4    P21E     57      1  ROS 041494 1232   BO 16 45.17 S  90 00.00 W GPS                          4372      36 1-11,23,24 CTD10     
+318MWESTW_4    P21E     57      1  ROS 041494 1445   EN 16 45.17 S  90 00.00 W GPS                                  
+318MWESTW_4    P21E     58      1  ROS 041494 1829   BE 16 45.00 S  90 40.00 W GPS        4413                                   
+318MWESTW_4    P21E     58      1  ROS 041494 1956   BO 16 44.83 S  90 40.00 W GPS                          4476      36 1-8        CTD10     
+318MWESTW_4    P21E     58      1  ROS 041494 2202   EN 16 44.67 S  90 40.17 W GPS                              
+318MWESTW_4    P21E     59      1  ROS 041594 0146   BE 16 45.00 S  91 20.00 W GPS        4377                                   
+318MWESTW_4    P21E     59      1  ROS 041594 0311   BO 16 45.00 S  91 20.00 W GPS                          4447      36 1-8        CTD10     
+318MWESTW_4    P21E     59      1  ROS 041594 0515   EN 16 45.00 S  91 20.00 W GPS                              
+318MWESTW_4    P21E     60      1  ROS 041594 0854   BE 16 45.00 S  92 00.00 W GPS        4380                                   
+318MWESTW_4    P21E     60      1  ROS 041594 1022   BO 16 45.00 S  92 00.17 W GPS                          4437      36 1-11,23,24 CTD10     
+318MWESTW_4    P21E     60      1  ROS 041594 1220   EN 16 45.00 S  92 00.17 W GPS                                  
+318MWESTW_4    P21E     61      1  ROS 041594 1702   BE 16 45.00 S  92 40.17 W GPS        4282                                   
+318MWESTW_4    P21E     61      1  ROS 041594 1824   BO 16 44.67 S  92 40.67 W GPS                          4258      36 1-8        CTD10     
+318MWESTW_4    P21E     61      1  ROS 041594 2036   EN 16 44.33 S  92 40.50 W GPS                              
+318MWESTW_4    P21E     62      1  ROS 041694 0022   BE 16 45.00 S  93 20.00 W GPS        4282                                   
+318MWESTW_4    P21E     62      1  ROS 041694 0143   BO 16 45.00 S  93 20.17 W GPS                          4305      36 1-8        CTD10     
+318MWESTW_4    P21E     62      1  ROS 041694 0345   EN 16 45.83 S  93 19.50 W GPS                              
+318MWESTW_4    P21E     63      1  ROS 041694 0729   BE 16 45.17 S  94 00.00 W GPS        4375                                   
+318MWESTW_4    P21E     63      1  ROS 041694 0853   BO 16 44.67 S  93 59.50 W GPS                          4385      36 1-11       CTD10     
+318MWESTW_4    P21E     63      1  ROS 041694 1042   EN 16 44.00 S  93 58.50 W GPS                              
+318MWESTW_4    P21E     64      1  ROS 041694 1437   BE 16 45.00 S  94 40.17 W GPS        4042                                   
+318MWESTW_4    P21E     64      1  ROS 041694 1556   BO 16 44.50 S  94 40.00 W GPS                          4117      36 1-8,23     CTD10     
+318MWESTW_4    P21E     64      1  ROS 041694 1805   EN 16 43.50 S  94 39.33 W GPS                              
+318MWESTW_4    P21E     65      1  ROS 041694 2143   BE 16 45.00 S  95 20.00 W GPS        4103                                   
+318MWESTW_4    P21E     65      1  ROS 041694 2301   BO 16 44.17 S  95 20.17 W GPS                          4113      36 1-8        CTD10     
+318MWESTW_4    P21E     65      1  ROS 041794 0102   EN 16 43.17 S  95 19.83 W GPS                              
+318MWESTW_4    P21E     66      1  ROS 041794 0435   BE 16 45.33 S  96 00.17 W GPS        4149                                   
+318MWESTW_4    P21E     66      1  ROS 041794 0555   BO 16 45.00 S  96 00.00 W GPS                          4200      36 1-8        CTD10     
+318MWESTW_4    P21E     66      1  ROS 041794 0746   EN 16 44.33 S  95 59.33 W GPS                              
+318MWESTW_4    P21E     67      1  ROS 041794 1132   BE 16 45.00 S  96 39.83 W GPS        3880                                   
+318MWESTW_4    P21E     67      1  ROS 041794 1250   BO 16 45.00 S  96 39.33 W GPS                          3903      36 1-8,23     CTD10     
+318MWESTW_4    P21E     67      1  ROS 041794 1501   EN 16 44.83 S  96 38.83 W GPS                              
+318MWESTW_4    P21E     68      1  ROS 041794 1845   BE 16 45.00 S  97 20.00 W GPS        4247                                   
+318MWESTW_4    P21E     68      1  ROS 041794 2006   BO 16 44.67 S  97 19.67 W GPS                          4307      36 1-11       CTD10     
+318MWESTW_4    P21E     68      1  ROS 041794 2208   EN 16 43.83 S  97 19.17 W GPS                              
+318MWESTW_4    P21E     69      1  ROS 041894 0144   BE 16 45.00 S  98 00.00 W GPS        4190                                   
+318MWESTW_4    P21E     69      1  ROS 041894 0304   BO 16 44.50 S  98 00.00 W GPS                          4236      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     69      1  ROS 041894 0507   EN 16 44.00 S  97 59.83 W GPS                                  
+318MWESTW_4    P21E     70      1  ROS 041894 0844   BE 16 45.00 S  98 40.00 W GPS        4005                                   
+318MWESTW_4    P21E     70      1  ROS 041894 1003   BO 16 44.33 S  98 39.67 W GPS                          4079      36 1-8        CTD10     
+318MWESTW_4    P21E     70      1  ROS 041894 1207   EN 16 43.17 S  98 39.67 W GPS                              
+318MWESTW_4    P21E     71      1  ROS 041894 1549   BE 16 45.00 S  99 20.00 W GPS        3722                                   
+318MWESTW_4    P21E     71      1  ROS 041894 1701   BO 16 45.00 S  99 20.00 W GPS                          3763      36 1-8        CTD10     
+318MWESTW_4    P21E     71      1  ROS 041894 1907   EN 16 45.00 S  99 20.17 W GPS                              
+318MWESTW_4    P21E     72      1  ROS 041894 2252   BE 16 45.17 S 100 00.00 W GPS        3866                                   
+318MWESTW_4    P21E     72      1  ROS 041994 0005   BO 16 45.00 S 100 00.00 W GPS                          3882      36 1-8,23     CTD10     
+318MWESTW_4    P21E     72      1  ROS 041994 0156   EN 16 45.17 S 100 00.00 W GPS                              
+318MWESTW_4    P21E     73      1  ROS 041994 0539   BE 16 45.00 S 100 40.00 W GPS        3981                                   
+318MWESTW_4    P21E     73      1  ROS 041994 0655   BO 16 44.83 S 100 40.00 W GPS                          4022      36 1-8        CTD10     
+318MWESTW_4    P21E     73      1  ROS 041994 0851   EN 16 44.67 S 100 40.00 W GPS                              
+318MWESTW_4    P21E     74      1  ROS 041994 1235   BE 16 45.00 S 101 20.00 W GPS        3675                                   
+318MWESTW_4    P21E     74      1  ROS 041994 1352   BO 16 45.00 S 101 20.00 W GPS                          3710      36 1-8        CTD10     
+318MWESTW_4    P21E     74      1  ROS 041994 1553   EN 16 45.00 S 101 20.17 W GPS                              
+318MWESTW_4    P21E     75      1  ROS 041994 1925   BE 16 45.00 S 101 59.83 W GPS        3836                                   
+318MWESTW_4    P21E     75      1  ROS 041994 2042   BO 16 45.17 S 102 00.33 W GPS                          3903      36 1-11       CTD10     
+318MWESTW_4    P21E     75      1  ROS 041994 2245   EN 16 45.17 S 102 00.50 W GPS                              
+318MWESTW_4    P21E     76      1  ROS 042094 0236   BE 16 45.00 S 102 39.83 W GPS        3760                                   
+318MWESTW_4    P21E     76      1  ROS 042094 0353   BO 16 45.17 S 102 39.67 W GPS                          3754      36 1-8        CTD10     
+318MWESTW_4    P21E     76      1  ROS 042094 0550   EN 16 45.17 S 102 39.67 W GPS                              
+318MWESTW_4    P21E     77      1  ROS 042094 1042   BE 16 44.83 S 103 20.00 W GPS        3705                                   
+318MWESTW_4    P21E     77      1  ROS 042094 1124   BO 16 44.83 S 103 20.00 W GPS                          3750      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     77      1  ROS 042094 1320   EN 16 45.00 S 103 20.00 W GPS                                  
+318MWESTW_4    P21E     78      1  ROS 042094 1703   BE 16 45.00 S 104 00.00 W GPS        3867                                   
+318MWESTW_4    P21E     78      1  ROS 042094 1818   BO 16 45.00 S 104 00.00 W GPS                          3912      36 1-8        CTD10     
+318MWESTW_4    P21E     78      1  ROS 042094 2042   EN 16 45.00 S 104 00.17 W GPS                              
+318MWESTW_4    P21E     79      1  ROS 042194 0115   BE 16 45.00 S 104 40.00 W GPS        1220                                   
+318MWESTW_4    P21E     79      1  ROS 042194 0142   BO 16 44.67 S 104 40.00 W GPS                          1109      17 1-8        CTD10     
+318MWESTW_4    P21E     79      1  ROS 042194 0232   EN 16 44.50 S 104 40.33 W GPS                              
+318MWESTW_4    P21E     80      1  ROS 042194 0608   BE 16 45.00 S 105 20.00 W GPS        2964                                   
+318MWESTW_4    P21E     80      1  ROS 042194 0710   BO 16 44.83 S 105 20.00 W GPS                          3009      35 1-8,23,24  CTD10     
+318MWESTW_4    P21E     80      1  ROS 042194 0847   EN 16 44.83 S 105 20.00 W GPS                                  
+318MWESTW_4    P21E     81      1  ROS 042194 1430   BE 16 55.00 S 104 20.00 W GPS        3885                                   
+318MWESTW_4    P21E     81      1  ROS 042194 1557   BO 16 55.00 S 104 20.17 W GPS                          3926      36 1-6        CTD08     
+318MWESTW_4    P21E     81      1  ROS 042194 1841   EN 16 55.00 S 104 20.17 W GPS                              
+318MWESTW_4    P21E     82      1  ROS 042194 2037   BE 16 55.00 S 104 40.00 W GPS        3493                                   
+318MWESTW_4    P21E     82      1  ROS 042194 2146   BO 16 55.00 S 104 40.00 W GPS                          3515      36 1-8,23     CTD08     
+318MWESTW_4    P21E     82      1  ROS 042194 2337   EN 16 55.00 S 104 40.17 W GPS                              
+318MWESTW_4    P21E     83      1  ROS 042294 0131   BE 16 55.17 S 105 00.00 W GPS        3188                                   
+318MWESTW_4    P21E     83      1  ROS 042294 0230   BO 16 55.33 S 105 00.00 W GPS                          3208      36 1-6        CTD08     
+318MWESTW_4    P21E     83      1  ROS 042294 0421   EN 16 55.17 S 105 00.00 W GPS                              
+318MWESTW_4    P21E     84      1  ROS 042294 0608   BE 16 55.00 S 105 20.17 W GPS        3752                                   
+318MWESTW_4    P21E     84      1  ROS 042294 0723   BO 16 55.17 S 105 20.17 W GPS                          3754      36 1-8        CTD08     
+318MWESTW_4    P21E     84      1  ROS 042294 0918   EN 16 55.50 S 105 20.50 W GPS                              
+318MWESTW_4    P21E    980      1  ROS 042294 1058   BE 16 45.00 S 105 20.17 W GPS        3020                                   
+318MWESTW_4    P21E    980      1  ROS 042294 1211   BO 16 45.00 S 105 20.83 W GPS                          2976      36 1-6        CTD10     
+318MWESTW_4    P21E    980      1  ROS 042294 1348   EN 16 45.17 S 105 21.33 W GPS                              
+318MWESTW_4    P21E     85      1  ROS 042294 2142   BE 16 45.00 S 106 00.17 W GPS        3809                                   
+318MWESTW_4    P21E     85      1  ROS 042294 2257   BO 16 45.17 S 106 00.17 W GPS                          3843      36 1-11       CTD10     
+318MWESTW_4    P21E     85      1  ROS 042394 0050   EN 16 45.17 S 105 59.50 W GPS                              
+318MWESTW_4    P21E    985      1  ROS 042294 1725   BE 16 44.83 S 106 00.00 W GPS        3903                                   
+318MWESTW_4    P21E    985      1  ROS 042294 1840   BO 16 45.00 S 106 00.00 W GPS                          3908       2            CTD10     
+318MWESTW_4    P21E    985      1  ROS 042294 2016   EN 16 45.17 S 105 59.67 W GPS                              
+318MWESTW_4    P21E     86      1  ROS 042394 0424   BE 16 45.00 S 106 40.00 W GPS        2943                                   
+318MWESTW_4    P21E     86      1  ROS 042394 0524   BO 16 45.00 S 106 40.00 W GPS                          2976      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     86      1  ROS 042394 0709   EN 16 45.00 S 106 40.33 W GPS                                  
+318MWESTW_4    P21E     87      1  ROS 042394 1045   BE 16 44.83 S 107 20.00 W GPS        3045                                   
+318MWESTW_4    P21E     87      1  ROS 042394 1152   BO 16 45.00 S 107 20.00 W GPS                          3118      36 1-8        CTD10     
+318MWESTW_4    P21E     87      1  ROS 042394 1333   EN 16 45.00 S 107 20.17 W GPS                              
+318MWESTW_4    P21E     88      1  ROS 042394 1707   BE 16 45.17 S 108 00.17 W GPS        3680                                   
+318MWESTW_4    P21E     88      1  ROS 042394 1822   BO 16 45.00 S 108 00.00 W GPS                          3781      36 1-11,23    CTD10     
+318MWESTW_4    P21E     88      1  ROS 042394 2024   EN 16 45.17 S 108 00.17 W GPS                                  
+318MWESTW_4    P21E     89      1  ROS 042394 2352   BE 16 45.00 S 108 40.00 W GPS        3662                                   
+318MWESTW_4    P21E     89      1  ROS 042494 0105   BO 16 45.00 S 108 40.17 W GPS                          3698      36 1-8        CTD10     
+318MWESTW_4    P21E     89      1  ROS 042494 0255   EN 16 45.17 S 108 40.17 W GPS                              
+318MWESTW_4    P21E     90      1  ROS 042494 0629   BE 16 45.00 S 109 20.00 W GPS        3645                                   
+318MWESTW_4    P21E     90      1  ROS 042494 0751   BO 16 45.17 S 109 20.17 W GPS                          3680      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     90      1  ROS 042494 0944   EN 16 45.17 S 109 20.17 W GPS                                  
+318MWESTW_4    P21E     91      1  ROS 042494 1902   BE 16 45.00 S 107 40.17 W GPS        3458                                   
+318MWESTW_4    P21E     91      1  ROS 042494 2010   BO 16 45.00 S 107 40.17 W GPS                          3504      36 1-8        CTD21     
+318MWESTW_4    P21E     91      1  ROS 042494 2339   EN 16 45.00 S 107 40.00 W GPS                              
+318MWESTW_4    P21E     92      1  ROS 042594 0346   BE 16 45.00 S 108 20.00 W GPS        3814                                   
+318MWESTW_4    P21E     92      1  ROS 042594 0505   BO 16 44.83 S 108 20.17 W GPS                          3856      36 1-6        CTD21     
+318MWESTW_4    P21E     92      1  ROS 042594 0642   EN 16 44.83 S 108 19.83 W GPS                              
+318MWESTW_4    P21E     93      1  ROS 042594 1030   BE 16 45.00 S 109 00.00 W GPS        3660                                   
+318MWESTW_4    P21E     93      1  ROS 042594 1157   BO 16 45.00 S 109 00.00 W GPS                          3693      36 1-6        CTD21     
+318MWESTW_4    P21E     93      1  ROS 042594 1335   EN 16 45.00 S 109 00.00 W GPS                              
+318MWESTW_4    P21E     94      1  ROS 042594 1714   BE 16 44.83 S 109 40.00 W GPS        3612                                   
+318MWESTW_4    P21E     94      1  ROS 042594 1739   BO 16 44.83 S 109 40.00 W GPS                                    36            CTD21     
+318MWESTW_4    P21E     94      1  ROS 042594 1739   EN 16 44.83 S 109 40.00 W GPS                              
+318MWESTW_4    P21E     95      1  ROS 042594 2001   BE 16 45.00 S 109 59.83 W GPS        3600                                   
+318MWESTW_4    P21E     95      1  ROS 042594 2110   BO 16 44.83 S 110 00.00 W GPS                          3642      36 1-11,23    CTD10     
+318MWESTW_4    P21E     95      1  ROS 042594 2313   EN 16 45.00 S 110 00.17 W GPS                                  
+318MWESTW_4    P21E     96      1  ROS 042694 0246   BE 16 45.00 S 110 40.17 W GPS        3760                                   
+318MWESTW_4    P21E     96      1  ROS 042694 0400   BO 16 45.17 S 110 40.17 W GPS                          3769      36 1-8        CTD10     
+318MWESTW_4    P21E     96      1  ROS 042694 0557   EN 16 45.17 S 110 40.17 W GPS                              
+318MWESTW_4    P21E     97      1  ROS 042694 0934   BE 16 45.00 S 111 20.00 W GPS        3457                                   
+318MWESTW_4    P21E     97      1  ROS 042694 1045   BO 16 45.00 S 111 20.00 W GPS                          3484      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E     97      1  ROS 042694 1246   EN 16 45.00 S 111 20.00 W GPS                                  
+318MWESTW_4    P21E     98      1  ROS 042694 1630   BE 16 45.17 S 112 00.00 W GPS        3299                                   
+318MWESTW_4    P21E     98      1  ROS 042694 1734   BO 16 45.17 S 112 00.17 W GPS                          3311      36 1-8        CTD10     
+318MWESTW_4    P21E     98      1  ROS 042694 1926   EN 16 45.00 S 112 00.17 W GPS                              
+318MWESTW_4    P21E     99      1  ROS 042694 2258   BE 16 45.00 S 112 40.00 W GPS        3172                                   
+318MWESTW_4    P21E     99      1  ROS 042794 0001   BO 16 44.83 S 112 40.00 W GPS                          3181      36 1-8        CTD10     
+318MWESTW_4    P21E     99      1  ROS 042794 0139   EN 16 44.67 S 112 40.00 W GPS                              
+318MWESTW_4    P21E    100      1  ROS 042794 0513   BE 16 45.00 S 113 20.00 W GPS        2955                                   
+318MWESTW_4    P21E    100      1  ROS 042794 0613   BO 16 45.00 S 113 20.00 W GPS                          2934      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E    100      1  ROS 042794 0749   EN 16 45.00 S 113 20.00 W GPS                                  
+318MWESTW_4    P21E    101      1  ROS 042794 1132   BE 16 45.00 S 114 00.00 W GPS        3040                                   
+318MWESTW_4    P21E    101      1  ROS 042794 1239   BO 16 45.00 S 114 00.00 W GPS                          3057      36 1-11       CTD10     
+318MWESTW_4    P21E    101      1  ROS 042794 1450   EN 16 45.00 S 113 59.83 W GPS                              
+318MWESTW_4    P21E    102      1  ROS 042794 1935   BE 16 45.00 S 114 40.00 W GPS        3265                                   
+318MWESTW_4    P21E    102      1  ROS 042794 2040   BO 16 45.00 S 114 40.00 W GPS                          3290      36 1-8,23     CTD10     
+318MWESTW_4    P21E    102      1  ROS 042794 2236   EN 16 45.00 S 114 40.00 W GPS                              
+318MWESTW_4    P21E    103      1  ROS 042894 0204   BE 16 45.17 S 115 20.17 W GPS        3366                                   
+318MWESTW_4    P21E    103      1  ROS 042894 0310   BO 16 45.33 S 115 20.17 W GPS                          3391      36 1-8        CTD10     
+318MWESTW_4    P21E    103      1  ROS 042894 0459   EN 16 45.33 S 115 20.17 W GPS                              
+318MWESTW_4    P21E    104      1  ROS 042894 0836   BE 16 45.00 S 116 00.00 W GPS        3410                                   
+318MWESTW_4    P21E    104      1  ROS 042894 0951   BO 16 45.00 S 116 00.00 W GPS                          3435      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E    104      1  ROS 042894 1138   EN 16 45.00 S 116 00.00 W GPS                                  
+318MWESTW_4    P21E    105      1  ROS 042894 1515   BE 16 45.00 S 116 40.17 W GPS        3320                                   
+318MWESTW_4    P21E    105      1  ROS 042894 1623   BO 16 45.00 S 116 40.00 W GPS                          3363      36 1-8        CTD10     
+318MWESTW_4    P21E    105      1  ROS 042894 1821   EN 16 45.00 S 116 39.83 W GPS                              
+318MWESTW_4    P21E    106      1  ROS 042894 2156   BE 16 45.00 S 117 20.00 W GPS        3376                                   
+318MWESTW_4    P21E    106      1  ROS 042894 2303   BO 16 45.00 S 117 20.00 W GPS                          3449      36 1-8,23     CTD10     
+318MWESTW_4    P21E    106      1  ROS 042994 0051   EN 16 45.00 S 117 20.17 W GPS                              
+318MWESTW_4    P21E    107      1  ROS 042994 0424   BE 16 45.00 S 118 00.00 W GPS        3548                                   
+318MWESTW_4    P21E    107      1  ROS 042994 0531   BO 16 45.00 S 118 00.00 W GPS                          3585      36 1-11       CTD10     
+318MWESTW_4    P21E    107      1  ROS 042994 0729   EN 16 45.00 S 118 00.00 W GPS                              
+318MWESTW_4    P21E    108      1  ROS 042994 1102   BE 16 45.00 S 118 40.00 W GPS        3550                                   
+318MWESTW_4    P21E    108      1  ROS 042994 1214   BO 16 45.00 S 118 40.00 W GPS                          3583      36 1-8,23,24  CTD10     
+318MWESTW_4    P21E    108      1  ROS 042994 1413   EN 16 45.17 S 118 40.00 W GPS                                  
+318MWESTW_4    P21E    109      1  ROS 042994 1754   BE 16 45.00 S 119 20.00 W GPS        3534                                   
+318MWESTW_4    P21E    109      1  ROS 042994 1907   BO 16 45.17 S 119 20.00 W GPS                          3590      36 1-8        CTD10     
+318MWESTW_4    P21E    109      1  ROS 042994 2105   EN 16 45.33 S 119 20.17 W GPS                              
+318MWESTW_4    P21E    110      1  ROS 043094 0041   BE 16 45.00 S 120 00.00 W GPS        3752                                   
+318MWESTW_4    P21E    110      1  ROS 043094 0153   BO 16 45.00 S 120 00.00 W GPS                          3790      36 1-8        CTD10     
+318MWESTW_4    P21E    110      1  ROS 043094 0345   EN 16 45.00 S 120 00.17 W GPS                              
+318MWESTW_4    P21E    111      1  ROS 043094 0725   BE 16 45.00 S 120 40.00 W GPS        3495                                   
+318MWESTW_4    P21E    111      1  ROS 043094 0840   BO 16 45.00 S 120 40.00 W GPS                          3522      36            CTD10     
+318MWESTW_4    P21E    111      1  ROS 043094 1029   EN 16 45.00 S 120 40.00 W GPS                              
+318MWESTW_4    P21E    112      1  ROS 043094 1643   BE 16 45.00 S 121 20.00 W GPS        3613                                   
+318MWESTW_4    P21E    112      1  ROS 043094 1753   BO 16 45.00 S 121 20.00 W GPS                          3660      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    112      1  ROS 043094 1928   EN 16 45.00 S 121 20.17 W GPS                                  
+318MWESTW_4    P21E    113      1  ROS 043094 2302   BE 16 45.00 S 122 00.00 W GPS        3173                                   
+318MWESTW_4    P21E    113      1  ROS 043194 0009   BO 16 45.00 S 122 00.00 W GPS                          3282      24 1-11,23    CTD09     
+318MWESTW_4    P21E    113      1  ROS 043194 0138   EN 16 45.17 S 122 00.17 W GPS                                  
+318MWESTW_4    P21E    114      1  ROS 050194 0510   BE 16 45.00 S 122 40.00 W GPS        3670                                   
+318MWESTW_4    P21E    114      1  ROS 050194 0631   BO 16 45.00 S 122 40.00 W GPS                          3703      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    114      1  ROS 050194 0811   EN 16 44.83 S 122 40.00 W GPS                                  
+318MWESTW_4    P21E    115      1  ROS 050194 1146   BE 16 45.00 S 123 20.17 W GPS        3650                                   
+318MWESTW_4    P21E    115      1  ROS 050194 1300   BO 16 45.00 S 123 20.00 W GPS                          3681      24 1-8        CTD09     
+318MWESTW_4    P21E    115      1  ROS 050194 1441   EN 16 45.00 S 123 20.00 W GPS                              
+318MWESTW_4    P21E    116      1  ROS 050194 1820   BE 16 45.00 S 124 00.00 W GPS        3660                                   
+318MWESTW_4    P21E    116      1  ROS 050194 1930   BO 16 45.00 S 124 00.00 W GPS                          3696      24 1-8,23     CTD09     
+318MWESTW_4    P21E    116      1  ROS 050194 2115   EN 16 45.00 S 124 00.00 W GPS                              
+318MWESTW_4    P21E    117      1  ROS 050294 0049   BE 16 45.00 S 124 40.00 W GPS        3787                                   
+318MWESTW_4    P21E    117      1  ROS 050294 0205   BO 16 45.00 S 124 40.00 W GPS                          3823      23 1-8        CTD09     
+318MWESTW_4    P21E    117      1  ROS 050294 0343   EN 16 45.00 S 124 40.17 W GPS                              
+318MWESTW_4    P21E    118      1  ROS 050294 0718   BE 16 45.00 S 125 20.00 W GPS        3802                                   
+318MWESTW_4    P21E    118      1  ROS 050294 0833   BO 16 45.00 S 125 20.00 W GPS                          3845      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    118      1  ROS 050294 1010   EN 16 45.00 S 125 20.00 W GPS                                  
+318MWESTW_4    P21E    119      1  ROS 050294 1345   BE 16 45.00 S 126 00.17 W GPS        3730           
+318MWESTW_4    P21E    119      1  ROS 050294 1502   BO 16 45.00 S 126 00.00 W GPS                          3759      24 1-11       CTD09     
+318MWESTW_4    P21E    119      1  ROS 050294 1644   EN 16 45.00 S 126 00.00 W GPS                              
+318MWESTW_4    P21E    120      1  ROS 050294 2015   BE 16 45.00 S 126 40.00 W GPS        3809                                   
+318MWESTW_4    P21E    120      1  ROS 050294 2130   BO 16 45.00 S 126 40.17 W GPS                          3859      24 1-8,23     CTD09     
+318MWESTW_4    P21E    120      1  ROS 050294 2316   EN 16 45.00 S 126 40.17 W GPS                              
+318MWESTW_4    P21E    121      1  ROS 050394 0257   BE 16 45.00 S 127 20.17 W GPS        4001                                   
+318MWESTW_4    P21E    121      1  ROS 050394 0417   BO 16 45.00 S 127 20.17 W GPS                          4051      24 1-8        CTD09     
+318MWESTW_4    P21E    121      1  ROS 050394 0556   EN 16 45.00 S 127 20.17 W GPS                              
+318MWESTW_4    P21E    122      1  ROS 050394 0927   BE 16 45.00 S 128 00.00 W GPS        3840                                   
+318MWESTW_4    P21E    122      1  ROS 050394 1044   BO 16 45.00 S 127 59.83 W GPS                          3885      24 1-11       CTD09     
+318MWESTW_4    P21E    122      1  ROS 050394 1218   EN 16 45.17 S 127 59.83 W GPS                              
+318MWESTW_4    P21E    123      1  ROS 050394 1607   BE 16 45.00 S 128 40.00 W GPS        3945                                   
+318MWESTW_4    P21E    123      1  ROS 050394 1722   BO 16 45.00 S 128 40.00 W GPS                          3992      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    123      1  ROS 050394 1906   EN 16 45.00 S 128 40.00 W GPS                                  
+318MWESTW_4    P21E    124      1  ROS 050394 2239   BE 16 45.00 S 129 19.83 W GPS        4059                                   
+318MWESTW_4    P21E    124      1  ROS 050394 2357   BO 16 45.00 S 129 20.00 W GPS                          4119      24 1-8        CTD09     
+318MWESTW_4    P21E    124      1  ROS 050494 0130   EN 16 45.00 S 129 20.00 W GPS                              
+318MWESTW_4    P21E    125      1  ROS 050494 0501   BE 16 45.00 S 130 00.00 W GPS        4096                                   
+318MWESTW_4    P21E    125      1  ROS 050494 0623   BO 16 45.00 S 130 00.00 W GPS                          4160      24 1-11,23,24 CTD09     
+318MWESTW_4    P21E    125      1  ROS 050494 0803   EN 16 45.00 S 130 00.00 W GPS                                  
+318MWESTW_4    P21E    126      1  ROS 050494 1136   BE 16 45.00 S 130 40.00 W GPS        4080                                   
+318MWESTW_4    P21E    126      1  ROS 050494 1259   BO 16 45.00 S 130 40.00 W GPS                          4144      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    126      1  ROS 050494 1443   EN 16 45.00 S 130 40.00 W GPS                                  
+318MWESTW_4    P21E    127      1  ROS 050494 1824   BE 16 45.00 S 131 20.00 W GPS        3956                                   
+318MWESTW_4    P21E    127      1  ROS 050494 1942   BO 16 45.00 S 131 20.00 W GPS                          4004      24 1-8        CTD09     
+318MWESTW_4    P21E    127      1  ROS 050494 2125   EN 16 45.00 S 131 20.00 W GPS                              
+318MWESTW_4    P21E    128      1  ROS 050594 0056   BE 16 45.00 S 132 00.00 W GPS        4310                                   
+318MWESTW_4    P21E    128      1  ROS 050594 0221   BO 16 45.00 S 132 00.00 W GPS                          4394      24 1-8,23     CTD09     
+318MWESTW_4    P21E    128      1  ROS 050594 0356   EN 16 45.00 S 131 59.83 W GPS                              
+318MWESTW_4    P21E    129      1  ROS 050594 0736   BE 16 45.00 S 132 40.00 W GPS        3925                                   
+318MWESTW_4    P21E    129      1  ROS 050594 0859   BO 16 45.00 S 132 40.00 W GPS                          3981      24 1-8        CTD09     
+318MWESTW_4    P21E    129      1  ROS 050594 1037   EN 16 45.17 S 132 40.00 W GPS                              
+318MWESTW_4    P21E    130      1  ROS 050594 1422   BE 16 45.00 S 133 20.17 W GPS        4390                                   
+318MWESTW_4    P21E    130      1  ROS 050594 1552   BO 16 45.00 S 133 20.00 W GPS                          4456      24 1-8        CTD09     
+318MWESTW_4    P21E    130      1  ROS 050594 1747   EN 16 45.00 S 133 20.00 W GPS                              
+318MWESTW_4    P21E    131      1  ROS 050594 2130   BE 16 45.00 S 134 00.00 W GPS        4293                                   
+318MWESTW_4    P21E    131      1  ROS 050594 2252   BO 16 45.00 S 134 00.00 W GPS                          4325      24 1-11,23    CTD09     
+318MWESTW_4    P21E    131      1  ROS 050694 0038   EN 16 44.83 S 134 00.17 W GPS                                  
+318MWESTW_4    P21E    132      1  ROS 050694 0406   BE 16 45.00 S 134 40.00 W GPS        4442                                   
+318MWESTW_4    P21E    132      1  ROS 050694 0532   BO 16 45.00 S 134 40.00 W GPS                          4514      24 1-8,23     CTD09     
+318MWESTW_4    P21E    132      1  ROS 050694 0717   EN 16 45.17 S 134 40.00 W GPS                              
+318MWESTW_4    P21E    133      1  ROS 050694 1050   BE 16 45.00 S 135 20.00 W GPS        4260                                   
+318MWESTW_4    P21E    133      1  ROS 050694 1216   BO 16 45.00 S 135 20.00 W GPS                          4321      24 1-8        CTD09     
+318MWESTW_4    P21E    133      1  ROS 050694 1357   EN 16 45.00 S 135 20.00 W GPS                              
+318MWESTW_4    P21E    134      1  ROS 050694 1733   BE 16 45.17 S 136 00.50 W GPS        4485                                   
+318MWESTW_4    P21E    134      1  ROS 050694 1859   BO 16 45.00 S 136 00.00 W GPS                          4574      24 1-8,23     CTD09     
+318MWESTW_4    P21E    134      1  ROS 050694 2043   EN 16 45.00 S 136 00.00 W GPS                              
+318MWESTW_4    P21E    135      1  ROS 050794 0024   BE 16 45.00 S 136 40.00 W GPS        4301                                   
+318MWESTW_4    P21E    135      1  ROS 050794 0145   BO 16 45.00 S 136 40.17 W GPS                          4359      24 1-8,23     CTD09     
+318MWESTW_4    P21E    135      1  ROS 050794 0323   EN 16 45.00 S 136 40.17 W GPS                              
+318MWESTW_4    P21E    136      1  ROS 050794 0658   BE 16 45.00 S 137 20.00 W GPS        3702                                   
+318MWESTW_4    P21E    136      1  ROS 050794 0809   BO 16 45.00 S 137 20.00 W GPS                          3733      24 1-8        CTD09     
+318MWESTW_4    P21E    136      1  ROS 050794 0938   EN 16 45.00 S 137 20.00 W GPS                              
+318MWESTW_4    P21E    137      1  ROS 050794 1315   BE 16 45.17 S 138 00.00 W GPS        3550                                   
+318MWESTW_4    P21E    137      1  ROS 050794 1428   BO 16 45.00 S 138 00.00 W GPS                          3589      24 1-11,23,24 CTD09     
+318MWESTW_4    P21E    137      1  ROS 050794 1556   EN 16 45.00 S 138 00.00 W GPS                                  
+318MWESTW_4    P21E    138      1  ROS 050794 1936   BE 16 45.00 S 138 40.00 W GPS        2987                                         
+318MWESTW_4    P21E    138      1  ROS 050794 2035   BO 16 45.00 S 138 40.00 W GPS                          3001      24 1-8        CTD09     
+318MWESTW_4    P21E    138      1  ROS 050794 2206   EN 16 45.00 S 138 40.00 W GPS                              
+318MWESTW_4    P21E    139      1  ROS 050894 0133   BE 16 45.00 S 139 20.00 W GPS        2224                                   
+318MWESTW_4    P21E    139      1  ROS 050894 0220   BO 16 45.00 S 139 20.00 W GPS                          2231      24 1-8,23     CTD09     
+318MWESTW_4    P21E    139      1  ROS 050894 0327   EN 16 44.83 S 139 20.17 W GPS                              
+318MWESTW_4    P21E    140      1  ROS 050894 0942   BE 16 45.00 S 140 00.00 W GPS        2595                                   
+318MWESTW_4    P21E    140      1  ROS 050894 1037   BO 16 45.00 S 140 00.00 W GPS                          2605      24 1-8        CTD09     
+318MWESTW_4    P21E    140      1  ROS 050894 1153   EN 16 45.00 S 140 00.00 W GPS                              
+318MWESTW_4    P21E    141      1  ROS 050894 1536   BE 16 45.00 S 140 40.00 W GPS        3280                                   
+318MWESTW_4    P21E    141      1  ROS 050894 1644   BO 16 45.00 S 140 40.00 W GPS                          3309      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    141      1  ROS 050894 1819   EN 16 45.00 S 140 40.00 W GPS                                  
+318MWESTW_4    P21E    142      1  ROS 050894 2200   BE 16 45.00 S 141 20.00 W GPS        3206                                   
+318MWESTW_4    P21E    142      1  ROS 050894 2305   BO 16 45.00 S 141 20.00 W GPS                          3227      24 1-11,23    CTD09     
+318MWESTW_4    P21E    142      1  ROS 050994 0034   EN 16 45.00 S 141 20.17 W GPS                                  
+318MWESTW_4    P21E    143      1  ROS 050994 0446   BE 16 44.83 S 142 00.00 W GPS        1942                                   
+318MWESTW_4    P21E    143      1  ROS 050994 0530   BO 16 44.83 S 142 00.00 W GPS                          1974      24 1-8        CTD09     
+318MWESTW_4    P21E    143      1  ROS 050994 0642   EN 16 45.00 S 142 00.00 W GPS                              
+318MWESTW_4    P21E    144      1  ROS 050994 1102   BE 16 44.83 S 142 40.00 W GPS        1950                                   
+318MWESTW_4    P21E    144      1  ROS 050994 1148   BO 16 45.00 S 142 40.00 W GPS                          1934      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    144      1  ROS 050994 1256   EN 16 45.00 S 142 40.00 W GPS                                  
+318MWESTW_4    P21E    145      1  ROS 050994 1449   BE 17 00.00 S 142 50.00 W GPS        1470                                         
+318MWESTW_4    P21E    145      1  ROS 050994 1530   BO 17 00.00 S 142 50.00 W GPS                          1456      21 1-6        CTD09     
+318MWESTW_4    P21E    145      1  ROS 050994 1627   EN 17 00.00 S 142 50.00 W GPS                              
+318MWESTW_4    P21E    146      1  ROS 050994 1814   BE 17 15.00 S 143 00.00 W GPS        1531                                   
+318MWESTW_4    P21E    146      1  ROS 050994 1850   BO 17 15.00 S 143 00.00 W GPS                          1537      21 1-8        CTD09     
+318MWESTW_4    P21E    146      1  ROS 050994 1952   EN 17 14.83 S 143 00.00 W GPS                              
+318MWESTW_4    P21E    147      1  ROS 050994 2148   BE 17 29.83 S 143 10.00 W GPS        3356                                   
+318MWESTW_4    P21E    147      1  ROS 050994 2251   BO 17 29.83 S 143 10.00 W GPS                          3387      24 1-6        CTD09     
+318MWESTW_4    P21E    147      1  ROS 051094 0023   EN 17 30.00 S 143 10.00 W GPS                              
+318MWESTW_4    P21E    148      1  ROS 051094 0400   BE 17 30.00 S 143 50.00 W GPS        3503                                   
+318MWESTW_4    P21E    148      1  ROS 051094 0512   BO 17 30.00 S 143 50.00 W GPS                          3519      24 1-8,23     CTD09     
+318MWESTW_4    P21E    148      1  ROS 051094 0647   EN 17 29.83 S 143 50.00 W GPS                              
+318MWESTW_4    P21E    149      1  ROS 051094 1022   BE 17 30.00 S 144 30.17 W GPS        4030                                   
+318MWESTW_4    P21E    149      1  ROS 051094 1149   BO 17 30.00 S 144 30.00 W GPS                          4089      24 1-8        CTD09     
+318MWESTW_4    P21E    149      1  ROS 051094 1330   EN 17 30.00 S 144 30.17 W GPS                              
+318MWESTW_4    P21E    150      1  ROS 051094 1705   BE 17 30.17 S 145 10.17 W GPS        3140                                   
+318MWESTW_4    P21E    150      1  ROS 051094 1813   BO 17 30.17 S 145 10.17 W GPS                          3201      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    150      1  ROS 051094 1943   EN 17 30.17 S 145 10.17 W GPS                                  
+318MWESTW_4    P21E    151      1  ROS 051094 2144   BE 17 30.00 S 145 30.00 W GPS        1550                                   
+318MWESTW_4    P21E    151      1  ROS 051094 2223   BO 17 30.17 S 145 30.17 W GPS                          1611      22 1-6,9-11   CTD09     
+318MWESTW_4    P21E    151      1  ROS 051094 2325   EN 17 30.00 S 145 30.00 W GPS                                  
+318MWESTW_4    P21E    152      1  ROS 051194 0125   BE 17 30.00 S 145 50.00 W GPS        4155                                   
+318MWESTW_4    P21E    152      1  ROS 051194 0246   BO 17 30.00 S 145 50.00 W GPS                          4234      24 1-8,23     CTD09     
+318MWESTW_4    P21E    152      1  ROS 051194 0425   EN 17 30.17 S 145 50.17 W GPS                              
+318MWESTW_4    P21E    153      1  ROS 051194 0801   BE 17 30.00 S 146 30.00 W GPS        4108                                   
+318MWESTW_4    P21E    153      1  ROS 051194 0921   BO 17 30.00 S 146 30.00 W GPS                          4155      24 1-8        CTD09     
+318MWESTW_4    P21E    153      1  ROS 051194 1058   EN 17 30.00 S 146 30.00 W GPS                              
+318MWESTW_4    P21E    154      1  ROS 051194 1436   BE 17 30.00 S 147 10.17 W GPS        4040                                   
+318MWESTW_4    P21E    154      1  ROS 051194 1559   BO 17 30.00 S 147 10.00 W GPS                          4040      24 1-11       CTD09     
+318MWESTW_4    P21E    154      1  ROS 051194 1746   EN 17 30.33 S 147 10.00 W GPS                              
+318MWESTW_4    P21E    155      1  ROS 051194 2137   BE 17 30.00 S 147 50.00 W GPS        3918                                   
+318MWESTW_4    P21E    155      1  ROS 051194 2251   BO 17 30.00 S 147 50.00 W GPS                          3934      24 1-8,23,24  CTD09     
+318MWESTW_4    P21E    155      1  ROS 051294 0037   EN 17 30.00 S 147 50.17 W GPS                                  
+318MWESTW_4    P21E    156      1  ROS 051294 0751   BE 17 30.00 S 149 20.00 W GPS         969                                   
+318MWESTW_4    P21E    156      1  ROS 051294 0820   BO 17 30.00 S 149 20.17 W GPS                           942      17 1-8        CTD09     
+318MWESTW_4    P21E    156      1  ROS 051294 0908   EN 17 29.83 S 149 20.17 W GPS                              
+318MWESTW_4    P21E    157      1  ROS 051294 1009   BE 17 30.00 S 149 10.33 W GPS        2661                                         
+318MWESTW_4    P21E    157      1  ROS 051294 1108   BO 17 30.00 S 149 10.00 W GPS                          2694      24 1-6,23,24  CTD09     
+318MWESTW_4    P21E    157      1  ROS 051294 1235   EN 17 30.00 S 149 10.00 W GPS                                  
+318MWESTW_4    P21E    158      1  ROS 051294 1340   BE 17 30.00 S 148 59.83 W GPS        3145                                   
+318MWESTW_4    P21E    158      1  ROS 051294 1443   BO 17 30.17 S 149 00.00 W GPS                          3166      24 1-11       CTD09     
+318MWESTW_4    P21E    158      1  ROS 051294 1605   EN 17 30.00 S 149 00.00 W GPS                              
+318MWESTW_4    P21E    159      1  ROS 051294 1752   BE 17 30.17 S 148 50.00 W GPS        2850                                   
+318MWESTW_4    P21E    159      1  ROS 051294 1850   BO 17 30.17 S 148 50.00 W GPS                          2930      24 1-6        CTD09     
+318MWESTW_4    P21E    159      1  ROS 051294 2015   EN 17 30.17 S 148 50.00 W GPS                              
+318MWESTW_4    P21E    160      1  ROS 051294 2209   BE 17 30.00 S 148 30.17 W GPS        3870                                   
+318MWESTW_4    P21E    160      1  ROS 051294 2323   BO 17 30.00 S 148 29.83 W GPS                          3937      24 1-8,23     CTD09     
+318MWESTW_4    P21E    160      1  ROS 051394 0112   EN 17 30.00 S 148 29.83 W GPS                              
+318MWESTW_4    P21E    161      1  ROS 051394 0448   BE 17 30.00 S 147 50.00 W GPS        3913                                   
+318MWESTW_4    P21E    161      1  ROS 051394 0615   BO 17 30.00 S 147 50.00 W GPS                          3949      24 1-8        CTD08     
+318MWESTW_4    P21E    161      1  ROS 051394 0753   EN 17 29.83 S 147 49.83 W GPS                              
+318MWESTW_5    P21W    162      1  ROS 052094 1200   BE 17 30.00 S 147 50.00 W GPS        3893                                   
+318MWESTW_5    P21W    162      1  ROS 052094 1332   BO 17 29.83 S 147 49.83 W GPS                          3919      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    162      1  ROS 052094 1513   EN 17 29.83 S 147 49.83 W GPS                                  
+318MWESTW_5    P21W    163      1  ROS 052094 1758   BE 17 30.00 S 147 49.83 W GPS        3916                                   
+318MWESTW_5    P21W    163      1  ROS 052094 1924   BO 17 30.00 S 147 49.83 W GPS                          3908      36 1-8        CTD08, test station, samples collected, ctd data not processed 
+318MWESTW_5    P21W    163      1  ROS 052094 1924   EN 17 30.00 S 147 49.83 W GPS                              
+318MWESTW_5    P21W    164      1  ROS 052194 0810   BE 17 30.17 S 149 57.33 W GPS        1508                                   
+318MWESTW_5    P21W    164      1  ROS 052194 0853   BO 17 30.17 S 149 57.50 W GPS                          1527      21 1-8,23,24  CTD09     
+318MWESTW_5    P21W    164      1  ROS 052194 1001   EN 17 30.25 S 149 57.50 W GPS                                  
+318MWESTW_5    P21W    165      1  ROS 052194 1133   BE 17 29.83 S 150 05.17 W GPS        3099                                   
+318MWESTW_5    P21W    165      1  ROS 052194 1244   BO 17 30.00 S 150 05.17 W GPS                          3127      36 1-8        CTD09     
+318MWESTW_5    P21W    165      1  ROS 052194 1435   EN 17 30.00 S 150 05.67 W GPS                              
+318MWESTW_5    P21W    166      1  ROS 052194 1651   BE 17 30.00 S 150 20.00 W GPS        3726                                   
+318MWESTW_5    P21W    166      1  ROS 052194 1807   BO 17 30.00 S 150 20.00 W GPS                          3746      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    166      1  ROS 052194 2005   EN 17 29.83 S 150 20.33 W GPS                                  
+318MWESTW_5    P21W    167      1  ROS 052194 2337   BE 17 30.00 S 151 00.00 W GPS        3613                                   
+318MWESTW_5    P21W    167      1  ROS 052294 0059   BO 17 29.83 S 151 00.17 W GPS                          3681      36 1-8        CTD09     
+318MWESTW_5    P21W    167      1  ROS 052294 0304   EN 17 29.67 S 151 00.17 W GPS                              
+318MWESTW_5    P21W    168      1  ROS 052294 0637   BE 17 30.00 S 151 40.17 W GPS        4063                                         
+318MWESTW_5    P21W    168      1  ROS 052294 0759   BO 17 30.00 S 151 40.17 W GPS                          4106      33 1-8,23,24  CTD09     
+318MWESTW_5    P21W    168      1  ROS 052294 1005   EN 17 30.33 S 151 40.17 W GPS                                  
+318MWESTW_5    P21W    169      1  ROS 052294 1339   BE 17 30.00 S 152 20.00 W GPS        4506                                   
+318MWESTW_5    P21W    169      1  ROS 052294 1536   BO 17 30.00 S 152 20.00 W GPS                          4573      36 1-8        CTD09     
+318MWESTW_5    P21W    169      1  ROS 052294 1754   EN 17 29.83 S 152 20.17 W GPS                              
+318MWESTW_5    P21W    170      1  ROS 052294 2233   BE 17 30.00 S 153 00.00 W GPS        4483                                         
+318MWESTW_5    P21W    170      1  ROS 052394 0005   BO 17 29.83 S 153 00.17 W GPS                          4545      36 1-11,23,25 CTD09     
+318MWESTW_5    P21W    170      1  ROS 052394 0208   EN 17 29.67 S 153 00.17 W GPS                                  
+318MWESTW_5    P21W    171      1  ROS 052394 0553   BE 17 30.00 S 153 40.17 W GPS        4687                                   
+318MWESTW_5    P21W    171      1  ROS 052394 0721   BO 17 30.00 S 153 40.00 W GPS                          4758      35 1-8        CTD09     
+318MWESTW_5    P21W    171      1  ROS 052394 1010   EN 17 30.25 S 153 40.33 W GPS                              
+318MWESTW_5    P21W    172      1  ROS 052394 1349   BE 17 30.17 S 154 20.00 W GPS        4710                                   
+318MWESTW_5    P21W    172      1  ROS 052394 1526   BO 17 30.00 S 154 20.00 W GPS                          4780                    CTD09     
+318MWESTW_5    P21W    172      1  ROS 052394 1743   EN 17 29.83 S 154 20.17 W GPS                              
+318MWESTW_5    P21W    173      1  ROS 052394 2119   BE 17 30.00 S 155 00.00 W GPS        4366                                   
+318MWESTW_5    P21W    173      1  ROS 052394 2242   BO 17 30.17 S 155 00.00 W GPS                          4438      34 1-8,23-25  CTD09     
+318MWESTW_5    P21W    173      1  ROS 052494 0123   EN 17 30.33 S 155 00.33 W GPS                                  
+318MWESTW_5    P21W    174      1  ROS 052494 0444   BE 17 30.00 S 155 40.00 W GPS        4790                                   
+318MWESTW_5    P21W    174      1  ROS 052494 0617   BO 17 30.00 S 155 40.00 W GPS                          4886      36 1-6,10,    CTD09     
+318MWESTW_5    P21W    174      1  ROS 052494 0831   EN 17 29.83 S 155 40.00 W GPS                           11,23  
+318MWESTW_5    P21W    175      1  ROS 052494 1158   BE 17 30.00 S 156 20.00 W GPS        4766                                   
+318MWESTW_5    P21W    175      1  ROS 052494 1329   BO 17 30.00 S 156 19.83 W GPS                          4860      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    175      1  ROS 052494 1537   EN 17 30.00 S 156 20.17 W GPS                                  
+318MWESTW_5    P21W    176      1  ROS 052494 1903   BE 17 30.00 S 157 00.00 W GPS        4870                                   
+318MWESTW_5    P21W    176      1  ROS 052494 2035   BO 17 29.83 S 157 00.00 W GPS                          4947      36 1-11       CTD09     
+318MWESTW_5    P21W    176      1  ROS 052494 2243   EN 17 29.83 S 157 00.00 W GPS                              
+318MWESTW_5    P21W    177      1  ROS 052594 0219   BE 17 30.00 S 157 40.00 W GPS        4697                                   
+318MWESTW_5    P21W    177      1  ROS 052594 0349   BO 17 30.00 S 157 40.00 W GPS                          4763      36 1-8        CTD09     
+318MWESTW_5    P21W    177      1  ROS 052594 0557   EN 17 30.00 S 157 40.00 W GPS                              
+318MWESTW_5    P21W    178      1  ROS 052594 0940   BE 17 30.00 S 158 20.00 W GPS        4800                                   
+318MWESTW_5    P21W    178      1  ROS 052594 1110   BO 17 30.00 S 158 19.75 W GPS                          4845      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    178      1  ROS 052594 1328   EN 17 30.00 S 158 19.75 W GPS                                  
+318MWESTW_5    P21W    179      1  ROS 052594 1709   BE 17 30.00 S 159 00.00 W GPS        4940                                   
+318MWESTW_5    P21W    179      1  ROS 052594 1841   BO 17 30.00 S 159 00.00 W GPS                          5027      36 1-8        CTD09     
+318MWESTW_5    P21W    179      1  ROS 052594 2058   EN 17 30.00 S 159 00.17 W GPS                              
+318MWESTW_5    P21W    180      1  ROS 052694 0023   BE 17 30.00 S 159 40.00 W GPS        5110                                   
+318MWESTW_5    P21W    180      1  ROS 052694 0206   BO 17 29.83 S 159 40.17 W GPS                          5201      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    180      1  ROS 052694 0415   EN 17 29.83 S 159 40.00 W GPS                                  
+318MWESTW_5    P21W    181      1  ROS 052694 0759   BE 17 30.00 S 160 20.00 W GPS        4890                                   
+318MWESTW_5    P21W    181      1  ROS 052694 0931   BO 17 30.00 S 160 20.00 W GPS                          4967      36 1-8        CTD09     
+318MWESTW_5    P21W    181      1  ROS 052694 1153   EN 17 30.17 S 160 20.17 W GPS                              
+318MWESTW_5    P21W    182      1  ROS 052694 1526   BE 17 30.00 S 161 00.00 W GPS        4850                                   
+318MWESTW_5    P21W    182      1  ROS 052694 1657   BO 17 30.00 S 161 00.00 W GPS                          4935      36 1-11,23,24 CTD09     
+318MWESTW_5    P21W    182      1  ROS 052694 1907   EN 17 30.00 S 161 00.00 W GPS                                  
+318MWESTW_5    P21W    183      1  ROS 052694 2243   BE 17 30.00 S 161 40.00 W GPS        4800                                   
+318MWESTW_5    P21W    183      1  ROS 052794 0018   BO 17 29.83 S 161 40.17 W GPS                          4833      36 1-8        CTD09     
+318MWESTW_5    P21W    183      1  ROS 052794 0246   EN 17 29.67 S 161 40.17 W GPS                              
+318MWESTW_5    P21W    184      1  ROS 052794 0611   BE 17 30.00 S 162 20.00 W GPS        4820                                   
+318MWESTW_5    P21W    184      1  ROS 052794 0743   BO 17 30.00 S 162 19.83 W GPS                          4884      36 1-8,23     CTD09     
+318MWESTW_5    P21W    184      1  ROS 052794 0959   EN 17 29.67 S 162 19.83 W GPS                              
+318MWESTW_5    P21W    185      1  ROS 052794 1331   BE 17 30.00 S 163 00.00 W GPS        4834                                   
+318MWESTW_5    P21W    185      1  ROS 052794 1505   BO 17 30.00 S 163 00.00 W GPS                          4893      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    185      1  ROS 052794 1713   EN 17 30.17 S 162 59.83 W GPS                                  
+318MWESTW_5    P21W    186      1  ROS 052794 2037   BE 17 30.00 S 163 40.00 W GPS        5240                                   
+318MWESTW_5    P21W    186      1  ROS 052794 2228   BO 17 30.00 S 163 40.00 W GPS                          5360      36 1-8        CTD09     
+318MWESTW_5    P21W    186      1  ROS 052894 0040   EN 17 30.00 S 163 40.00 W GPS                              
+318MWESTW_5    P21W    187      1  ROS 052894 0423   BE 17 30.00 S 164 20.00 W GPS        5500                                   
+318MWESTW_5    P21W    187      1  ROS 052894 0652   BO 17 30.00 S 164 19.83 W GPS                          5693      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    187      1  ROS 052894 0843   EN 17 29.83 S 164 19.83 W GPS                                  
+318MWESTW_5    P21W    188      1  ROS 052894 1220   BE 17 30.00 S 165 00.00 W GPS        5400                                   
+318MWESTW_5    P21W    188      1  ROS 052894 1402   BO 17 29.83 S 165 00.00 W GPS                          5513      35 1-11       CTD09     
+318MWESTW_5    P21W    188      1  ROS 052894 1628   EN 17 30.00 S 164 59.67 W GPS                              
+318MWESTW_5    P21W    189      1  ROS 052894 1958   BE 17 30.00 S 165 40.00 W GPS        5415                                   
+318MWESTW_5    P21W    189      1  ROS 052894 2142   BO 17 30.00 S 165 39.83 W GPS                          5522      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    189      1  ROS 052894 2356   EN 17 30.00 S 165 39.83 W GPS                           25     
+318MWESTW_5    P21W    190      1  ROS 052994 0328   BE 17 30.00 S 166 20.00 W GPS        4821                                   
+318MWESTW_5    P21W    190      1  ROS 052994 0501   BO 17 30.17 S 166 20.17 W GPS                          4840      36 1-8        CTD09     
+318MWESTW_5    P21W    190      1  ROS 052994 0710   EN 17 30.00 S 166 20.17 W GPS                              
+318MWESTW_5    P21W    191      1  ROS 052994 1031   BE 17 30.00 S 167 00.00 W GPS        5530                                   
+318MWESTW_5    P21W    191      1  ROS 052994 1220   BO 17 30.00 S 167 00.00 W GPS                          5645      36 1-11,23,24 CTD09     
+318MWESTW_5    P21W    191      1  ROS 052994 1454   EN 17 30.00 S 166 59.83 W GPS                                  
+318MWESTW_5    P21W    192      1  ROS 052994 1819   BE 17 30.00 S 167 40.00 W GPS        5460                                   
+318MWESTW_5    P21W    192      1  ROS 052994 2005   BO 17 30.00 S 167 40.00 W GPS                          5542      36 1-8        CTD09     
+318MWESTW_5    P21W    192      1  ROS 052994 2220   EN 17 30.00 S 167 40.00 W GPS                              
+318MWESTW_5    P21W    193      1  ROS 053094 0149   BE 17 30.00 S 168 20.00 W GPS        4767                                   
+318MWESTW_5    P21W    193      1  ROS 053094 0320   BO 17 30.00 S 168 20.00 W GPS                          4794      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    193      1  ROS 053094 0521   EN 17 30.00 S 168 20.00 W GPS                                  
+318MWESTW_5    P21W    194      1  ROS 053094 0901   BE 17 30.00 S 169 00.00 W GPS        5330                                   
+318MWESTW_5    P21W    194      1  ROS 053094 1041   BO 17 30.00 S 169 00.00 W GPS                          5443      36 1-11,23    CTD09     
+318MWESTW_5    P21W    194      1  ROS 053094 1310   EN 17 30.00 S 169 00.00 W GPS                                  
+318MWESTW_5    P21W    195      1  ROS 053094 1634   BE 17 30.00 S 169 40.00 W GPS        4955                                   
+318MWESTW_5    P21W    195      1  ROS 053094 1809   BO 17 30.00 S 169 40.00 W GPS                          5044      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    195      1  ROS 053094 2018   EN 17 30.00 S 169 40.17 W GPS                                  
+318MWESTW_5    P21W    196      1  ROS 053094 2350   BE 17 30.00 S 170 20.00 W GPS        5230                                   
+318MWESTW_5    P21W    196      1  ROS 053194 0129   BO 17 30.17 S 170 20.00 W GPS                          5328      36 1-8        CTD09     
+318MWESTW_5    P21W    196      1  ROS 053194 0342   EN 17 30.00 S 170 20.00 W GPS                              
+318MWESTW_5    P21W    197      1  ROS 053194 0709   BE 17 30.00 S 171 00.00 W GPS        5100                                   
+318MWESTW_5    P21W    197      1  ROS 053194 0852   BO 17 30.00 S 171 00.00 W GPS                          5176      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    197      1  ROS 053194 1116   EN 17 30.00 S 171 00.17 W GPS                                  
+318MWESTW_5    P21W    198      1  ROS 053194 1456   BE 17 30.00 S 171 40.00 W GPS        4950                                   
+318MWESTW_5    P21W    198      1  ROS 053194 1628   BO 17 30.00 S 171 40.00 W GPS                          5049      36 1-8        CTD09     
+318MWESTW_5    P21W    198      1  ROS 053194 1835   EN 17 30.17 S 171 39.83 W GPS                              
+318MWESTW_5    P21W    199      1  ROS 053194 2043   BE 17 30.00 S 172 00.00 W GPS        5700                                   
+318MWESTW_5    P21W    199      1  ROS 053194 2225   BO 17 30.00 S 172 00.00 W GPS                          5689       7 1,3-6      CTD09     
+318MWESTW_5    P21W    199      1  ROS 060194 0104   EN 17 30.00 S 172 00.00 W GPS                              
+318MWESTW_5    P21W    200      1  ROS 060194 0455   BE 17 30.00 S 172 20.00 W GPS        7720                                   
+318MWESTW_5    P21W    200      1  ROS 060194 0639   BO 17 30.00 S 172 19.83 W GPS                          5583       1            CTD09     
+318MWESTW_5    P21W    200      1  ROS 060194 0909   EN 17 30.00 S 172 19.83 W GPS                              
+318MWESTW_5    P21W    201      1  ROS 060194 1251   BE 17 30.00 S 172 40.00 W GPS        5100                                   
+318MWESTW_5    P21W    201      1  ROS 060194 1426   BO 17 30.00 S 172 40.00 W GPS                          5206      36 1-11,23,24 CTD09     
+318MWESTW_5    P21W    201      1  ROS 060194 1641   EN 17 30.17 S 172 39.83 W GPS                                  
+318MWESTW_5    P21W    202      1  ROS 060194 1840   BE 17 30.00 S 172 20.00 W GPS        7720                                   
+318MWESTW_5    P21W    202      1  ROS 060194 2023   BO 17 30.00 S 172 20.00 W GPS                          5640      36 1-8        CTD09     
+318MWESTW_5    P21W    202      1  ROS 060194 2238   EN 17 30.00 S 172 20.00 W GPS                              
+318MWESTW_5    P21W    203      1  ROS 060294 0124   BE 17 30.00 S 172 50.00 W GPS        4317                                   
+318MWESTW_5    P21W    203      1  ROS 060294 0244   BO 17 30.00 S 172 50.00 W GPS                          4376      36 1-8        CTD09     
+318MWESTW_5    P21W    203      1  ROS 060294 0438   EN 17 30.00 S 172 50.17 W GPS                              
+318MWESTW_5    P21W    204      1  ROS 060294 0619   BE 17 30.00 S 173 00.00 W GPS        2560                                         
+318MWESTW_5    P21W    204      1  ROS 060294 0712   BO 17 30.00 S 173 00.00 W GPS                          2564      36 1-11,23,25 CTD09     
+318MWESTW_5    P21W    204      1  ROS 060294 0845   EN 17 29.83 S 173 00.00 W GPS                                  
+318MWESTW_5    P21W    205      1  ROS 060294 1203   BE 17 30.00 S 173 40.00 W GPS        1365                                   
+318MWESTW_5    P21W    205      1  ROS 060294 1239   BO 17 30.17 S 173 40.50 W GPS                          1359      20 1-8        CTD09     
+318MWESTW_5    P21W    205      1  ROS 060294 1338   EN 17 30.17 S 173 40.50 W GPS                              
+318MWESTW_5    P21W    206      1  ROS 060294 1704   BE 17 25.00 S 174 20.00 W GPS        1486                                   
+318MWESTW_5    P21W    206      1  ROS 060294 1740   BO 17 25.00 S 174 20.00 W GPS                          1478      22 1-8        CTD09     
+318MWESTW_5    P21W    206      1  ROS 060294 1837   EN 17 25.17 S 174 20.00 W GPS                              
+318MWESTW_5    P21W    207      1  ROS 060294 2208   BE 17 30.00 S 175 00.00 W GPS        2390                                   
+318MWESTW_5    P21W    207      1  ROS 060294 2303   BO 17 30.00 S 175 00.00 W GPS                          2385      32 1-8,23,25  CTD09     
+318MWESTW_5    P21W    207      1  ROS 060394 0022   EN 17 30.00 S 175 00.33 W GPS                                  
+318MWESTW_5    P21W    208      1  ROS 060394 0352   BE 17 30.00 S 175 40.00 W GPS        2147                                   
+318MWESTW_5    P21W    208      1  ROS 060394 0440   BO 17 30.00 S 175 40.33 W GPS                          2157      25 1-8        CTD09     
+318MWESTW_5    P21W    208      1  ROS 060394 0545   EN 17 30.00 S 175 40.50 W GPS                              
+318MWESTW_5    P21W    209      1  ROS 060394 0917   BE 17 30.00 S 176 20.00 W GPS        1950                                   
+318MWESTW_5    P21W    209      1  ROS 060394 1002   BO 17 30.00 S 176 20.25 W GPS                          1924      26 1-11,23,24 CTD09     
+318MWESTW_5    P21W    209      1  ROS 060394 1122   EN 17 30.25 S 176 20.17 W GPS                                  
+318MWESTW_5    P21W    210      1  ROS 060394 1502   BE 17 30.00 S 177 00.00 W GPS        2400                                   
+318MWESTW_5    P21W    210      1  ROS 060394 1601   BO 17 30.00 S 177 00.00 W GPS                          2406      27 1-8        CTD09     
+318MWESTW_5    P21W    210      1  ROS 060394 1719   EN 17 30.00 S 176 59.83 W GPS                              
+318MWESTW_5    P21W    211      1  ROS 060394 2055   BE 17 30.00 S 177 40.00 W GPS        2240                                   
+318MWESTW_5    P21W    211      1  ROS 060394 2148   BO 17 30.00 S 177 40.17 W GPS                          2237      25 1-8        CTD09     
+318MWESTW_5    P21W    211      1  ROS 060394 2255   EN 17 30.00 S 177 40.33 W GPS                              
+318MWESTW_5    P21W    212      1  ROS 060494 0225   BE 17 45.00 S 178 15.00 W GPS        1960                                   
+318MWESTW_5    P21W    212      1  ROS 060494 0311   BO 17 45.00 S 178 15.00 W GPS                          1931      25 1-11,23,25 CTD09     
+318MWESTW_5    P21W    212      1  ROS 060494 0414   EN 17 45.17 S 178 15.00 W GPS                                 
+318MWESTW_5    P21W    213      1  ROS 060494 0618   BE 17 54.00 S 178 33.00 W GPS         988                                   
+318MWESTW_5    P21W    213      1  ROS 060494 0646   BO 17 54.00 S 178 33.00 W GPS                           974      25 1-8        CTD09     
+318MWESTW_5    P21W    213      1  ROS 060494 0730   EN 17 53.83 S 178 33.00 W GPS                              
+318MWESTW_5    P21W    214      1  ROS 060594 0158   BE 18 10.00 S 179 10.00 W GPS         960                                   
+318MWESTW_5    P21W    214      1  ROS 060594 0225   BO 18 10.00 S 179 10.00 W GPS                           943      22 1-8        CTD09     
+318MWESTW_5    P21W    214      1  ROS 060594 0305   EN 18 10.00 S 179 10.00 W GPS                              
+318MWESTW_5    P21W    215      1  ROS 060594 0646   BE 18 25.00 S 179 40.00 W GPS        2955                                   
+318MWESTW_5    P21W    215      1  ROS 060594 0747   BO 18 24.83 S 179 40.00 W GPS                          2969      26 1-8,23     CTD09     
+318MWESTW_5    P21W    215      1  ROS 060594 0926   EN 18 24.75 S 179 40.17 W GPS                              
+318MWESTW_5    P21W    216      1  ROS 060594 1314   BE 18 25.00 S 179 40.00 E GPS        3200                                   
+318MWESTW_5    P21W    216      1  ROS 060594 1421   BO 18 25.00 S 179 40.00 E GPS                          3228      28 1-11       CTD09     
+318MWESTW_5    P21W    216      1  ROS 060594 1604   EN 18 25.17 S 179 40.00 E GPS                              
+318MWESTW_5    P21W    217      1  ROS 060594 1951   BE 18 25.00 S 179 00.02 E GPS        2250                                   
+318MWESTW_5    P21W    217      1  ROS 060594 2041   BO 18 25.00 S 179 00.00 E GPS                          2254      24 1-8,23,24  CTD09     
+318MWESTW_5    P21W    217      1  ROS 060594 2152   EN 18 25.00 S 179 00.00 E GPS                                  
+318MWESTW_5    P21W    218      1  ROS 060694 0142   BE 18 25.00 S 178 20.00 E GPS        2040                                   
+318MWESTW_5    P21W    218      1  ROS 060694 0227   BO 18 25.00 S 178 20.00 E GPS                          2033      25 1-8        CTD09     
+318MWESTW_5    P21W    218      1  ROS 060694 0325   EN 18 24.83 S 178 20.17 E GPS                              
+318MWESTW_5    P21W    918      1  ROS 060694 0434   BE 18 25.00 S 178 13.67 E GPS        1492                                   
+318MWESTW_5    P21W    918      1  ROS 060694 0509   BO 18 25.00 S 178 13.67 E GPS                          1496      24 1-8        CTD09     
+318MWESTW_5    P21W    918      1  ROS 060694 0605   EN 18 25.00 S 178 13.67 E GPS                              
+318MWESTW_5    P21W    219      1  ROS 060694 0723   BE 18 30.00 S 178 14.00 E GPS        2165                                   
+318MWESTW_5    P21W    219      1  ROS 060694 0812   BO 18 30.00 S 178 14.00 E GPS                          2166      23 1-6        CTD09     
+318MWESTW_5    P21W    219      1  ROS 060694 0932   EN 18 30.00 S 178 14.00 E GPS                              
+318MWESTW_5    P21W    220      1  ROS 060694 1121   BE 18 45.00 S 178 04.00 E GPS        2160                                   
+318MWESTW_5    P21W    220      1  ROS 060694 1208   BO 18 45.00 S 178 04.00 E GPS                          2159      23 1-6        CTD09    
+318MWESTW_5    P21W    220      1  ROS 060694 1327   EN 18 44.67 S 178 04.17 E GPS                              
+318MWESTW_5    P21W    221      1  ROS 060694 1450   BE 18 45.00 S 177 50.00 E GPS        1920                                   
+318MWESTW_5    P21W    221      1  ROS 060694 1533   BO 18 45.00 S 177 49.83 E GPS                          1939      23 1-11       CTD09     
+318MWESTW_5    P21W    221      1  ROS 060694 1638   EN 18 45.00 S 177 50.00 E GPS                              
+318MWESTW_5    P21W    222      1  ROS 060694 1953   BE 18 35.00 S 177 15.00 E GPS        2450                                   
+318MWESTW_5    P21W    222      1  ROS 060694 2046   BO 18 35.00 S 177 14.83 E GPS                          2412      26 1-6,23,24  CTD09     
+318MWESTW_5    P21W    222      1  ROS 060694 2201   EN 18 35.00 S 177 14.67 E GPS                                  
+318MWESTW_5    P21W    223      1  ROS 060794 0121   BE 18 02.00 S 177 00.00 E GPS        2224                                   
+318MWESTW_5    P21W    223      1  ROS 060794 0207   BO 18 02.00 S 176 59.83 E GPS                          2220      26 1-6        CTD09     
+318MWESTW_5    P21W    223      1  ROS 060794 0318   EN 18 01.83 S 176 59.83 E GPS                              
+318MWESTW_5    P21W    224      1  ROS 060794 0431   BE 17 50.00 S 177 00.00 E GPS        1350                                   
+318MWESTW_5    P21W    224      1  ROS 060794 0505   BO 17 50.00 S 177 00.00 E GPS                          1375      23 1-8        CTD09     
+318MWESTW_5    P21W    224      1  ROS 060794 0557   EN 17 50.00 S 176 59.67 E GPS                              
+318MWESTW_5    P21W    225      1  ROS 060794 0931   BE 17 50.00 S 176 20.00 E GPS        3120                                   
+318MWESTW_5    P21W    225      1  ROS 060794 1037   BO 17 50.00 S 176 20.00 E GPS                          3135      25 1-11,23,24 CTD09     
+318MWESTW_5    P21W    225      1  ROS 060794 1212   EN 17 49.83 S 176 20.17 E GPS                                  
+318MWESTW_5    P21W    226      1  ROS 060794 1548   BE 17 50.00 S 175 40.00 E GPS        2070                                   
+318MWESTW_5    P21W    226      1  ROS 060794 1633   BO 17 50.00 S 175 40.00 E GPS                          1959      24 1-8        CTD09     
+318MWESTW_5    P21W    226      1  ROS 060794 1736   EN 17 50.33 S 175 40.17 E GPS                              
+318MWESTW_5    P21W    227      1  ROS 060794 2116   BE 17 50.00 S 175 00.00 E GPS        2100                                   
+318MWESTW_5    P21W    227      1  ROS 060794 2204   BO 17 50.17 S 175 00.00 E GPS                          2099      24 1-8        CTD09     
+318MWESTW_5    P21W    227      1  ROS 060794 2312   EN 17 50.17 S 175 00.00 E GPS                              
+318MWESTW_5    P21W    228      1  ROS 060894 0251   BE 17 50.00 S 174 20.00 E GPS        2780                                   
+318MWESTW_5    P21W    228      1  ROS 060894 0349   BO 17 50.00 S 174 20.00 E GPS                          2841      29 1-8,23,25  CTD09     
+318MWESTW_5    P21W    228      1  ROS 060894 0515   EN 17 50.00 S 174 20.00 E GPS                                  
+318MWESTW_5    P21W    229      1  ROS 060894 0849   BE 17 50.00 S 173 40.00 E GPS        2735                                   
+318MWESTW_5    P21W    229      1  ROS 060894 0947   BO 17 50.00 S 173 40.00 E GPS                          2729      23 1-8        CTD09     
+318MWESTW_5    P21W    229      1  ROS 060894 1116   EN 17 50.17 S 173 39.75 E GPS                              
+318MWESTW_5    P21W    230      1  ROS 060894 1500   BE 17 50.00 S 173 00.00 E GPS        2953                                   
+318MWESTW_5    P21W    230      1  ROS 060894 1604   BO 17 50.00 S 173 00.00 E GPS                          3017      29 1-8,23,25  CTD09     
+318MWESTW_5    P21W    230      1  ROS 060894 1729   EN 17 49.83 S 173 00.00 E GPS                                  
+318MWESTW_5    P21W    231      1  ROS 060894 2116   BE 17 50.00 S 172 20.00 E GPS        2950                                   
+318MWESTW_5    P21W    231      1  ROS 060894 2218   BO 17 50.00 S 172 20.00 E GPS                          2947      28 1-8        CTD09     
+318MWESTW_5    P21W    231      1  ROS 060894 2343   EN 17 50.00 S 172 19.83 E GPS                              
+318MWESTW_5    P21W    232      1  ROS 060994 0324   BE 17 50.00 S 171 40.00 E GPS        2750                                   
+318MWESTW_5    P21W    232      1  ROS 060994 0419   BO 17 50.17 S 171 39.83 E GPS                          2757      36 1-11,23,25 CTD09     
+318MWESTW_5    P21W    232      1  ROS 060994 0543   EN 17 50.33 S 171 39.83 E GPS                                  
+318MWESTW_5    P21W    233      1  ROS 060994 0921   BE 17 50.00 S 171 00.00 E GPS        2815                                   
+318MWESTW_5    P21W    233      1  ROS 060994 1019   BO 17 50.00 S 171 00.00 E GPS                          2826      23 1-8        CTD09     
+318MWESTW_5    P21W    233      1  ROS 060994 1147   EN 17 50.17 S 171 00.00 E GPS                              
+318MWESTW_5    P21W    234      1  ROS 060994 1544   BE 17 50.00 S 170 20.00 E GPS        2600                                   
+318MWESTW_5    P21W    234      1  ROS 060994 1638   BO 17 50.00 S 170 20.00 E GPS                          2606      27 1-8        CTD09     
+318MWESTW_5    P21W    234      1  ROS 060994 1801   EN 17 50.00 S 170 19.83 E GPS                              
+318MWESTW_5    P21W    235      1  ROS 060994 2043   BE 17 50.00 S 169 50.00 E GPS        2150                                   
+318MWESTW_5    P21W    235      1  ROS 060994 2130   BO 17 50.00 S 169 50.00 E GPS                          2133      24 1-8,23,24  CTD09     
+318MWESTW_5    P21W    235      1  ROS 060994 2239   EN 17 50.00 S 169 50.00 E GPS                                  
+318MWESTW_5    P21W    236      1  ROS 061094 0121   BE 17 50.00 S 169 20.00 E GPS        2650                                   
+318MWESTW_5    P21W    236      1  ROS 061094 0217   BO 17 49.83 S 169 20.00 E GPS                          2675      36 1-8        CTD09     
+318MWESTW_5    P21W    236      1  ROS 061094 0345   EN 17 49.83 S 169 20.00 E GPS                              
+318MWESTW_5    P21W    237      1  ROS 061094 0522   BE 17 57.00 S 169 05.00 E GPS        2000                                   
+318MWESTW_5    P21W    237      1  ROS 061094 0606   BO 17 57.00 S 169 04.83 E GPS                          1987      25 1-8        CTD09     
+318MWESTW_5    P21W    237      1  ROS 061094 0708   EN 17 57.00 S 169 04.83 E GPS                              
+318MWESTW_5    P21W    238      1  ROS 061094 0837   BE 18 03.00 S 168 50.00 E GPS         990                                   
+318MWESTW_5    P21W    238      1  ROS 061094 0906   BO 18 03.00 S 168 50.00 E GPS                           991      16 1-11,23,24 CTD09     
+318MWESTW_5    P21W    238      1  ROS 061094 0954   EN 18 03.00 S 168 49.83 E GPS                                  
+318MWESTW_5    P21W    239      1  ROS 061094 1129   BE 18 09.00 S 168 36.00 E GPS         855                                   
+318MWESTW_5    P21W    239      1  ROS 061094 1154   BO 18 09.00 S 168 36.00 E GPS                           849      15 1-8        CTD09     
+318MWESTW_5    P21W    239      1  ROS 061094 1235   EN 18 09.00 S 168 35.83 E GPS                              
+318MWESTW_5    P21W    240      1  ROS 061094 1430   BE 18 15.00 S 168 22.00 E GPS         995                                   
+318MWESTW_5    P21W    240      1  ROS 061094 1455   BO 18 15.00 S 168 22.00 E GPS                           986      16 1-8,23,24  CTD09     
+318MWESTW_5    P21W    240      1  ROS 061094 1541   EN 18 15.17 S 168 21.75 E GPS                                  
+318MWESTW_5    P21W    241      1  ROS 061094 1655   BE 18 17.83 S 168 13.00 E GPS        2205                                   
+318MWESTW_5    P21W    241      1  ROS 061094 1755   BO 18 18.00 S 168 13.00 E GPS                          2220      25 1-8        CTD09     
+318MWESTW_5    P21W    241      1  ROS 061094 1904   EN 18 18.17 S 168 13.00 E GPS                              
+318MWESTW_5    P21W    242      1  ROS 061094 2026   BE 18 20.00 S 168 09.00 E GPS        3140                                   
+318MWESTW_5    P21W    242      1  ROS 061094 2136   BO 18 20.00 S 168 08.83 E GPS                          3207      36 1-8        CTD09     
+318MWESTW_5    P21W    242      1  ROS 061094 2314   EN 18 20.00 S 168 08.83 E GPS                              
+318MWESTW_5    P21W    243      1  ROS 061194 0029   BE 18 22.17 S 168 03.17 E GPS        4100                                   
+318MWESTW_5    P21W    243      1  ROS 061194 0148   BO 18 22.17 S 168 03.33 E GPS                          4136      36 1-8        CTD09     
+318MWESTW_5    P21W    243      1  ROS 061194 0341   EN 18 22.17 S 168 03.17 E GPS                              
+318MWESTW_5    P21W    244      1  ROS 061194 0604   BE 18 29.50 S 167 48.00 E GPS        4970                                   
+318MWESTW_5    P21W    244      1  ROS 061194 0739   BO 18 29.67 S 167 47.83 E GPS                          5065      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    244      1  ROS 061194 0957   EN 18 29.13 S 167 47.13 E GPS                                  
+318MWESTW_5    P21W    245      1  ROS 061194 1138   BE 18 34.83 S 167 34.83 E GPS        5550                                   
+318MWESTW_5    P21W    245      1  ROS 061194 1321   BO 18 34.83 S 167 34.83 E GPS                          5638      32 1-11       CTD09     
+318MWESTW_5    P21W    245      1  ROS 061194 1549   EN 18 34.75 S 167 34.83 E GPS                              
+318MWESTW_5    P21W    246      1  ROS 061194 1743   BE 18 42.00 S 167 19.00 E GPS        4830                                   
+318MWESTW_5    P21W    246      1  ROS 061194 1915   BO 18 42.00 S 167 19.00 E GPS                          4902      36 1-6        CTD09     
+318MWESTW_5    P21W    246      1  ROS 061194 2121   EN 18 42.00 S 167 19.00 E GPS                              
+318MWESTW_5    P21W    247      1  ROS 061294 0024   BE 18 55.00 S 166 48.17 E GPS        4460                                   
+318MWESTW_5    P21W    247      1  ROS 061294 0153   BO 18 55.17 S 166 48.17 E GPS                          4543      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    247      1  ROS 061294 0352   EN 18 55.17 S 166 48.17 E GPS                                  
+318MWESTW_5    P21W    248      1  ROS 061294 0655   BE 19 08.00 S 166 18.00 E GPS        4027                                   
+318MWESTW_5    P21W    248      1  ROS 061294 0810   BO 19 08.17 S 166 18.17 E GPS                          4006      36 1-8        CTD09     
+318MWESTW_5    P21W    248      1  ROS 061294 1015   EN 19 08.25 S 166 18.00 E GPS                              
+318MWESTW_5    P21W    249      1  ROS 061294 1345   BE 19 23.00 S 165 42.00 E GPS        2470                                   
+318MWESTW_5    P21W    249      1  ROS 061294 1434   BO 19 23.00 S 165 42.00 E GPS                          2476      24 1-8        CTD09     
+318MWESTW_5    P21W    249      1  ROS 061294 1558   EN 19 22.83 S 165 42.50 E GPS                              
+318MWESTW_5    P21W    250      1  ROS 061294 1742   BE 19 29.00 S 165 29.00 E GPS        1720                                   
+318MWESTW_5    P21W    250      1  ROS 061294 1822   BO 19 29.00 S 165 28.83 E GPS                          1712      22 1-6,9-11   CTD09     
+318MWESTW_5    P21W    250      1  ROS 061294 1918   EN 19 29.00 S 165 28.83 E GPS                                  
+318MWESTW_5    P21W    251      1  ROS 061294 2159   BE 19 35.00 S 165 14.83 E GPS        2424                                   
+318MWESTW_5    P21W    251      1  ROS 061294 2254   BO 19 35.00 S 165 14.83 E GPS                          2416      26 1-8,23,25  CTD09     
+318MWESTW_5    P21W    251      1  ROS 061394 0008   EN 19 35.00 S 165 14.83 E GPS                                  
+318MWESTW_5    P21W    252      1  ROS 061394 0159   BE 19 43.00 S 164 56.00 E GPS        3260                                   
+318MWESTW_5    P21W    252      1  ROS 061394 0302   BO 19 43.00 S 164 55.67 E GPS                          3284      36 1-6        CTD09     
+318MWESTW_5    P21W    252      1  ROS 061394 0435   EN 19 43.00 S 164 55.50 E GPS                              
+318MWESTW_5    P21W    253      1  ROS 061394 0657   BE 19 50.00 S 164 39.83 E GPS        3160                                   
+318MWESTW_5    P21W    253      1  ROS 061394 0757   BO 19 49.83 S 164 39.83 E GPS                          3182      36 1-8        CTD09     
+318MWESTW_5    P21W    253      1  ROS 061394 0943   EN 19 49.75 S 164 39.67 E GPS                              
+318MWESTW_5    P21W    254      1  ROS 061394 1125   BE 19 54.83 S 164 28.00 E GPS        2580                                   
+318MWESTW_5    P21W    254      1  ROS 061394 1218   BO 19 55.00 S 164 28.00 E GPS                          2532      25 1-8,23,24  CTD09     
+318MWESTW_5    P21W    254      1  ROS 061394 1342   EN 19 54.83 S 164 27.67 E GPS                                  
+318MWESTW_5    P21W    255      1  ROS 061394 1913   BE 19 56.67 S 164 21.17 E GPS         930                                   
+318MWESTW_5    P21W    255      1  ROS 061394 1942   BO 19 56.67 S 164 21.17 E GPS                           903      20 1-8,23,24  CTD09     
+318MWESTW_5    P21W    255      1  ROS 061394 2023   EN 19 56.67 S 164 21.17 E GPS                                  
+318MWESTW_5    P21W    256      1  ROS 061494 0326   BE 19 07.83 S 163 45.50 E GPS        1055                                   
+318MWESTW_5    P21W    256      1  ROS 061494 0354   BO 19 07.83 S 163 45.50 E GPS                          1004      20 1-8,23,25  CTD09     
+318MWESTW_5    P21W    256      1  ROS 061494 0434   EN 19 07.83 S 163 45.50 E GPS                                  
+318MWESTW_5    P21W    257      1  ROS 061494 0630   BE 19 06.00 S 163 48.00 E GPS        2700                                   
+318MWESTW_5    P21W    257      1  ROS 061494 0723   BO 19 06.00 S 163 48.00 E GPS                          2701      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    257      1  ROS 061494 0844   EN 19 05.83 S 163 47.83 E GPS                                  
+318MWESTW_5    P21W    258      1  ROS 061494 1032   BE 19 00.83 S 163 54.00 E GPS        3190                                   
+318MWESTW_5    P21W    258      1  ROS 061494 1152   BO 19 00.75 S 163 54.00 E GPS                          3241      28 1-8        CTD09     
+318MWESTW_5    P21W    258      1  ROS 061494 1339   EN 19 00.50 S 163 53.50 E GPS                              
+318MWESTW_5    P21W    259      1  ROS 061494 1458   BE 18 55.00 S 164 00.00 E GPS        3510                                   
+318MWESTW_5    P21W    259      1  ROS 061494 1607   BO 18 55.00 S 164 00.00 E GPS                          3528      30 1-8,23,24  CTD09     
+318MWESTW_5    P21W    259      1  ROS 061494 1749   EN 18 55.00 S 164 00.00 E GPS                                  
+318MWESTW_5    P21W    260      1  ROS 061594 1403   BE 20 56.00 S 164 11.00 E GPS        3430                                   
+318MWESTW_5    P21W    260      1  ROS 061594 1509   BO 20 56.00 S 164 11.00 E GPS                          3455      29 1-11,23,24 CTD09     
+318MWESTW_5    P21W    260      1  ROS 061594 1652   EN 20 56.00 S 164 10.83 E GPS                                  
+318MWESTW_5    P21W    261      1  ROS 061594 1926   BE 20 52.83 S 164 18.67 E GPS         970                                   
+318MWESTW_5    P21W    261      1  ROS 061594 1956   BO 20 52.83 S 164 18.67 E GPS                           954      20 1-8        CTD09     
+318MWESTW_5    P21W    261      1  ROS 061594 2036   EN 20 53.00 S 164 18.67 E GPS                              
+318MWESTW_5    P21W    262      1  ROS 061594 2354   BE 21 07.00 S 163 43.00 E GPS        3580                                   
+318MWESTW_5    P21W    262      1  ROS 061694 0105   BO 21 07.00 S 163 43.00 E GPS                          3607      36 1-8        CTD09     
+318MWESTW_5    P21W    262      1  ROS 061694 0247   EN 21 07.00 S 163 43.00 E GPS                              
+318MWESTW_5    P21W    263      1  ROS 061694 0532   BE 21 18.00 S 163 14.83 E GPS        3580                                   
+318MWESTW_5    P21W    263      1  ROS 061694 0640   BO 21 18.00 S 163 14.67 E GPS                          3600      36 1-8,23,25  CTD09     
+318MWESTW_5    P21W    263      1  ROS 061694 0816   EN 21 17.83 S 163 14.67 E GPS                                  
+318MWESTW_5    P21W    264      1  ROS 061694 1055   BE 21 29.00 S 162 46.00 E GPS        1560                                   
+318MWESTW_5    P21W    264      1  ROS 061694 1132   BO 21 29.00 S 162 46.00 E GPS                          1546      20 1-8        CTD09     
+318MWESTW_5    P21W    264      1  ROS 061694 1233   EN 21 29.00 S 162 46.00 E GPS                              
+318MWESTW_5    P21W    265      1  ROS 061694 1413   BE 21 36.00 S 162 30.00 E GPS         764                                   
+318MWESTW_5    P21W    265      1  ROS 061694 1437   BO 21 36.17 S 162 29.83 E GPS                           761      15 1-8        CTD09     
+318MWESTW_5    P21W    265      1  ROS 061694 1518   EN 21 36.00 S 162 29.83 E GPS                              
+318MWESTW_5    P21W    266      1  ROS 061694 1714   BE 21 43.00 S 162 11.00 E GPS        1655                                   
+318MWESTW_5    P21W    266      1  ROS 061694 1753   BO 21 43.17 S 162 11.00 E GPS                          1659      22 1-8        CTD09     
+318MWESTW_5    P21W    266      1  ROS 061694 1850   EN 21 42.83 S 162 10.83 E GPS                              
+318MWESTW_5    P21W    267      1  ROS 061694 2223   BE 21 58.00 S 161 33.00 E GPS        1625                                   
+318MWESTW_5    P21W    267      1  ROS 061694 2300   BO 21 58.00 S 161 33.00 E GPS                          1615      22 1-11,23,25 CTD09     
+318MWESTW_5    P21W    267      1  ROS 061694 2358   EN 21 58.00 S 161 33.00 E GPS                                  
+318MWESTW_5    P21W    268      1  ROS 061794 0326   BE 22 13.00 S 160 55.00 E GPS        1560                                   
+318MWESTW_5    P21W    268      1  ROS 061794 0404   BO 22 13.00 S 160 55.00 E GPS                          1554      24 1-8        CTD09     
+318MWESTW_5    P21W    268      1  ROS 061794 0457   EN 22 13.17 S 160 54.83 E GPS                              
+318MWESTW_5    P21W    269      1  ROS 061794 0824   BE 22 28.00 S 160 17.00 E GPS        2180                                   
+318MWESTW_5    P21W    269      1  ROS 061794 0909   BO 22 27.75 S 160 16.75 E GPS                          2191      25 10,11,     CTD09     
+318MWESTW_5    P21W    269      1  ROS 061794 1024   EN 22 27.75 S 160 16.50 E GPS                           23,24  
+318MWESTW_5    P21W    270      1  ROS 061794 1214   BE 22 36.00 S 159 57.00 E GPS        2235                                   
+318MWESTW_5    P21W    270      1  ROS 061794 1301   BO 22 36.00 S 159 57.00 E GPS                          2244      27 1-8        CTD09     
+318MWESTW_5    P21W    270      1  ROS 061794 1425   EN 22 36.00 S 159 57.00 E GPS                              
+318MWESTW_5    P21W    271      1  ROS 061794 1612   BE 22 43.00 S 159 39.00 E GPS        1450                                   
+318MWESTW_5    P21W    271      1  ROS 061794 1647   BO 22 43.00 S 159 39.00 E GPS                          1491      21 1-8        CTD09     
+318MWESTW_5    P21W    271      1  ROS 061794 1741   EN 22 42.83 S 159 38.83 E GPS                              
+318MWESTW_5    P21W    272      1  ROS 061794 1938   BE 22 50.17 S 159 21.00 E GPS         300                                   
+318MWESTW_5    P21W    272      1  ROS 061794 1951   BO 22 50.00 S 159 21.00 E GPS                           290       8 1-8        CTD09     
+318MWESTW_5    P21W    272      1  ROS 061794 2010   EN 22 50.00 S 159 21.00 E GPS                              
+318MWESTW_5    P21W    273      1  ROS 061794 2209   BE 22 57.17 S 159 03.00 E GPS        2520                                   
+318MWESTW_5    P21W    273      1  ROS 061794 2300   BO 22 57.00 S 159 03.33 E GPS                          2529      26 1-8,23,25  CTD09     
+318MWESTW_5    P21W    273      1  ROS 061894 0018   EN 22 57.33 S 159 03.33 E GPS                                  
+318MWESTW_5    P21W    274      1  ROS 061894 0303   BE 23 08.00 S 158 35.00 E GPS        2540                                   
+318MWESTW_5    P21W    274      1  ROS 061894 0354   BO 23 07.67 S 158 35.00 E GPS                          2545      35 1-11       CTD09     
+318MWESTW_5    P21W    274      1  ROS 061894 0513   EN 23 07.83 S 158 35.33 E GPS                              
+318MWESTW_5    P21W    275      1  ROS 061894 0759   BE 23 19.00 S 158 07.00 E GPS        2450                                   
+318MWESTW_5    P21W    275      1  ROS 061894 0848   BO 23 19.00 S 158 07.00 E GPS                          2455      28 1-8        CTD09     
+318MWESTW_5    P21W    275      1  ROS 061894 1017   EN 23 19.17 S 158 07.17 E GPS                              
+318MWESTW_5    P21W    276      1  ROS 061894 1251   BE 23 30.00 S 157 39.00 E GPS        2150                                   
+318MWESTW_5    P21W    276      1  ROS 061894 1340   BO 23 30.00 S 157 39.00 E GPS                          2154      25 1-8,23,24  CTD09     
+318MWESTW_5    P21W    276      1  ROS 061894 1502   EN 23 30.00 S 157 38.83 E GPS                                  
+318MWESTW_5    P21W    277      1  ROS 061894 1736   BE 23 41.00 S 157 11.00 E GPS        2195                                   
+318MWESTW_5    P21W    277      1  ROS 061894 1822   BO 23 41.00 S 157 11.00 E GPS                          2205      25 1-11       CTD09     
+318MWESTW_5    P21W    277      1  ROS 061894 1933   EN 23 41.17 S 157 11.17 E GPS                              
+318MWESTW_5    P21W    278      1  ROS 061894 2208   BE 23 52.00 S 156 43.00 E GPS        2216                                   
+318MWESTW_5    P21W    278      1  ROS 061894 2256   BO 23 52.00 S 156 42.83 E GPS                          2219      25 1-6        CTD09     
+318MWESTW_5    P21W    278      1  ROS 061994 0007   EN 23 51.83 S 156 43.00 E GPS                              
+318MWESTW_5    P21W    279      1  ROS 061994 0254   BE 24 02.83 S 156 15.00 E GPS        2010                                   
+318MWESTW_5    P21W    279      1  ROS 061994 0335   BO 24 02.83 S 156 15.00 E GPS                          2012      30 1-8        CTD09     
+318MWESTW_5    P21W    279      1  ROS 061994 0445   EN 24 02.50 S 156 15.00 E GPS                              
+318MWESTW_5    P21W    280      1  ROS 061994 0731   BE 24 14.00 S 155 47.67 E GPS        3890                                   
+318MWESTW_5    P21W    280      1  ROS 061994 0843   BO 24 14.00 S 155 47.67 E GPS                          3927      35 1-8,11,    CTD09     
+318MWESTW_5    P21W    280      1  ROS 061994 1040   EN 24 14.00 S 155 47.50 E GPS                           23,24  
+318MWESTW_5    P21W    281      1  ROS 061994 1523   BE 24 21.00 S 155 30.00 E GPS        4085                                   
+318MWESTW_5    P21W    281      1  ROS 061994 1640   BO 24 21.00 S 155 29.83 E GPS                          4127      36 1-11       CTD09     
+318MWESTW_5    P21W    281      1  ROS 061994 1839   EN 24 21.00 S 155 30.00 E GPS                              
+318MWESTW_5    P21W    282      1  ROS 061994 2145   BE 24 32.50 S 154 57.67 E GPS        4380                                   
+318MWESTW_5    P21W    282      1  ROS 061994 2310   BO 24 32.33 S 154 57.50 E GPS                          4443      36 1-11,23,25 CTD09     
+318MWESTW_5    P21W    282      1  ROS 062094 0109   EN 24 32.33 S 154 57.67 E GPS                                  
+318MWESTW_5    P21W    283      1  ROS 062094 0423   BE 24 46.00 S 154 23.00 E GPS        4145                                   
+318MWESTW_5    P21W    283      1  ROS 062094 0542   BO 24 46.33 S 154 22.83 E GPS                          4203      36 1-8        CTD09     
+318MWESTW_5    P21W    283      1  ROS 062094 0739   EN 24 46.33 S 154 23.00 E GPS                              
+318MWESTW_5    P21W    284      1  ROS 062094 0934   BE 24 46.00 S 154 23.00 E GPS        4148                                   
+318MWESTW_5    P21W    284      1  ROS 062094 1054   BO 24 46.33 S 154 22.83 E GPS                          4201      36 1-6        CTD08     
+318MWESTW_5    P21W    284      1  ROS 062094 1319   EN 24 46.33 S 154 23.00 E GPS                              
+318MWESTW_5    P21W    285      1  ROS 062094 1546   BE 24 52.75 S 154 03.00 E GPS        3860                                   
+318MWESTW_5    P21W    285      1  ROS 062094 1659   BO 24 53.00 S 154 03.17 E GPS                          3907      36 1-11       CTD09     
+318MWESTW_5    P21W    285      1  ROS 062094 1859   EN 24 53.17 S 154 03.33 E GPS                               
+318MWESTW_5    P21W    286      1  ROS 062094 2133   BE 24 57.33 S 153 52.00 E GPS        3330                                   
+318MWESTW_5    P21W    286      1  ROS 062094 2239   BO 24 57.33 S 153 52.00 E GPS                          3347      36 1-8        CTD09     
+318MWESTW_5    P21W    286      1  ROS 062194 0019   EN 24 57.33 S 153 52.17 E GPS                              
+318MWESTW_5    P21W    287      1  ROS 062194 0147   BE 25 00.00 S 153 44.50 E GPS        1000                                   
+318MWESTW_5    P21W    287      1  ROS 062194 0220   BO 25 00.17 S 153 44.67 E GPS                          1051      24 1-8        CTD09     
+318MWESTW_5    P21W    287      1  ROS 062194 0308   EN 25 00.33 S 153 44.83 E GPS                              
+318MWESTW_5    P21W    288      1  ROS 062194 0415   BE 25 02.00 S 153 39.00 E GPS         200                                   
+318MWESTW_5    P21W    288      1  ROS 062194 0425   BO 25 02.00 S 153 39.00 E GPS                           194      12 1-11       CTD09     
+318MWESTW_5    P21W    288      1  ROS 062194 0448   EN 25 02.00 S 153 39.17 E GPS                              
+318MWESTW_5    P21W    289      1  ROS 062194 1253   BE 25 05.83 S 154 31.00 E GPS        4165                                   
+318MWESTW_5    P21W    289      1  ROS 062194 1412   BO 25 06.00 S 154 31.00 E GPS                          4221      36 1-8,23,24  CTD09     
+318MWESTW_5    P21W    289      1  ROS 062194 1627   EN 25 06.00 S 154 31.00 E GPS                                  
+318MWESTW_5    P21W    290      1  ROS 062194 1834   BE 25 27.00 S 154 40.00 E GPS        4650                                   
+318MWESTW_5    P21W    290      1  ROS 062194 2007   BO 25 27.00 S 154 40.00 E GPS                          4733      36 1-8        CTD09     
+318MWESTW_5    P21W    290      1  ROS 062194 2208   EN 25 27.17 S 154 40.17 E GPS                              
+318MWESTW_5    P21W    291      1  ROS 062194 2355   BE 25 33.00 S 154 24.00 E GPS        4500                                   
+318MWESTW_5    P21W    291      1  ROS 062294 0123   BO 25 33.00 S 154 24.00 E GPS                          4566      36 1-8        CTD09     
+318MWESTW_5    P21W    291      1  ROS 062294 0328   EN 25 33.17 S 154 24.00 E GPS                              
+318MWESTW_5    P21W    292      1  ROS 062294 0521   BE 25 40.33 S 154 05.00 E GPS        2835                                   
+318MWESTW_5    P21W    292      1  ROS 062294 0621   BO 25 40.83 S 154 05.00 E GPS                          2897      36 1-8        CTD09     
+318MWESTW_5    P21W    292      1  ROS 062294 0748   EN 25 41.00 S 154 05.00 E GPS                              
+318MWESTW_5    P21W    293      1  ROS 062294 0912   BE 25 43.00 S 153 58.00 E GPS        1470                                   
+318MWESTW_5    P21W    293      1  ROS 062294 0949   BO 25 43.00 S 153 58.00 E GPS                          1502      11 1-8        CTD09     
+318MWESTW_5    P21W    293      1  ROS 062294 1058   EN 25 43.50 S 153 58.00 E GPS                              
+318MWESTW_5    P21W    294      1  ROS 062294 1228   BE 25 45.67 S 153 50.75 E GPS         215                                   
+318MWESTW_5    P21W    294      1  ROS 062294 1242   BO 25 45.67 S 153 50.83 E GPS                           210         1-8        CTD09     
+318MWESTW_5    P21W    294      1  ROS 062294 1310   EN 25 45.58 S 153 50.92 E GPS                              
+318MWESTW_5    P21W    401      1  ROS 062294 1422   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      1  ROS 062294 1458   BO 25 42.50 S 154 00.50 E GPS                          1553                    CTD09     
+318MWESTW_5    P21W    401      1  ROS 062294 1524   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    401      2  ROS 062294 1527   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      2  ROS 062294 1557   BO 25 42.83 S 154 00.50 E GPS                          1587                    CTD09     
+318MWESTW_5    P21W    401      2  ROS 062294 1623   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    401      3  ROS 062294 1626   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      3  ROS 062294 1656   BO 25 42.50 S 154 00.50 E GPS                          1589                    CTD09     
+318MWESTW_5    P21W    401      3  ROS 062294 1722   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    401      4  ROS 062294 1724   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      4  ROS 062294 1755   BO 25 42.50 S 154 00.50 E GPS                          1585                    CTD09     
+318MWESTW_5    P21W    401      4  ROS 062294 1821   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    401      5  ROS 062294 1823   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      5  ROS 062294 1853   BO 25 42.50 S 154 00.50 E GPS                          1588                    CTD09     
+318MWESTW_5    P21W    401      5  ROS 062294 1918   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    401      6  ROS 062294 1920   BE 25 42.33 S 154 00.33 E GPS        2050                                   
+318MWESTW_5    P21W    401      6  ROS 062294 1950   BO 25 42.50 S 154 00.50 E GPS                          1592      15 1-6        CTD09     
+318MWESTW_5    P21W    401      6  ROS 062294 2045   EN 25 42.83 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    411      1  ROS 062294 2158   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      1  ROS 062294 2237   BO 25 42.50 S 154 00.50 E GPS                          1594                    CTD09     
+318MWESTW_5    P21W    411      1  ROS 062294 2304   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    411      2  ROS 062294 2305   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      2  ROS 062294 2339   BO 25 42.50 S 154 00.33 E GPS                          1595                    CTD09     
+318MWESTW_5    P21W    411      2  ROS 062394 0005   EN 25 42.50 S 154 00.33 E GPS                              
+318MWESTW_5    P21W    411      3  ROS 062394 0006   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      3  ROS 062394 0032   BO 25 42.50 S 154 00.33 E GPS                          1595                    CTD09     
+318MWESTW_5    P21W    411      3  ROS 062394 0059   EN 25 42.50 S 154 00.33 E GPS                              
+318MWESTW_5    P21W    411      4  ROS 062394 0102   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      4  ROS 062394 0131   BO 25 42.50 S 154 00.50 E GPS                          1596                    CTD09     
+318MWESTW_5    P21W    411      4  ROS 062394 0158   EN 25 42.83 S 154 00.33 E GPS                              
+318MWESTW_5    P21W    411      5  ROS 062394 0200   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      5  ROS 062394 0234   BO 25 42.50 S 154 00.33 E GPS                          1597                    CTD09     
+318MWESTW_5    P21W    411      5  ROS 062394 0300   EN 25 42.33 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    411      6  ROS 062394 0303   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      6  ROS 062394 0336   BO 24 42.50 S 154 00.50 E GPS                          1599                    CTD09     
+318MWESTW_5    P21W    411      6  ROS 062394 0404   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    411      7  ROS 062394 0406   BE 25 42.33 S 154 00.50 E GPS        2050                                   
+318MWESTW_5    P21W    411      7  ROS 062394 0434   BO 25 42.50 S 154 00.50 E GPS                          1622      15 1-6        CTD09     
+318MWESTW_5    P21W    411      7  ROS 062394 0525   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    421      1  ROS 062394 0652   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    421      1  ROS 062394 0725   BO 25 42.50 S 154 00.50 E GPS                          1595                    CTD09     
+318MWESTW_5    P21W    421      1  ROS 062394 0752   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    421      2  ROS 062394 0754   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    421      2  ROS 062394 0824   BO 25 42.50 S 154 00.50 E GPS                          1594                    CTD09     
+318MWESTW_5    P21W    421      2  ROS 062394 0850   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    421      3  ROS 062394 0852   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    421      3  ROS 062394 0922   BO 25 42.50 S 154 00.50 E GPS                          1584                    CTD09     
+318MWESTW_5    P21W    421      3  ROS 062394 1024   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    431      1  ROS 062394 1122   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    431      1  ROS 062394 1158   BO 25 42.50 S 154 00.50 E GPS                          1581                    CTD09     
+318MWESTW_5    P21W    431      1  ROS 062394 1224   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    431      2  ROS 062394 1226   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    431      2  ROS 062394 1256   BO 25 42.50 S 154 00.50 E GPS                          1580                    CTD09     
+318MWESTW_5    P21W    431      2  ROS 062394 1322   EN 25 42.50 S 154 00.50 E GPS                             
+318MWESTW_5    P21W    431      3  ROS 062394 1326   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    431      3  ROS 062394 1356   BO 25 42.50 S 154 00.50 E GPS                          1582                    CTD09     
+318MWESTW_5    P21W    431      3  ROS 062394 1421   EN 25 42.50 S 154 00.50 E GPS                              
+318MWESTW_5    P21W    431      4  ROS 062394 1424   BE 25 42.50 S 154 00.50 E GPS        2000                                   
+318MWESTW_5    P21W    431      4  ROS 062394 1448   BO 25 42.50 S 154 00.50 E GPS                          1216         1-6        CTD09   
+318MWESTW_5    P21W    431      4  ROS 062394 1530   EN 25 42.50 S 154 00.50 E GPS                             
