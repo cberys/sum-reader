@@ -69,7 +69,7 @@ Each cast becomes an object like this:
         "height": 0, # int or omit key
         "wire": 0, # int or omit key
         "max_pressure": 0, # int or omit key
-        "bottle": 36 # integer or omit key
+        "bottles": 36 # integer or omit key
         "depth": 0 # integer or omit key
         "cdepth": 0 # integer or omit key (corrected depth)
     }
@@ -77,13 +77,57 @@ Each cast becomes an object like this:
 }
 
 An entire sum file is a collectino of these cast objects
+
+Undefined Assumptions
+---------------------
+The following will be a list of assumptions this reader makes which are not
+part of the documentation, but appear to be de facto standards due to most (or
+every) sum file in the test data having the feature.
+
+* The header labels will have at least one space seperating them. Every file at
+    CCHDO appears to conform to this convention. Table 3.5 DOES NOT have a
+    space between each header, to make things confusing.
+* Parameter lists only contain the following chars ([0-9],-)
 """
 
 from itertools import zip_longest, groupby
+from collections import deque
 import logging
+import warnings
+
+log = logging.getLogger(__name__)
+log.setLevel(logging.DEBUG)
+log.addHandler(logging.StreamHandler())
+
+POSSIBILITIES = {
+        "expocode": ("EXPOCODE", ),
+        "woce_sect": ("SECT", "WHP-ID", "WOCE"),
+        "stnnbr": ("STNNBR", ),
+        "castno": ("CASTNO", ),
+        "parameters": ("PARAMETERS", "PARAM", "PARAMETER", "PARAMS", "PARAMATER", "PARAMMETER"),
+        "comments": ("COM", "COMM", "COMME", "COMMEN", "COMMUNTS", "COMMENTS", "COMMENT", "COMMMENTS"),
+        "max_pressure": ("PRESS", "PRESSURE"),
+        "wire": ("WIRE", "OUT"),
+        "bottles": ("BOTTLES", "BOTTLE"),
+        "height": ("BOTTOM", ),
+        "lat": ("LATITUDE", ),
+        "lon": ("LONGITUDE", ),
+        "type": ("TYPE", ),
+        }
 
 class InvalidSumError(Exception):
     pass
+
+def calculate_slices(space_columns):
+    position = 0
+    column_slices = []
+    for value, group in groupby(space_columns):
+        length = len(list(group))
+        if value == False:
+            column_slices.append(slice(position, position+length))
+        position += length
+
+    return column_slices
 
 def read_sum(data):
     """
@@ -105,17 +149,31 @@ def read_sum(data):
     # but what is before and after it
     for i, line in enumerate(lines):
         if line.strip().startswith("-" * 10):
+            preheader_index = i -2
             header_index = i - 1
             body_index = i + 1
             break
-
-    try:
-        header = lines[header_index]
-        body = lines[body_index:]
-    except NameError as e:
+    else:
         raise InvalidSumError("No header seperation line found") from e
 
+    preheader = lines[preheader_index]
+    header = lines[header_index]
+    body = lines[body_index:]
+
     #TODO get order of "headers"
+    try:
+        uncorreced_depth = preheader.index("UNC")
+    except ValueError:
+        uncorreced_depth = None
+    try:
+        corrected_depth = preheader.index("COR")
+    except ValueError:
+        corrected_depth = None
+
+    header_slices = calculate_slices([l == " " for l in header])
+    headers = [header[slice] for slice in header_slices]
+    log.debug(headers)
+
 
     # Figure out where the continious colums of "space" are:
     space_columns = [l == " " for l in body[0]]
@@ -125,18 +183,10 @@ def read_sum(data):
         space_columns = [a and b for a,b in zipped]
 
     # convert the list of True/False to slices
-    position = 0
-    column_slices = []
-    for value, group in groupby(space_columns):
-        length = len(list(group))
-        if value == False:
-            column_slices.append(slice(position, position+length))
-        position += length
+    column_slices = calculate_slices(space_columns)
 
-    for line in body:
-        split = [line[slice] for slice in column_slices]
-        print(split[1])
-
+    #chop up the body into columns
+    tokenized_body = [[line[slice] for slice in column_slices] for line in body]
 
 if __name__ == "__main__":
     import os
@@ -146,6 +196,6 @@ if __name__ == "__main__":
             if not file.endswith(("su.txt", ".sum")):
                 continue
             path = os.path.join(root, file)
-            print(path)
+            #print(path)
             with open(path, 'rb') as f:
                 read_sum(f.read())
