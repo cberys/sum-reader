@@ -1,6 +1,6 @@
 """
 An attempt at reading a WOCE sum file that conforms to chapter 3 of the woce
-manual while allowing for some fuzzy.
+manual while allowing for some fuzziness.
 
 The woce sum file is defined in section 3.3 of the woce manual. There are a few
 problems with it. Perhaps the largest problem is not defining column widths
